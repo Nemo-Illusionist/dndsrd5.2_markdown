@@ -1,1128 +1,1121 @@
-# Rules Glossary
+# Глоссарий правил
 
-## Glossary Conventions
+## Правила оформления глоссария
 
-The glossary uses the following conventions:
+В глоссарии используются следующие правила оформления:
 
-**Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.
+**Теги в скобках.** Некоторые записи имеют тег в скобках после названия, например «Атака [Действие]». Тег — Действие, Область воздействия, Отношение, Состояние или Опасность — указывает, что правило относится к семейству правил. Теги также имеют свои записи в глоссарии.
 
-**"You."** The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the Prone condition is a creature that currently has that condition.
+**«Вы».** Правила игры — в этом глоссарии и в других местах — часто говорят о том, что происходит с вами в игровом мире. Это «вы» относится к существу или объекту, к которому применяется правило в конкретный момент игры. Например, «вы» в состоянии «лежащий ничком» — это существо, которое в данный момент имеет это состояние.
 
-**"See Also."** Some glossary entries include a *See also* section that points to other entries in the glossary, to other parts of this document, or both.
+**«См. также».** Некоторые записи глоссария включают раздел *См. также*, который указывает на другие записи в глоссарии, на другие части этого документа или на то и другое.
 
-**No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.
+**Нет устаревших терминов.** Глоссарий содержит определения только актуальных терминов правил. Если вы ищете термин из более ранней версии правил пятой редакции, обратитесь к указателю.
 
-**Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.
+**Сокращения.** Ниже перечислены сокращения, используемые в этом глоссарии и в других местах правил.
 
-|      |                     |
-|------|---------------------|
-| AC   | Armor Class         |
-| C    | Concentration       |
-| CE   | Chaotic Evil        |
-| CG   | Chaotic Good        |
-| Cha. | Charisma            |
-| CN   | Chaotic Neutral     |
-| Con. | Constitution        |
-| CP   | Copper Piece(s)     |
-| CR   | Challenge Rating    |
-| DC   | Difficulty Class    |
-| Dex. | Dexterity           |
-| EP   | Electrum Piece(s)   |
-| GM   | Game Master         |
-| GP   | Gold Piece(s)       |
-| HP   | Hit Point(s)        |
-| Int. | Intelligence        |
-| LE   | Lawful Evil         |
-| LG   | Lawful Good         |
-| LN   | Lawful Neutral      |
-| M    | Material component  |
-| N    | Neutral             |
-| NE   | Neutral Evil        |
-| NG   | Neutral Good        |
-| NPC  | Nonplayer character |
-| PB   | Proficiency Bonus   |
-| PP   | Platinum Piece(s)   |
-| R    | Ritual              |
-| S    | Somatic component   |
-| SP   | Silver Piece(s)     |
-| Str. | Strength            |
-| V    | Verbal component    |
-| Wis. | Wisdom              |
-| XP   | Experience Point(s) |
-| LN   | Lawful Neutral      |
+|      |                           |
+|------|---------------------------|
+| КД   | Класс доспеха             |
+| К    | Концентрация              |
+| ХЗ   | Хаотично-злой             |
+| ХД   | Хаотично-добрый           |
+| Хар. | Харизма                   |
+| ХН   | Хаотично-нейтральный      |
+| Тел. | Телосложение              |
+| мм   | Медная монета             |
+| ПО   | Показатель опасности      |
+| СЛ   | Сложность                 |
+| Лвк. | Ловкость                  |
+| эм   | Электрумовая монета       |
+| МИ   | Мастер игры               |
+| зм   | Золотая монета            |
+| Хиты | Хиты                      |
+| Инт. | Интеллект                 |
+| ПЗ   | Принципиально-злой        |
+| ПД   | Принципиально-добрый      |
+| ПН   | Принципиально-нейтральный |
+| М    | Материальный компонент    |
+| Н    | Нейтральный               |
+| НЗ   | Нейтрально-злой           |
+| НД   | Нейтрально-добрый         |
+| НИП  | Неигровой персонаж        |
+| БМ   | Бонус мастерства          |
+| пм   | Платиновая монета         |
+| Р    | Ритуал                    |
+| С    | Соматический компонент    |
+| см   | Серебряная монета         |
+| Сил. | Сила                      |
+| В    | Вербальный компонент      |
+| Мдр. | Мудрость                  |
+| ОП   | Очки опыта                |
 
-## Rules Definitions
+## Определения правил
 
-Here are definitions of various rules.
+Ниже приведены определения различных правил.
 
-#### Ability Check
+#### Проверка характеристики
 
-An ability check is a D20 Test that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge. *See also* "Playing the Game" ("D20 Tests" and "Proficiency").
+Проверка характеристики — это проверка d20, представляющая использование одной из шести характеристик — или определённого навыка, связанного с характеристикой — для преодоления испытания. *См. также* «Процесс игры» («Проверки d20» и «Владение»).
 
-#### Ability Score and Modifier
+#### Значение и модификатор характеристики
 
-A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test with the corresponding ability or when a rule asks you to do so. *See also* "Playing the Game" ("The Six Abilities").
+У существа есть шесть значений характеристик — Сила, Ловкость, Телосложение, Интеллект, Мудрость и Харизма — каждое из которых имеет соответствующий модификатор. Добавляйте модификатор, когда совершаете проверку d20 с соответствующей характеристикой или когда правило требует этого. *См. также* «Процесс игры» («Шесть характеристик»).
 
-#### Action
+#### Действие
 
-On your turn, you can take one action. Choose which action to take from those below or from the special actions provided by your features. *See also* "Playing the Game" ("Actions"). These actions are defined elsewhere in this glossary:
+В свой ход вы можете совершить одно действие. Выберите действие из перечисленных ниже или из особых действий, предоставляемых вашими умениями. *См. также* «Процесс игры» («Действия»). Эти действия определены в других местах глоссария:
 
-|           |       |           |         |
-|-----------|-------|-----------|---------|
-| Attack    | Dodge | Influence | Search  |
-| Dash      | Help  | Magic     | Study   |
-| Disengage | Hide  | Ready     | Utilize |
+|              |          |              |          |
+|--------------|----------|--------------|----------|
+| Атака        | Уклонение| Воздействие  | Поиск    |
+| Рывок        | Помощь   | Магия        | Изучение |
+| Отход        | Засада   | Подготовка   | Использование |
 
-#### Advantage
+#### Преимущество
 
-If you have Advantage on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one Advantage, and Advantage and Disadvantage on the same roll cancel each other. *See also* "Playing the Game" ("D20 Tests").
+Если у вас есть преимущество на проверку d20, бросьте два d20 и используйте больший результат. На бросок не может влиять более одного преимущества, а преимущество и помеха на один и тот же бросок отменяют друг друга. *См. также* «Процесс игры» («Проверки d20»).
 
-#### Adventure
+#### Приключение
 
-An adventure is a series of encounters. A story emerges through playing them. *See also* "Encounter."
+Приключение — это серия сцен. История возникает в процессе их прохождения. *См. также* «Сцена».
 
-#### Alignment
+#### Мировоззрение
 
-A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil. *See also* "Character Creation" ("Create Your Character").
+Мировоззрение существа в общих чертах описывает его этические установки и идеалы. Мировоззрение — это сочетание двух факторов: один определяет мораль (добро, зло или нейтральность), а другой описывает отношение к порядку (принципиальность, хаотичность или нейтральность). Эти факторы допускают девять возможных комбинаций, таких как принципиально-добрый и нейтрально-злой. *См. также* «Создание персонажа» («Создайте своего персонажа»).
 
-#### Ally
+#### Союзник
 
-A creature is your ally if it is a member of your adventuring party, your friend, on your side in combat, or a creature that the rules or the GM designates as your ally.
+Существо является вашим союзником, если оно член вашей группы приключенцев, ваш друг, на вашей стороне в бою, или существо, которое правила или МИ определяют как вашего союзника.
 
-#### Area of Effect
+#### Область воздействия
 
-The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes. These shapes are defined elsewhere in this glossary:
+Описания многих заклинаний и других эффектов указывают, что они имеют область воздействия, которая обычно имеет одну из шести форм. Эти формы определены в других местах глоссария:
 
-|      |           |        |
-|------|-----------|--------|
-| Cone | Cylinder  | Line   |
-| Cube | Emanation | Sphere |
+|         |          |       |
+|---------|----------|-------|
+| Конус   | Цилиндр  | Линия |
+| Куб     | Эманация | Сфера |
 
-An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide Total Cover. *See also* "Cover."
+Область воздействия имеет точку происхождения — место, откуда исходит энергия эффекта. Правила для каждой формы указывают, как располагать её точку происхождения. Если все прямые линии от точки происхождения до какого-либо места в области воздействия заблокированы, это место не включается в область воздействия. Чтобы заблокировать линию, препятствие должно обеспечивать полное укрытие. *См. также* «Укрытие».
 
-If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall is between the creator and that point, the point of origin comes into being on the near side of the obstruction.
+Если создатель области воздействия помещает её в невидимую точку, и препятствие — например, стена — находится между создателем и этой точкой, точка происхождения появляется с ближней стороны препятствия.
 
-#### Armor Class
+#### Класс доспеха
 
-An Armor Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
+Класс доспеха (КД) — это целевое число для броска атаки. КД представляет, насколько сложно попасть по цели.
 
-Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can't use more than one. *See also* "Attack Roll."
+Базовый расчёт вашего КД: 10 плюс ваш модификатор Ловкости. Если правило даёт вам другой базовый расчёт КД, вы выбираете, какой расчёт использовать; вы не можете использовать более одного. *См. также* «Бросок атаки».
 
-#### Armor Training
+#### Владение доспехами
 
-Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a Shield and lack training with it, you don't gain its AC bonus. *See also* "Disadvantage" and "Equipment" ("Armor").
+Владение доспехами позволяет использовать доспехи определённой категории без следующих недостатков. Если вы носите лёгкие, средние или тяжёлые доспехи и не владеете ими, вы совершаете с помехой любую проверку d20, включающую Силу или Ловкость, и не можете творить заклинания. Если вы используете щит и не владеете им, вы не получаете его бонус к КД. *См. также* «Помеха» и «Снаряжение» («Доспехи»).
 
-#### Attack [Action]
+#### Атака [Действие]
 
-When you take the Attack action, you can make one attack roll with a weapon or an Unarmed Strike.
+Когда вы совершаете действие Атака, вы можете сделать один бросок атаки оружием или безоружный удар.
 
-**_Equipping and Unequipping Weapons._** You can either equip or unequip one weapon when you make an attack as part of this action. You do so either before or after the attack. If you equip a weapon before an attack, you don't need to use it for that attack. Equipping a weapon includes drawing it from a sheath or picking it up. Unequipping a weapon includes sheathing, stowing, or dropping it.
+**_Экипировка и снятие оружия._** Вы можете экипировать или снять одно оружие, когда совершаете атаку как часть этого действия. Вы делаете это до или после атаки. Если вы экипируете оружие перед атакой, вам не обязательно использовать его для этой атаки. Экипировка оружия включает извлечение его из ножен или поднятие. Снятие оружия включает убирание в ножны, укладывание или бросание.
 
-**_Moving between Attacks._** If you move on your turn and have a feature, such as Extra Attack, that gives you more than one attack as part of the Attack action, you can use some or all of that movement to move between those attacks.
+**_Перемещение между атаками._** Если вы перемещаетесь в свой ход и имеете умение, такое как Дополнительная атака, дающее более одной атаки как часть действия Атака, вы можете использовать часть или всё это перемещение для перемещения между этими атаками.
 
-#### Attack Roll
+#### Бросок атаки
 
-An attack roll is a D20 Test that represents making an attack with a weapon, an Unarmed Strike, or a spell. *See also* "Playing the Game" ("D20 Tests").
+Бросок атаки — это проверка d20, представляющая совершение атаки оружием, безоружным ударом или заклинанием. *См. также* «Процесс игры» («Проверки d20»).
 
-#### Attitude
+#### Отношение
 
-A monster has a starting attitude toward a player character: Friendly, Hostile, or Indifferent. *See also* "Friendly," "Hostile," "Indifferent," and "Influence."
+Монстр имеет начальное отношение к персонажу игрока: дружелюбный, враждебный или безразличный. *См. также* «Дружелюбный», «Враждебный», «Безразличный» и «Воздействие».
 
-#### Attunement
+#### Настройка
 
-Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. A creature can have Attunement with no more than three magic items at a time. *See also* "Equipment" ("Magic Items").
+Некоторые магические предметы требуют, чтобы существо установило связь — называемую настройкой — с ними, прежде чем существо сможет использовать магические свойства предмета. Существо может быть настроено не более чем на три магических предмета одновременно. *См. также* «Снаряжение» («Магические предметы»).
 
-#### Blinded [Condition]
+#### Ослеплённый [Состояние]
 
-While you have the Blinded condition, you experience the following effects.
+Пока вы находитесь в состоянии «ослеплённый», вы испытываете следующие эффекты.
 
-**_Can't See._** You can't see and automatically fail any ability check that requires sight.
+**_Не может видеть._** Вы не можете видеть и автоматически проваливаете любую проверку характеристики, требующую зрения.
 
-**_Attacks Affected._** Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+**_Атаки затронуты._** Броски атаки против вас совершаются с преимуществом, а ваши броски атаки совершаются с помехой.
 
-#### Blindsight
+#### Слепое зрение
 
-If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind Total Cover even if you have the Blinded condition or are in Darkness. Moreover, in that range, you can see something that has the Invisible condition.
+Если у вас есть слепое зрение, вы можете видеть в определённом радиусе, не полагаясь на физическое зрение. В этом радиусе вы можете видеть всё, что не находится за полным укрытием, даже если вы в состоянии «ослеплённый» или находитесь во тьме. Более того, в этом радиусе вы можете видеть то, что имеет состояние «невидимый».
 
-#### Bloodied
+#### Окровавленный
 
-A creature is Bloodied while it has half its Hit Points or fewer remaining.
+Существо считается окровавленным, пока у него осталась половина хитов или меньше.
 
-#### Bonus Action
+#### Бонусное действие
 
-A Bonus Action is a special action that you can take on the same turn that you take an action. You can't take more than one Bonus Action on a turn, and you have a Bonus Action to take only if a rule explicitly says so. *See also* "Playing the Game" ("Actions").
+Бонусное действие — это особое действие, которое вы можете совершить в тот же ход, когда совершаете действие. Вы не можете совершить более одного бонусного действия в ход, и у вас есть бонусное действие только если правило явно это указывает. *См. также* «Процесс игры» («Действия»).
 
-#### Breaking Objects
+#### Разрушение объектов
 
-Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the GM may allow a creature to break it automatically with the Attack or Utilize action.
+Объекты могут получать урон от атак и некоторых заклинаний по правилам ниже. Если объект чрезвычайно хрупок, МИ может позволить существу автоматически разрушить его действием Атака или Использование.
 
-**_Armor Class._** The Object Armor Class table suggests ACs for various substances.
+**_Класс доспеха._** Таблица класса доспеха объектов предлагает КД для различных веществ.
 
-Table: Object Armor Class
+Таблица: Класс доспеха объектов
 
-| AC | Substance           |
+| КД | Вещество            |
 |----|---------------------|
-| 11 | Cloth, paper, rope  |
-| 13 | Crystal, glass, ice |
-| 15 | Wood                |
-| 17 | Stone               |
-| 19 | Iron, steel         |
-| 21 | Mithral             |
-| 23 | Adamantine          |
+| 11 | Ткань, бумага, верёвка |
+| 13 | Хрусталь, стекло, лёд |
+| 15 | Дерево              |
+| 17 | Камень              |
+| 19 | Железо, сталь       |
+| 21 | Мифрил              |
+| 23 | Адамантин           |
 
-**_Hit Points._** An object is destroyed when it has 0 Hit Points. The Object Hit Points table suggests Hit Points for fragile and resilient objects that are Large or smaller. To track Hit Points for a Huge or Gargantuan object, divide it into Large or smaller sections, and track each section's Hit Points separately. The GM determines whether destroying part of an object causes the whole thing to collapse.
+**_Хиты._** Объект уничтожается, когда его хиты падают до 0. Таблица хитов объектов предлагает хиты для хрупких и прочных объектов размера большой или меньше. Для отслеживания хитов огромного или громадного объекта разделите его на секции размера большой или меньше и отслеживайте хиты каждой секции отдельно. МИ определяет, приводит ли уничтожение части объекта к разрушению всего объекта.
 
-Table: Object Hit Points
+Таблица: Хиты объектов
 
-| Size                        | Fragile  | Resilient |
-|-----------------------------|----------|-----------|
-| Tiny (bottle, lock)         | 2 (1d4)  | 5 (2d4)   |
-| Small (chest, lute)         | 3 (1d6)  | 10 (3d6)  |
-| Medium (barrel, chandelier) | 4 (1d8)  | 18 (4d8)  |
-| Large (cart, dining table)  | 5 (1d10) | 27 (5d10) |
+| Размер                          | Хрупкий   | Прочный    |
+|---------------------------------|-----------|------------|
+| Крошечный (бутылка, замок)      | 2 (1d4)   | 5 (2d4)    |
+| Маленький (сундук, лютня)       | 3 (1d6)   | 10 (3d6)   |
+| Средний (бочка, люстра)         | 4 (1d8)   | 18 (4d8)   |
+| Большой (телега, обеденный стол)| 5 (1d10)  | 27 (5d10)  |
 
-**_Damage Types and Objects._** Objects have Immunity to Poison and Psychic damage. The GM might decide that some damage types are more or less effective against an object. For example, Bludgeoning damage works well for smashing things but not for cutting. Paper or cloth objects might have Vulnerability to Fire damage.
+**_Типы урона и объекты._** Объекты имеют иммунитет к урону ядом и психическому урону. МИ может решить, что некоторые типы урона более или менее эффективны против объекта. Например, дробящий урон хорошо подходит для разбивания вещей, но не для их разрезания. Бумажные или тканевые объекты могут иметь уязвимость к урону огнём.
 
-**_Damage Threshold._** Big objects, such as castle walls, often have extra resilience represented by a damage threshold. *See also* "Damage Threshold."
-k
-**_No Ability Scores._** An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
+**_Порог урона._** Большие объекты, такие как стены замка, часто имеют дополнительную устойчивость, представленную порогом урона. *См. также* «Порог урона».
 
-#### Bright Light
+**_Нет значений характеристик._** У объекта нет значений характеристик, если правило не назначает ему значения. Без значений характеристик объект не может совершать проверки характеристик и автоматически проваливает все спасброски.
 
-Bright Light is normal illumination. *See also* "Playing the Game" ("Exploration").
+#### Яркий свет
 
-#### Burning [Hazard]
+Яркий свет — это нормальное освещение. *См. также* «Процесс игры» («Исследование»).
 
-A burning creature or object takes 1d4 Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the Prone condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
+#### Горение [Опасность]
 
-#### Burrow Speed
+Горящее существо или объект получает 1d4 урона огнём в начале каждого своего хода. Действием вы можете потушить огонь на себе, приняв состояние «лежащий ничком» и покатавшись по земле. Огонь также гаснет, если его залить водой, погрузить в воду или лишить воздуха.
 
-A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so. *See also* "Speed."
+#### Скорость рытья
 
-#### Campaign
+Существо со скоростью рытья может использовать эту скорость для перемещения через песок, землю, грязь или лёд. Существо не может рыть сквозь твёрдую скалу, если у него нет особенности, позволяющей это делать. *См. также* «Скорость».
 
-A campaign is a series of adventures. *See also* "Adventure."
+#### Кампания
 
-#### Cantrip
+Кампания — это серия приключений. *См. также* «Приключение».
 
-A cantrip is a level 0 spell, which is cast without a spell slot. *See also* "Spells."
+#### Заговор
 
-#### Carrying Capacity
+Заговор — это заклинание 0-го уровня, которое сотворяется без ячейки заклинания. *См. также* «Заклинания».
 
-Your size and Strength score determine the maximum weight in pounds that you can carry, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift, or push.
+#### Грузоподъёмность
 
-While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your Speed can be no more than 5 feet.
+Ваш размер и значение Силы определяют максимальный вес в фунтах, который вы можете нести, как показано в таблице грузоподъёмности. Таблица также показывает максимальный вес, который вы можете тащить, поднимать или толкать.
 
-Table: Carrying Capacity
+Когда вы тащите, поднимаете или толкаете вес, превышающий максимальный вес, который вы можете нести, ваша скорость не может быть больше 5 футов.
 
-| Creature Size | Carry          | Drag/Lift/Push |
-|---------------|----------------|----------------|
-| Tiny          | Str. × 7.5 lb. | Str. × 15 lb.  |
-| Small/Medium  | Str. × 15 lb.  | Str. × 30 lb.  |
-| Large         | Str. × 30 lb.  | Str. × 60 lb.  |
-| Huge          | Str. × 60 lb.  | Str. × 120 lb. |
-| Gargantuan    | Str. × 120 lb. | Str. × 240 lb. |
+Таблица: Грузоподъёмность
 
-#### Challenge Rating
+| Размер существа   | Нести            | Тащить/Поднимать/Толкать |
+|-------------------|------------------|--------------------------|
+| Крошечный         | Сил. × 3,4 кг    | Сил. × 6,8 кг            |
+| Маленький/Средний | Сил. × 6,8 кг    | Сил. × 13,6 кг           |
+| Большой           | Сил. × 13,6 кг   | Сил. × 27,2 кг           |
+| Огромный          | Сил. × 27,2 кг   | Сил. × 54,4 кг           |
+| Громадный         | Сил. × 54,4 кг   | Сил. × 108,8 кг          |
 
-Challenge Rating (CR) summarizes the threat a monster poses to a group of four player characters. Compare a monster's CR to the characters' level. If the CR is higher, the monster is likely a danger. If the CR is lower, the monster likely poses little threat. But circumstances and the number of player characters can significantly alter how threatening a monster is in actual play. "Gameplay Toolbox" ("Combat Encounters") provides guidance to the GM on using CR while planning potential combat encounters. *See also* "Stat Block."
+#### Показатель опасности
 
-#### Character Sheet
+Показатель опасности (ПО) обобщает угрозу, которую монстр представляет для группы из четырёх персонажей игроков. Сравните ПО монстра с уровнем персонажей. Если ПО выше, монстр, вероятно, представляет опасность. Если ПО ниже, монстр, вероятно, не представляет большой угрозы. Но обстоятельства и количество персонажей могут значительно изменить угрозу монстра в реальной игре. «Инструментарий игрового процесса» («Боевые столкновения») даёт МИ рекомендации по использованию ПО при планировании потенциальных боевых столкновений. *См. также* «Блок характеристик».
 
-A character sheet is a paper or digital record that you use to track your character's information. *See also* "Character Creation."
+#### Лист персонажа
 
-#### Charmed [Condition]
+Лист персонажа — это бумажная или цифровая запись, которую вы используете для отслеживания информации о вашем персонаже. *См. также* «Создание персонажа».
 
-While you have the Charmed condition, you experience the following effects.
+#### Очарованный [Состояние]
 
-**_Can't Harm the Charmer._** You can't attack the charmer or target the charmer with damaging abilities or magical effects.
+Пока вы находитесь в состоянии «очарованный», вы испытываете следующие эффекты.
 
-**_Social Advantage._** The charmer has Advantage on any ability check to interact with you socially.
+**_Не может навредить очаровавшему._** Вы не можете атаковать очаровавшего или нацеливать на него наносящие урон способности или магические эффекты.
 
-#### Climbing
+**_Социальное преимущество._** Очаровавший совершает с преимуществом любую проверку характеристики для социального взаимодействия с вами.
 
-While you're climbing, each foot of movement costs 1 extra foot (2 extra feet in Difficult Terrain). You ignore this extra cost if you have a Climb Speed and use it to climb.
+#### Лазание
 
-At the GM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (Athletics) check.
+Когда вы лезете, каждый фут перемещения стоит 1 дополнительный фут (2 дополнительных фута на труднопроходимой местности). Вы игнорируете эту дополнительную стоимость, если у вас есть скорость лазания и вы используете её для лазания.
 
-#### Climb Speed
+По усмотрению МИ, лазание по скользкой поверхности или поверхности с небольшим количеством выступов может потребовать успешной проверки Силы (Атлетика) со СЛ 15.
 
-A Climb Speed can be used in place of Speed to traverse a vertical surface without expending the extra movement normally associated with climbing. *See also* "Climbing" and "Speed."
+#### Скорость лазания
 
-#### Concentration
+Скорость лазания можно использовать вместо скорости для перемещения по вертикальной поверхности без траты дополнительного перемещения, обычно связанного с лазанием. *См. также* «Лазание» и «Скорость».
 
-Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
+#### Концентрация
 
-**_Another Concentration Effect._** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
+Некоторые заклинания и другие эффекты требуют концентрации для поддержания, как указано в их описаниях. Если создатель эффекта теряет концентрацию, эффект заканчивается. Если у эффекта есть максимальная длительность, описание эффекта указывает, как долго создатель может на нём концентрироваться: до 1 минуты, 1 часа или другой длительности. Создатель может прекратить концентрацию в любое время (действие не требуется). Следующие факторы прерывают концентрацию.
 
-**_Damage._** If you take damage, you must succeed on a Constitution saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
+**_Другой эффект концентрации._** Вы теряете концентрацию на эффекте в момент, когда начинаете сотворять заклинание, требующее концентрации, или активируете другой эффект, требующий концентрации.
 
-**_Incapacitated or Dead._** Your Concentration ends if you have the Incapacitated condition or you die.
+**_Урон._** Если вы получаете урон, вы должны преуспеть в спасброске Телосложения для сохранения концентрации. СЛ равна 10 или половине полученного урона (с округлением вниз), в зависимости от того, что больше, но не более СЛ 30.
 
-#### Condition
+**_Недееспособность или смерть._** Ваша концентрация заканчивается, если вы получаете состояние «недееспособный» или умираете.
 
-A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
+#### Состояние
 
-|            |               |             |
-|------------|---------------|-------------|
-| Blinded    | Grappled      | Poisoned    |
-| Charmed    | Incapacitated | Prone       |
-| Deafened   | Invisible     | Restrained  |
-| Exhaustion | Paralyzed     | Stunned     |
-| Frightened | Petrified     | Unconscious |
+Состояние — это временное игровое положение. Определение состояния описывает, как оно влияет на его носителя, и различные правила определяют, как закончить состояние. Этот глоссарий определяет следующие состояния:
 
-A condition doesn't stack with itself; a recipient either has a condition or doesn't. The Exhaustion condition is an exception to that rule.
+|               |               |               |
+|---------------|---------------|---------------|
+| Ослеплённый   | Схваченный    | Отравленный   |
+| Очарованный   | Недееспособный| Лежащий ничком|
+| Оглохший      | Невидимый     | Опутанный     |
+| Истощение     | Парализованный| Ошеломлённый  |
+| Испуганный    | Окаменевший   | Без сознания  |
 
-#### Cone [Area of Effect]
+Состояние не накапливается само с собой; носитель либо имеет состояние, либо нет. Состояние «истощение» является исключением из этого правила.
 
-A Cone is an area of effect that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
+#### Конус [Область воздействия]
 
-A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
+Конус — это область воздействия, которая простирается прямыми линиями от точки происхождения в направлении, выбранном его создателем. Ширина конуса в любой точке вдоль его длины равна расстоянию от этой точки до точки происхождения. Например, конус имеет ширину 15 футов в точке, находящейся на расстоянии 15 футов от точки происхождения. Эффект, создающий конус, указывает его максимальную длину.
 
-#### Cover
+Точка происхождения конуса не включается в область воздействия, если создатель не решит иначе.
 
-Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target: Half Cover (+2 bonus to AC and Dexterity saving throws), Three-Quarters Cover (+5 bonus to AC and Dexterity saving throws), and Total Cover (can't be targeted directly). If behind more than one degree of cover, a target benefits only from the most protective degree. *See also* "Playing the Game" ("Combat").
+#### Укрытие
 
-#### Crawling
+Укрытие обеспечивает определённую степень защиты цели за ним. Существует три степени укрытия, каждая из которых даёт различный бонус цели: частичное укрытие (+2 к КД и спасброскам Ловкости), укрытие на три четверти (+5 к КД и спасброскам Ловкости) и полное укрытие (нельзя нацелиться напрямую). Если цель находится за несколькими степенями укрытия, она получает преимущество только от наиболее защищающей степени. *См. также* «Процесс игры» («Бой»).
 
-While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in Difficult Terrain). *See also* "Speed."
+#### Ползание
 
-#### Creature
+Когда вы ползёте, каждый фут перемещения стоит 1 дополнительный фут (2 дополнительных фута на труднопроходимой местности). *См. также* «Скорость».
 
-Any being in the game, including a player's character, is a creature. *See also* "Creature Type."
+#### Существо
 
-#### Creature Type
+Любое существо в игре, включая персонажа игрока, является существом. *См. также* «Тип существа».
 
-Every creature, including every player character, has a tag in the rules that identifies the type of creature it is. Most player characters are of the Humanoid type. These are the game's creature types:
+#### Тип существа
 
-|            |           |             |
-|------------|-----------|-------------|
-| Aberration | Elemental | Monstrosity |
-| Beast      | Fey       | Ooze        |
-| Celestial  | Fiend     | Plant       |
-| Construct  | Giant     | Undead      |
-| Dragon     | Humanoid  |             |
+У каждого существа, включая каждого персонажа игрока, есть тег в правилах, определяющий тип существа, к которому оно относится. Большинство персонажей игроков относятся к типу гуманоид. Вот типы существ в игре:
 
-The types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways.
+|           |             |            |
+|-----------|-------------|------------|
+| Аберрация | Элементаль  | Чудовище   |
+| Зверь     | Фея         | Слизь     |
+| Небожитель| Исчадие     | Растение   |
+| Конструкт | Великан     | Нежить     |
+| Дракон    | Гуманоид    |            |
 
-#### Critical Hit
+Сами типы не имеют правил, но некоторые правила в игре по-разному влияют на существ определённых типов.
 
-If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target's AC. A Critical Hit lets you roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers. *See also* "Playing the Game" ("Damage and Healing").
+#### Критическое попадание
 
-#### Cube [Area of Effect]
+Если вы выбрасываете 20 на d20 при броске атаки, вы совершаете критическое попадание, и атака попадает независимо от любых модификаторов или КД цели. Критическое попадание позволяет бросить дополнительные кости для урона атаки по цели. Бросьте все кости урона атаки дважды и сложите их вместе. Затем добавьте все применимые модификаторы. *См. также* «Процесс игры» («Урон и исцеление»).
 
-A Cube is an area of effect that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side.
+#### Куб [Область воздействия]
 
-A Cube's point of origin isn't included in the area of effect unless its creator decides otherwise.
+Куб — это область воздействия, которая простирается прямыми линиями от точки происхождения, расположенной в любом месте на грани куба. Эффект, создающий куб, указывает его размер — длину каждой стороны.
 
-#### Curses
+Точка происхождения куба не включается в область воздействия, если создатель не решит иначе.
 
-Some game effects curse a creature or an object. The effect that confers a curse defines what the curse does. Curses can be removed by the *Remove Curse* and *Greater Restoration* spells or other magic that explicitly ends curses.
+#### Проклятия
 
-#### Cylinder [Area of Effect]
+Некоторые игровые эффекты проклинают существо или объект. Эффект, налагающий проклятие, определяет, что делает проклятие. Проклятия можно снять заклинаниями *Снятие проклятия* и *Высшее восстановление* или другой магией, явно снимающей проклятия.
 
-A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
+#### Цилиндр [Область воздействия]
 
-A Cylinder's point of origin is included in the area of effect.
+Цилиндр — это область воздействия, которая простирается прямыми линиями от точки происхождения, расположенной в центре круглого верха или низа цилиндра. Эффект, создающий цилиндр, указывает радиус основания цилиндра и его высоту.
 
-#### D20 Test
+Точка происхождения цилиндра включается в область воздействия.
 
-D20 Tests encompass the three main d20 rolls of the game: ability checks, attack rolls, and saving throws. If something in the game affects D20 Tests, it affects all three of these rolls. The GM determines whether a D20 Test is warranted in a given circumstance. *See also* "Playing the Game" ("D20 Tests").
+#### Проверка d20
 
-#### Damage
+Проверки d20 охватывают три основных броска d20 в игре: проверки характеристик, броски атаки и спасброски. Если что-то в игре влияет на проверки d20, это влияет на все три этих броска. МИ определяет, оправдана ли проверка d20 в данных обстоятельствах. *См. также* «Процесс игры» («Проверки d20»).
 
-Damage represents harm that causes a creature or an object to lose Hit Points.
+#### Урон
 
-#### Damage Roll
+Урон представляет вред, который заставляет существо или объект терять хиты.
 
-A damage roll is a die roll, adjusted by any applicable modifiers, that deals damage to a target. *See also* "Playing the Game" ("Damage and Healing").
+#### Бросок урона
 
-#### Damage Threshold
+Бросок урона — это бросок кости, скорректированный любыми применимыми модификаторами, который наносит урон цели. *См. также* «Процесс игры» («Урон и исцеление»).
 
-A creature or an object that has a damage threshold has Immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes that entire instance of damage. Any damage that fails to meet or exceed the damage threshold is superficial and doesn't reduce Hit Points. For example, if an object has a damage threshold of 10, the object takes no damage if 9 damage is dealt to it, since that damage fails to exceed the threshold. If the same object is dealt 11 damage, it takes all of that damage.
+#### Порог урона
 
-#### Damage Types
+Существо или объект с порогом урона имеет иммунитет ко всему урону, если не получает количество урона от одной атаки или эффекта, равное или превышающее его порог урона. В этом случае оно получает весь этот урон. Любой урон, не достигающий или не превышающий порог урона, является поверхностным и не уменьшает хиты. Например, если объект имеет порог урона 10, объект не получает урона, если ему наносят 9 урона, поскольку этот урон не превышает порог. Если тому же объекту наносят 11 урона, он получает весь этот урон.
 
-Attacks and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as Resistance, rely on the types. The Damage Types table offers examples to help a GM assign a type to a new effect.
+#### Типы урона
 
-Table: Damage Types
+Атаки и другие вредоносные эффекты наносят различные типы урона. Типы урона не имеют собственных правил, но другие правила, такие как сопротивление, полагаются на типы. Таблица типов урона предлагает примеры, чтобы помочь МИ назначить тип новому эффекту.
 
-| Type        | Examples                             |
-|-------------|--------------------------------------|
-| Acid        | Corrosive liquids, digestive enzymes |
-| Bludgeoning | Blunt objects, constriction, falling |
-| Cold        | Freezing water, icy blasts           |
-| Fire        | Flames, unbearable heat              |
-| Force       | Pure magical energy                  |
-| Lightning   | Electricity                          |
-| Necrotic    | Life-draining energy                 |
-| Piercing    | Fangs, puncturing objects            |
-| Poison      | Toxic gas, venom                     |
-| Psychic     | Mind-rending energy                  |
-| Radiant     | Holy energy, searing radiation       |
-| Slashing    | Claws, cutting objects               |
-| Thunder     | Concussive sound                     |
+Таблица: Типы урона
 
-#### Darkness
+| Тип         | Примеры                                   |
+|-------------|-------------------------------------------|
+| Кислота     | Едкие жидкости, пищеварительные ферменты  |
+| Дробящий    | Тупые предметы, сдавливание, падение      |
+| Холод       | Ледяная вода, морозные удары              |
+| Огонь       | Пламя, невыносимый жар                    |
+| Силовое поле| Чистая магическая энергия                 |
+| Молния      | Электричество                             |
+| Некротический| Высасывающая жизнь энергия               |
+| Колющий     | Клыки, пронзающие предметы                |
+| Яд         | Ядовитый газ, яд                          |
+| Психический | Разрушающая разум энергия                 |
+| Излучение   | Святая энергия, обжигающее излучение      |
+| Рубящий     | Когти, режущие предметы                   |
+| Звук        | Ударная звуковая волна                    |
 
-An area of Darkness is Heavily Obscured. *See also* "Heavily Obscured" and "Playing the Game" ("Exploration").
+#### Тьма
 
-#### Darkvision
+Область тьмы сильно заслонена. *См. также* «Сильно заслонённая область» и «Процесс игры» («Исследование»).
 
-If you have Darkvision, you can see in Dim Light within a specified range as if it were Bright Light and in Darkness within that range as if it were Dim Light. You discern colors in that Darkness only as shades of gray. *See also* "Playing the Game" ("Exploration").
+#### Тёмное зрение
 
-#### Dash [Action]
+Если у вас есть тёмное зрение, вы можете видеть в тусклом свете в указанном радиусе, как при ярком свете, и во тьме в этом радиусе, как при тусклом свете. В этой тьме вы различаете цвета только как оттенки серого. *См. также* «Процесс игры» («Исследование»).
 
-When you take the Dash action, you gain extra movement for the current turn. The increase equals your Speed after applying any modifiers. With a Speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash. If your Speed of 30 feet is reduced to 15 feet, you can move up to 30 feet this turn if you Dash.
+#### Рывок [Действие]
 
-If you have a special speed, such as a Fly Speed or Swim Speed, you can use that speed instead of your Speed when you take this action. You choose which speed to use each time you take it. *See also* "Speed."
+Когда вы совершаете действие Рывок, вы получаете дополнительное перемещение в текущий ход. Увеличение равно вашей скорости после применения любых модификаторов. Например, при скорости 30 футов вы можете переместиться до 60 футов в свой ход, если используете Рывок. Если ваша скорость 30 футов снижена до 15 футов, вы можете переместиться до 30 футов в этот ход при использовании Рывка.
 
-#### Dead
+Если у вас есть особая скорость, такая как скорость полёта или скорость плавания, вы можете использовать эту скорость вместо своей скорости, когда совершаете это действие. Вы выбираете, какую скорость использовать, каждый раз, когда совершаете его. *См. также* «Скорость».
 
-A dead creature has no Hit Points and can't regain them unless it is first revived by magic such as the *Raise Dead* or *Revivify* spell. When such a spell is cast, the spirit knows who is casting it and can refuse. The spirit of a dead creature has left the body and departed for the Outer Planes, and reviving the creature requires calling the spirit back.
+#### Мёртвый
 
-If the creature returns to life, the revival effect determines the creature's current Hit Points. Unless otherwise stated, the creature returns to life with any conditions, magical contagions, or curses that were affecting it at death if the durations of those effects are still ongoing. If the creature died with any Exhaustion levels, it returns with 1 fewer level. If the creature had Attunement to one or more magic items, it is no longer attuned to them.
+У мёртвого существа 0 хитов, и оно не может восстановить их, пока не будет сначала воскрешено магией, такой как заклинание *Оживление* или *Возрождение*. Когда такое заклинание сотворяется, дух знает, кто его творит, и может отказаться. Дух мёртвого существа покинул тело и отправился на Внешние планы, и воскрешение существа требует возвращения духа.
 
-#### Deafened [Condition]
+Если существо возвращается к жизни, эффект воскрешения определяет текущие хиты существа. Если не указано иное, существо возвращается к жизни со всеми состояниями, магическими заражениями или проклятиями, которые действовали на него в момент смерти, если длительность этих эффектов ещё не закончилась. Если существо умерло с уровнями истощения, оно возвращается с одним уровнем меньше. Если существо было настроено на один или несколько магических предметов, оно больше не настроено на них.
 
-While you have the Deafened condition, you experience the following effect.
+#### Оглохший [Состояние]
 
-**_Can't Hear._** You can't hear and automatically fail any ability check that requires hearing.
+Пока вы находитесь в состоянии «оглохший», вы испытываете следующий эффект.
 
-#### Death Saving Throw
+**_Не может слышать._** Вы не можете слышать и автоматически проваливаете любую проверку характеристики, требующую слуха.
 
-A player character must make a Death Saving Throw (also called a Death Save) if they start their turn with 0 Hit Points. *See also* "Playing the Game" ("Damage and Healing").
+#### Спасбросок от смерти
 
-#### Dehydration [Hazard]
+Персонаж игрока должен совершить спасбросок от смерти, если он начинает свой ход с 0 хитов. *См. также* «Процесс игры» («Урон и исцеление»).
 
-A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 Exhaustion level at the day's end. Exhaustion caused by dehydration can't be removed until the creature drinks the full amount of water required for a day. *See also* "Exhaustion."
+#### Обезвоживание [Опасность]
 
-Table: Water Needs per Day
+Существо нуждается в определённом количестве воды в день в зависимости от его размера, как показано в таблице потребности в воде в день. Существо, которое выпивает менее половины необходимой воды за день, получает 1 уровень истощения в конце дня. Истощение, вызванное обезвоживанием, нельзя снять, пока существо не выпьет полное количество воды, необходимое за день. *См. также* «Истощение».
 
-| Size   | Water      | Size       | Water      |
-|--------|------------|------------|------------|
-| Tiny   | 1/4 gallon | Large      | 4 gallons  |
-| Small  | 1 gallon   | Huge       | 16 gallons |
-| Medium | 1 gallon   | Gargantuan | 64 gallons |
+Таблица: Потребность в воде в день
 
-#### Difficult Terrain
+| Размер     | Вода       | Размер     | Вода        |
+|------------|------------|------------|-------------|
+| Крошечный  | 1 л        | Большой    | 15 л        |
+| Маленький  | 4 л        | Огромный   | 60 л        |
+| Средний    | 4 л        | Громадный  | 240 л       |
 
-If a space is Difficult Terrain, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
+#### Труднопроходимая местность
 
-A space is Difficult Terrain if the space contains any of the following or something similar:
+Если пространство является труднопроходимой местностью, каждый фут перемещения в этом пространстве стоит 1 дополнительный фут. Например, перемещение на 5 футов по труднопроходимой местности стоит 10 футов перемещения. Труднопроходимая местность не суммируется; пространство либо является труднопроходимой местностью, либо нет.
 
-- A creature that isn't Tiny or your ally
-- Furniture that is sized for creatures of your size or larger
-- Heavy snow, ice, rubble, or undergrowth
-- Liquid that's between shin- and waist-deep
-- A narrow opening sized for a creature one size smaller than you
-- A slope of 20 degrees or more
+Пространство является труднопроходимой местностью, если оно содержит что-либо из следующего или подобное:
 
-#### Difficulty Class
+- Существо, которое не является крошечным и не является вашим союзником
+- Мебель, рассчитанная на существ вашего размера или больше
+- Глубокий снег, лёд, обломки или подлесок
+- Жидкость глубиной от голени до пояса
+- Узкий проход, рассчитанный на существо на один размер меньше вас
+- Склон 20 градусов или более
 
-A Difficulty Class (DC) is the target number for an ability check or a saving throw. *See also* "Playing the Game" ("D20 Tests").
+#### Сложность
 
-#### Dim Light
+Сложность (СЛ) — это целевое число для проверки характеристики или спасброска. *См. также* «Процесс игры» («Проверки d20»).
 
-An area with Dim Light is Lightly Obscured. *See also* "Lightly Obscured" and "Playing the Game" ("Exploration").
+#### Тусклый свет
 
-#### Disadvantage
+Область с тусклым светом слабо заслонена. *См. также* «Слабо заслонённая область» и «Процесс игры» («Исследование»).
 
-If you have Disadvantage on a D20 Test, roll two d20s and use the lower roll. A roll can't be affected by more than one Disadvantage, and Advantage and Disadvantage on the same roll cancel each other. *See also* "Playing the Game" ("D20 Tests").
+#### Помеха
 
-#### Disengage [Action]
+Если у вас есть помеха на проверку d20, бросьте два d20 и используйте меньший результат. На бросок не может влиять более одной помехи, а преимущество и помеха на один и тот же бросок отменяют друг друга. *См. также* «Процесс игры» («Проверки d20»).
 
-If you take the Disengage action, your movement doesn't provoke Opportunity Attacks for the rest of the current turn.
+#### Отход [Действие]
 
-#### Dodge [Action]
+Если вы совершаете действие Отход, ваше перемещение не провоцирует провоцированные атаки до конца текущего хода.
 
-If you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has Disadvantage if you can see the attacker, and you make Dexterity saving throws with Advantage.
+#### Уклонение [Действие]
 
-You lose these benefits if you have the Incapacitated condition or if your Speed is 0.
+Если вы совершаете действие Уклонение, вы получаете следующие преимущества: до начала вашего следующего хода любой бросок атаки против вас совершается с помехой, если вы видите атакующего, и вы совершаете спасброски Ловкости с преимуществом.
 
-#### Emanation [Area of Effect]
+Вы теряете эти преимущества, если находитесь в состоянии «недееспособный» или ваша скорость равна 0.
 
-An Emanation is an area of effect that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
+#### Эманация [Область воздействия]
 
-An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
+Эманация — это область воздействия, которая простирается прямыми линиями от существа или объекта во всех направлениях. Эффект, создающий эманацию, указывает расстояние, на которое она простирается.
 
-An Emanation's origin (creature or object) isn't included in the area of effect unless its creator decides otherwise.
+Эманация перемещается вместе с существом или объектом, являющимся её источником, если это не мгновенный или стационарный эффект.
 
-#### Encounter
+Источник эманации (существо или объект) не включается в область воздействия, если создатель не решит иначе.
 
-An encounter is a scene in an adventure that is part of at least one of the game's three pillars: social interaction, exploration, or combat. *See also* "Playing the Game" ("Social Interaction," "Exploration," and "Combat").
+#### Сцена
 
-#### Enemy
+Сцена — это эпизод в приключении, являющийся частью как минимум одного из трёх столпов игры: социального взаимодействия, исследования или боя. *См. также* «Процесс игры» («Социальное взаимодействие», «Исследование» и «Бой»).
 
-A creature is your enemy if it fights against you in combat, actively works to harm you, or is designated as your enemy by the rules or GM.
+#### Враг
 
-#### Exhaustion [Condition]
+Существо является вашим врагом, если оно сражается против вас в бою, активно пытается вам навредить, или определено как ваш враг правилами или МИ.
 
-While you have the Exhaustion condition, you experience the following effects.
+#### Истощение [Состояние]
 
-**_Exhaustion Levels._** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+Пока вы находитесь в состоянии «истощение», вы испытываете следующие эффекты.
 
-**_D20 Tests Affected._** When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+**_Уровни истощения._** Это состояние накапливается. Каждый раз, когда вы его получаете, вы получаете 1 уровень истощения. Вы умираете, если ваш уровень истощения достигает 6.
 
-**_Speed Reduced._** Your Speed is reduced by a number of feet equal to 5 times your Exhaustion level.
+**_Проверки d20 затронуты._** Когда вы совершаете проверку d20, результат броска уменьшается на 2, умноженное на ваш уровень истощения.
 
-**_Removing Exhaustion Levels._** Finishing a Long Rest removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+**_Скорость снижена._** Ваша скорость уменьшается на количество футов, равное 5, умноженному на ваш уровень истощения.
 
-#### Experience Points
+**_Снятие уровней истощения._** Завершение продолжительного отдыха снимает 1 ваш уровень истощения. Когда ваш уровень истощения достигает 0, состояние заканчивается.
 
-As they overcome challenges and complete adventures, characters earn Experience Points (XP), which are awarded by the Game Master. When a character's XP total crosses certain thresholds, the character's level increases. *See also* "Level Advancement."
+#### Очки опыта
 
-#### Expertise
+По мере преодоления испытаний и завершения приключений персонажи зарабатывают очки опыта (ОП), которые назначаются мастером игры. Когда общее количество ОП персонажа пересекает определённые пороги, уровень персонажа повышается. *См. также* «Повышение уровня».
 
-Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your Proficiency Bonus is doubled for that check unless the bonus is doubled by another feature.
+#### Компетентность
 
-If you gain Expertise, you gain it in one skill in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
+Компетентность — это умение, улучшающее использование владения навыком. Когда вы совершаете проверку характеристики с владением навыком, в котором у вас есть компетентность, ваш бонус мастерства удваивается для этой проверки, если бонус не удваивается другим умением.
 
-*See also* "Playing the Game" ("Proficiency").
+Если вы получаете компетентность, вы получаете её в одном навыке, которым владеете. Вы не можете иметь компетентность в одном и том же навыке более одного раза.
 
-#### Falling [Hazard]
+*См. также* «Процесс игры» («Владение»).
 
-A creature that falls takes 1d6 Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of 20d6. When the creature lands, it has the Prone condition unless it avoids taking any damage from the fall.
+#### Падение [Опасность]
 
-A creature that falls into water or another liquid can use its Reaction to make a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+Существо, которое падает, получает 1d6 дробящего урона в конце падения за каждые 10 футов падения, максимум 20d6. Когда существо приземляется, оно получает состояние «лежащий ничком», если только не избежало получения урона от падения.
 
-#### Flying
+Существо, падающее в воду или другую жидкость, может использовать свою реакцию, чтобы совершить проверку Силы (Атлетика) или Ловкости (Акробатика) со СЛ 15, чтобы войти в поверхность головой или ногами вперёд. При успешной проверке любой урон от падения уменьшается вдвое.
 
-A variety of effects allow a creature to fly. While flying, you fall if you have the Incapacitated or Prone condition or your Fly Speed is reduced to 0. You can stay aloft in those circumstances if you can hover. *See also* "Falling" and "Fly Speed."
+#### Полёт
 
-#### Fly Speed
+Различные эффекты позволяют существу летать. Во время полёта вы падаете, если находитесь в состоянии «недееспособный» или «лежащий ничком», или если ваша скорость полёта снижена до 0. Вы можете оставаться в воздухе в этих обстоятельствах, если можете парить. *См. также* «Падение» и «Скорость полёта».
 
-A Fly Speed can be used to travel through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die. *See also* "Flying" and "Speed."
+#### Скорость полёта
 
-#### Friendly [Attitude]
+Скорость полёта можно использовать для перемещения по воздуху. Пока у вас есть скорость полёта, вы можете оставаться в воздухе, пока не приземлитесь, не упадёте или не умрёте. *См. также* «Полёт» и «Скорость».
 
-A Friendly creature views you favorably. You have Advantage on an ability check to influence a Friendly creature. *See also* "Influence."
+#### Дружелюбный [Отношение]
 
-#### Frightened [Condition]
+Дружелюбное существо относится к вам благосклонно. Вы совершаете с преимуществом проверку характеристики для воздействия на дружелюбное существо. *См. также* «Воздействие».
 
-While you have the Frightened condition, you experience the following effects.
+#### Испуганный [Состояние]
 
-**_Ability Checks and Attacks Affected._** You have Disadvantage on ability checks and attack rolls while the source of fear is within line of sight.
+Пока вы находитесь в состоянии «испуганный», вы испытываете следующие эффекты.
 
-**_Can't Approach._** You can't willingly move closer to the source of fear.
+**_Проверки характеристик и атаки затронуты._** Вы совершаете с помехой проверки характеристик и броски атаки, пока источник страха находится в пределах прямой видимости.
 
-#### Grappled [Condition]
+**_Не может приближаться._** Вы не можете добровольно приближаться к источнику страха.
 
-While you have the Grappled condition, you experience the following effects.
+#### Схваченный [Состояние]
 
-**_Speed 0._** Your Speed is 0 and can't increase.
+Пока вы находитесь в состоянии «схваченный», вы испытываете следующие эффекты.
 
-**_Attacks Affected._** You have Disadvantage on attack rolls against any target other than the grappler. 
+**_Скорость 0._** Ваша скорость равна 0 и не может увеличиваться.
 
-**_Movable._** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+**_Атаки затронуты._** Вы совершаете с помехой броски атаки против любой цели, кроме схватившего.
 
-#### Grappling
+**_Можно перемещать._** Схвативший может тащить или нести вас при перемещении, но каждый фут перемещения стоит ему 1 дополнительный фут, если вы не крошечный или на два или более размеров меньше его.
 
-A creature can grapple another creature. Characters typically grapple by using an Unarmed Strike. Many monsters have special attacks that allow them to quickly grapple prey. However a grapple is initiated, it follows these rules. *See also* "Unarmed Strike" and "Grappled."
+#### Захват
 
-**_Grappled Condition._** Successfully grappling a creature gives it the Grappled condition.
+Существо может схватить другое существо. Персонажи обычно хватают, используя безоружный удар. Многие монстры имеют особые атаки, позволяющие им быстро схватить добычу. Однако захват инициируется, он следует этим правилам. *См. также* «Безоружный удар» и «Схваченный».
 
-**_One Grapple per Hand._** A creature must have a hand free to grapple another creature. Some stat blocks and game effects allow a creature to grapple using a tentacle, a maw, or another body part. Whatever part a grappler uses, it can grapple only one creature at a time with that part, and the grappler can't use that part to target another creature unless it ends the grapple.
+**_Состояние «схваченный»._** Успешный захват существа накладывает на него состояние «схваченный».
 
-**_Ending a Grapple._** A Grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check against the grapple's escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
+**_Один захват на руку._** Существо должно иметь свободную руку для захвата другого существа. Некоторые блоки характеристик и игровые эффекты позволяют существу захватывать щупальцем, пастью или другой частью тела. Какую бы часть ни использовал хватающий, он может захватить только одно существо за раз этой частью, и хватающий не может использовать эту часть для нацеливания на другое существо, пока не отпустит захват.
 
-#### Hazard
+**_Окончание захвата._** Схваченное существо может использовать своё действие, чтобы совершить проверку Силы (Атлетика) или Ловкости (Акробатика) против СЛ побега захвата, заканчивая состояние на себе при успехе. Состояние также заканчивается, если хватающий получает состояние «недееспособный» или если расстояние между схваченной целью и хватающим превышает досягаемость захвата. Кроме того, хватающий может отпустить цель в любое время (действие не требуется).
 
-A hazard is an environmental danger. *See also* "Burning," "Dehydration," "Falling," "Malnutrition," and "Suffocation."
+#### Опасность
 
-#### Healing
+Опасность — это угроза окружающей среды. *См. также* «Горение», «Обезвоживание», «Падение», «Голодание» и «Удушение».
 
-Healing is how you regain Hit Points. *See also* "Playing the Game" ("Damage and Healing").
+#### Исцеление
 
-#### Heavily Obscured
+Исцеление — это способ восстановления хитов. *См. также* «Процесс игры» («Урон и исцеление»).
 
-You have the Blinded condition while trying to see something in a Heavily Obscured space. *See also* "Blinded," "Darkness," and "Playing the Game" ("Exploration").
+#### Сильно заслонённая область
 
-#### Help [Action]
+Вы получаете состояние «ослеплённый» при попытке увидеть что-то в сильно заслонённой области. *См. также* «Ослеплённый», «Тьма» и «Процесс игры» («Исследование»).
 
-When you take the Help action, you do one of the following.
+#### Помощь [Действие]
 
-*Assist an Ability Check.* Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has Advantage on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The GM has final say on whether your assistance is possible.
+Когда вы совершаете действие Помощь, вы делаете одно из следующего.
 
-*Assist an Attack Roll.* You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+*Помощь в проверке характеристики.* Выберите одно из ваших владений навыком или инструментом и одного союзника, который достаточно близко, чтобы вы могли помочь ему устно или физически, когда он совершает проверку характеристики. Этот союзник совершает с преимуществом следующую проверку характеристики с выбранным навыком или инструментом. Это преимущество заканчивается, если союзник не использует его до начала вашего следующего хода. МИ решает, возможна ли ваша помощь.
 
-#### Heroic Inspiration
+*Помощь в броске атаки.* Вы на мгновение отвлекаете врага в пределах 5 футов от вас, давая преимущество следующему броску атаки одного из ваших союзников против этого врага. Это преимущество заканчивается в начале вашего следующего хода.
 
-If you (a player character) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
+#### Героическое вдохновение
 
-If you gain Heroic Inspiration but already have it, it's lost unless you give it to a player character who lacks it.
+Если у вас (персонажа игрока) есть героическое вдохновение, вы можете потратить его, чтобы перебросить любую кость сразу после броска, и вы должны использовать новый результат.
 
-#### Hide [Action]
+Если вы получаете героическое вдохновение, но уже имеете его, оно теряется, если вы не передадите его персонажу игрока, у которого его нет.
 
-With the Hide action, you try to hide yourself. To do so, you must succeed on a DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+#### Засада [Действие]
 
-On a successful check, you have the Invisible condition while hidden. Make note of your check's total, which is the DC for a creature to find you with a Wisdom (Perception) check.
+Действием Засада вы пытаетесь спрятаться. Для этого вы должны преуспеть в проверке Ловкости (Скрытность) со СЛ 15, находясь в сильно заслонённой области или за укрытием на три четверти или полным укрытием, и вы должны быть вне прямой видимости любого врага; если вы видите существо, вы можете определить, видит ли оно вас.
 
-You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
+При успешной проверке вы получаете состояние «невидимый», пока скрыты. Запишите результат вашей проверки — это СЛ для существа, чтобы найти вас проверкой Мудрости (Восприятие).
 
-#### High Jump
+Вы немедленно перестаёте быть скрытым, если происходит любое из следующего: вы издаёте звук громче шёпота, враг находит вас, вы совершаете бросок атаки или сотворяете заклинание с вербальным компонентом.
 
-When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of movement.
+#### Прыжок в высоту
 
-You can extend your arms half your height above yourself during the jump. Thus, you can reach a distance equal to the height of the jump plus 1½ times your height.
+Когда вы совершаете прыжок в высоту, вы подпрыгиваете на количество футов, равное 3 плюс ваш модификатор Силы (минимум 0 футов), если перемещаетесь пешком минимум 10 футов непосредственно перед прыжком. Когда вы совершаете прыжок в высоту с места, вы можете подпрыгнуть только на половину этого расстояния. В любом случае каждый фут прыжка стоит фут перемещения.
 
-#### Hit Point Dice
+Вы можете вытянуть руки на половину вашего роста над собой во время прыжка. Таким образом, вы можете достать на расстояние, равное высоте прыжка плюс полтора вашего роста.
 
-Hit Point Dice, or Hit Dice for short, help determine a player character's Hit Point maximum, as explained in "Character Creation." Most monsters also have Hit Dice. A creature can spend Hit Dice during a Short Rest to regain Hit Points. *See also* "Short Rest."
+#### Кости хитов
 
-#### Hit Points
+Кости хитов помогают определить максимум хитов персонажа игрока, как объясняется в «Создании персонажа». Большинство монстров также имеют кости хитов. Существо может тратить кости хитов во время короткого отдыха для восстановления хитов. *См. также* «Короткий отдых».
 
-Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can't have more Hit Points than your Hit Point maximum, and you can't have less than 0. *See also* "Breaking Objects" and "Playing the Game" ("Damage and Healing").
+#### Хиты
 
-#### Hostile [Attitude]
+Хиты (Хиты) — это мера того, насколько сложно убить или уничтожить существо или объект. Урон уменьшает хиты, а исцеление восстанавливает их. У вас не может быть больше хитов, чем ваш максимум хитов, и не может быть меньше 0. *См. также* «Разрушение объектов» и «Процесс игры» («Урон и исцеление»).
 
-A Hostile creature views you unfavorably. You have Disadvantage on an ability check to influence a Hostile creature. *See also* "Influence."
+#### Враждебный [Отношение]
 
-#### Hover
+Враждебное существо относится к вам неблагосклонно. Вы совершаете с помехой проверку характеристики для воздействия на враждебное существо. *См. также* «Воздействие».
 
-Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while flying prevents you from falling in certain circumstances. *See also* "Flying."
+#### Парение
 
-#### Illusions
+Некоторые существа могут парить, как указано в их блоках характеристик, и некоторые заклинания и другие эффекты дают способность парить. Парение во время полёта предотвращает падение в определённых обстоятельствах. *См. также* «Полёт».
 
-Spells and other effects sometimes create magical illusions. Such an effect defines what the illusion does and which senses or mental faculties it deceives.
+#### Иллюзии
 
-If an illusion manifests in space, the illusion is insubstantial and weightless, yet it seems to be affected by the environment as if the illusion were real unless the effect that created it specifies otherwise. For example, a visual illusion of a creature casts shadows and reflections, and wind appears to affect the illusory creature. Similarly, an audible illusion echoes in an echoey space.
+Заклинания и другие эффекты иногда создают магические иллюзии. Такой эффект определяет, что делает иллюзия и какие чувства или умственные способности она обманывает.
 
-#### Immunity
+Если иллюзия проявляется в пространстве, иллюзия нематериальна и невесома, но кажется, что на неё влияет окружающая среда, как если бы иллюзия была реальной, если эффект, создавший её, не указывает иное. Например, визуальная иллюзия существа отбрасывает тени и отражения, и ветер, кажется, влияет на иллюзорное существо. Аналогично, звуковая иллюзия отдаётся эхом в эхо-пространстве.
 
-If you have Immunity to a damage type or a condition, it doesn't affect you in any way.
+#### Иммунитет
 
-#### Improvised Weapons
+Если у вас есть иммунитет к типу урона или состоянию, он никак на вас не влияет.
 
-An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
+#### Импровизированное оружие
 
-**_Proficiency._** Don't add your Proficiency Bonus to attack rolls with an improvised weapon.
+Импровизированное оружие — это объект, используемый как временное оружие, например битое стекло, ножка стола или сковорода. Простое или воинское оружие также считается импровизированным оружием, если оно используется не по назначению; если вы используете дальнобойное оружие для совершения ближней атаки или бросаете оружие ближнего боя без свойства «метательное», оружие считается импровизированным. Импровизированное оружие следует правилам ниже.
 
-**_Damage._** On a hit, the weapon deals 1d4 damage of a type the GM thinks is appropriate for the object.
+**_Владение._** Не добавляйте бонус мастерства к броскам атаки импровизированным оружием.
 
-**_Range._** If you throw the weapon, it has a normal range of 20 feet and a long range of 60 feet.
+**_Урон._** При попадании оружие наносит 1d4 урона типа, который МИ считает подходящим для объекта.
 
-**_Weapon Equivalents._** If an improvised weapon resembles a Simple or Martial weapon, the GM may say it functions as that weapon and uses that weapon's rules. For example, the GM could treat a table leg as a Club.
+**_Дистанция._** Если вы бросаете оружие, оно имеет нормальную дистанцию 20 футов и максимальную дистанцию 60 футов.
 
-#### Incapacitated [Condition]
+**_Эквиваленты оружия._** Если импровизированное оружие похоже на простое или воинское оружие, МИ может сказать, что оно функционирует как это оружие и использует правила этого оружия. Например, МИ может считать ножку стола дубинкой.
 
-While you have the Incapacitated condition, you experience the following effects.
+#### Недееспособный [Состояние]
 
-**_Inactive._** You can't take any action, Bonus Action, or Reaction.
+Пока вы находитесь в состоянии «недееспособный», вы испытываете следующие эффекты.
 
-**_No Concentration._** Your Concentration is broken. *Speechless.* You can't speak.
+**_Неактивен._** Вы не можете совершать никакие действия, бонусные действия или реакции.
 
-**_Surprised._** If you're Incapacitated when you roll Initiative, you have Disadvantage on the roll.
+**_Нет концентрации._** Ваша концентрация прервана. *Бессловесный.* Вы не можете говорить.
 
-#### Indifferent [Attitude]
+**_Застигнут врасплох._** Если вы недееспособны, когда бросаете инициативу, вы совершаете бросок с помехой.
 
-An Indifferent creature has no desire to help or hinder you. Indifferent is the default attitude of a monster. *See also* "Influence."
+#### Безразличный [Отношение]
 
-#### Influence [Action]
+Безразличное существо не имеет желания помогать вам или мешать вам. Безразличный — это отношение монстра по умолчанию. *См. также* «Воздействие».
 
-With the Influence action, you urge a monster to do something. Describe or roleplay how you're communicating with the monster. Are you trying to deceive, intimidate, amuse, or gently persuade? The GM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction; this determination establishes whether an ability check is necessary, as explained below.
+#### Воздействие [Действие]
 
-**_Willing._** If your urging aligns with the monster's desires, no ability check is necessary; the monster fulfills your request in a way it prefers.
+Действием Воздействие вы убеждаете монстра что-то сделать. Опишите или отыграйте, как вы общаетесь с монстром. Вы пытаетесь обмануть, запугать, развлечь или мягко убедить? Затем МИ определяет, чувствует ли монстр себя готовым, не готовым или колеблющимся из-за вашего взаимодействия; это определение устанавливает, необходима ли проверка характеристики, как объясняется ниже.
 
-**_Unwilling._** If your urging is repugnant to the monster or counter to its alignment, no ability check is necessary; it doesn't comply.
+**_Готов._** Если ваше убеждение соответствует желаниям монстра, проверка характеристики не нужна; монстр выполняет вашу просьбу так, как предпочитает.
 
-**_Hesitant._** If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster's attitude: Indifferent, Friendly, or Hostile, each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you're interacting with the monster. The GM chooses the check, which has a default DC equal to 15 or the monster's Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the GM) before urging it in the same way again.
+**_Не готов._** Если ваше убеждение отвратительно монстру или противоречит его мировоззрению, проверка характеристики не нужна; он не подчиняется.
 
-Table: Influence Checks
+**_Колеблющийся._** Если вы убеждаете монстра сделать то, в чём он сомневается, вы должны совершить проверку характеристики, на которую влияет отношение монстра: безразличный, дружелюбный или враждебный — каждое из которых определено в этом глоссарии. Таблица проверок воздействия предлагает, какую проверку характеристики совершить в зависимости от того, как вы взаимодействуете с монстром. МИ выбирает проверку, СЛ которой по умолчанию равна 15 или Интеллекту монстра, в зависимости от того, что выше. При успешной проверке монстр делает то, о чём вы просите. При неудачной проверке вы должны подождать 24 часа (или срок, установленный МИ), прежде чем убеждать его таким же образом снова.
 
-| Ability Check            | Interaction                                  |
-|--------------------------|----------------------------------------------|
-| Charisma (Deception)     | Deceiving a monster that understands you     |
-| Charisma (Intimidation)  | Intimidating a monster                       |
-| Charisma (Performance)   | Amusing a monster                            |
-| Charisma (Persuasion)    | Persuading a monster that understands you    |
-| Wisdom (Animal Handling) | Gently coaxing a Beast or Monstrosity        |
+Таблица: Проверки воздействия
 
-#### Initiative
+| Проверка характеристики     | Взаимодействие                                |
+|-----------------------------|-----------------------------------------------|
+| Харизма (Обман)             | Обман монстра, который вас понимает           |
+| Харизма (Запугивание)       | Запугивание монстра                           |
+| Харизма (Выступление)       | Развлечение монстра                           |
+| Харизма (Убеждение)         | Убеждение монстра, который вас понимает       |
+| Мудрость (Уход за животными)| Мягкое приручение зверя или чудовища          |
 
-Initiative determines the order of turns during combat. The combat rules in "Playing the Game" explain how to roll Initiative.
+#### Инициатива
 
-Sometimes a GM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have Advantage on Initiative rolls, increase your Initiative score by 5. If you have Disadvantage on those rolls, decrease that score by 5. *See also* "Playing the Game" ("Combat").
+Инициатива определяет порядок ходов во время боя. Правила боя в «Процессе игры» объясняют, как бросать инициативу.
 
-#### Invisible [Condition]
+Иногда МИ может предложить участникам использовать их значения инициативы вместо броска инициативы. Ваше значение инициативы равно 10 плюс ваш модификатор Ловкости. Если у вас есть преимущество на броски инициативы, увеличьте значение инициативы на 5. Если у вас помеха на эти броски, уменьшите значение на 5. *См. также* «Процесс игры» («Бой»).
 
-While you have the Invisible condition, you experience the following effects.
+#### Невидимый [Состояние]
 
-**_Surprise._** If you're Invisible when you roll Initiative, you have Advantage on the roll.
+Пока вы находитесь в состоянии «невидимый», вы испытываете следующие эффекты.
 
-**_Concealed._** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+**_Внезапность._** Если вы невидимы, когда бросаете инициативу, вы совершаете бросок с преимуществом.
 
-**_Attacks Affected._** Attack rolls against you have Disadvantage, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
+**_Скрыт._** На вас не влияет никакой эффект, требующий, чтобы цель была видна, если создатель эффекта каким-то образом не может вас видеть. Любое снаряжение, которое вы носите или несёте, также скрыто.
 
-#### Jumping
+**_Атаки затронуты._** Броски атаки против вас совершаются с помехой, а ваши броски атаки совершаются с преимуществом. Если существо каким-то образом может вас видеть, вы не получаете это преимущество против этого существа.
 
-When you jump, you make either a Long Jump (horizontal) or a High Jump (vertical). *See also* "Long Jump" and "High Jump."
+#### Прыжок
 
-#### Knocking Out a Creature
+Когда вы прыгаете, вы совершаете либо прыжок в длину (горизонтальный), либо прыжок в высоту (вертикальный). *См. также* «Прыжок в длину» и «Прыжок в высоту».
 
-When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point. The creature then has the Unconscious condition and starts a Short Rest.
+#### Оглушение существа
 
-The creature remains Unconscious until it regains any Hit Points or until someone uses an action to administer first aid to it, which requires a successful DC 10 Wisdom (Medicine) check.
+Когда вы должны снизить хиты существа до 0 атакой ближнего боя, вы можете вместо этого снизить хиты существа до 1. Существо получает состояние «без сознания» и начинает короткий отдых.
 
-#### Lightly Obscured
+Существо остаётся без сознания, пока не восстановит какие-либо хиты или пока кто-то не использует действие для оказания первой помощи, что требует успешной проверки Мудрости (Медицина) со СЛ 10.
 
-You have Disadvantage on Wisdom (Perception) checks to see something in a Lightly Obscured space. *See also* "Dim Light" and "Playing the Game" ("Exploration").
+#### Слабо заслонённая область
 
-#### Line [Area of Effect]
+Вы совершаете с помехой проверки Мудрости (Восприятие), чтобы увидеть что-то в слабо заслонённой области. *См. также* «Тусклый свет» и «Процесс игры» («Исследование»).
 
-A Line is an area of effect that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
+#### Линия [Область воздействия]
 
-A Line's point of origin isn't included in the area of effect unless its creator decides otherwise.
+Линия — это область воздействия, которая простирается от точки происхождения по прямому пути вдоль её длины и покрывает область, определённую её шириной. Эффект, создающий линию, указывает её длину и ширину.
 
-#### Long Jump
+Точка происхождения линии не включается в область воздействия, если создатель не решит иначе.
 
-When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you
+#### Прыжок в длину
 
-move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.
+Когда вы совершаете прыжок в длину, вы прыгаете горизонтально на количество футов, равное вашему значению Силы, если перемещаетесь минимум 10 футов непосредственно перед прыжком. Когда вы совершаете прыжок в длину с места, вы можете прыгнуть только на половину этого расстояния. В любом случае каждый фут прыжка стоит фут перемещения.
 
-If you land in Difficult Terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check or have the Prone condition.
+Если вы приземляетесь на труднопроходимую местность, вы должны преуспеть в проверке Ловкости (Акробатика) со СЛ 10, иначе получаете состояние «лежащий ничком».
 
-This Long Jump rule assumes that the height of the jump doesn't matter, such as a jump across a stream or chasm. At your GM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit the obstacle.
+Это правило прыжка в длину предполагает, что высота прыжка не имеет значения, например прыжок через ручей или пропасть. По усмотрению МИ вы должны преуспеть в проверке Силы (Атлетика) со СЛ 10, чтобы перепрыгнуть низкое препятствие (не выше четверти дистанции прыжка), такое как изгородь или низкая стена. В противном случае вы врезаетесь в препятствие.
 
-#### Long Rest
+#### Продолжительный отдых
 
-A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
+Продолжительный отдых — это период длительного отдыха — минимум 8 часов — доступный любому существу. Во время продолжительного отдыха вы спите минимум 6 часов и занимаетесь лёгкой деятельностью не более 2 часов, такой как чтение, разговоры, еда или караул.
 
-During sleep, you have the Unconscious condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.
+Во время сна вы находитесь в состоянии «без сознания». После завершения продолжительного отдыха вы должны подождать минимум 16 часов, прежде чем начать другой.
 
-**_Benefits of the Rest._** To start a Long Rest, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
+**_Преимущества отдыха._** Чтобы начать продолжительный отдых, у вас должен быть минимум 1 хит. Когда вы заканчиваете отдых, вы получаете следующие преимущества:
 
-**Regain All HP.** You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns to normal.
+**Восстановление всех хитов.** Вы восстанавливаете все потерянные хиты и все потраченные кости хитов. Если ваш максимум хитов был снижен, он возвращается к норме.
 
-**Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.
+**Характеристики восстановлены.** Если какие-либо из ваших значений характеристик были снижены, они возвращаются к норме.
 
-**Exhaustion Reduced.** If you have the Exhaustion condition, its level decreases by 1.
+**Истощение снижено.** Если вы находитесь в состоянии «истощение», его уровень снижается на 1.
 
-**Special Feature.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
+**Особое умение.** Некоторые умения восстанавливаются продолжительным отдыхом. Если у вас есть такое умение, оно восстанавливается так, как указано в его описании.
 
-**_Interrupting the Rest._** A Long Rest is stopped by the following interruptions:
+**_Прерывание отдыха._** Продолжительный отдых прерывается следующими действиями:
 
-- Rolling Initiative
-- Casting a spell other than a cantrip
-- Taking any damage
-- 1 hour of walking or other physical exertion
+- Бросок инициативы
+- Сотворение заклинания, кроме заговора
+- Получение любого урона
+- 1 час ходьбы или другой физической нагрузки
 
-If you rested at least 1 hour before the interruption, you gain the benefits of a Short Rest. *See also* "Short Rest."
+Если вы отдыхали минимум 1 час до прерывания, вы получаете преимущества короткого отдыха. *См. также* «Короткий отдых».
 
-You can resume a Long Rest immediately after an interruption. If you do so, the rest requires 1 additional hour per interruption to finish.
+Вы можете возобновить продолжительный отдых сразу после прерывания. Если вы это сделаете, отдых требует 1 дополнительный час на каждое прерывание для завершения.
 
-#### Magic [Action]
+#### Магия [Действие]
 
-When you take the Magic action, you cast a spell that has a casting time of an action or use a feature or magic item that requires a Magic action to be activated.
+Когда вы совершаете действие Магия, вы сотворяете заклинание со временем сотворения одно действие или используете умение или магический предмет, требующий действия Магия для активации.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. *See also* "Concentration."
+Если вы сотворяете заклинание со временем сотворения 1 минута или дольше, вы должны совершать действие Магия каждый ход этого сотворения и поддерживать концентрацию. Если ваша концентрация прервана, заклинание проваливается, но вы не тратите ячейку заклинания. *См. также* «Концентрация».
 
-#### Magical Effect
+#### Магический эффект
 
-An effect is magical if it is created by a spell, a magic item, or a phenomenon that a rule labels as magical.
+Эффект является магическим, если он создан заклинанием, магическим предметом или явлением, которое правило определяет как магическое.
 
-#### Malnutrition [Hazard]
+#### Голодание [Опасность]
 
-A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution saving throw or gain 1 Exhaustion level at the day's end. A creature that eats nothing for 5 days automatically gains 1 Exhaustion level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+Существо нуждается в определённом количестве пищи в день в зависимости от его размера, как показано в таблице потребности в пище в день. Существо, которое ест, но потребляет менее половины необходимой пищи за день, должно преуспеть в спасброске Телосложения со СЛ 10, иначе получает 1 уровень истощения в конце дня. Существо, которое не ест ничего в течение 5 дней, автоматически получает 1 уровень истощения в конце пятого дня, а также дополнительный уровень в конце каждого последующего дня без пищи.
 
-Exhaustion caused by malnutrition can't be removed until the creature eats the full amount of food required for a day. *See also* "Exhaustion."
+Истощение, вызванное голоданием, нельзя снять, пока существо не съест полное количество пищи, необходимое за день. *См. также* «Истощение».
 
-Table: Food Needs per Day
+Таблица: Потребность в пище в день
 
-| Size       | Food      |
+| Размер     | Пища      |
 |------------|-----------|
-| Tiny       | 1/4 pound |
-| Small      | 1 pound   |
-| Medium     | 1 pound   |
-| Large      | 4 pounds  |
-| Huge       | 16 pounds |
-| Gargantuan | 64 pounds |
+| Крошечный  | 100 г     |
+| Маленький  | 450 г     |
+| Средний    | 450 г     |
+| Большой    | 1,8 кг    |
+| Огромный   | 7,2 кг    |
+| Громадный  | 29 кг     |
 
-#### Monster
+#### Монстр
 
-A monster is a creature controlled by the GM, even if the creature is benevolent. *See also* "Creature" and "NPC."
+Монстр — это существо, контролируемое МИ, даже если это существо доброжелательное. *См. также* «Существо» и «НИП».
 
-#### Nonplayer Character
+#### Неигровой персонаж
 
-A nonplayer character (NPC) is a monster that has a personal name and a distinct personality. *See also* "Monster."
+Неигровой персонаж (НИП) — это монстр с личным именем и отчётливой индивидуальностью. *См. также* «Монстр».
 
-#### Object
+#### Объект
 
-An object is a nonliving, distinct thing. Composite things, like buildings, comprise more than one object. *See also* "Breaking Objects."
+Объект — это неживая отдельная вещь. Составные вещи, такие как здания, состоят из нескольких объектов. *См. также* «Разрушение объектов».
 
-#### Occupied Space
+#### Занятое пространство
 
-A space is occupied if a creature is in it or if it is completely filled by objects.
+Пространство занято, если в нём находится существо или если оно полностью заполнено объектами.
 
-#### Opportunity Attacks
+#### Провоцированные атаки
 
-You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its Bonus Action, its Reaction, or one of its speeds. To make the Opportunity Attack, take a Reaction to make one melee attack with a weapon or an Unarmed Strike against the provoking creature. The attack occurs right before the creature leaves your reach. *See also* "Playing the Game" ("Combat").
+Вы можете совершить провоцированную атаку, когда существо, которое вы видите, покидает вашу досягаемость, используя своё действие, бонусное действие, реакцию или одну из своих скоростей. Чтобы совершить провоцированную атаку, используйте реакцию, чтобы сделать одну атаку ближнего боя оружием или безоружный удар против провоцирующего существа. Атака происходит непосредственно перед тем, как существо покидает вашу досягаемость. *См. также* «Процесс игры» («Бой»).
 
-#### Paralyzed [Condition]
+#### Парализованный [Состояние]
 
-While you have the Paralyzed condition, you experience the following effects.
+Пока вы находитесь в состоянии «парализованный», вы испытываете следующие эффекты.
 
-**_Incapacitated._** You have the Incapacitated condition.
+**_Недееспособный._** Вы находитесь в состоянии «недееспособный».
 
-**_Speed 0._** Your Speed is 0 and can't increase. *Saving Throws Affected.* You automatically fail Strength and Dexterity saving throws.
+**_Скорость 0._** Ваша скорость равна 0 и не может увеличиваться. *Спасброски затронуты.* Вы автоматически проваливаете спасброски Силы и Ловкости.
 
-**_Attacks Affected._** Attack rolls against you have Advantage.
+**_Атаки затронуты._** Броски атаки против вас совершаются с преимуществом.
 
-**_Automatic Critical Hits._** Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
+**_Автоматические критические попадания._** Любой бросок атаки, попадающий по вам, является критическим попаданием, если атакующий находится в пределах 5 футов от вас.
 
-#### Passive Perception
+#### Пассивное восприятие
 
-Passive Perception is a score that reflects a creature's general awareness of its surroundings. The GM uses this score when determining whether a creature notices something without consciously making a Wisdom (Perception) check.
+Пассивное восприятие — это значение, отражающее общую осведомлённость существа об окружающей среде. МИ использует это значение при определении, замечает ли существо что-то без сознательного совершения проверки Мудрости (Восприятие).
 
-A creature's Passive Perception equals 10 plus the creature's Wisdom (Perception) check bonus. If the creature has Advantage on such checks, increase the score by 5. If the creature has Disadvantage on them, decrease the score by 5. For example, a level 1 character with a Wisdom of 15 and proficiency in Perception has a Passive Perception of 14 (10 + 2 + 2). If that character has Advantage on Wisdom (Perception) checks, the score becomes 19.
+Пассивное восприятие существа равно 10 плюс бонус проверки Мудрости (Восприятие) существа. Если существо имеет преимущество на такие проверки, увеличьте значение на 5. Если существо имеет помеху на них, уменьшите значение на 5. Например, персонаж 1-го уровня с Мудростью 15 и владением Восприятием имеет пассивное восприятие 14 (10 + 2 + 2). Если этот персонаж имеет преимущество на проверки Мудрости (Восприятие), значение становится 19.
 
-#### Per Day
+#### В день
 
-If a rule says you can use something a certain number of times per day, that means you must finish a Long Rest to use it again after you run out of uses.
+Если правило говорит, что вы можете использовать что-то определённое количество раз в день, это означает, что вы должны завершить продолжительный отдых, чтобы использовать это снова после исчерпания всех использований.
 
-#### Petrified [Condition]
+#### Окаменевший [Состояние]
 
-While you have the Petrified condition, you experience the following effects.
+Пока вы находитесь в состоянии «окаменевший», вы испытываете следующие эффекты.
 
-**_Turned to Inanimate Substance._** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+**_Превращён в неживое вещество._** Вы превращены вместе с любыми немагическими объектами, которые носите и несёте, в твёрдое неживое вещество (обычно камень). Ваш вес увеличивается в десять раз, и вы перестаёте стареть.
 
-**_Incapacitated._** You have the Incapacitated condition.
+**_Недееспособный._** Вы находитесь в состоянии «недееспособный».
 
-**_Speed 0._** Your Speed is 0 and can't increase. *Attacks Affected.* Attack rolls against you have Advantage.
+**_Скорость 0._** Ваша скорость равна 0 и не может увеличиваться. *Атаки затронуты.* Броски атаки против вас совершаются с преимуществом.
 
-**_Saving Throws Affected._** You automatically fail Strength and Dexterity saving throws.
+**_Спасброски затронуты._** Вы автоматически проваливаете спасброски Силы и Ловкости.
 
-**_Resist Damage._** You have Resistance to all damage.
+**_Сопротивление урону._** Вы имеете сопротивление ко всем типам урона.
 
-**_Poison Immunity._** You have Immunity to the Poisoned condition.
+**_Иммунитет к яду._** Вы имеете иммунитет к состоянию «отравленный».
 
-#### Player Character
+#### Персонаж игрока
 
-A player character is a character controlled by a player. *See also* "Character Creation."
+Персонаж игрока — это персонаж, контролируемый игроком. *См. также* «Создание персонажа».
 
-#### Poisoned [Condition]
+#### Отравленный [Состояние]
 
-While you have the Poisoned condition, you experience the following effect.
+Пока вы находитесь в состоянии «отравленный», вы испытываете следующий эффект.
 
-**_Ability Checks and Attacks Affected._** You have Disadvantage on attack rolls and ability checks.
+**_Проверки характеристик и атаки затронуты._** Вы совершаете с помехой броски атаки и проверки характеристик.
 
-#### Possession
+#### Одержимость
 
-Some effects cause a creature to be possessed by another creature or entity. A possessing effect defines how the possession operates. Possession can be prevented by the *Protection from Evil and Good* spell and ended by the *Dispel Evil and Good* spell.
+Некоторые эффекты заставляют существо быть одержимым другим существом или сущностью. Одержимающий эффект определяет, как работает одержимость. Одержимость можно предотвратить заклинанием *Защита от добра и зла* и прекратить заклинанием *Рассеивание добра и зла*.
 
-#### Proficiency
+#### Владение
 
-If you have proficiency with something, you can add your Proficiency Bonus to any D20 Test you make using that thing. A creature might have proficiency in a skill or saving throw or with a weapon or tool. *See also* "Playing the Game" ("Proficiency").
+Если вы владеете чем-либо, вы можете добавить свой бонус мастерства к любой проверке d20, которую совершаете с использованием этой вещи. Существо может владеть навыком или спасброском, или оружием или инструментом. *См. также* «Процесс игры» («Владение»).
 
-#### Prone [Condition]
+#### Лежащий ничком [Состояние]
 
-While you have the Prone condition, you experience the following effects.
+Пока вы находитесь в состоянии «лежащий ничком», вы испытываете следующие эффекты.
 
-**_Restricted Movement._** Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can't right yourself.
+**_Ограниченное перемещение._** Ваши единственные варианты перемещения — ползти или потратить количество перемещения, равное половине вашей скорости (с округлением вниз), чтобы подняться и тем самым закончить состояние. Если ваша скорость равна 0, вы не можете подняться.
 
-**_Attacks Affected._** You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
+**_Атаки затронуты._** Вы совершаете с помехой броски атаки. Бросок атаки против вас совершается с преимуществом, если атакующий находится в пределах 5 футов от вас. В противном случае этот бросок атаки совершается с помехой.
 
-#### Reach
+#### Досягаемость
 
-A creature has a reach of 5 feet unless a rule says otherwise.
+Досягаемость существа составляет 5 футов, если правило не указывает иное.
 
-#### Reaction
+#### Реакция
 
-A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a Reaction on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a Bonus Action, or both. Once you take a Reaction, you can't take another one until the start of your next turn. The Opportunity Attack is a Reaction available to all creatures. *See also* "Opportunity Attacks" and "Playing the Game" ("Actions").
+Реакция — это особое действие, совершаемое в ответ на триггер, определённый в описании реакции. Вы можете совершить реакцию в ход другого существа, и если вы совершаете её в свой ход, вы можете сделать это, даже если также совершаете действие, бонусное действие или и то, и другое. После совершения реакции вы не можете совершить другую до начала вашего следующего хода. Провоцированная атака — это реакция, доступная всем существам. *См. также* «Провоцированные атаки» и «Процесс игры» («Действия»).
 
-#### Ready [Action]
+#### Подготовка [Действие]
 
-You take the Ready action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a Reaction before the start of your next turn.
+Вы совершаете действие Подготовка, чтобы дождаться определённых обстоятельств перед действием. Для этого вы совершаете это действие в свой ход, что позволяет вам действовать, совершая реакцию до начала вашего следующего хода.
 
-First, you decide what perceivable circumstance will trigger your Reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your Speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
+Сначала вы решаете, какое воспринимаемое обстоятельство вызовет вашу реакцию. Затем вы выбираете действие, которое совершите в ответ на этот триггер, или выбираете переместиться на расстояние до вашей скорости в ответ на него. Примеры включают: «Если культист наступит на люк, я потяну рычаг, открывающий его» и «Если зомби подойдёт ко мне, я отойду».
 
-When the trigger occurs, you can either take your Reaction right after the trigger finishes or ignore the trigger.
+Когда триггер происходит, вы можете либо совершить реакцию сразу после завершения триггера, либо проигнорировать триггер.
 
-When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your Reaction when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires Concentration, which you can maintain up to the start of your next turn. If your Concentration is broken, the spell dissipates without taking effect.
+Когда вы подготавливаете заклинание, вы сотворяете его как обычно (тратя все ресурсы, используемые для его сотворения), но удерживаете его энергию, которую высвобождаете своей реакцией, когда происходит триггер. Чтобы быть подготовленным, заклинание должно иметь время сотворения одно действие, и удержание магии заклинания требует концентрации, которую вы можете поддерживать до начала вашего следующего хода. Если ваша концентрация прервана, заклинание рассеивается без эффекта.
 
-#### Resistance
+#### Сопротивление
 
-If you have Resistance to a damage type, damage of that type is halved against you (round down). Resistance is applied only once to an instance of damage. *See also* "Playing the Game" ("Damage and Healing").
+Если у вас есть сопротивление к типу урона, урон этого типа уменьшается вдвое против вас (с округлением вниз). Сопротивление применяется только один раз к экземпляру урона. *См. также* «Процесс игры» («Урон и исцеление»).
 
-#### Restrained [Condition]
+#### Опутанный [Состояние]
 
-While you have the Restrained condition, you experience the following effects.
+Пока вы находитесь в состоянии «опутанный», вы испытываете следующие эффекты.
 
-**_Speed 0._** Your Speed is 0 and can't increase. 
+**_Скорость 0._** Ваша скорость равна 0 и не может увеличиваться.
 
-**_Attacks Affected._** Attack rolls against you have Advantage, and your attack rolls have Disadvantage. 
+**_Атаки затронуты._** Броски атаки против вас совершаются с преимуществом, а ваши броски атаки совершаются с помехой.
 
-**_Saving Throws Affected._** You have Disadvantage on Dexterity saving throws.
+**_Спасброски затронуты._** Вы совершаете с помехой спасброски Ловкости.
 
-#### Ritual
+#### Ритуал
 
-If you have a spell prepared that has the Ritual tag, you can cast that spell as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level. *See also* "Spells."
+Если у вас подготовлено заклинание с тегом Ритуал, вы можете сотворить это заклинание как ритуал. Ритуальная версия заклинания сотворяется на 10 минут дольше обычного. Она также не тратит ячейку заклинания, что означает, что ритуальную версию заклинания нельзя сотворить на более высоком уровне. *См. также* «Заклинания».
 
-#### Round Down
+#### Округление вниз
 
-Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
+Каждый раз, когда вы делите или умножаете число в игре, округляйте вниз, если получаете дробь, даже если дробь равна половине или больше. Некоторые правила делают исключение и говорят округлять вверх.
 
-#### Save
+#### Спасбросок
 
-Save is another name for a saving throw. *See also* "Saving Throw."
+Спасбросок — также называемый спасом — представляет попытку избежать или противостоять угрозе. Обычно вы совершаете спасбросок только когда правило требует этого, но вы можете решить провалить спасбросок без броска. Результат спасброска подробно описан в эффекте, который его вызвал. Если цель вынуждена совершить спасбросок и не имеет характеристики, используемой для него, цель автоматически проваливает. *См. также* «Процесс игры» («Проверки d20»).
 
-#### Saving Throw
+#### Поиск [Действие]
 
-A saving throw—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails. *See also* "Playing the Game" ("D20 Tests").
+Когда вы совершаете действие Поиск, вы совершаете проверку Мудрости, чтобы обнаружить что-то неочевидное. Таблица поиска предлагает, какие навыки применимы, когда вы совершаете это действие, в зависимости от того, что вы пытаетесь обнаружить.
 
-#### Search [Action]
+Таблица: Поиск
 
-When you take the Search action, you make a Wisdom check to discern something that isn't obvious. The Search table suggests which skills are applicable when you take this action, depending on what you're trying to detect.
+| Навык       | Что обнаружить                          |
+|-------------|-----------------------------------------|
+| Проницательность | Душевное состояние существа        |
+| Медицина    | Недуг существа или причина смерти       |
+| Восприятие  | Скрытое существо или объект             |
+| Выживание   | Следы или пища                          |
 
-Table: Search
+#### Изменение формы
 
-| Skill      | Thing to Detect                      |
-|------------|--------------------------------------|
-| Insight    | Creature's state of mind             |
-| Medicine   | Creature's ailment or cause of death |
-| Perception | Concealed creature or object         |
-| Survival   | Tracks or food                       |
+Если эффект, такой как Дикий облик или заклинание *Превращение*, позволяет вам изменить форму, его описание указывает, что с вами происходит. Если это описание не указывает иное, любые текущие эффекты на вас — состояния, заклинания, проклятия и подобное — переносятся из одной формы в другую. Вы возвращаетесь в свою истинную форму, если умираете.
 
-#### Shape-Shifting
+#### Короткий отдых
 
-If an effect, such as Wild Shape or the *Polymorph* spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—conditions, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die.
+Короткий отдых — это 1-часовой период отдыха, во время которого существо не занимается ничем более напряжённым, чем чтение, разговоры, еда или караул. Чтобы начать короткий отдых, у вас должен быть минимум 1 хит.
 
-#### Short Rest
+**Преимущества отдыха.** Когда вы заканчиваете отдых, вы получаете следующие преимущества:
 
-A Short Rest is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a Short Rest, you must have at least 1 Hit Point.
+**Трата костей хитов.** Вы можете потратить одну или несколько своих костей хитов для восстановления хитов. За каждую потраченную таким образом кость хитов бросьте кость и добавьте свой модификатор Телосложения. Вы восстанавливаете хиты в количестве, равном результату (минимум 1 хит). Вы можете решить потратить дополнительную кость хитов после каждого броска.
 
-**Benefits of the Rest.** When you finish the rest, you gain the following benefits:
+**Особое умение.** Некоторые умения восстанавливаются коротким отдыхом. Если у вас есть такое умение, оно восстанавливается так, как указано в его описании.
 
-**Spend Hit Point Dice.** You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Die you spend in this way, roll the die and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Die after each roll.
+**_Прерывание отдыха._** Короткий отдых прерывается следующими действиями:
 
-**Special Feature.** Some features are recharged by a Short Rest. If you have such a feature, it recharges in the way specified in its description.
+- Бросок инициативы
+- Сотворение заклинания, кроме заговора
+- Получение любого урона
 
-**_Interrupting the Rest._** A Short Rest is stopped by the following interruptions:
+Прерванный короткий отдых не даёт преимуществ.
 
-- Rolling Initiative
-- Casting a spell other than a cantrip
-- Taking any damage
+#### Одновременные эффекты
 
-An interrupted Short Rest confers no benefits.
+Если две или более вещей происходят одновременно в ход, человек за игровым столом — игрок или МИ — чей сейчас ход, решает порядок, в котором эти вещи происходят. Например, если два эффекта происходят в начале хода персонажа игрока, игрок решает, какой из эффектов происходит первым.
 
-#### Simultaneous Effects
+#### Размер
 
-If two or more things happen at the same time on a turn, the person at the game table—player or GM whose turn it is decides the order in which those things happen. For example, if two effects occur at the start of a player character's turn, the player decides which of the effects happens first.
+Существо или объект относится к категории размера: крошечный, маленький, средний, большой, огромный или громадный. Размер существа определяет, сколько места существо занимает в бою. Размер объекта влияет на его хиты. *См. также* «Разрушение объектов» и «Процесс игры» («Бой»).
 
-#### Size
+#### Навык
 
-A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature's size determines how much space the creature occupies in combat. An object's size affects its Hit Points. *See also* "Breaking Objects" and "Playing the Game" ("Combat").
+Навык — это область специализации, связанная с проверкой характеристики. Если вы владеете навыком, вы можете добавить свой бонус мастерства, когда совершаете проверку характеристики, связанную с этим навыком. *См. также* «Процесс игры» («Владение»).
 
-#### Skill
+#### Скорость
 
-A skill is an area of specialization associated with an ability check. If you have proficiency in a skill, you can add your Proficiency Bonus when you make an ability check associated with that skill. *See also* "Playing the Game" ("Proficiency").
+У существа есть скорость — расстояние в футах, которое существо может преодолеть при перемещении в свой ход. *См. также* «Лазание», «Ползание», «Полёт», «Прыжок», «Плавание» и «Процесс игры» («Бой»).
 
-#### Speed
+**_Особые скорости._** Некоторые существа имеют особые скорости, такие как скорость рытья, скорость лазания, скорость полёта или скорость плавания, каждая из которых определена в этом глоссарии. Если у вас более одной скорости, выбирайте, какую использовать при перемещении; вы можете переключаться между скоростями во время перемещения. Каждый раз, когда вы переключаетесь, вычитайте уже пройденное расстояние из новой скорости. Результат определяет, насколько дальше вы можете переместиться. Если результат 0 или меньше, вы не можете использовать новую скорость во время текущего перемещения. Например, если у вас скорость 30 и скорость полёта 40, вы можете пролететь 10 футов, пройти 10 футов и подпрыгнуть в воздух, чтобы пролететь ещё 20 футов.
 
-A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn. *See also* "Climbing," "Crawling," "Flying," "Jumping," "Swimming" and "Playing the Game" ("Combat").
+**_Изменения ваших скоростей._** Если эффект увеличивает или уменьшает вашу скорость на время, любая особая скорость, которую вы имеете, увеличивается или уменьшается на ту же величину на ту же длительность. Например, если ваша скорость снижена до 0 и у вас есть скорость лазания, ваша скорость лазания также снижена до 0. Аналогично, если ваша скорость уменьшена вдвое и у вас есть скорость полёта, ваша скорость полёта также уменьшена вдвое.
 
-**_Special Speeds._** Some creatures have special speeds, such as a Burrow Speed, Climb Speed, Fly Speed, or Swim Speed, each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
+#### Заклинание
 
-**_Changes to Your Speeds._** If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your Speed is halved and you have a Fly Speed, your Fly Speed is also halved.
+Заклинание — это магический эффект, имеющий характеристики, описанные в «Заклинаниях».
 
-#### Spell
+#### Атака заклинанием
 
-A spell is a magical effect that has the characteristics described in "Spells."
+Атака заклинанием — это бросок атаки, совершаемый как часть заклинания или другого магического эффекта. *См. также* «Заклинания» («Сотворение заклинаний»).
 
-#### Spell Attack
+#### Заклинательная фокусировка
 
-A spell attack is an attack roll made as part of a spell or another magical effect. *See also* "Spells" ("Casting Spells").
+Заклинательная фокусировка — это объект, который определённые существа могут использовать вместо материальных компонентов заклинания, если эти материалы не расходуются заклинанием и не имеют указанной стоимости. Некоторые классы позволяют своим членам использовать определённые типы заклинательных фокусировок. *См. также* «Заклинания» («Сотворение заклинаний»).
 
-#### Spellcasting Focus
+#### Сфера [Область воздействия]
 
-A Spellcasting Focus is an object that certain creatures can use in place of a spell's Material components if those materials aren't consumed by the spell and don't have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses. *See also* "Spells" ("Casting Spells").
+Сфера — это область воздействия, которая простирается прямыми линиями от точки происхождения наружу во всех направлениях. Эффект, создающий сферу, указывает расстояние, на которое она простирается, как радиус сферы.
 
-#### Sphere [Area of Effect]
+Точка происхождения сферы включается в область воздействия сферы.
 
-A Sphere is an area of effect that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
+#### Стабильный
 
-A Sphere's point of origin is included in the Sphere's area of effect.
+Существо стабильно, если у него 0 хитов, но оно не обязано совершать спасброски от смерти. *См. также* «Процесс игры» («Урон и исцеление»).
 
-#### Stable
+#### Блок характеристик
 
-A creature is Stable if it has 0 Hit Points but isn't required to make Death Saving Throws. *See also* "Playing the Game" ("Damage and Healing").
+Блок характеристик содержит игровую статистику монстра. Каждый блок характеристик включает следующую информацию после названия монстра.
 
-#### Stat Block
+**_Размер._** Монстр может быть крошечным, маленьким, средним, большим, огромным или громадным. *См. также* «Размер».
 
-A stat block contains the game statistics of a monster. Each stat block includes the following information presented after the monster's name.
+**_Тип существа._** Эта запись указывает семейство существ, к которому принадлежит монстр, вместе с любыми описательными тегами. *См. также* «Тип существа».
 
-**_Size._** A monster is Tiny, Small, Medium, Large, Huge, or Gargantuan. *See also* "Size."
+**_Мировоззрение._** Для монстра предлагается мировоззрение, а МИ определяет его фактическое мировоззрение. *См. также* «Мировоззрение».
 
-**_Creature Type._** This entry notes the family of beings a monster belongs to, along with any descriptive tags. *See also* "Creature Type."
+**_КД, инициатива и хиты._** Эти записи дают класс доспеха, инициативу и хиты монстра, которые подробно описаны в «Процессе игры». В скобках после хитов указаны кости хитов монстра, а также вклад его Телосложения, если есть, в его хиты. После модификатора инициативы указано значение инициативы. Некоторые существа, созданные магией, не имеют костей хитов и информации об инициативе.
 
-**_Alignment._** An alignment is suggested for the monster, with the GM determining its actual alignment. *See also* "Alignment."
+**_Скорость._** Здесь указывается скорость монстра вместе с любыми особыми скоростями. *См. также* «Скорость рытья», «Скорость лазания», «Скорость полёта» и «Скорость плавания».
 
-**_AC, Initiative, and HP._** These entries give the monster's Armor Class, Initiative, and Hit Points, which are detailed in "Playing the Game." In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the Initiative modifier is an Initiative score. Some creatures that are created by magic lack Hit Dice and Initiative information.
+**_Значения характеристик._** Таблица предоставляет значения характеристик, модификаторы и модификаторы спасбросков монстра, все из которых подробно описаны в «Процессе игры».
 
-**_Speed._** Here the monster's Speed is provided, along with any special speeds. *See also* "Burrow Speed," "Climb Speed," "Fly Speed," and "Swim Speed."
+**_Навыки._** Эта запись перечисляет владения навыками монстра, если есть. *См. также* «Процесс игры» («Владение»).
 
-**_Ability Scores._** A table provides the monster's ability scores, modifiers, and saving throw modifiers, all of which are detailed in "Playing the Game."
+**_Сопротивления и уязвимости._** Эти записи перечисляют сопротивления и уязвимости монстра, если есть. *См. также* «Сопротивление» и «Уязвимость».
 
-**_Skills._** This entry lists the monster's skill proficiencies, if any. *See also* "Playing the Game" ("Proficiency").
+**_Иммунитеты._** Этот раздел перечисляет иммунитеты монстра к урону и состояниям, если есть. *См. также* «Иммунитет».
 
-**_Resistances and Vulnerabilities._** These entries list the monster's Resistances and Vulnerabilities, if any. *See also* "Resistance" and "Vulnerability."
+**_Снаряжение._** Если у монстра есть снаряжение, которое можно отдать или забрать, оно перечислено в этой записи.
 
-**_Immunities._** This section lists the monster's damage and condition Immunities, if any. *See also* "Immunity."
+**_Чувства._** Эта запись перечисляет особые чувства монстра, такие как тёмное зрение, и его пассивное восприятие. *См. также* «Пассивное восприятие».
 
-**_Gear._** If the monster has any equipment that can be given away or retrieved, it's listed in this entry.
+**_Языки._** Эта запись перечисляет любые языки, которые знает монстр.
 
-**_Senses._** This entry lists the monster's special senses, such as Darkvision, and its Passive Perception. *See also* "Passive Perception."
+**_ПО._** Показатель опасности обобщает угрозу, которую представляет монстр, и подробно описан в «Монстрах». За ним следуют очки опыта, получаемые персонажами за победу над монстром, и его бонус мастерства. Некоторые существа, созданные магией, не имеют ПО. *См. также* «Показатель опасности» и «Очки опыта».
 
-**_Languages._** This entry lists any languages the monster knows.
+**_Особенности._** Особенности монстра, если есть, являются умениями, активными постоянно или в определённых ситуациях.
 
-**_CR._** Challenge Rating summarizes the threat a monster poses and is detailed in "Monsters." The Experience Points characters receive for defeating a monster and its Proficiency Bonus follow. Some creatures that are created by magic have no CR. *See also* "Challenge Rating" and "Experience Points."
+**_Действия._** Монстр может совершать эти действия в дополнение к тем, что подробно описаны в этом глоссарии. *См. также* «Процесс игры» («Действия»).
 
-**_Traits._** The monster's traits, if any, are features that are active at all times or in certain situations.
+**_Бонусные действия._** Если у монстра есть варианты бонусных действий, они перечислены в этом разделе.
 
-**_Actions._** The monster can take these actions in addition to those detailed in this glossary. *See also* "Playing the Game" ("Actions").
+**_Реакции._** Если монстр может совершать особые реакции, они перечислены в этом разделе.
 
-**_Bonus Actions._** If the monster has Bonus Action options, they are listed in this section.
+**_Запись атаки._** Запись атаки монстра начинается с указания, является ли атака ближней или дальнобойной, затем указывается бонус броска атаки, её досягаемость или дистанция, и что происходит при попадании. Атака направлена против одной цели, если в записи не указано иное.
 
-**_Reactions._** If the monster can take special Reactions, those are listed in this section.
+**_Запись эффекта спасброска._** Если эффект требует спасброска, запись эффекта начинается с указания типа требуемого спасброска, затем указывается СЛ спасброска, описание того, какие существа должны совершить спасбросок, и что происходит при провале или успехе.
 
-**_Attack Notation._** The entry for a monster's attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
+**_Запись урона._** Блок характеристик обычно предоставляет как статическое число, так и выражение кости для каждого экземпляра урона. Например, атака может нанести 4 (1d4 + 2) урона при попадании. МИ определяет, используете ли вы статическое число или выражение кости в скобках; вы не используете оба.
 
-**_Saving Throw Effect Notation._** If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
+#### Изучение [Действие]
 
-**_Damage Notation._** A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The GM determines whether you use the static number or the die expression in parentheses; you don't use both.
+Когда вы совершаете действие Изучение, вы совершаете проверку Интеллекта, чтобы изучить свою память, книгу, улику или другой источник знаний и вспомнить важную информацию о нём.
 
-#### Study [Action]
+Таблица областей знаний предлагает, какие навыки применимы к различным областям знаний.
 
-When you take the Study action, you make an Intelligence check to study your memory, a book, a clue, or another source of knowledge and call to mind an important piece of information about it.
+#### Области знаний
 
-The Areas of Knowledge table suggests which skills are applicable to various areas of knowledge.
+| Навык       | Области                                                                                                                                                     |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Магия       | Заклинания, магические предметы, сверхъестественные символы, магические традиции, планы существования и определённые существа (аберрации, конструкты, элементали, феи и чудовища) |
+| История     | Исторические события и люди, древние цивилизации, войны и определённые существа (великаны и гуманоиды)                                                        |
+| Расследование | Ловушки, шифры, загадки и механизмы                                                                                                                        |
+| Природа     | Местность, флора, погода и определённые существа (звери, драконы, слизи и растения)                                                                          |
+| Религия     | Божества, религиозные иерархии и обряды, священные символы, культы и определённые существа (небожители, исчадия и нежить)                                    |
 
-#### **Areas of Knowledge**
+#### Ошеломлённый [Состояние]
 
-| Skill         | Areas                                                                                                                                             |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arcana        | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities)  |
-| History       | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids)                                                                     |
-| Investigation | Traps, ciphers, riddles, and gadgetry                                                                                                                                           |
-| Nature        | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants)                                                                                       |
-| Religion      | Deities, religious hierarchies and rites, holy symbols, cults, and certain crea tures (Celestials, Fiends, and Undead)                                                    |
+Пока вы находитесь в состоянии «ошеломлённый», вы испытываете следующие эффекты.
 
-#### Stunned [Condition]
+**_Недееспособный._** Вы находитесь в состоянии «недееспособный».
 
-While you have the Stunned condition, you experience the following effects.
+**_Спасброски затронуты._** Вы автоматически проваливаете спасброски Силы и Ловкости.
 
-**_Incapacitated._** You have the Incapacitated condition.
+**_Атаки затронуты._** Броски атаки против вас совершаются с преимуществом.
 
-**_Saving Throws Affected._** You automatically fail Strength and Dexterity saving throws.
+#### Удушение [Опасность]
 
-**_Attacks Affected._** Attack rolls against you have Advantage.
+Существо может задерживать дыхание на количество минут, равное 1 плюс его модификатор Телосложения (минимум 30 секунд), прежде чем начнётся удушение. Когда у существа заканчивается воздух или оно задыхается, оно получает 1 уровень истощения в конце каждого своего хода. Когда существо может снова дышать, оно снимает все уровни истощения, полученные от удушения.
 
-#### Suffocation [Hazard]
+#### Внезапность
 
-A creature can hold its breath for a number of minutes equal to 1 plus its Constitution modifier (minimum of 30 seconds) before suffocation begins. When a creature runs out of breath or is choking, it gains 1 Exhaustion level at the end of each of its turns. When a creature can breathe again, it removes all levels of Exhaustion it gained from suffocating.
+Если существо застигнуто врасплох к началу боя, это существо застигнуто врасплох, из-за чего оно совершает с помехой бросок инициативы. *См. также* «Процесс игры» («Бой»).
 
-#### Surprise
+#### Плавание
 
-If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have Disadvantage on its Initiative roll. *See also* "Playing the Game" ("Combat").
+Когда вы плывёте, каждый фут перемещения стоит 1 дополнительный фут (2 дополнительных фута на труднопроходимой местности). Вы игнорируете эту дополнительную стоимость, если у вас есть скорость плавания и вы используете её для плавания. По усмотрению МИ, перемещение на любое расстояние в бурной воде может потребовать успешной проверки Силы (Атлетика) со СЛ 15.
 
-#### Swimming
+#### Скорость плавания
 
-While you're swimming, each foot of movement costs 1 extra foot (2 extra feet in Difficult Terrain). You ignore this extra cost if you have a Swim Speed and use it to swim. At the GM's option, moving any distance in rough water might require a successful DC 15 Strength (Athletics) check.
+Скорость плавания можно использовать для плавания без траты дополнительного перемещения, обычно связанного с плаванием. *См. также* «Плавание» и «Скорость».
 
-#### Swim Speed
+#### Цель
 
-A Swim Speed can be used to swim without expending the extra movement normally associated with swimming. *See also* "Swimming" and "Speed."
+Цель — это существо или объект, на который направлен бросок атаки, которое вынуждено совершить спасбросок эффектом или выбрано для получения эффектов заклинания или другого явления.
 
-#### Target
+#### Телепатия
 
-A target is the creature or object targeted by an attack roll, forced to make a saving throw by an effect, or selected to receive the effects of a spell or another phenomenon.
+Телепатия — это магическая способность, позволяющая существу мысленно общаться с другим существом в указанном радиусе. Если правило не указывает иное, контактируемому существу не нужно владеть общим языком с телепатом, чтобы понимать это общение, но контактируемое существо должно понимать хотя бы один язык или само быть телепатом, чтобы понимать.
 
-#### Telepathy
+Телепату не нужно видеть контактируемое существо, и телепат может начать или прекратить телепатический контакт в любое время (действие не требуется). Телепатический контакт не может быть инициирован и немедленно прерывается, если телепат или другое существо находится в состоянии «недееспособный». Телепатический контакт также прерывается, если контактируемое существо больше не находится в радиусе телепатии или если телепат контактирует с другим существом в радиусе.
 
-Telepathy is a magical ability that allows a creature to communicate mentally with another creature within a specified range. Unless a rule states otherwise, the contacted creature doesn't need to share a language with the telepath to understand this communication, but the contacted creature must be able to understand at least one language or be telepathic itself to understand.
+Существо без телепатии может получать телепатические сообщения, но не может инициировать телепатический разговор. После начала телепатического разговора не-телепат может мысленно общаться с телепатом, пока телепатическое соединение не прервётся.
 
-A telepath doesn't need to see a contacted creature, and the telepath can start or end the telepathic contact at any time (no action required). Telepathic contact can't be initiated and is immediately broken if either the telepath or the other creature has the Incapacitated condition. Telepathic contact is also broken if the contacted creature is no longer within the telepathy's range or if the telepath contacts a different creature within range.
+#### Телепортация
 
-A creature without telepathy can receive telepathic messages but can't initiate a telepathic conversation. Once a telepathic conversation starts, the non-telepath can communicate mentally to the telepath until the telepathic connection ends.
+Телепортация — это особый вид магического перемещения. Если вы телепортируетесь, вы исчезаете и мгновенно появляетесь в другом месте, не перемещаясь через промежуточное пространство. Это перемещение не расходует перемещение, если правило не указывает иное, и телепортация никогда не провоцирует провоцированные атаки.
 
-#### Teleportation
+Когда вы телепортируетесь, всё снаряжение, которое вы носите и несёте, телепортируется вместе с вами. Если вы касаетесь другого существа, когда телепортируетесь, это существо не телепортируется с вами, если эффект телепортации не указывает иное.
 
-Teleportation is a special kind of magical transportation. If you teleport, you disappear and reappear elsewhere instantly, without moving through the intervening space. This transportation doesn't expend movement unless a rule tells you otherwise, and teleportation never provokes Opportunity Attacks.
+Если целевое пространство вашей телепортации занято другим существом или заблокировано твёрдым препятствием, вы вместо этого появляетесь в ближайшем незанятом пространстве по вашему выбору.
 
-When you teleport, all the equipment you're wearing and carrying teleports with you. If you're touching another creature when you teleport, that creature doesn't teleport with you unless the teleportation effect says otherwise.
+Описание эффекта телепортации указывает, должны ли вы видеть место назначения телепортации.
 
-If the destination space of your teleportation is occupied by another creature or blocked by a solid obstacle, you instead appear in the nearest unoccupied space of your choice.
+#### Временные хиты
 
-The description of a teleportation effect tells you if you must see the teleportation's destination.
+Временные хиты предоставляются определёнными эффектами и действуют как буфер против потери реальных хитов. *См. также* «Процесс игры» («Урон и исцеление»).
 
-#### Temporary Hit Points
+#### Чувство вибрации
 
-Temporary Hit Points are granted by certain effects and act as a buffer against losing real Hit Points. *See also* "Playing the Game" ("Damage and Healing").
+Существо с чувством вибрации может точно определить местоположение существ и движущихся объектов в определённом радиусе, при условии, что существо с чувством вибрации и всё, что оно обнаруживает, находятся в контакте с одной и той же поверхностью (такой как земля, стена или потолок) или одной и той же жидкостью.
 
-#### Tremorsense
+Чувство вибрации не может обнаруживать существ или объекты в воздухе и не считается формой зрения.
 
-A creature with Tremorsense can pinpoint the location of creatures and moving objects within a specific range, provided that the creature with Tremorsense and anything it is detecting are both in contact with the same surface (such as the ground, a wall, or a ceiling) or the same liquid.
+#### Истинное зрение
 
-Tremorsense can't detect creatures or objects in the air, and it doesn't count as a form of sight.
+Если у вас есть истинное зрение, ваше зрение усилено в указанном радиусе. В этом радиусе ваше зрение проникает сквозь следующее:
 
-#### Truesight
+**Тьма.** Вы можете видеть в обычной и магической тьме.
 
-If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
+**Невидимость.** Вы видите существ и объекты, находящиеся в состоянии «невидимый».
 
-**Darkness.** You can see in normal and magical Darkness.
+**Визуальные иллюзии.** Визуальные иллюзии кажутся вам прозрачными, и вы автоматически преуспеваете в спасбросках против них.
 
-**Invisibility.** You see creatures and objects that have the Invisible condition.
+**Превращения.** Вы различаете истинную форму любого существа или объекта, который вы видите и который был превращён магией.
 
-**Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on saving throws against them.
+**Эфирный план.** Вы видите Эфирный план.
 
-**Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.
+#### Безоружный удар
 
-**Ethereal Plane.** You see into the Ethereal Plane.
+Вместо использования оружия для совершения атаки ближнего боя вы можете использовать удар кулаком, ногой, головой или подобный силовой удар. В терминах игры это безоружный удар — атака ближнего боя, включающая использование вашего тела для нанесения урона, захвата или толчка цели в пределах 5 футов от вас.
 
-#### Unarmed Strike
+Каждый раз, когда вы используете безоружный удар, выбирайте один из следующих вариантов его эффекта.
 
-Instead of using a weapon to make a melee attack, you can use a punch, kick, headbutt, or similar forceful blow. In game terms, this is an Unarmed Strike—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
+**_Урон._** Вы совершаете бросок атаки против цели. Ваш бонус к броску равен вашему модификатору Силы плюс бонус мастерства. При попадании цель получает дробящий урон, равный 1 плюс ваш модификатор Силы.
 
-Whenever you use your Unarmed Strike, choose one of the following options for its effect.
+**_Захват._** Цель должна преуспеть в спасброске Силы или Ловкости (она выбирает), иначе получает состояние «схваченный». СЛ спасброска и любых попыток побега равна 8 плюс ваш модификатор Силы и бонус мастерства. Этот захват возможен только если цель не более чем на один размер больше вас и если у вас есть свободная рука для захвата. *См. также* «Захват».
 
-**_Damage._** You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
+**_Толчок._** Цель должна преуспеть в спасброске Силы или Ловкости (она выбирает), иначе вы либо толкаете её на 5 футов от себя, либо накладываете на неё состояние «лежащий ничком». СЛ спасброска равна 8 плюс ваш модификатор Силы и бонус мастерства. Этот толчок возможен только если цель не более чем на один размер больше вас.
 
-**_Grapple._** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the Grappled condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it. *See also* "Grappling."
+#### Без сознания [Состояние]
 
-**_Shove._** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the Prone condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
+Пока вы находитесь в состоянии «без сознания», вы испытываете следующие эффекты.
 
-#### Unconscious [Condition]
+**_Инертен._** Вы находитесь в состояниях «недееспособный» и «лежащий ничком», и вы роняете всё, что держите. Когда это состояние заканчивается, вы остаётесь лежащим ничком.
 
-While you have the Unconscious condition, you experience the following effects.
+**_Скорость 0._** Ваша скорость равна 0 и не может увеличиваться.
 
-**_Inert._** You have the Incapacitated and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
+**_Атаки затронуты._** Броски атаки против вас совершаются с преимуществом.
 
-**_Speed 0._** Your Speed is 0 and can't increase.
+**_Спасброски затронуты._** Вы автоматически проваливаете спасброски Силы и Ловкости.
 
-**_Attacks Affected._** Attack rolls against you have Advantage.
+**_Автоматические критические попадания._** Любой бросок атаки, попадающий по вам, является критическим попаданием, если атакующий находится в пределах 5 футов от вас.
 
-**_Saving Throws Affected._** You automatically fail Strength and Dexterity saving throws.
+**_Не осознаёте._** Вы не осознаёте окружающую обстановку.
 
-**_Automatic Critical Hits._** Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
+#### Незанятое пространство
 
-**_Unaware._** You're unaware of your surroundings.
+Пространство незанято, если в нём нет существ и оно не полностью заполнено объектами.
 
-#### Unoccupied Space
+#### Использование [Действие]
 
-A space is unoccupied if no creatures are in it and it isn't completely filled by objects.
+Обычно вы взаимодействуете с объектом, занимаясь чем-то другим, например когда извлекаете меч как часть действия Атака. Когда объект требует действия для его использования, вы совершаете действие Использование.
 
-#### Utilize [Action]
+#### Уязвимость
 
-You normally interact with an object while doing something else, such as when you draw a sword as part of the Attack action. When an object requires an action for its use, you take the Utilize action.
+Если у вас есть уязвимость к типу урона, урон этого типа удваивается против вас. Уязвимость применяется только один раз к экземпляру урона. *См. также* «Процесс игры» («Урон и исцеление»).
 
-#### Vulnerability
+#### Оружие
 
-If you have Vulnerability to a damage type, damage of that type is doubled against you. Vulnerability is applied only once to an instance of damage. *See also* "Playing the Game" ("Damage and Healing").
+Оружие — это объект, относящийся к категории простого или воинского оружия. *См. также* «Снаряжение» («Оружие»).
 
-#### Weapon
+#### Атака оружием
 
-A weapon is an object that is in the Simple or Martial weapon category. *See also* "Equipment" ("Weapons").
-
-#### Weapon Attack
-
-A weapon attack is an attack roll made with a weapon. *See also* "Weapon."
+Атака оружием — это бросок атаки, совершаемый с оружием. *См. также* «Оружие».

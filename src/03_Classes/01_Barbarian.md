@@ -1,193 +1,195 @@
-## Barbarian
+## Варвар
 
-Table: Core Barbarian Traits
+Таблица: Основные черты Варвара
 
 |                               |                                                                                            |
 |-------------------------------|--------------------------------------------------------------------------------------------|
-| Primary Ability               | Strength                                                                                   |
-| Hit Point Die                 | D12 per Barbarian level                                                                    |
-| Saving Throw Proficiencies    | Strength and Constitution                                                                  |
-| Skill Proficiencies           | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival        |
-| Weapon Proficiencies          | Simple and Martial weapons                                                                 |
-| Armor Training                | Light and Medium armor and Shields                                                         |
-| Starting Equipment            | Choose A or B: (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP          |
+| Основная характеристика       | Сила                                                                                       |
+| Кость Хитов                   | d12 за каждый уровень Варвара                                                              |
+| Владение спасбросками         | Сила и Телосложение                                                                        |
+| Владение навыками             | Выберите 2: Уход за животными, Атлетика, Запугивание, Природа, Внимательность или Выживание |
+| Владение оружием              | Простое и воинское оружие                                                                  |
+| Владение доспехами            | Лёгкие и средние доспехи и щиты                                                            |
+| Начальное снаряжение          | Выберите А или Б: (А) Секира, 4 ручных топора, набор путешественника и 15 зм; или (Б) 75 зм |
 
-### Becoming a Barbarian …
+### Как стать Варваром…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-• Gain all the traits in the Core Barbarian Traits table.
+• Получите все черты из таблицы Основные черты Варвара.
 
-• Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
+• Получите умения Варвара 1-го уровня, перечисленные в таблице Умения Варвара.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields.
-- Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
+- Получите следующие черты из таблицы Основные черты Варвара: Кость Хитов, владение воинским оружием и владение щитами.
+- Получите умения Варвара 1-го уровня, перечисленные в таблице Умения Варвара.
 
-### Barbarian Class Features
+### Классовые умения Варвара
 
-As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. These features are listed in the Barbarian Features table.
+Как Варвар вы получаете следующие классовые умения при достижении указанных уровней Варвара. Эти умения перечислены в таблице Умения Варвара.
 
-Table: Barbarian Features
+Таблица: Умения Варвара
 
-| Level | Proficiency Bonus    | Class Features                          | Rages | Rage Damage    | Weapon Mastery    |
-|-------|----------------------|-----------------------------------------|-------|----------------|-------------------|
-| 1     | +2                   | Rage, Unarmored Defense, Weapon Mastery | 2     | +2             | 2                 |
-| 2     | +2                   | Danger Sense, Reckless Attack           | 2     | +2             | 2                 |
-| 3     | +2                   | Barbarian Subclass, Primal Knowledge    | 3     | +2             | 2                 |
-| 4     | +2                   | Ability Score Improvement               | 3     | +2             | 3                 |
-| 5     | +3                   | Extra Attack, Fast Movement             | 3     | +2             | 3                 |
-| 6     | +3                   | Subclass feature                        | 4     | +2             | 3                 |
-| 7     | +3                   | Feral Instinct, Instinctive Pounce      | 4     | +2             | 3                 |
-| 8     | +3                   | Ability Score Improvement               | 4     | +2             | 3                 |
-| 9     | +4                   | Brutal Strike                           | 4     | +3             | 3                 |
-| 10    | +4                   | Subclass feature                        | 4     | +3             | 4                 |
-| 11    | +4                   | Relentless Rage                         | 4     | +3             | 4                 |
-| 12    | +4                   | Ability Score Improvement               | 5     | +3             | 4                 |
-| 13    | +5                   | Improved Brutal Strike                  | 5     | +3             | 4                 |
-| 14    | +5                   | Subclass feature                        | 5     | +3             | 4                 |
-| 15    | +5                   | Persistent Rage                         | 5     | +3             | 4                 |
-| 16    | +5                   | Ability Score Improvement               | 5     | +4             | 4                 |
-| 17    | +6                   | Improved Brutal Strike                  | 6     | +4             | 4                 |
-| 18    | +6                   | Indomitable Might                       | 6     | +4             | 4                 |
-| 19    | +6                   | Epic Boon                               | 6     | +4             | 4                 |
-| 20    | +6                   | Primal Champion                         | 6     | +4             | 4                 |
+| Уровень | Бонус мастерства | Классовые умения                             | Ярости | Урон ярости | Мастерство оружия |
+|---------|------------------|----------------------------------------------|--------|-------------|-------------------|
+| 1       | +2               | Ярость, Защита без доспехов, Мастерство оружия | 2      | +2          | 2                 |
+| 2       | +2               | Чувство опасности, Безрассудная атака        | 2      | +2          | 2                 |
+| 3       | +2               | Подкласс Варвара, Первобытное знание         | 3      | +2          | 2                 |
+| 4       | +2               | Улучшение характеристик                      | 3      | +2          | 3                 |
+| 5       | +3               | Дополнительная атака, Быстрое движение       | 3      | +2          | 3                 |
+| 6       | +3               | Умение подкласса                             | 4      | +2          | 3                 |
+| 7       | +3               | Дикий инстинкт, Инстинктивный прыжок         | 4      | +2          | 3                 |
+| 8       | +3               | Улучшение характеристик                      | 4      | +2          | 3                 |
+| 9       | +4               | Жестокий удар                                | 4      | +3          | 3                 |
+| 10      | +4               | Умение подкласса                             | 4      | +3          | 4                 |
+| 11      | +4               | Неослабевающая ярость                        | 4      | +3          | 4                 |
+| 12      | +4               | Улучшение характеристик                      | 5      | +3          | 4                 |
+| 13      | +5               | Улучшенный жестокий удар                     | 5      | +3          | 4                 |
+| 14      | +5               | Умение подкласса                             | 5      | +3          | 4                 |
+| 15      | +5               | Постоянная ярость                            | 5      | +3          | 4                 |
+| 16      | +5               | Улучшение характеристик                      | 5      | +4          | 4                 |
+| 17      | +6               | Улучшенный жестокий удар                     | 6      | +4          | 4                 |
+| 18      | +6               | Неукротимая мощь                             | 6      | +4          | 4                 |
+| 19      | +6               | Эпическое благо                              | 6      | +4          | 4                 |
+| 20      | +6               | Первобытный чемпион                          | 6      | +4          | 4                 |
 
-#### Level 1: Rage
+#### Уровень 1: Ярость
 
-You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
+Вы можете наполнить себя первобытной силой под названием Ярость, которая дарует вам необычайную мощь и стойкость. Вы можете войти в неё бонусным действием, если не носите тяжёлые доспехи.
 
-You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+Вы можете входить в Ярость количество раз, указанное для вашего уровня Варвара в столбце Ярости таблицы Умения Варвара. Вы восстанавливаете одно использование после короткого отдыха и все использования после продолжительного отдыха.
 
-While active, your Rage follows the rules below. *Damage Resistance.* You have Resistance to Bludgeoning, Piercing, and Slashing damage.
+Пока Ярость активна, она следует правилам ниже.
 
-**Rage Damage.** When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
+**Сопротивление урону.** Вы получаете сопротивление дробящему, колющему и рубящему урону.
 
-**Strength Advantage.** You have Advantage on Strength checks and Strength saving throws.
+**Урон ярости.** Когда вы совершаете атаку с использованием Силы — оружием или безоружным ударом — и наносите урон цели, вы получаете бонус к урону, который увеличивается с ростом уровня Варвара, как показано в столбце Урон ярости таблицы Умения Варвара.
 
-**No Concentration or Spells.** You can't maintain Concentration, and you can't cast spells.
+**Преимущество Силы.** Вы получаете Преимущество на проверки Силы и спасброски Силы.
 
-**Duration.** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+**Без концентрации и заклинаний.** Вы не можете поддерживать концентрацию и не можете творить заклинания.
 
-- Make an attack roll against an enemy.
-- Force an enemy to make a saving throw.
-- Take a Bonus Action to extend your Rage.
+**Длительность.** Ярость длится до конца вашего следующего хода и заканчивается раньше, если вы надеваете тяжёлые доспехи или получаете состояние недееспособен. Если Ярость всё ещё активна в ваш следующий ход, вы можете продлить её на ещё один раунд, сделав одно из следующего:
 
-Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
+- Совершить бросок атаки против врага.
+- Заставить врага совершить спасбросок.
+- Использовать бонусное действие для продления Ярости.
 
-#### Level 1: Unarmored Defense
+Каждый раз, когда Ярость продлевается, она длится до конца вашего следующего хода. Вы можете поддерживать Ярость до 10 минут.
 
-While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
+#### Уровень 1: Защита без доспехов
 
-#### Level 1: Weapon Mastery
+Пока вы не носите никаких доспехов, ваш базовый Класс Доспеха равен 10 + модификатор Ловкости + модификатор Телосложения. Вы можете использовать щит и всё ещё получать эту выгоду.
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+#### Уровень 1: Мастерство оружия
 
-When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
+Ваша подготовка с оружием позволяет использовать свойства мастерства двух видов простого или воинского оружия ближнего боя по вашему выбору, таких как секиры и ручные топоры. Каждый раз после продолжительного отдыха вы можете практиковаться с оружием и изменить один из этих выборов.
 
-#### Level 2: Danger Sense
+При достижении определённых уровней Варвара вы получаете возможность использовать свойства мастерства большего количества видов оружия, как показано в столбце Мастерство оружия таблицы Умения Варвара.
 
-You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the Incapacitated condition.
+#### Уровень 2: Чувство опасности
 
-#### Level 2: Reckless Attack
+Вы обретаете сверхъестественное чувство, когда что-то не так, дающее вам преимущество при уклонении от опасностей. Вы получаете Преимущество на спасброски Ловкости, если не находитесь в состоянии недееспособен.
 
-You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you Advantage on attack rolls using Strength until the start of your next turn, but attack rolls against you have Advantage during that time.
+#### Уровень 2: Безрассудная атака
 
-#### Level 3: Barbarian Subclass
+Вы можете отбросить всякую заботу о защите, чтобы атаковать с повышенной свирепостью. Когда вы совершаете первый бросок атаки в свой ход, вы можете решить атаковать безрассудно. При этом вы получаете Преимущество на броски атаки с использованием Силы до начала вашего следующего хода, но броски атаки против вас также получают Преимущество в это время.
 
-You gain a Barbarian subclass of your choice. The Path of the Berserker subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass's features that are of your Barbarian level or lower.
+#### Уровень 3: Подкласс Варвара
 
-### Level 3: Primal Knowledge
+Вы получаете подкласс Варвара по вашему выбору. Подкласс Путь берсерка описан после описания этого класса. Подкласс — это специализация, дающая вам умения на определённых уровнях Варвара. До конца карьеры вы получаете каждое умение подкласса, соответствующее вашему уровню Варвара или ниже.
 
-You gain proficiency in another skill of your choice from the skill list available to Barbarians at level 1.
+### Уровень 3: Первобытное знание
 
-In addition, while your Rage is active, you can channel primal power when you attempt certain tasks; whenever you make an ability check using one of the following skills, you can make it as a Strength check even if it normally uses a different ability: Acrobatics, Intimidation, Perception, Stealth, or Survival. When you use this ability, your Strength represents primal power coursing through you, honing your agility, bearing, and senses.
+Вы получаете владение ещё одним навыком по вашему выбору из списка навыков, доступных Варварам на 1-м уровне.
 
-#### Level 4: Ability Score Improvement
+Кроме того, пока Ярость активна, вы можете направлять первобытную силу при выполнении определённых задач; когда вы совершаете проверку характеристики с использованием одного из следующих навыков, вы можете совершить её как проверку Силы, даже если она обычно использует другую характеристику: Акробатика, Запугивание, Внимательность, Скрытность или Выживание. Когда вы используете эту способность, ваша Сила представляет первобытную мощь, текущую через вас, оттачивающую вашу ловкость, осанку и чувства.
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+#### Уровень 4: Улучшение характеристик
 
-#### Level 5: Extra Attack
+Вы получаете черту Улучшение характеристик (см. «Черты») или другую черту по вашему выбору, для которой вы подходите. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях Варвара.
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+#### Уровень 5: Дополнительная атака
 
-#### Level 5: Fast Movement
+Вы можете атаковать дважды вместо одного раза, когда совершаете действие Атака в свой ход.
 
-Your speed increases by 10 feet while you aren't wearing Heavy armor.
+#### Уровень 5: Быстрое движение
 
-#### Level 7: Feral Instinct
+Ваша скорость увеличивается на 10 футов, пока вы не носите тяжёлые доспехи.
 
-Your instincts are so honed that you have Advantage on Initiative rolls.
+#### Уровень 7: Дикий инстинкт
 
-#### Level 7: Instinctive Pounce
+Ваши инстинкты настолько отточены, что вы получаете Преимущество на броски инициативы.
 
-As part of the Bonus Action you take to enter your Rage, you can move up to half your Speed.
+#### Уровень 7: Инстинктивный прыжок
 
-#### Level 9: Brutal Strike
+Как часть бонусного действия, которое вы используете для входа в Ярость, вы можете переместиться на расстояние до половины своей скорости.
 
-If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have Disadvantage. If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+#### Уровень 9: Жестокий удар
 
-**Forceful Blow.** The target is pushed 15 feet straight away from you. You can then move up to half your Speed straight toward the target without provoking Opportunity Attacks.
+Если вы используете Безрассудную атаку, вы можете отказаться от любого Преимущества на один бросок атаки на основе Силы по вашему выбору в свой ход. Выбранный бросок атаки не должен иметь Помехи. Если выбранный бросок атаки попадает, цель получает дополнительно 1d10 урона того же типа, что наносит оружие или безоружный удар, и вы можете вызвать один эффект Жестокого удара по вашему выбору. У вас есть следующие варианты эффектов.
 
-**Hamstring Blow.** The target's Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time the most recent one.
+**Сокрушающий удар.** Цель отталкивается на 15 футов по прямой от вас. Затем вы можете переместиться на расстояние до половины своей скорости прямо к цели, не провоцируя провоцированных атак.
 
-#### Level 11: Relentless Rage
+**Подсечка.** Скорость цели уменьшается на 15 футов до начала вашего следующего хода. Цель может находиться под действием только одной Подсечки за раз — самой последней.
 
-Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
+#### Уровень 11: Неослабевающая ярость
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
+Ваша Ярость может поддерживать вас в бою, несмотря на тяжёлые раны. Если вы падаете до 0 хитов, пока Ярость активна, и не умираете мгновенно, вы можете совершить спасбросок Телосложения СЛ 10. При успехе ваши хиты вместо этого становятся равными удвоенному уровню Варвара.
 
-#### Level 13: Improved Brutal Strike
+Каждый раз, когда вы используете это умение после первого, СЛ увеличивается на 5. Когда вы завершаете короткий или продолжительный отдых, СЛ сбрасывается до 10.
 
-You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
+#### Уровень 13: Улучшенный жестокий удар
 
-**Staggering Blow.** The target has Disadvantage on the next saving throw it makes, and it can't make Opportunity Attacks until the start of your next turn.
+Вы отточили новые способы яростной атаки. Следующие эффекты теперь входят в варианты вашего Жестокого удара.
 
-**Sundering Blow.** Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
+**Ошеломляющий удар.** Цель получает Помеху на следующий спасбросок, который она совершает, и не может совершать провоцированные атаки до начала вашего следующего хода.
 
-#### Level 15: Persistent Rage
+**Пробивающий удар.** До начала вашего следующего хода следующий бросок атаки, совершённый другим существом против цели, получает бонус +5 к броску. Бросок атаки может получить только один бонус Пробивающего удара.
 
-When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a Long Rest.
+#### Уровень 15: Постоянная ярость
 
-In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armor.
+Когда вы бросаете инициативу, вы можете восстановить все использования Ярости. После восстановления использований Ярости таким образом вы не можете сделать это снова, пока не завершите продолжительный отдых.
 
-#### Level 17: Improved Brutal Strike
+Кроме того, ваша Ярость настолько свирепа, что теперь длится 10 минут без необходимости что-либо делать для её продления от раунда к раунду. Ваша Ярость заканчивается раньше, если вы получаете состояние без сознания (а не просто недееспособен) или надеваете тяжёлые доспехи.
 
-The extra damage of your Brutal Strike increases to 2d10. In addition, you can use two different Brutal Strike effects whenever you use your Brutal Strike feature.
+#### Уровень 17: Улучшенный жестокий удар
 
-#### Level 18: Indomitable Might
+Дополнительный урон вашего Жестокого удара увеличивается до 2d10. Кроме того, вы можете использовать два разных эффекта Жестокого удара всякий раз, когда используете это умение.
 
-If your total for a Strength check or Strength saving throw is less than your Strength score, you can use that score in place of the total.
+#### Уровень 18: Неукротимая мощь
 
-#### Level 19: Epic Boon
+Если итог вашей проверки Силы или спасброска Силы меньше вашего значения Силы, вы можете использовать это значение вместо итога.
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+#### Уровень 19: Эпическое благо
 
-#### Level 20: Primal Champion
+Вы получаете черту Эпическое благо (см. «Черты») или другую черту по вашему выбору, для которой вы подходите. Рекомендуется Благо неодолимого натиска.
 
-You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.
+#### Уровень 20: Первобытный чемпион
 
-### Barbarian Subclass: Path of the Berserker
+Вы воплощаете первобытную силу. Ваши значения Силы и Телосложения увеличиваются на 4, до максимума 25.
 
-*Channel Rage into Violent Fury*
+### Подкласс Варвара: Путь берсерка
 
-Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
+*Направляй Ярость в неистовую жестокость*
 
-#### Level 3: Frenzy
+Варвары, идущие Путём берсерка, направляют свою Ярость преимущественно в насилие. Их путь — это необузданная ярость, и они наслаждаются хаосом битвы, позволяя Ярости охватить и усилить их.
 
-If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
+#### Уровень 3: Бешенство
 
-#### Level 6: Mindless Rage
+Если вы используете Безрассудную атаку, пока Ярость активна, вы наносите дополнительный урон первой цели, которую поражаете в свой ход атакой на основе Силы. Чтобы определить дополнительный урон, бросьте количество d6, равное вашему бонусу Урона ярости, и сложите их. Урон имеет тот же тип, что и оружие или безоружный удар, использованный для атаки.
 
-You have Immunity to the Charmed and Frightened conditions while your Rage is active. If you're Charmed or Frightened when you enter your Rage, the condition ends on you.
+#### Уровень 6: Безумная ярость
 
-#### Level 10: Retaliation
+Вы получаете иммунитет к состояниям очарованный и испуганный, пока Ярость активна. Если вы очарованы или испуганы, когда входите в Ярость, состояние заканчивается на вас.
 
-When you take damage from a creature that is within 5 feet of you, you can take a Reaction to make one melee attack against that creature, using a weapon or an Unarmed Strike.
+#### Уровень 10: Возмездие
 
-#### Level 14: Intimidating Presence
+Когда вы получаете урон от существа в пределах 5 футов от вас, вы можете использовать реакцию, чтобы совершить одну рукопашную атаку против этого существа оружием или безоружным ударом.
 
-As a Bonus Action, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot Emanation originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the Frightened condition for 1 minute. At the end of each of the Frightened creature's turns, the creature repeats the save, ending the effect on itself on a success.
+#### Уровень 14: Устрашающее присутствие
 
-Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a use of your Rage (no action required) to restore your use of it.
+Бонусным действием вы можете вселить ужас в других своим угрожающим присутствием и первобытной силой. Когда вы это делаете, каждое существо по вашему выбору в 30-футовом излучении с центром на вас должно совершить спасбросок Мудрости (СЛ 8 + модификатор Силы + бонус мастерства). При провале существо получает состояние испуганный на 1 минуту. В конце каждого своего хода испуганное существо повторяет спасбросок, заканчивая эффект на себе при успехе.
+
+После использования этого умения вы не можете использовать его снова, пока не завершите продолжительный отдых, если только не потратите использование Ярости (действие не требуется), чтобы восстановить его использование.

@@ -1,202 +1,202 @@
-# Monsters
+# Монстры
 
-## Stat Block Overview
+## Обзор блока статистики
 
-A monster has a stat block that contains the rules necessary to use it in the game. Stat blocks are divided into the following parts:
+У монстра есть блок статистики, содержащий правила, необходимые для его использования в игре. Блоки статистики разделены на следующие части:
 
-- **Name and General Details.** The name of the monster is followed by its size, creature type (along with any descriptive tags), and alignment.
-- **Combat Highlights.** Armor Class, Hit Points, Speed, and Initiative are provided here.
-- **Ability Scores.** A monster's ability scores, ability modifiers, and saving throws are listed here.
-- **Other Details.** The monster's Senses, Languages, and CR entries appear here. Additional details appear in some monsters, such as skill proficiencies, Resistances, Immunities, and Gear. If a monster lacks those details, entries for them don't appear.
-- **Traits.** Monster characteristics that are active at all times or during certain situations appear here.
-- **Actions.** The monster can take the actions here in addition to those in "Playing the Game."
-- **Bonus Actions.** This section provides a monster's Bonus Actions, if any.
-- **Reactions and Legendary Actions.** These sections provide Reactions and Legendary Actions, if any.
+- **Название и общие сведения.** За названием монстра следует его размер, тип существа (вместе с любыми описательными тегами) и мировоззрение.
+- **Боевые характеристики.** Здесь указаны Класс доспеха, Хиты, Скорость и Инициатива.
+- **Характеристики.** Здесь перечислены шесть характеристик монстра, модификаторы характеристик и модификаторы спасбросков.
+- **Прочие сведения.** Здесь указаны записи «Чувства», «Языки» и «ПО» монстра. У некоторых монстров появляются дополнительные сведения, такие как владение навыками, сопротивления, иммунитеты и снаряжение. Если у монстра нет этих сведений, записи для них не появляются.
+- **Особенности.** Здесь появляются характеристики монстра, которые активны постоянно или в определённых ситуациях.
+- **Действия.** Монстр может совершать действия, перечисленные здесь, в дополнение к тем, которые описаны в «Игровом процессе».
+- **Бонусные действия.** В этом разделе приводятся бонусные действия монстра, если они есть.
+- **Реакции и легендарные действия.** В этих разделах приводятся реакции и легендарные действия, если они есть.
 
-## Parts of a Stat Block
+## Составляющие блока статистики
 
-The rules for a stat block are detailed in "Rules Glossary" and in this section.
+Правила для блока статистики подробно описаны в «Глоссарии правил» и в этом разделе.
 
-### Size
+### Размер
 
-A monster is Tiny, Small, Medium, Large, Huge, or Gargantuan. If size options are presented, you choose the creature's size from those options. See "Playing the Game" for information on size.
+Монстр может быть Крошечным, Маленьким, Средним, Большим, Огромным или Громадным. Если предложены варианты размера, вы выбираете размер существа из этих вариантов. Информацию о размере смотрите в «Игровом процессе».
 
-### Creature Type
+### Тип существа
 
-Each monster has a tag that identifies the type of creature it is. Certain spells, magic items, class features, and other effects in the game interact in special ways with creatures of a particular type.
+Каждый монстр имеет тег, идентифицирующий тип существа, к которому он относится. Определённые заклинания, магические предметы, умения класса и другие эффекты в игре особым образом взаимодействуют с существами определённого типа.
 
-The game includes the following creature types, which have no rules of their own:
+Игра включает следующие типы существ, которые не имеют собственных правил:
 
-- **Aberrations** are utterly alien beings, such as aboleths and cloakers.
-- **Beasts** are non-Humanoid natural creatures, like horses and wolves, as well as most giant animals.
-- **Celestials** are magical creatures, such as angels and pegasi, with ties to the Upper Planes.
-- **Constructs** are magically created creatures such as homunculi and shield guardians.
-- **Dragons** are scaly beings of ancient origin, such as red dragons and wyverns.
-- **Elementals** are beings from the Elemental Planes, such as efreet and water elementals.
-- **Fey** are creatures tied to the Feywild or the forces of nature, such as dryads and goblins.
-- **Fiends** are creatures tied to terrifying Lower Planes, such as balors and hell hounds.
-- **Giants** are towering beings with humanlike shapes, like fire giants and trolls.
-- **Humanoids** are people defined by their roles and professions, such as mages, pirates, and warriors. They include members of varied species.
-- **Monstrosities** are unnatural creatures with strange origins, such as mimics and owlbears.
-- **Oozes** are gelatinous creatures, including black puddings and gelatinous cubes.
-- **Plants** are sentient vegetation and fungal monsters, such as shambling mounds and treants.
-- **Undead** are spirits and the reanimated dead, such as ghosts, vampires, and zombies.
+- **Аберрации** — совершенно чуждые существа, такие как аболеты и плащевидные.
+- **Звери** — негуманоидные природные существа, такие как лошади и волки, а также большинство гигантских животных.
+- **Небожители** — магические существа, такие как ангелы и пегасы, связанные с Верхними Планами.
+- **Конструкты** — магически созданные существа, такие как гомункулы и щитовые стражи.
+- **Драконы** — чешуйчатые существа древнего происхождения, такие как красные драконы и виверны.
+- **Элементали** — существа с Элементальных Планов, такие как ифриты и водные элементали.
+- **Феи** — существа, связанные с Страной Фей или силами природы, такие как дриады и гоблины.
+- **Исчадия** — существа, связанные с ужасающими Нижними Планами, такие как балоры и адские гончие.
+- **Великаны** — возвышающиеся существа с человекоподобными формами, такие как огненные великаны и тролли.
+- **Гуманоиды** — люди, определяемые своими ролями и профессиями, такие как маги, пираты и воины. Они включают представителей различных видов.
+- **Чудовища** — неестественные существа со странным происхождением, такие как мимики и совомедведи.
+- **Слизи** — студенистые существа, включая чёрных пудингов и студенистые кубы.
+- **Растения** — разумная растительность и грибные монстры, такие как бродячие насыпи и древенты.
+- **Нежить** — духи и реанимированные мертвецы, такие как призраки, вампиры и зомби.
 
-#### Descriptive Tags
+#### Описательные теги
 
-A monster might have one or more tags in parentheses following its type. Such tags provide additional categorization and have no rules of their own, but certain game effects might refer to them.
+Монстр может иметь один или несколько тегов в скобках после своего типа. Такие теги обеспечивают дополнительную категоризацию и не имеют собственных правил, но определённые игровые эффекты могут ссылаться на них.
 
-### Alignment
+### Мировоззрение
 
-The alignment specified in a monster's stat block is a default suggestion of how to roleplay the monster, inspired by its traditional role in the game or realworld folklore. Change a monster's alignment to suit your storytelling needs. The Neutral alignment, in particular, is an invitation for you to consider whether an individual leans toward one of the other alignments.
+Мировоззрение, указанное в блоке статистики монстра, является предложением по умолчанию о том, как отыгрывать монстра, вдохновлённое его традиционной ролью в игре или фольклоре реального мира. Изменяйте мировоззрение монстра в соответствии с вашими повествовательными потребностями. Нейтральное мировоззрение, в частности, является приглашением рассмотреть, склоняется ли конкретный индивидуум к одному из других мировоззрений.
 
-"Character Creation" describes the nine alignments and unaligned creatures.
+В «Создании персонажа» описаны девять мировоззрений и существа без мировоззрения.
 
-### Armor Class
+### Класс доспеха
 
-A monster's Armor Class (AC) includes its natural armor, Dexterity, gear, and other defenses. See "Playing the Game" for information on Armor Class.
+Класс доспеха (КД) монстра включает его естественный доспех, Ловкость, снаряжение и другие защиты. Информацию о Классе доспеха смотрите в «Игровом процессе».
 
-### Initiative
+### Инициатива
 
-The Initiative entry specifies the monster's Initiative modifier followed by the monster's Initiative score in parentheses. Use the modifier when you roll to determine a monster's Initiative. A monster's Initiative modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as Proficiency Bonus, applied to that number.
+Запись «Инициатива» указывает модификатор инициативы монстра, за которым в скобках следует значение инициативы монстра. Используйте модификатор, когда бросаете для определения инициативы монстра. Модификатор инициативы монстра обычно равен его модификатору Ловкости, но некоторые монстры имеют дополнительные модификаторы, такие как бонус мастерства, применяемые к этому числу.
 
-If you don't want to roll a monster's Initiative, use the Initiative score as the monster's Initiative in combat. Initiative is further detailed in "Playing the Game*."*
+Если вы не хотите бросать инициативу монстра, используйте значение инициативы как инициативу монстра в бою. Инициатива подробнее описана в «Игровом процессе».
 
-### Hit Points
+### Хиты
 
-A monster's Hit Points are presented as a number followed by parentheses, where the monster's Hit Point Dice are provided, along with any contribution from its Constitution. Either use the number for the monster's Hit Points or roll the die expression in parentheses to determine the monster's Hit Points randomly; don't use both.
+Хиты монстра представлены числом, за которым следуют скобки, где указаны Кости хитов монстра вместе с любым вкладом от его Телосложения. Используйте либо число для хитов монстра, либо бросьте выражение костей в скобках, чтобы определить хиты монстра случайно; не используйте оба варианта.
 
-A monster's size typically determines the die used to calculate its Hit Points, as shown in the Hit Dice by Size table.
+Размер монстра обычно определяет кость, используемую для расчёта его хитов, как показано в таблице «Кости хитов по размеру».
 
-Table: Hit Dice by Size
+Таблица: Кости хитов по размеру
 
-| Monster Size | Hit Die | Average HP per Die |
-|--------------|---------|--------------------|
-| Tiny         | d4      | 2½                 |
-| Small        | d6      | 3½                 |
-| Medium       | d8      | 4½                 |
-| Large        | d10     | 5½                 |
-| Huge         | d12     | 6½                 |
-| Gargantuan   | d20     | 10½                |
+| Размер монстра | Кость хитов | Среднее ХП за кость |
+|----------------|-------------|---------------------|
+| Крошечный      | d4          | 2½                  |
+| Маленький      | d6          | 3½                  |
+| Средний        | d8          | 4½                  |
+| Большой        | d10         | 5½                  |
+| Огромный       | d12         | 6½                  |
+| Громадный      | d20         | 10½                 |
 
-A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its Hit Points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 Hit Points (average 11).
+Модификатор Телосложения монстра умножается на число имеющихся у него Костей хитов, и результат добавляется к его хитам. Например, если монстр имеет Телосложение 12 (модификатор +1) и 2d8 Костей хитов, у него 2d8 + 2 хитов (в среднем 11).
 
-For more on Hit Points, see "Playing the Game*."*
+Подробнее о хитах смотрите в «Игровом процессе».
 
-### Speed
+### Скорость
 
-The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: Burrow, Climb, Fly, Swim. Rules for Speed and these specials speeds appear in "Rules Glossary*."*
+Запись «Скорость» указывает скорость монстра. Некоторые монстры имеют одну или несколько из следующих скоростей: копание, лазание, полёт, плавание. Правила для скорости и этих особых скоростей приведены в «Глоссарии правил».
 
-### Ability Scores
+### Характеристики
 
-Every monster has six ability scores along with corresponding ability score modifiers and saving throw modifiers. For more information on ability scores and saving throws, see "Playing the Game*."*
+У каждого монстра есть шесть характеристик вместе с соответствующими модификаторами характеристик и модификаторами спасбросков. Подробнее о характеристиках и спасбросках смотрите в «Игровом процессе».
 
-### Skills
+### Навыки
 
-The Skills entry specifies a monster's skill proficiencies, if any. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks. A skill bonus is the sum of a monster's relevant ability modifier and its Proficiency Bonus. Other modifiers might apply.
+Запись «Навыки» указывает владение навыками монстра, если таковые имеются. Например, монстр, который очень внимателен и скрытен, может иметь бонусы к проверкам Мудрости (Восприятие) и Ловкости (Скрытность). Бонус навыка — это сумма соответствующего модификатора характеристики монстра и его бонуса мастерства. Могут применяться другие модификаторы.
 
-### Resistances and Vulnerabilities
+### Сопротивления и уязвимости
 
-These entries list a monster's Resistances and Vulnerabilities, if any. See "Playing the Game" for more information.
+В этих записях перечислены сопротивления и уязвимости монстра, если таковые имеются. Подробнее смотрите в «Игровом процессе».
 
-> ### Running a Monster
+> ### Управление монстром
 >
-> To ensure a monster acts in accordance with its Challenge Rating, follow these rules during combat:
-> 
-> - **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.
-> - **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.
-> - **Bonus Actions, Reactions, Legendary Actions.** If the monster has Bonus Actions, Reactions, or Legendary Actions in its stat block, make sure it uses them as often as it can.
+> Чтобы монстр действовал в соответствии со своим показателем опасности, следуйте этим правилам во время боя:
+>
+> - **Особые способности.** Если у монстра есть особая способность, наносящая много урона, но имеющая ограниченное число использований, такая как перезаряжающееся дыхательное оружие или заклинание, которое можно использовать только один раз в день, пусть монстр использует эту особую способность как можно быстрее и чаще.
+> - **Мультиатака.** Если у монстра есть мультиатака, пусть он использует её в любой из своих ходов, в который не использует одну из своих более мощных способностей.
+> - **Бонусные действия, реакции, легендарные действия.** Если у монстра есть бонусные действия, реакции или легендарные действия в его блоке статистики, убедитесь, что он использует их как можно чаще.
 
-### Immunities
+### Иммунитеты
 
-This entry lists the monster's Immunities, if any. If the monster has damage and condition Immunities, the damage types are listed before the conditions. See "Playing the Game" for details.
+В этой записи перечислены иммунитеты монстра, если таковые имеются. Если у монстра есть иммунитеты к урону и состояниям, типы урона указываются перед состояниями. Подробности смотрите в «Игровом процессе».
 
-### Gear
+### Снаряжение
 
-Monsters have proficiency with their equipment. If a monster has equipment that can be given away or retrieved, the items are listed in the Gear entry. The monster's stat block might include special flourishes that happen when the monster uses an item, and the stat block might ignore the rules in "Equipment" for that item. When used by someone else, a retrievable item uses its "Equipment" rules, ignoring any special flourishes in the stat block.
+Монстры владеют своим снаряжением. Если у монстра есть снаряжение, которое можно отдать или забрать, предметы указаны в записи «Снаряжение». Блок статистики монстра может включать особые эффекты, которые происходят при использовании монстром предмета, и блок статистики может игнорировать правила в «Снаряжении» для этого предмета. При использовании кем-то другим извлекаемый предмет использует свои правила из «Снаряжения», игнорируя любые особые эффекты в блоке статистики.
 
-The Gear entry doesn't necessarily list all of a monster's equipment. For example, a monster that wears clothes is assumed to be dressed appropriately, and those clothes aren't in this entry.
+Запись «Снаряжение» не обязательно перечисляет всё снаряжение монстра. Например, предполагается, что монстр, носящий одежду, одет соответственно, и эта одежда не указана в этой записи.
 
-Equipment mentioned outside the Gear entry is considered to be supernatural or highly specialized, and it is unusable when the monster is defeated.
+Снаряжение, упомянутое вне записи «Снаряжение», считается сверхъестественным или узкоспециализированным, и оно непригодно для использования после победы над монстром.
 
-#### Ammunition and Ranged Attacks
+#### Боеприпасы и дальнобойные атаки
 
-A monster that requires ammunition to make ranged attacks carries the necessary ammunition.
+Монстр, которому нужны боеприпасы для дальнобойных атак, несёт необходимые боеприпасы.
 
-#### Equipping a Monster with Other Items
+#### Оснащение монстра другими предметами
 
-You may equip monsters with additional gear however you like, using the items in "Equipment" for inspiration. You decide how much of a monster's equipment is recoverable after the creature is slain and whether any of that equipment is still usable.
+Вы можете оснащать монстров дополнительным снаряжением по своему усмотрению, используя предметы из «Снаряжения» для вдохновения. Вы решаете, сколько снаряжения монстра можно забрать после убийства существа и пригодно ли это снаряжение для дальнейшего использования.
 
-Beware of giving a monster combat-oriented magic items, since those might alter the monster's Challenge Rating. If you do give a monster a magic item, the monster can have Attunement with magic items as noted in "Equipment." A monster with a class tag after its creature type is considered a member of that class for Attunement purposes.
+Остерегайтесь давать монстру боевые магические предметы, поскольку они могут изменить показатель опасности монстра. Если вы даёте монстру магический предмет, монстр может настраиваться на магические предметы, как указано в «Снаряжении». Монстр с тегом класса после своего типа существа считается членом этого класса для целей настройки.
 
-### Senses
+### Чувства
 
-The Senses entry specifies a monster's Passive Perception score, as well as any special senses the monster possesses. Passive Perception and special senses are described in "Rules Glossary."
+Запись «Чувства» указывает пассивное Восприятие монстра, а также любые особые чувства, которыми обладает монстр. Пассивное Восприятие и особые чувства описаны в «Глоссарии правил».
 
-### Languages
+### Языки
 
-This entry lists languages that the monster can use to communicate. Sometimes a monster can understand a language but can't communicate with it, which is noted in its entry. "None" indicates that a creature doesn't comprehend any language.
+В этой записи перечислены языки, которые монстр может использовать для общения. Иногда монстр может понимать язык, но не может общаться на нём, что отмечено в его записи. «Нет» указывает, что существо не понимает никакого языка.
 
-#### Telepathy
+#### Телепатия
 
-Telepathy is a magical ability that allows a creature to communicate mentally with another creature within a specified range. See "Rules Glossary" for more information.
+Телепатия — это магическая способность, позволяющая существу мысленно общаться с другим существом в пределах указанной дистанции. Подробнее смотрите в «Глоссарии правил».
 
-### Challenge Rating
+### Показатель опасности
 
-Challenge Rating is defined in "Rules Glossary," while guidance on using CR to plan potential combat encounters is in "Gameplay Toolbox."
+Показатель опасности определён в «Глоссарии правил», а руководство по использованию ПО для планирования потенциальных боевых столкновений — в «Игровом инструментарии».
 
-#### Experience Points
+#### Очки опыта
 
-The number of Experience Points (XP) a monster is worth is based on its CR, as detailed in the Experience Points by Challenge Rating table. XP is awarded for defeating the monster in combat or otherwise neutralizing it.
+Количество очков опыта (ОО), которые стоит монстр, основано на его ПО, как подробно описано в таблице «Очки опыта по показателю опасности». ОО присуждаются за победу над монстром в бою или иную его нейтрализацию.
 
-Unless a rule says otherwise, a monster summoned by a spell or another magical ability is worth the XP noted in its stat block.
+Если правило не говорит иного, монстр, вызванный заклинанием или другой магической способностью, стоит ОО, указанные в его блоке статистики.
 
-Table: Experience Points by Challenge Rating
+Таблица: Очки опыта по показателю опасности
 
-| CR  | XP      |
-|-----|---------|
-| 0   | 0 or 10 |
-| 1/8 | 25      |
-| 1/4 | 50      |
-| 1/2 | 100     |
-| 1   | 200     |
-| 2   | 450     |
-| 3   | 700     |
-| 4   | 1,100   |
-| 5   | 1,800   |
-| 6   | 2,300   |
-| 7   | 2,900   |
-| 8   | 3,900   |
-| 9   | 5,000   |
-| 10  | 5,900   |
-| 11 | 7,200    |
-| 12 | 8,400    |
-| 13 | 10,000   |
-| 14 | 11,500   |
-| 15 | 13,000   |
-| 16 | 15,000   |
-| 17 | 18,000   |
-| 18 | 20,000   |
-| 19 | 22,000   |
-| 20 | 25,000   |
-| 21 | 33,000   |
-| 22 | 41,000   |
-| 23 | 50,000   |
-| 24 | 62,000   |
-| 25 | 75,000   |
-| 26 | 90,000   |
-| 27 | 105,000  |
-| 28 | 120,000  |
-| 29 | 135,000  |
-| 30 | 155,000  |
+| ПО   | ОО      |
+|------|---------|
+| 0    | 0 или 10|
+| 1/8  | 25      |
+| 1/4  | 50      |
+| 1/2  | 100     |
+| 1    | 200     |
+| 2    | 450     |
+| 3    | 700     |
+| 4    | 1100    |
+| 5    | 1800    |
+| 6    | 2300    |
+| 7    | 2900    |
+| 8    | 3900    |
+| 9    | 5000    |
+| 10   | 5900    |
+| 11   | 7200    |
+| 12   | 8400    |
+| 13   | 10 000  |
+| 14   | 11 500  |
+| 15   | 13 000  |
+| 16   | 15 000  |
+| 17   | 18 000  |
+| 18   | 20 000  |
+| 19   | 22 000  |
+| 20   | 25 000  |
+| 21   | 33 000  |
+| 22   | 41 000  |
+| 23   | 50 000  |
+| 24   | 62 000  |
+| 25   | 75 000  |
+| 26   | 90 000  |
+| 27   | 105 000 |
+| 28   | 120 000 |
+| 29   | 135 000 |
+| 30   | 155 000 |
 
-#### Proficiency Bonus
+#### Бонус мастерства
 
-A monster's Proficiency Bonus (PB) is determined by its CR, as shown in the Proficiency Bonus by Challenge Rating table, and is reflected in saving throws, skills, and other statistics where the monster's exceptional aptitude is a factor.
+Бонус мастерства (БМ) монстра определяется его ПО, как показано в таблице «Бонус мастерства по показателю опасности», и отражается в спасбросках, навыках и другой статистике, где исключительные способности монстра являются фактором.
 
-Table: Proficiency Bonus by Challenge Rating
+Таблица: Бонус мастерства по показателю опасности
 
-| CR    | PB |
+| ПО    | БМ |
 |-------|----|
 | 0–4   | +2 |
 | 5–8   | +3 |
@@ -207,66 +207,66 @@ Table: Proficiency Bonus by Challenge Rating
 | 25–28 | +8 |
 | 29–30 | +9 |
 
-### Traits
+### Особенности
 
-A monster's traits, if any, are features that are active at all times or in certain situations.
+Особенности монстра, если таковые имеются, являются способностями, которые активны постоянно или в определённых ситуациях.
 
-### Actions
+### Действия
 
-A monster can take the actions in this section or take one of the actions available to all creatures, as described in "Playing the Game."
+Монстр может совершать действия, указанные в этом разделе, или совершать одно из действий, доступных всем существам, как описано в «Игровом процессе».
 
-#### Attack Notation
+#### Нотация атаки
 
-The entry for a monster's attack identifies whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise. For details on different kinds of attacks, see "Playing the Game" and "Spells."
+Запись об атаке монстра определяет, является ли атака рукопашной или дальнобойной, а затем предоставляет бонус атаки, её досягаемость или дистанцию и что происходит при попадании. Атака направлена на одну цель, если в её записи не сказано иное. Подробности о различных видах атак смотрите в «Игровом процессе» и «Заклинаниях».
 
-**_Hit._** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the "*Hit:*" notation.
+**_Попадание._** Любой нанесённый урон или другие эффекты, происходящие в результате попадания атаки по цели, описываются после нотации «*Попадание:*».
 
-**_Miss._** If an attack has an effect that occurs on a miss, that information follows the "*Miss:*" notation.
+**_Промах._** Если атака имеет эффект, который происходит при промахе, эта информация следует за нотацией «*Промах:*».
 
-**_Hit or Miss._** If an attack has an effect that occurs regardless of whether it hits or misses its target, that information follows the "*Hit or Miss:*" notation.
+**_Попадание или промах._** Если атака имеет эффект, который происходит независимо от того, попадает она или промахивается по цели, эта информация следует за нотацией «*Попадание или промах:*».
 
-#### Saving Throw Effect Notation
+#### Нотация эффекта спасброска
 
-If an effect forces a saving throw, the effect identifies the kind of save required and then provides the save's DC, a description of which creatures make the save, and an explanation of what happens on a failed or successful save.
+Если эффект требует спасброска, эффект определяет тип требуемого спасброска, а затем предоставляет Сл спасброска, описание того, какие существа совершают спасбросок, и объяснение того, что происходит при провале или успехе.
 
-"Half damage only" on a successful save means the target takes half as much damage (round down) as targets that fail the save, while also ignoring all other parts of the effect.
+«Только половина урона» при успешном спасброске означает, что цель получает половину урона (округляя вниз) от того, что получают цели, провалившие спасбросок, также игнорируя все остальные части эффекта.
 
-#### Damage Notation
+#### Нотация урона
 
-A stat block usually provides both a number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. You decide whether to use the number or the die expression in parentheses; don't use both.
+Блок статистики обычно предоставляет и число, и выражение костей для каждого случая урона. Например, атака может наносить 4 (1d4 + 2) урона при попадании. Вы решаете, использовать ли число или выражение костей в скобках; не используйте оба.
 
-#### Multiattack
+#### Мультиатака
 
-Some creatures can make more than one attack when they take the Attack action. Such creatures have the Multiattack entry in the "Actions" section of their stat block. This entry details the attacks a creature can make, as well as any additional abilities it can use, as part of the Attack action.
+Некоторые существа могут совершать более одной атаки, когда предпринимают действие «Атака». Такие существа имеют запись «Мультиатака» в разделе «Действия» своего блока статистики. Эта запись подробно описывает атаки, которые существо может совершить, а также любые дополнительные способности, которые оно может использовать, как часть действия «Атака».
 
-#### Spellcasting
+#### Сотворение заклинаний
 
-If a monster can cast any spells, its stat block lists the spells and provides the monster's spellcasting ability, spell save DC (if any spells require a saving throw), and spell attack bonus (if any spells require an attack roll). Unless noted otherwise, a spell of level 1 or higher is always cast at its lowest possible level and can't be cast at a higher level.
+Если монстр может сотворять какие-либо заклинания, его блок статистики перечисляет заклинания и указывает заклинательную характеристику монстра, Сл спасброска заклинаний (если какие-либо заклинания требуют спасброска) и бонус атаки заклинанием (если какие-либо заклинания требуют броска атаки). Если не указано иное, заклинание 1-го уровня или выше всегда творится на минимально возможном уровне и не может быть сотворено на более высоком уровне.
 
-A monster's spell can have special rules or restrictions. For example, a green hag can cast the *Invisibility* spell, but the spell has a "self only" restriction, which means the spell affects only the hag.
+Заклинание монстра может иметь особые правила или ограничения. Например, зелёная карга может сотворить заклинание *Невидимость*, но заклинание имеет ограничение «только на себя», что означает, что заклинание действует только на каргу.
 
-**_Spell Components._** The Spellcasting trait notes whether the monster's spellcasting ignores the need for certain spell components. If any spell components are required, describe the monster's use of Verbal, Somatic, or Material components to signal to characters that it is casting a spell. A monster that requires Material components has them.
+**_Компоненты заклинания._** Особенность «Сотворение заклинаний» указывает, игнорирует ли сотворение заклинаний монстром необходимость определённых компонентов заклинания. Если требуются какие-либо компоненты заклинания, опишите использование монстром вербальных, соматических или материальных компонентов, чтобы сигнализировать персонажам, что он творит заклинание. Монстр, которому требуются материальные компоненты, имеет их.
 
-**_Casting Times of 1+ Minutes._** If a spell has a casting time of 1 minute or more yet is listed in a spellcasting action, the monster doesn't cast the spell in just one action unless the action's description states otherwise; the monster must take the Magic action on each of its turns and maintain Concentration to cast the spell, as described in "Rules Glossary."
+**_Время сотворения 1+ минут._** Если заклинание имеет время сотворения 1 минута или более, но указано в действии сотворения заклинаний, монстр не творит заклинание всего за одно действие, если описание действия не указывает иное; монстр должен совершать действие «Магия» в каждый из своих ходов и поддерживать концентрацию, чтобы сотворить заклинание, как описано в «Глоссарии правил».
 
-### Bonus Action
+### Бонусное действие
 
-If a monster has Bonus Action options, they are listed in this section. See "Playing the Game" for details on Bonus Actions.
+Если у монстра есть варианты бонусного действия, они перечислены в этом разделе. Подробности о бонусных действиях смотрите в «Игровом процессе».
 
-### Reactions
+### Реакции
 
-If the monster has Reaction options, those are listed in this section along with their triggers. See "Playing the Game" for details on Reactions.
+Если у монстра есть варианты реакций, они перечислены в этом разделе вместе с их триггерами. Подробности о реакциях смотрите в «Игровом процессе».
 
-### Legendary Actions
+### Легендарные действия
 
-If the monster has Legendary Action options, those are listed in this section. A Legendary Action is an action that a monster can take immediately after another creature's turn. Only one of these actions can be taken at a time and only after another creature's turn ends. The monster can't take a Legendary Action if it has the Incapacitated condition or is otherwise unable to take actions.
+Если у монстра есть варианты легендарных действий, они перечислены в этом разделе. Легендарное действие — это действие, которое монстр может совершить сразу после хода другого существа. Только одно из этих действий может быть совершено за раз и только после окончания хода другого существа. Монстр не может совершить легендарное действие, если находится в состоянии «недееспособный» или иным образом не способен совершать действия.
 
-The monster has a limited number of Legendary Action uses, and that number is specified in the stat block. The monster expends one use whenever it takes a Legendary Action, and it regains all expended uses at the start of each of its turns.
+У монстра ограниченное число использований легендарных действий, и это число указано в блоке статистики. Монстр расходует одно использование всякий раз, когда совершает легендарное действие, и восстанавливает все израсходованные использования в начале каждого из своих ходов.
 
-### Limited Usage
+### Ограниченное использование
 
-Some parts of a stat block have restrictions on the number of times they can be used. Here are the most common ways that usage is limited:
+Некоторые части блока статистики имеют ограничения на количество раз, которое их можно использовать. Вот наиболее распространённые способы ограничения использования:
 
-- **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a Long Rest to regain expended uses. For example, a Reaction that includes "1/Day" means the Reaction can be taken once and that the monster must finish a Long Rest to take it again.
-- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll 1d6. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a Short or Long Rest. For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on 1d6.
-- **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a Short or Long Rest to use it again.
+- **X/День.** Эта нотация означает, что часть блока статистики может использоваться определённое число раз (представленное X) и что монстр должен завершить продолжительный отдых, чтобы восстановить израсходованные использования. Например, реакция, включающая «1/День», означает, что реакцию можно совершить один раз и что монстр должен завершить продолжительный отдых, чтобы совершить её снова.
+- **Перезарядка X–Y.** Эта нотация означает, что монстр может использовать часть блока статистики один раз. В начале каждого хода монстра бросьте 1d6. Если результат находится в числовом диапазоне, указанном в нотации (представленном X–Y), монстр восстанавливает использование этой части, которая также перезаряжается, когда монстр завершает короткий или продолжительный отдых. Например, «Перезарядка 5–6» в действии означает, что монстр может совершить действие один раз. Затем, в начале каждого хода монстра, он восстанавливает использование этого действия, если выбрасывает 5 или 6 на 1d6.
+- **Перезарядка после короткого или продолжительного отдыха.** Эта нотация означает, что монстр может использовать часть блока статистики один раз, а затем должен завершить короткий или продолжительный отдых, чтобы использовать её снова.

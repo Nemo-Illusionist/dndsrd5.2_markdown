@@ -1,162 +1,162 @@
-## Fighter
+## Воин
 
-Table: Core Fighter Traits
+Таблица: Основные черты воина
 
-|                               |                                                                                                                                       |
-|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Primary Ability               | Strength or Dexterity                                                                                                                 |
-| Hit Point Die                 | D10 per Fighter level                                                                                                                 |
-| Saving Throw Proficiencies    | Strength and Constitution                                                                                                             |
-| Skill Proficiencies           | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival                 |
-| Weapon Proficiencies          | Simple and Martial weapons                                                                                                            |
-| Armor Training                | Light, Medium, and Heavy armor and Shields                                                                                            |
-| Starting Equipment            | Choose A, B, or C: (A) Chain Mail, Greatsword, Flail, 8 Javelins, Dungeoneer's Pack, and 4 GP; (B) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Dungeoneer's Pack, and 11 GP; or (C) 155 GP |
+|                            |                                                                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Основная характеристика    | Сила или Ловкость                                                                                                                     |
+| Кость Хитов                | d10 за каждый уровень воина                                                                                                           |
+| Владение спасбросками      | Сила и Телосложение                                                                                                                   |
+| Владение навыками          | Выберите 2: Акробатика, Уход за животными, Атлетика, История, Проницательность, Запугивание, Убеждение, Внимательность или Выживание |
+| Владение оружием           | Простое и воинское оружие                                                                                                             |
+| Владение доспехами         | Лёгкие, средние и тяжёлые доспехи, щиты                                                                                               |
+| Начальное снаряжение       | Выберите А, Б или В: (А) Кольчуга, двуручный меч, цеп, 8 дротиков, набор исследователя подземелий и 4 зм; (Б) Проклёпанный кожаный доспех, скимитар, короткий меч, длинный лук, 20 стрел, колчан, набор исследователя подземелий и 11 зм; или (В) 155 зм |
 
-### Becoming a Fighter …
+### Как стать воином…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Fighter Traits table.
-- Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
+- Получите все черты из таблицы Основные черты воина.
+- Получите умения воина 1-го уровня, перечисленные в таблице Умения воина.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
-- Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
+- Получите следующие черты из таблицы Основные черты воина: Кость Хитов, владение воинским оружием и владение лёгкими и средними доспехами, а также щитами.
+- Получите умения воина 1-го уровня, перечисленные в таблице Умения воина.
 
-### Fighter Class Features
+### Умения воина
 
-As a Fighter, you gain the following class features when you reach the specified Fighter levels. These features are listed on the Fighter Features table.
+Как воин, вы получаете следующие классовые умения, когда достигаете указанных уровней воина. Эти умения перечислены в таблице Умения воина.
 
-Table: Fighter Features
+Таблица: Умения воина
 
-| Level | Proficiency Bonus    | Class Features                                    | Second Wind    | Weapon Mastery    |
-|-------|----------------------|---------------------------------------------------|----------------|-------------------|
-| 1     | +2                   | Fighting Style, Second Wind, Weapon Mastery       | 2              | 3                 |
-| 2     | +2                   | Action Surge (one use), Tactical Mind             | 2              | 3                 |
-| 3     | +2                   | Fighter Subclass                                  | 2              | 3                 |
-| 4     | +2                   | Ability Score Improvement                         | 3              | 4                 |
-| 5     | +3                   | Extra Attack, Tactical Shift                      | 3              | 4                 |
-| 6     | +3                   | Ability Score Improvement                         | 3              | 4                 |
-| 7     | +3                   | Subclass feature                                  | 3              | 4                 |
-| 8     | +3                   | Ability Score Improvement                         | 3              | 4                 |
-| 9     | +4                   | Indomitable (one use), Tactical Master            | 3              | 4                 |
-| 10    | +4                   | Subclass feature                                  | 4              | 5                 |
-| 11    | +4                   | Two Extra Attacks                                 | 4              | 5                 |
-| 12    | +4                   | Ability Score Improvement                         | 4              | 5                 |
-| 13    | +5                   | Indomitable (two uses), Studied Attacks           | 4              | 5                 |
-| 14    | +5                   | Ability Score Improvement                         | 4              | 5                 |
-| 15    | +5                   | Subclass feature                                  | 4              | 5                 |
-| 16    | +5                   | Ability Score Improvement                         | 4              | 6                 |
-| 17    | +6                   | Action Surge (two uses), Indomitable (three uses) | 4              | 6                 |
-| 18    | +6                   | Subclass feature                                  | 4              | 6                 |
-| 19    | +6                   | Epic Boon                                         | 4              | 6                 |
-| 20    | +6                   | Three Extra Attacks                               | 4              | 6                 |
+| Уровень | Бонус мастерства | Классовые умения                                           | Второе дыхание | Мастерство оружия |
+|---------|------------------|------------------------------------------------------------|----------------|-------------------|
+| 1       | +2               | Боевой стиль, Второе дыхание, Мастерство оружия            | 2              | 3                 |
+| 2       | +2               | Всплеск действий (одно использование), Тактический ум      | 2              | 3                 |
+| 3       | +2               | Подкласс воина                                             | 2              | 3                 |
+| 4       | +2               | Увеличение характеристик                                   | 3              | 4                 |
+| 5       | +3               | Дополнительная атака, Тактический манёвр                   | 3              | 4                 |
+| 6       | +3               | Увеличение характеристик                                   | 3              | 4                 |
+| 7       | +3               | Умение подкласса                                           | 3              | 4                 |
+| 8       | +3               | Увеличение характеристик                                   | 3              | 4                 |
+| 9       | +4               | Несгибаемый (одно использование), Тактическое мастерство   | 3              | 4                 |
+| 10      | +4               | Умение подкласса                                           | 4              | 5                 |
+| 11      | +4               | Две дополнительные атаки                                   | 4              | 5                 |
+| 12      | +4               | Увеличение характеристик                                   | 4              | 5                 |
+| 13      | +5               | Несгибаемый (два использования), Изученные атаки           | 4              | 5                 |
+| 14      | +5               | Увеличение характеристик                                   | 4              | 5                 |
+| 15      | +5               | Умение подкласса                                           | 4              | 5                 |
+| 16      | +5               | Увеличение характеристик                                   | 4              | 6                 |
+| 17      | +6               | Всплеск действий (два использования), Несгибаемый (три)    | 4              | 6                 |
+| 18      | +6               | Умение подкласса                                           | 4              | 6                 |
+| 19      | +6               | Эпический дар                                              | 4              | 6                 |
+| 20      | +6               | Три дополнительные атаки                                   | 4              | 6                 |
 
-#### Level 1: Fighting Style
+#### Уровень 1: Боевой стиль
 
-You have honed your martial prowess and gain a Fighting Style feat of your choice (see "Feats"). Defense is recommended.
+Вы отточили своё боевое мастерство и получаете черту Боевой стиль на свой выбор (смотрите раздел «Черты»). Рекомендуется Оборона.
 
-Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
+Каждый раз, когда вы получаете уровень воина, вы можете заменить выбранную черту другой чертой Боевого стиля.
 
-#### Level 1: Second Wind
+#### Уровень 1: Второе дыхание
 
-You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
+У вас есть ограниченный запас физической и ментальной выносливости, на который вы можете опереться. Как Бонусное действие, вы можете использовать его, чтобы восстановить количество хитов, равное 1d10 + ваш уровень воина.
 
-You can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+Вы можете использовать это умение дважды. Вы восстанавливаете одно потраченное использование, когда заканчиваете короткий отдых, и восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых.
 
-When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
+Когда вы достигаете определённых уровней воина, вы получаете больше использований этого умения, как показано в столбце Второе дыхание таблицы Умения воина.
 
-#### Level 1: Weapon Mastery
+#### Уровень 1: Мастерство оружия
 
-Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Ваша тренировка с оружием позволяет вам использовать свойства мастерства трёх видов простого или воинского оружия на ваш выбор. Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете потренироваться с оружием и изменить один из этих выборов.
 
-When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
+Когда вы достигаете определённых уровней воина, вы получаете возможность использовать свойства мастерства большего количества видов оружия, как показано в столбце Мастерство оружия таблицы Умения воина.
 
-#### Level 2: Action Surge
+#### Уровень 2: Всплеск действий
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.
+Вы можете на мгновение превзойти свои обычные пределы. В свой ход вы можете совершить одно дополнительное действие, кроме Магического действия.
 
-Once you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.
+После использования этого умения вы не можете использовать его снова, пока не закончите короткий или продолжительный отдых. Начиная с 17-го уровня вы можете использовать его дважды до отдыха, но только один раз в ход.
 
-#### Level 2: Tactical Mind
+#### Уровень 2: Тактический ум
 
-You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+У вас тактический склад ума как на поле боя, так и за его пределами. Когда вы проваливаете проверку характеристики, вы можете потратить использование Второго дыхания, чтобы подтолкнуть себя к успеху. Вместо восстановления хитов вы бросаете 1d10 и добавляете выпавшее число к проверке характеристики, потенциально превращая её в успех. Если проверка всё равно провалена, это использование Второго дыхания не тратится.
 
-#### Level 3: Fighter Subclass
+#### Уровень 3: Подкласс воина
 
-You gain a Fighter subclass of your choice. The Champion subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass's features that are of your Fighter level or lower.
+Вы получаете подкласс воина на свой выбор. Подкласс Чемпион описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях воина. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню воина или ниже.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 6-м, 8-м, 12-м, 14-м и 16-м уровнях воина.
 
-#### Level 5: Extra Attack
+#### Уровень 5: Дополнительная атака
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+Вы можете атаковать дважды вместо одного раза, каждый раз, когда совершаете действие Атака в свой ход.
 
-#### Level 5: Tactical Shift
+#### Уровень 5: Тактический манёвр
 
-Whenever you activate your Second Wind with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
+Каждый раз, когда вы активируете Второе дыхание Бонусным действием, вы можете переместиться на расстояние до половины вашей скорости, не провоцируя провоцированных атак.
 
-#### Level 9: Indomitable
+#### Уровень 9: Несгибаемый
 
-If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can't use this feature again until you finish a Long Rest.
+Если вы проваливаете спасбросок, вы можете перебросить его с бонусом, равным вашему уровню воина. Вы должны использовать новый результат, и вы не можете использовать это умение снова, пока не закончите продолжительный отдых.
 
-You can use this feature twice before a Long Rest starting at level 13 and three times before a Long Rest starting at level 17.
+Вы можете использовать это умение дважды до продолжительного отдыха начиная с 13-го уровня и три раза до продолжительного отдыха начиная с 17-го уровня.
 
-#### Level 9: Tactical Master
+#### Уровень 9: Тактическое мастерство
 
-When you attack with a weapon whose mastery property you can use, you can replace that property with the Push, Sap, or Slow property for that attack.
+Когда вы атакуете оружием, свойство мастерства которого вы можете использовать, вы можете заменить это свойство на Толчок, Подавление или Замедление для этой атаки.
 
-#### Level 11: Two Extra Attacks
+#### Уровень 11: Две дополнительные атаки
 
-You can attack three times instead of once whenever you take the Attack action on your turn.
+Вы можете атаковать три раза вместо одного, каждый раз, когда совершаете действие Атака в свой ход.
 
-#### Level 13: Studied Attacks
+#### Уровень 13: Изученные атаки
 
-You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have Advantage on your next attack roll against that creature before the end of your next turn.
+Вы изучаете своих противников и учитесь на каждой совершённой атаке. Если вы совершаете бросок атаки по существу и промахиваетесь, вы получаете преимущество на следующий бросок атаки по этому существу до конца вашего следующего хода.
 
-### Level 19: Epic Boon
+### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Combat Prowess is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар боевого мастерства.
 
-#### Level 20: Three Extra Attacks
+#### Уровень 20: Три дополнительные атаки
 
-You can attack four times instead of once whenever you take the Attack action on your turn.
+Вы можете атаковать четыре раза вместо одного, каждый раз, когда совершаете действие Атака в свой ход.
 
-### Fighter Subclass: Champion
+### Подкласс воина: Чемпион
 
-*Pursue Physical Excellence in Combat*
+*Стремление к физическому совершенству в бою*
 
-A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
+Чемпион сосредоточен на развитии боевого мастерства в неустанном стремлении к победе. Чемпионы сочетают строгие тренировки с физическим совершенством, чтобы наносить сокрушительные удары, противостоять опасности и стяжать славу. Будь то атлетические состязания или кровопролитные битвы, Чемпионы стремятся к венцу победителя.
 
-#### Level 3: Improved Critical
+#### Уровень 3: Улучшенный критический удар
 
-Your attack rolls with weapons and Unarmed Strikes can score a Critical Hit on a roll of 19 or 20 on the d20.
+Ваши броски атаки оружием и безоружными ударами могут нанести критическое попадание при результате 19 или 20 на d20.
 
-#### Level 3: Remarkable Athlete
+#### Уровень 3: Выдающийся атлет
 
-Thanks to your athleticism, you have Advantage on Initiative rolls and Strength (Athletics) checks.
+Благодаря вашему атлетизму вы получаете преимущество на броски инициативы и проверки Силы (Атлетика).
 
-In addition, immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
+Кроме того, сразу после нанесения критического попадания вы можете переместиться на расстояние до половины вашей скорости, не провоцируя провоцированных атак.
 
-#### Level 7: Additional Fighting Style
+#### Уровень 7: Дополнительный боевой стиль
 
-You gain another Fighting Style feat of your choice.
+Вы получаете ещё одну черту Боевой стиль на свой выбор.
 
-#### Level 10: Heroic Warrior
+#### Уровень 10: Героический воин
 
-The thrill of battle drives you toward victory. During combat, you can give yourself Heroic Inspiration whenever you start your turn without it.
+Острые ощущения битвы ведут вас к победе. Во время боя вы можете дать себе Героическое вдохновение каждый раз, когда начинаете свой ход без него.
 
-#### Level 15: Superior Critical
+#### Уровень 15: Превосходный критический удар
 
-Your attack rolls with weapons and Unarmed Strikes can now score a Critical Hit on a roll of 18–20 on the d20.
+Ваши броски атаки оружием и безоружными ударами теперь могут нанести критическое попадание при результате 18–20 на d20.
 
-#### Level 18: Survivor
+#### Уровень 18: Выживший
 
-You attain the pinnacle of resilience in battle, giving you these benefits.
+Вы достигли вершины стойкости в бою, получая следующие преимущества.
 
-**Defy Death.** You have Advantage on Death Saving Throws. Moreover, when you roll 18–20 on a Death Saving Throw, you gain the benefit of rolling a 20 on it.
+**Противостояние смерти.** Вы получаете преимущество на спасброски от смерти. Более того, когда вы выбрасываете 18–20 на спасброске от смерти, вы получаете преимущество, как если бы выбросили 20.
 
-**Heroic Rally.** At the start of each of your turns, you regain Hit Points equal to 5 plus your Constitution modifier if you are Bloodied and have at least 1 Hit Point.
+**Героическое восстановление.** В начале каждого вашего хода вы восстанавливаете количество хитов, равное 5 + ваш модификатор Телосложения, если вы окровавлены и имеете как минимум 1 хит.

@@ -1,39 +1,77 @@
-# DND 5.2 SRD in Markdown
+# DND 5.2.1 SRD на русском языке в формате Markdown
 
-The project is roughly complete and currently should be widely useable.
+Данный проект представляет собой перевод на русский язык документа System Reference Document 5.2.1 (SRD 5.2.1) для Dungeons & Dragons в формате Markdown.
 
-There is a caveat that it isn't consistently formatted all the way through. Primarily features are not denoted the same way through out the document. I also haven't done any passes through to do proof reading to ensure that I didn't miss any weird line breaks in the middle of sentences. I did correct them as I saw them going through, but I could have missed some.
+## О проекте
 
-I may go through and clean up the formatting and proof read at some point, but honestly, it's pretty much done and anyone should feel free to use it as is. Any changes will be relatively minor and won't really affect most people very much.
+Этот перевод основан на английской версии SRD 5.2.1 в формате Markdown из репозитория [dndsrd5.2_markdown](https://github.com/CaptainRich/dndsrd5.2_markdown). Перевод выполнен с соблюдением устоявшейся терминологии русскоязычного сообщества D&D.
 
-Please use this however you please, while still abiding by the license terms that wizards of the coast put on the original document, which also apply to this document.
+## Структура файлов
 
-## Formatting changes
+```
+src/
+├── 00_Glossary.md           — Глоссарий терминов
+├── 01_PlayingTheGame.md     — Игровой процесс
+├── 02_CharacterCreation.md  — Создание персонажа
+├── 03_Classes/              — Классы
+│   ├── 00_Classes.md
+│   ├── 01_Barbarian.md      — Варвар
+│   ├── 02_Bard.md           — Бард
+│   ├── 03_Cleric.md         — Жрец
+│   ├── 04_Druid.md          — Друид
+│   ├── 05_Fighter.md        — Воин
+│   ├── 06_Monk.md           — Монах
+│   ├── 07_Paladin.md        — Паладин
+│   ├── 08_Ranger.md         — Следопыт
+│   ├── 09_Rogue.md          — Плут
+│   ├── 10_Sorcerer.md       — Чародей
+│   ├── 11_Warlock.md        — Колдун
+│   └── 12_Wizard.md         — Волшебник
+├── 04_CharacterOrigins.md   — Происхождение персонажа
+├── 05_Feats.md              — Черты
+├── 06_Equipment.md          — Снаряжение
+├── 07_Spells.md             — Заклинания
+├── 08_RulesGlossary.md      — Глоссарий правил
+├── 09_GameplayToolbox.md    — Инструменты игрового процесса
+├── 10_MagicItems.md         — Магические предметы
+├── 11_Monsters.md           — Монстры (введение)
+├── 12_MonstersA-Z.md        — Монстры от А до Я
+├── 13_Animals.md            — Животные
+└── License.md               — Лицензия (неофициальный перевод)
+```
 
-There was a step by step numbered list in "Playing the Game" in the "D20 Tests" section that was numbered beginning at 4 and ending at 6. I changed this to be 1-3 instead, since that seemed to be the actual intent, and the 4-6 numbering seemed like a typo.
+## Изменения форматирования
 
-The class tables for each class had a heading above all the spell slots that reads `--Spell Slots Per Level--` with the numbers directly beneath them. I removed that text and put it in the table caption. I am not certain mark down could support having multiple header lines as it was done here. I like the approach OldManUmby took in their work on the [DND SRD ReMastered](https://github.com/OldManUmby/DND.SRD.Wiki) project, where caster classes have their spell slots in a seperate table from their main class. But I decided not to do that since I'm going for accurate to the original as a base for everyone. This project is meant to enable people to do whatever they want with it, including improve it.
+По сравнению с оригиналом были внесены следующие изменения:
 
-The PDF puts "Monsters A-Z" as a sub section of Monsters. I put it as its own independent chapter, like the "Animals" chapter is in the pdf.
+- Нумерованный список в разделе «Игровой процесс» в подразделе «Проверки d20», который в оригинале начинался с 4 и заканчивался 6, изменён на 1-3, поскольку это явно было задумано изначально.
 
-I didn't go through and add subsections in the monsters a-z section. For example "Animated objects" isn't a section. You'll just find the animated object listed individually.
+- Таблицы классов, содержащие ячейки заклинаний, были адаптированы: заголовок `--Ячейки заклинаний по уровням--` вынесен в подпись таблицы.
 
-## Process
+- Раздел «Монстры от A до Z» выделен в отдельную главу, как и раздел «Животные» в оригинальном PDF.
 
-I used a wonderful tool called [marker](https://github.com/VikParuchuri/marker) to generate a "pretty good, but still needs work" markdown file, which I then split into multiple files. So far as I can tell, the main section that came out the roughest was the monsters / animals sections. I may try and re-generate just those sections by themselves to see if I get better results.
+- Подразделы для отдельных групп монстров (например, «Анимированные объекты») не создавались — существа перечислены индивидуально.
 
-Basically, this was a semi-automated process. I generated a base file, and then I painstakingly go through and ensure the format, tables, headings, etc... are how I want them.
+## Процесс создания
 
-For the monsters, I took the excellently done ones from [Mike Shea's Lazy GM Tools repository](https://github.com/mshea/lazy_gm_tools), of [slyflourish.com](https://slyflourish.com/) fame. If you need 5e monsters, definitely check that repository out. There are monsters from many sources there including some of kobold press's monsters and level up advanced 5e.
+Английская версия была создана с использованием инструмента [marker](https://github.com/VikParuchuri/marker) для первоначальной конвертации из PDF в Markdown, после чего была проведена ручная корректировка форматирования.
 
-## Markdown Extensions
+Данные о монстрах взяты из репозитория [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) Майка Ши с сайта [slyflourish.com](https://slyflourish.com/).
 
-Table captions are denoted with `Table: Caption Text` before tables.
+## Расширения Markdown
 
-## Contributions
+Подписи таблиц обозначаются строкой `Table: Текст подписи` перед таблицей.
 
-I likely won't accept any as the project is largely done. But feel free to use this repository for your own project, GM notes, player notes, making a better version of them in markdown, whatever. 
+## Вклад в проект
 
-## Legal Notice
+Если вы заметили ошибки в переводе или хотите предложить улучшения, не стесняйтесь создавать issues или pull requests.
 
-This work includes material from the System Reference Document 5.2 (“SRD 5.2”) by Wizards of the Coast LLC, available at https://www.dndbeyond.com/srd. The SRD 5.2 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.
+## Правовое уведомление
+
+Данная работа включает материалы из System Reference Document 5.2.1 («SRD 5.2.1») от Wizards of the Coast LLC, доступного по адресу https://www.dndbeyond.com/srd. SRD 5.2.1 лицензирован под лицензией Creative Commons Attribution 4.0 International, доступной по адресу https://creativecommons.org/licenses/by/4.0/legalcode.
+
+Перевод на русский язык выполнен в соответствии с условиями данной лицензии. В случае расхождений между переводом и оригиналом приоритет имеет оригинальный английский текст.
+
+---
+
+*Это неофициальный фанатский перевод. Dungeons & Dragons и D&D являются товарными знаками Wizards of the Coast LLC.*

@@ -1,183 +1,183 @@
-# Feats
+# Черты
 
-## Feat Descriptions
+## Описания черт
 
-The feats that follow are organized by category— Origin, General, Fighting Style, or Epic Boon—and alphabetized in each category.
+Приведённые ниже черты организованы по категориям — Происхождения, Общие, Боевого стиля или Эпического дара — и расположены в алфавитном порядке внутри каждой категории.
 
-### Parts of a Feat
+### Составляющие черты
 
-The description of a feat contains the following parts, which are presented after the feat's name.
+Описание черты содержит следующие части, которые представлены после названия черты.
 
-**Category.** A feat is a member of a category, which is noted in the feat. If you're instructed to choose a feat from a specific category, such as the Origin category, that category must appear under the feat's name. If you're instructed to choose a feat and no category is specified, you can choose from any category.
+**Категория.** Черта относится к определённой категории, которая указана под её названием. Если вам предложено выбрать черту из определённой категории, например, категории Происхождения, эта категория должна быть указана под названием черты. Если вам предложено выбрать черту без указания категории, вы можете выбрать из любой категории.
 
-**Prerequisite.** To take a feat, you must meet any prerequisite in its description unless a feature allows you to take the feat without the prerequisite. If a prerequisite includes a class, you must have at least 1 level in that class to take the feat.
+**Требование.** Чтобы взять черту, вы должны соответствовать любым требованиям, указанным в её описании, если только какое-либо умение не позволяет вам взять черту без выполнения требований. Если требование включает класс, вы должны иметь как минимум 1 уровень в этом классе, чтобы взять черту.
 
-***Benefit.** The benefits of a feat are detailed after any prerequisites are listed. If you have a feat, you gain its benefits.
+**Преимущество.** Преимущества черты подробно описаны после перечисления всех требований. Если у вас есть черта, вы получаете её преимущества.
 
-**Repeatable.** A feat can be taken only once unless its description states otherwise in a "Repeatable" subsection.
+**Повторяемость.** Черту можно взять только один раз, если в её описании не указано иное в подразделе «Повторяемость».
 
-### Origin Feats
+### Черты происхождения
 
-#### Alert
+#### Бдительность
 
-*Origin Feat*
+*Черта происхождения*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
+**Владение инициативой.** Когда вы совершаете бросок инициативы, вы можете добавить свой бонус мастерства к броску.
 
-**Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.
+**Обмен инициативой.** Сразу после броска инициативы вы можете поменяться инициативой с одним согласным союзником в том же бою. Вы не можете сделать этот обмен, если вы или союзник находитесь в состоянии «недееспособный».
 
-#### Magic Initiate
+#### Посвящённый в магию
 
-*Origin Feat*
+*Черта происхождения*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Two Cantrips.** You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+**Два заговора.** Вы изучаете два заговора на ваш выбор из списка заклинаний жреца, друида или волшебника. Интеллект, Мудрость или Харизма является вашей заклинательной характеристикой для заклинаний этой черты (выберите при выборе этой черты).
 
-**Level 1 Spell.** Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
+**Заклинание 1-го уровня.** Выберите заклинание 1-го уровня из того же списка, который вы выбрали для заговоров этой черты. Это заклинание всегда у вас подготовлено. Вы можете сотворить его один раз без ячейки заклинания и восстанавливаете эту способность после завершения продолжительного отдыха. Вы также можете сотворить это заклинание, используя любые имеющиеся у вас ячейки заклинаний.
 
-**Spell Change.** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
+**Замена заклинания.** Каждый раз, когда вы получаете новый уровень, вы можете заменить одно из заклинаний, выбранных для этой черты, другим заклинанием того же уровня из выбранного списка заклинаний.
 
-**Repeatable.** You can take this feat more than once, but you must choose a different spell list each time.
+**Повторяемость.** Вы можете взять эту черту более одного раза, но каждый раз должны выбрать другой список заклинаний.
 
-#### Savage Attacker
+#### Дикий боец
 
-*Origin Feat*
+*Черта происхождения*
 
-You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
+Вы тренировались наносить особенно разрушительные удары. Один раз в ход, когда вы попадаете по цели оружием, вы можете бросить кости урона оружия дважды и использовать любой из бросков против цели.
 
-#### Skilled
+#### Мастер на все руки
 
-*Origin Feat*
+*Черта происхождения*
 
-You gain proficiency in any combination of three skills or tools of your choice.
+Вы получаете владение любой комбинацией из трёх навыков или инструментов на ваш выбор.
 
-**Repeatable.** You can take this feat more than once.
+**Повторяемость.** Вы можете взять эту черту более одного раза.
 
-### General Feats
+### Общие черты
 
-#### Ability Score Improvement
+#### Увеличение характеристики
 
-*General Feat (Prerequisite: Level 4+)*
+*Общая черта (Требование: Уровень 4+)*
 
-Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
+Увеличьте одну характеристику на ваш выбор на 2 или увеличьте две характеристики на ваш выбор на 1. Эта черта не может увеличить характеристику выше 20.
 
-**Repeatable.** You can take this feat more than once.
+**Повторяемость.** Вы можете взять эту черту более одного раза.
 
-#### Grappler
+#### Борец
 
-*General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+*Общая черта (Требование: Уровень 4+, Сила или Ловкость 13+)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase your Strength or Dexterity score by 1, to a maximum of 20.
+**Увеличение характеристики.** Увеличьте вашу Силу или Ловкость на 1, до максимума 20.
 
-**Punch and Grab.** When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+**Удар и захват.** Когда вы попадаете по существу безоружным ударом как часть действия Атака в свой ход, вы можете использовать и опцию Урон, и опцию Захват. Вы можете использовать это преимущество только один раз в ход.
 
-**Attack Advantage.** You have Advantage on attack rolls against a creature Grappled by you.
+**Преимущество в атаке.** Вы совершаете с преимуществом броски атаки против существа, схваченного вами.
 
-**Fast Wrestler.** You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller.
+**Быстрый борец.** Вам не нужно тратить дополнительное перемещение, чтобы переместить схваченное вами существо, если это существо вашего размера или меньше.
 
-### Fighting Style Feats
+### Черты боевого стиля
 
-#### Archery
+#### Стрельба
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+*Черта боевого стиля (Требование: Умение «Боевой стиль»)*
 
-You gain a +2 bonus to attack rolls you make with Ranged weapons.
+Вы получаете бонус +2 к броскам атаки дальнобойным оружием.
 
-#### Defense
+#### Оборона
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+*Черта боевого стиля (Требование: Умение «Боевой стиль»)*
 
-While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.
+Пока вы носите лёгкие, средние или тяжёлые доспехи, вы получаете бонус +1 к классу доспеха.
 
-#### Great Weapon Fighting
+#### Сражение большим оружием
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+*Черта боевого стиля (Требование: Умение «Боевой стиль»)*
 
-When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.
+Когда вы бросаете урон для атаки оружием ближнего боя, которое вы держите двумя руками, вы можете считать любую 1 или 2 на кости урона как 3. Оружие должно иметь свойство «двуручное» или «универсальное», чтобы получить это преимущество.
 
-#### Two-Weapon Fighting
+#### Сражение двумя оружиями
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
+*Черта боевого стиля (Требование: Умение «Боевой стиль»)*
 
-When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
+Когда вы совершаете дополнительную атаку в результате использования оружия со свойством «лёгкое», вы можете добавить модификатор характеристики к урону этой атаки, если вы ещё не добавляете его к урону.
 
-### Epic Boon Feats
+### Черты эпического дара
 
-#### Boon of Combat Prowess
+#### Дар боевого мастерства
 
-*Epic Boon Feat (Prerequisite: Level 19+)*
+*Черта эпического дара (Требование: Уровень 19+)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
+**Увеличение характеристики.** Увеличьте одну характеристику на ваш выбор на 1, до максимума 30.
 
-**Peerless Aim.** When you miss with an attack roll, you can hit instead. Once you use this benefit, you can't use it again until the start of your next turn.
+**Непревзойдённая меткость.** Когда вы промахиваетесь броском атаки, вы можете вместо этого попасть. Использовав это преимущество, вы не можете использовать его снова до начала вашего следующего хода.
 
-#### Boon of Dimensional Travel
+#### Дар пространственных путешествий
 
-*Epic Boon Feat (Prerequisite: Level 19+)*
+*Черта эпического дара (Требование: Уровень 19+)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
+**Увеличение характеристики.** Увеличьте одну характеристику на ваш выбор на 1, до максимума 30.
 
-**Blink Steps.** Immediately after you take the Attack action or the Magic action, you can teleport up to 30 feet to an unoccupied space you can see.
+**Мерцающие шаги.** Сразу после совершения действия Атака или действия Магия вы можете телепортироваться на расстояние до 30 футов в свободное пространство, которое видите.
 
-#### Boon of Fate
+#### Дар судьбы
 
-*Epic Boon Feat (Prerequisite: Level 19+)*
+*Черта эпического дара (Требование: Уровень 19+)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
+**Увеличение характеристики.** Увеличьте одну характеристику на ваш выбор на 1, до максимума 30.
 
-**Improve Fate.** When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a Short or Long Rest.
+**Изменение судьбы.** Когда вы или другое существо в пределах 60 футов от вас успешно или неудачно проходит проверку d20, вы можете бросить 2d4 и применить выпавшее число как бонус или штраф к броску d20. Использовав это преимущество, вы не можете использовать его снова, пока не совершите бросок инициативы или не завершите короткий или продолжительный отдых.
 
-#### Boon of Irresistible Offense
+#### Дар неодолимой атаки
 
-*Epic Boon Feat (Prerequisite: Level 19+)*
+*Черта эпического дара (Требование: Уровень 19+)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase your Strength or Dexterity score by 1, to a maximum of 30.
+**Увеличение характеристики.** Увеличьте вашу Силу или Ловкость на 1, до максимума 30.
 
-**Overcome Defenses.** The Bludgeoning, Piercing, and Slashing damage you deal always ignores Resistance.
+**Преодоление защиты.** Дробящий, колющий и рубящий урон, который вы наносите, всегда игнорирует сопротивление.
 
-**Overwhelming Strike.** When you roll a 20 on the d20 for an attack roll, you can deal extra damage to the target equal to the ability score increased by this feat. The extra damage's type is the same as the attack's type.
+**Сокрушительный удар.** Когда вы выбрасываете 20 на d20 при броске атаки, вы можете нанести цели дополнительный урон, равный значению характеристики, увеличенной этой чертой. Тип дополнительного урона совпадает с типом урона атаки.
 
-#### Boon of Spell Recall
+#### Дар возврата заклинаний
 
-*Epic Boon Feat (Prerequisite: Level 19+, Spellcasting Feature)* 
+*Черта эпического дара (Требование: Уровень 19+, умение «Использование заклинаний»)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 30.
+**Увеличение характеристики.** Увеличьте ваш Интеллект, Мудрость или Харизму на 1, до максимума 30.
 
-**Free Casting.** Whenever you cast a spell with a level 1–4 spell slot, roll 1d4. If the number you roll is the same as the slot's level, the slot isn't expended.
+**Бесплатное сотворение.** Каждый раз, когда вы сотворяете заклинание с ячейкой 1–4 уровня, бросьте 1d4. Если выпавшее число совпадает с уровнем ячейки, ячейка не расходуется.
 
-#### Boon of the Night Spirit
+#### Дар ночного духа
 
-*Epic Boon Feat (Prerequisite: Level 19+)*
+*Черта эпического дара (Требование: Уровень 19+)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
+**Увеличение характеристики.** Увеличьте одну характеристику на ваш выбор на 1, до максимума 30.
 
-**Merge with Shadows.** While within Dim Light or Darkness, you can give yourself the Invisible condition as a Bonus Action. The condition ends on you immediately after you take an action, a Bonus Action, or a Reaction.
+**Слияние с тенями.** Находясь в тусклом свете или тьме, вы можете бонусным действием придать себе состояние «невидимый». Это состояние заканчивается для вас сразу после того, как вы совершаете действие, бонусное действие или реакцию.
 
-**Shadowy Form.** While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant.
+**Теневая форма.** Находясь в тусклом свете или тьме, вы обладаете сопротивлением ко всем видам урона, кроме психического и излучения.
 
-#### Boon of Truesight
+#### Дар истинного зрения
 
-*Epic Boon Feat (Prerequisite: Level 19+)*
+*Черта эпического дара (Требование: Уровень 19+)*
 
-You gain the following benefits.
+Вы получаете следующие преимущества.
 
-**Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
+**Увеличение характеристики.** Увеличьте одну характеристику на ваш выбор на 1, до максимума 30.
 
-**Truesight.** You have Truesight with a range of 60 feet.
+**Истинное зрение.** Вы обладаете истинным зрением в радиусе 60 футов.

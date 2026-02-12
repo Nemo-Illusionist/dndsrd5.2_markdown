@@ -1,328 +1,328 @@
-# Character Origins
+# Происхождение персонажа
 
-## Character Backgrounds
+## Предыстории персонажей
 
-Your character's background is a collection of characteristics that represent the place and occupation that were most formative before your character embarked on a life of adventure.
+Предыстория вашего персонажа — это набор характеристик, отражающих место и род занятий, которые оказали наибольшее влияние на формирование персонажа до того, как он отправился навстречу приключениям.
 
-### Parts of a Background
+### Составляющие предыстории
 
-A background includes the following parts.
+Предыстория включает следующие элементы.
 
-#### Ability Scores
+#### Характеристики
 
-A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.
+В предыстории указаны три характеристики вашего персонажа. Увеличьте одну из них на 2, а другую на 1, либо увеличьте все три на 1. Ни одно из этих увеличений не может поднять значение характеристики выше 20.
 
-#### Feat
+#### Черта
 
-A background gives your character a specified Origin feat (described in "Feats").
+Предыстория даёт персонажу определённую черту происхождения (описаны в разделе «Черты»).
 
-#### Skill Proficiencies
+#### Владение навыками
 
-A background gives your character proficiency in two specified skills.
+Предыстория даёт персонажу владение двумя указанными навыками.
 
-#### Tool Proficiency
+#### Владение инструментами
 
-Each background gives a character proficiency with one tool—either a specific tool or one chosen from the Artisan's Tools category. Tools are detailed in "Equipment."
+Каждая предыстория даёт персонажу владение одним инструментом — либо конкретным инструментом, либо инструментом на выбор из категории «Инструменты ремесленника». Инструменты подробно описаны в разделе «Снаряжение».
 
-#### Equipment
+#### Снаряжение
 
-Each background offers a choice between a package of equipment and 50 GP.
+Каждая предыстория предлагает выбор между набором снаряжения и 50 зм.
 
-### Background Descriptions
+### Описания предысторий
 
-#### Acolyte
+#### Послушник
 
-**Ability Scores:** Intelligence, Wisdom, Charisma 
+**Характеристики:** Интеллект, Мудрость, Харизма
 
-**Feat:** Magic Initiate (Cleric) (see "Feats") 
+**Черта:** Посвящённый в магию (Жрец) (см. «Черты»)
 
-**Skill Proficiencies:** Insight and Religion
+**Владение навыками:** Проницательность и Религия
 
-**Tool Proficiency:** Calligrapher's Supplies
+**Владение инструментами:** Каллиграфические принадлежности
 
-**Equipment:** *Choose A or B:* (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
+**Снаряжение:** *Выберите A или B:* (A) Каллиграфические принадлежности, книга (молитвы), священный символ, пергамент (10 листов), ряса, 8 зм; или (B) 50 зм
 
-#### Criminal
+#### Преступник
 
-**Ability Scores:** Dexterity, Constitution, Intelligence 
+**Характеристики:** Ловкость, Телосложение, Интеллект
 
-**Feat:** Alert (see "Feats")
+**Черта:** Бдительность (см. «Черты»)
 
-**Skill Proficiencies:** Sleight of Hand and Stealth
+**Владение навыками:** Ловкость рук и Скрытность
 
-**Tool Proficiency:** Thieves' Tools
+**Владение инструментами:** Воровские инструменты
 
-**Equipment:** *Choose A or B:* (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
+**Снаряжение:** *Выберите A или B:* (A) 2 кинжала, воровские инструменты, ломик, 2 кошеля, дорожная одежда, 16 зм; или (B) 50 зм
 
-#### Sage
+#### Мудрец
 
-**Ability Scores:** Constitution, Intelligence, Wisdom 
+**Характеристики:** Телосложение, Интеллект, Мудрость
 
-**Feat:** Magic Initiate (Wizard) (see "Feats") 
+**Черта:** Посвящённый в магию (Волшебник) (см. «Черты»)
 
-**Skill Proficiencies:** Arcana and History
+**Владение навыками:** Магия и История
 
-**Tool Proficiency:** Calligrapher's Supplies
+**Владение инструментами:** Каллиграфические принадлежности
 
-**Equipment:** *Choose A or B:* (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
+**Снаряжение:** *Выберите A или B:* (A) Боевой посох, каллиграфические принадлежности, книга (история), пергамент (8 листов), ряса, 8 зм; или (B) 50 зм
 
-## **Soldier**
+## **Солдат**
 
-**Ability Scores:** Strength, Dexterity, Constitution
+**Характеристики:** Сила, Ловкость, Телосложение
 
-**Feat:** Savage Attacker (see "Feats")
+**Черта:** Дикий боец (см. «Черты»)
 
-**Skill Proficiencies:** Athletics and Intimidation
+**Владение навыками:** Атлетика и Запугивание
 
-**Tool Proficiency:** *Choose one kind of Gaming Set* (see "Equipment")
+**Владение инструментами:** *Выберите один игровой набор* (см. «Снаряжение»)
 
-**Equipment:** *Choose A or B:* (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
+**Снаряжение:** *Выберите A или B:* (A) Копьё, короткий лук, 20 стрел, игровой набор (тот же, что выше), набор целителя, колчан, дорожная одежда, 14 зм; или (B) 50 зм
 
-## Character Species
+## Виды персонажей
 
-When you choose your character's species, you determine whether your character is a human or a member of a fantastical species, such as dragonborn or gnome.
+Когда вы выбираете вид своего персонажа, вы определяете, является ли ваш персонаж человеком или представителем фантастического вида, такого как драконорождённый или гном.
 
-The peoples of the multiverse hail from different worlds and include many kinds of sapient life forms. A player character's species is the set of game traits that an adventurer gains from being one of those life forms.
+Народы мультивселенной происходят из разных миров и включают множество видов разумных существ. Вид игрового персонажа — это набор игровых особенностей, которые искатель приключений получает, будучи одним из этих существ.
 
-Some species can trace their origin to a single world, plane of existence, or god, while other species first appeared in multiple realms at once. Whatever a species' genesis, its members have spread across the multiverse and contribute to many different cultures.
+Некоторые виды могут проследить своё происхождение до единственного мира, плана существования или бога, тогда как другие виды впервые появились сразу в нескольких мирах. Каким бы ни было происхождение вида, его представители распространились по мультивселенной и вносят вклад во множество различных культур.
 
-Members of most species live for about 80 years, with exceptions noted in the text about the species in "Character Origins." Regardless of life span, members of all species reach physical maturity at about the same age. Your character can be any age that isn't beyond their species' normal life span.
+Представители большинства видов живут около 80 лет, исключения отмечены в тексте о видах в разделе «Происхождение персонажа». Независимо от продолжительности жизни, представители всех видов достигают физической зрелости примерно в одном возрасте. Ваш персонаж может быть любого возраста, не превышающего нормальную продолжительность жизни его вида.
 
-### Parts of a Species
+### Составляющие вида
 
-A species includes the following parts.
+Вид включает следующие элементы.
 
-#### Creature Type
+#### Тип существа
 
-A character's species determines the character's creature type, which is described in "Rules Glossary." Every species in "Character Origins" is Humanoid; playable non-Humanoid species appear in other books.
+Вид персонажа определяет тип существа персонажа, который описан в «Глоссарии правил». Каждый вид в разделе «Происхождение персонажа» относится к гуманоидам; играбельные виды, не являющиеся гуманоидами, представлены в других книгах.
 
-#### Size
+#### Размер
 
-Your character's species determines the character's size. Individuals within a species cover a wide range of heights, and some species include such diversity of size that you can choose whether your character is Small or Medium.
+Вид вашего персонажа определяет размер персонажа. Представители одного вида охватывают широкий диапазон роста, а некоторые виды включают такое разнообразие размеров, что вы можете выбрать, является ли ваш персонаж Маленьким или Средним.
 
-#### **Speed**
+#### **Скорость**
 
-Your character's species determines the character's Speed.
+Вид вашего персонажа определяет скорость персонажа.
 
-#### **Special Traits**
+#### **Особые черты**
 
-Each species gives a character special traits unique characteristics based on the species' physiology or magical nature. When you choose a species, your character gets all the special traits listed for it. Some traits involve making a choice from a handful of options.
+Каждый вид даёт персонажу особые черты — уникальные характеристики, основанные на физиологии или магической природе вида. Когда вы выбираете вид, ваш персонаж получает все перечисленные для него особые черты. Некоторые черты предполагают выбор из нескольких вариантов.
 
-### Species Descriptions
+### Описания видов
 
-#### Dragonborn
+#### Драконорождённый
 
-**Creature Type:** Humanoid 
+**Тип существа:** Гуманоид
 
-**Size:** Medium (about 5–7 feet tall) 
+**Размер:** Средний (около 5–7 футов ростом)
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As a Dragonborn, you have these special traits.
+Как драконорождённый, вы обладаете следующими особыми чертами.
 
-**Draconic Ancestry.** Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
+**Драконье происхождение.** Ваша родословная происходит от драконьего прародителя. Выберите вид дракона из таблицы «Драконьи предки». Ваш выбор влияет на черты «Драконье дыхание» и «Сопротивление урону», а также на вашу внешность.
 
-Table: Draconic Ancestors
+Таблица: Драконьи предки
 
-| Dragon | Damage Type |
-|--------|-------------|
-| Black  | Acid        |
-| Blue   | Lightning   | 
-| Brass  | Fire        |
-| Bronze | Lightning   |
-| Copper | Acid        |
-| Gold   | Fire        |
-| Green  | Poison      |
-| Red    | Fire        |
-| Silver | Cold        |
-| White  | Cold        |
+| Дракон | Тип урона |
+|--------|-----------|
+| Чёрный | Кислота |
+| Синий | Электричество |
+| Латунный | Огонь |
+| Бронзовый | Электричество |
+| Медный | Кислота |
+| Золотой | Огонь |
+| Зелёный | Яд |
+| Красный | Огонь |
+| Серебряный | Холод |
+| Белый | Холод |
 
-**Breath Weapon.** When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach character levels 5 (2d10), 11 (3d10), and 17 (4d10).
+**Драконье дыхание.** Когда вы совершаете действие Атака в свой ход, вы можете заменить одну из своих атак выдохом магической энергии в виде 15-футового конуса или 30-футовой линии шириной 5 футов (выбирайте форму каждый раз). Каждое существо в этой области должно совершить спасбросок Ловкости (СЛ 8 плюс ваш модификатор Телосложения и бонус мастерства). При провале существо получает 1d10 урона того типа, который определяется вашей чертой «Драконье происхождение». При успехе существо получает половину урона. Этот урон увеличивается на 1d10, когда вы достигаете 5-го (2d10), 11-го (3d10) и 17-го (4d10) уровней персонажа.
 
-You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+Вы можете использовать это драконье дыхание количество раз, равное вашему бонусу мастерства, и восстанавливаете все использования после завершения продолжительного отдыха.
 
-**Damage Resistance.** You have Resistance to the damage type determined by your Draconic Ancestry trait.
+**Сопротивление урону.** Вы обладаете сопротивлением к типу урона, определяемому вашей чертой «Драконье происхождение».
 
-**Darkvision.** You have Darkvision with a range of 60 feet.
+**Тёмное зрение.** Вы обладаете тёмным зрением в радиусе 60 футов.
 
-**Draconic Flight.** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
+**Драконий полёт.** Когда вы достигаете 5-го уровня персонажа, вы можете направить драконью магию, чтобы обрести временную способность летать. Бонусным действием вы отращиваете призрачные крылья на спине, которые существуют 10 минут или пока вы не втянете крылья (действие не требуется) или не получите состояние «недееспособный». В течение этого времени ваша скорость полёта равна вашей скорости. Ваши крылья выглядят сделанными из той же энергии, что и ваше драконье дыхание. Использовав эту черту, вы не можете использовать её снова, пока не завершите продолжительный отдых.
 
-#### Dwarf
+#### Дварф
 
-**Creature Type:** Humanoid 
+**Тип существа:** Гуманоид
 
-**Size:** Medium (about 4–5 feet tall) 
+**Размер:** Средний (около 4–5 футов ростом)
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As a Dwarf, you have these special traits.
+Как дварф, вы обладаете следующими особыми чертами.
 
-**Darkvision.** You have Darkvision with a range of 120 feet.
+**Тёмное зрение.** Вы обладаете тёмным зрением в радиусе 120 футов.
 
-**Dwarven Resilience.** You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
+**Дварфийская стойкость.** Вы обладаете сопротивлением к урону ядом. Вы также совершаете с преимуществом спасброски, чтобы избежать или прекратить состояние «отравленный».
 
-**Dwarven Toughness.** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
+**Дварфийская выносливость.** Ваш максимум хитов увеличивается на 1, и он увеличивается на 1 каждый раз, когда вы получаете уровень.
 
-**Stonecunning.** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked.
+**Чутьё камня.** Бонусным действием вы получаете чувство вибрации в радиусе 60 футов на 10 минут. Чтобы использовать это чувство вибрации, вы должны находиться на каменной поверхности или касаться каменной поверхности. Камень может быть природным или обработанным.
 
-You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+Вы можете использовать это бонусное действие количество раз, равное вашему бонусу мастерства, и восстанавливаете все использования после завершения продолжительного отдыха.
 
-#### Elf
+#### Эльф
 
-**Creature Type:** Humanoid 
+**Тип существа:** Гуманоид
 
-**Size:** Medium (about 5–6 feet tall)
+**Размер:** Средний (около 5–6 футов ростом)
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As an Elf, you have these special traits.
+Как эльф, вы обладаете следующими особыми чертами.
 
-**Darkvision.** You have Darkvision with a range of 60 feet.
+**Тёмное зрение.** Вы обладаете тёмным зрением в радиусе 60 футов.
 
-**Elven Lineage.** You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
+**Эльфийская родословная.** Вы принадлежите к родословной, дарующей вам сверхъестественные способности. Выберите родословную из таблицы «Эльфийские родословные». Вы получаете преимущество 1-го уровня этой родословной.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
+Когда вы достигаете 3-го и 5-го уровней персонажа, вы узнаёте заклинание более высокого уровня, как показано в таблице. Это заклинание всегда у вас подготовлено. Вы можете сотворить его один раз без ячейки заклинания и восстанавливаете эту способность после завершения продолжительного отдыха. Вы также можете сотворить это заклинание, используя любые имеющиеся у вас ячейки заклинаний соответствующего уровня.
 
-Table: Elven Lineages
+Таблица: Эльфийские родословные
 
-| Lineage  | Level 1                                                                                                   | Level 3      | Level 5            |
-|----------|-----------------------------------------------------------------------------------------------------------|--------------|--------------------|
-| Drow     | The range of your Darkvision increases to 120 feet. You also know the Dancing Lights cantrip.             | Faerie Fire  | Darkness           |
-| High Elf | You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | Detect Magic | Misty Step         |
-| Wood Elf | Your Speed increases to 35 feet. You also know the Druidcraft cantrip.                                    | Longstrider  | Pass without Trace |
+| Родословная | Уровень 1 | Уровень 3 | Уровень 5 |
+|-------------|-----------|-----------|-----------|
+| Дроу | Радиус вашего тёмного зрения увеличивается до 120 футов. Вы также знаете заговор *Пляшущие огоньки*. | *Огонь фей* | *Тьма* |
+| Высший эльф | Вы знаете заговор *Фокусы*. После каждого завершения продолжительного отдыха вы можете заменить этот заговор другим заговором из списка заклинаний волшебника. | *Обнаружение магии* | *Туманный шаг* |
+| Лесной эльф | Ваша скорость увеличивается до 35 футов. Вы также знаете заговор *Искусство друидов*. | *Скороход* | *Бесследное передвижение* |
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
+Интеллект, Мудрость или Харизма является вашей заклинательной характеристикой для заклинаний, которые вы сотворяете с помощью этой черты (выберите характеристику при выборе родословной).
 
-**Fey Ancestry.** You have Advantage on saving throws you make to avoid or end the Charmed condition.
+**Наследие фей.** Вы совершаете с преимуществом спасброски, чтобы избежать или прекратить состояние «очарованный».
 
-**Keen Senses.** You have proficiency in the Insight, Perception, or Survival skill.
+**Острые чувства.** Вы владеете навыком Проницательность, Внимательность или Выживание.
 
-**Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+**Транс.** Вам не нужно спать, и магия не может усыпить вас. Вы можете завершить продолжительный отдых за 4 часа, если проведёте это время в трансоподобной медитации, во время которой сохраняете сознание.
 
-#### Gnome
+#### Гном
 
-**Creature Type:** Humanoid 
+**Тип существа:** Гуманоид
 
-**Size:** Small (about 3–4 feet tall)
+**Размер:** Маленький (около 3–4 футов ростом)
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As a Gnome, you have these special traits.
+Как гном, вы обладаете следующими особыми чертами.
 
-**Darkvision.** You have Darkvision with a range of 60 feet.
+**Тёмное зрение.** Вы обладаете тёмным зрением в радиусе 60 футов.
 
-**Gnomish Cunning.** You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
+**Гномья хитрость.** Вы совершаете с преимуществом спасброски Интеллекта, Мудрости и Харизмы.
 
-**Gnomish Lineage.** You are part of a lineage that grants you supernatural abilities. Choose one of the following options; whichever one you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage):
+**Гномья родословная.** Вы принадлежите к родословной, дарующей вам сверхъестественные способности. Выберите один из следующих вариантов; какой бы вы ни выбрали, Интеллект, Мудрость или Харизма является вашей заклинательной характеристикой для заклинаний, которые вы сотворяете с помощью этой черты (выберите характеристику при выборе родословной):
 
-**Forest Gnome.** You know the *Minor Illusion* cantrip. You also always have the *Speak with Animals* spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
+**Лесной гном.** Вы знаете заговор *Малая иллюзия*. Заклинание *Разговор с животными* также всегда у вас подготовлено. Вы можете сотворить его без ячейки заклинания количество раз, равное вашему бонусу мастерства, и восстанавливаете все использования после завершения продолжительного отдыха. Вы также можете использовать любые имеющиеся у вас ячейки заклинаний для сотворения этого заклинания.
 
-**Rock Gnome.** You know the *Mending* and *Prestidigitation* cantrips. In addition, you can spend 10 minutes casting *Prestidigitation* to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from *Prestidigitation*; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
+**Скальный гном.** Вы знаете заговоры *Починка* и *Фокусы*. Кроме того, вы можете потратить 10 минут на сотворение *Фокусов*, чтобы создать крошечное заводное устройство (КД 5, 1 хит), такое как игрушка, огниво или музыкальная шкатулка. Когда вы создаёте устройство, вы определяете его функцию, выбирая один эффект из *Фокусов*; устройство производит этот эффект, когда вы или другое существо активирует его бонусным действием касанием. Если выбранный эффект имеет варианты, вы выбираете один из этих вариантов для устройства при его создании. Например, если вы выбираете эффект зажигания-тушения, вы определяете, зажигает или тушит устройство огонь; устройство не делает и то, и другое. Вы можете иметь одновременно три таких устройства, и каждое рассыпается через 8 часов после создания или когда вы разбираете его касанием как действие Использование.
 
-#### Goliath
+#### Голиаф
 
-**Creature Type:** Humanoid 
+**Тип существа:** Гуманоид
 
-**Size:** Medium (about 7–8 feet tall)
+**Размер:** Средний (около 7–8 футов ростом)
 
-**Speed:** 35 feet
+**Скорость:** 35 футов
 
-As a Goliath, you have these special traits.
+Как голиаф, вы обладаете следующими особыми чертами.
 
-**Giant Ancestry.** You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest:
+**Наследие великанов.** Вы происходите от великанов. Выберите одно из следующих преимуществ — сверхъестественный дар от вашего наследия; вы можете использовать выбранное преимущество количество раз, равное вашему бонусу мастерства, и восстанавливаете все использования после завершения продолжительного отдыха:
 
-**Cloud's Jaunt (Cloud Giant).** As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.
+**Прыжок облака (Облачный великан).** Бонусным действием вы магически телепортируетесь на расстояние до 30 футов в свободное пространство, которое видите.
 
-**Fire's Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.
+**Ожог огня (Огненный великан).** Когда вы попадаете по цели броском атаки и наносите ей урон, вы можете также нанести этой цели 1d10 урона огнём.
 
-**Frost's Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
+**Холод мороза (Ледяной великан).** Когда вы попадаете по цели броском атаки и наносите ей урон, вы можете также нанести этой цели 1d6 урона холодом и уменьшить её скорость на 10 футов до начала вашего следующего хода.
 
-**Hill's Tumble (Hill Giant).** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition.
+**Опрокидывание холма (Холмовой великан).** Когда вы попадаете по существу размера не больше Большого броском атаки и наносите ему урон, вы можете придать этой цели состояние «лежащий».
 
-**Stone's Endurance (Stone Giant).** When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
+**Стойкость камня (Каменный великан).** Когда вы получаете урон, вы можете реакцией бросить 1d12. Добавьте ваш модификатор Телосложения к выпавшему числу и уменьшите урон на это значение.
 
-**Storm's Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 Thunder damage to that creature.
+**Гром бури (Штормовой великан).** Когда вы получаете урон от существа в пределах 60 футов от вас, вы можете реакцией нанести этому существу 1d8 урона звуком.
 
-**Large Form.** Starting at character level 5, you can change your size to Large as a Bonus Action if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.
+**Большая форма.** Начиная с 5-го уровня персонажа, вы можете бонусным действием изменить свой размер на Большой, если находитесь в достаточно большом пространстве. Это превращение длится 10 минут или пока вы не завершите его (действие не требуется). В течение этого времени вы совершаете с преимуществом проверки Силы, и ваша скорость увеличивается на 10 футов. Использовав эту черту, вы не можете использовать её снова, пока не завершите продолжительный отдых.
 
-**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+**Мощное телосложение.** Вы совершаете с преимуществом любую проверку характеристики для прекращения состояния «схваченный». Вы также считаетесь на один размер больше при определении вашей грузоподъёмности.
 
-#### Halfling
+#### Полурослик
 
-**Creature Type:** Humanoid 
+**Тип существа:** Гуманоид
 
-**Size:** Small (about 2–3 feet tall) 
+**Размер:** Маленький (около 2–3 футов ростом)
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As a Halfling, you have these special traits.
+Как полурослик, вы обладаете следующими особыми чертами.
 
-**Brave.** You have Advantage on saving throws you make to avoid or end the Frightened condition.
+**Храбрость.** Вы совершаете с преимуществом спасброски, чтобы избежать или прекратить состояние «испуганный».
 
-**Halfling Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
+**Проворство полурослика.** Вы можете перемещаться сквозь пространство любого существа, размер которого больше вашего, но не можете останавливаться в том же пространстве.
 
-**Luck.** When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll.
+**Удача.** Когда вы выбрасываете 1 на d20 при проверке d20, вы можете перебросить кость и должны использовать новый результат.
 
-**Naturally Stealthy.** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
+**Природная скрытность.** Вы можете совершить действие Засада, даже если вас заслоняет только существо, размер которого как минимум на один больше вашего.
 
-#### Human
+#### Человек
 
-**Creature Type:** Humanoid
+**Тип существа:** Гуманоид
 
-**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+**Размер:** Средний (около 4–7 футов ростом) или Маленький (около 2–4 футов ростом), выбирается при выборе этого вида
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As a Human, you have these special traits.
+Как человек, вы обладаете следующими особыми чертами.
 
-**Resourceful.** You gain Heroic Inspiration whenever you finish a Long Rest.
+**Находчивость.** Вы получаете героическое вдохновение каждый раз, когда завершаете продолжительный отдых.
 
-**Skillful.** You gain proficiency in one skill of your choice.
+**Умелость.** Вы получаете владение одним навыком на ваш выбор.
 
-**Versatile.** You gain an Origin feat of your choice (see "Feats"). Skilled is recommended.
+**Универсальность.** Вы получаете одну черту происхождения на ваш выбор (см. «Черты»). Рекомендуется черта «Мастер на все руки».
 
-#### Orc
+#### Орк
 
-**Creature Type:** Humanoid 
+**Тип существа:** Гуманоид
 
-**Size:** Medium (about 6–7 feet tall)
+**Размер:** Средний (около 6–7 футов ростом)
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As an Orc, you have these special traits.
+Как орк, вы обладаете следующими особыми чертами.
 
-**Adrenaline Rush.** You can take the Dash action as a Bonus Action. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus.
+**Выброс адреналина.** Вы можете совершить действие Рывок как бонусное действие. Когда вы делаете это, вы получаете количество временных хитов, равное вашему бонусу мастерства.
 
-You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest.
+Вы можете использовать эту черту количество раз, равное вашему бонусу мастерства, и восстанавливаете все использования после завершения короткого или продолжительного отдыха.
 
-**Darkvision.** You have Darkvision with a range of 120 feet.
+**Тёмное зрение.** Вы обладаете тёмным зрением в радиусе 120 футов.
 
-**Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
+**Неукротимая выносливость.** Когда ваши хиты уменьшаются до 0, но вы не погибаете мгновенно, вы можете вместо этого уменьшить хиты до 1. Использовав эту черту, вы не можете использовать её снова, пока не завершите продолжительный отдых.
 
-#### Tiefling
+#### Тифлинг
 
-**Creature Type:** Humanoid
+**Тип существа:** Гуманоид
 
-**Size:** Medium (about 4–7 feet tall) or Small (about 3–4 feet tall), chosen when you select this species
+**Размер:** Средний (около 4–7 футов ростом) или Маленький (около 3–4 футов ростом), выбирается при выборе этого вида
 
-**Speed:** 30 feet
+**Скорость:** 30 футов
 
-As a Tiefling, you have the following special traits. 
+Как тифлинг, вы обладаете следующими особыми чертами.
 
-**Darkvision.** You have Darkvision with a range of 60 feet.
+**Тёмное зрение.** Вы обладаете тёмным зрением в радиусе 60 футов.
 
-**Fiendish Legacy.** You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
+**Наследие исчадий.** Вы унаследовали дар, дарующий вам сверхъестественные способности. Выберите наследие из таблицы «Наследия исчадий». Вы получаете преимущество 1-го уровня выбранного наследия.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
+Когда вы достигаете 3-го и 5-го уровней персонажа, вы узнаёте заклинание более высокого уровня, как показано в таблице. Это заклинание всегда у вас подготовлено. Вы можете сотворить его один раз без ячейки заклинания и восстанавливаете эту способность после завершения продолжительного отдыха. Вы также можете сотворить это заклинание, используя любые имеющиеся у вас ячейки заклинаний соответствующего уровня.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
+Интеллект, Мудрость или Харизма является вашей заклинательной характеристикой для заклинаний, которые вы сотворяете с помощью этой черты (выберите характеристику при выборе наследия).
 
-**Otherworldly Presence.** You know the *Thaumaturgy* cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait.
+**Потустороннее присутствие.** Вы знаете заговор *Чудотворство*. Когда вы сотворяете его с помощью этой черты, заклинание использует ту же заклинательную характеристику, что и ваша черта «Наследие исчадий».
 
-Table: Fiendish Legacies
+Таблица: Наследия исчадий
 
-| Legacy   | Level 1                                                                        | Level 3         | Level 5             |
-|----------|--------------------------------------------------------------------------------|-----------------|---------------------|
-| Abyssal  | You have Resistance to Poison damage. You also know the Poison Spray cantrip.  | Ray of Sickness | Hold Person         |
-| Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life      | Ray of Enfeeblement |
-| Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip.       | Hellish Rebuke  | Darkness            |
+| Наследие | Уровень 1 | Уровень 3 | Уровень 5 |
+|----------|-----------|-----------|-----------|
+| Бездны | Вы обладаете сопротивлением к урону ядом. Вы также знаете заговор *Ядовитые брызги*. | *Луч болезни* | *Удержание личности* |
+| Хтоническое | Вы обладаете сопротивлением к некротическому урону. Вы также знаете заговор *Леденящее прикосновение*. | *Притворная смерть* | *Луч слабости* |
+| Инфернальное | Вы обладаете сопротивлением к урону огнём. Вы также знаете заговор *Огненный снаряд*. | *Адское возмездие* | *Тьма* |

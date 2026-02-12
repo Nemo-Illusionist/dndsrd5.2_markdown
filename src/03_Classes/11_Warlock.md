@@ -1,491 +1,489 @@
-## Warlock
+## Колдун
 
-Table: Core Warlock Traits
+Таблица: Основные черты колдуна
 
 |                            |                                                                                                      |
 |----------------------------|------------------------------------------------------------------------------------------------------|
-| Primary Ability            | Charisma                                                                                             |
-| Hit Point Die              | D8 per Warlock level                                                                                 |
-| Saving Throw Proficiencies | Wisdom and Charisma                                                                                  |
-| Skill Proficiencies        | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion               |
-| Weapon Proficiencies       | Simple weapons                                                                                       |
-| Armor Training             | Light armor                                                                                          |
-| Starting Equipment         | Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Ar cane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP |
+| Основная характеристика    | Харизма                                                                                              |
+| Кость Хитов                | d8 за каждый уровень колдуна                                                                         |
+| Владение спасбросками      | Мудрость и Харизма                                                                                   |
+| Владение навыками          | Выберите 2: Магия, Обман, История, Запугивание, Анализ, Природа или Религия                          |
+| Владение оружием           | Простое оружие                                                                                       |
+| Владение доспехами         | Лёгкие доспехи                                                                                       |
+| Начальное снаряжение       | Выберите А или Б: (А) Кожаные доспехи, серп, 2 кинжала, магическая фокусировка (сфера), книга (оккультные знания), набор учёного и 15 зм; или (Б) 100 зм |
 
-### Becoming a Warlock …
+### Как стать колдуном…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Warlock Traits table.
-- Gain the Warlock's level 1 features, which are listed in the Warlock Features table.
+- Получите все черты из таблицы Основные черты колдуна.
+- Получите умения колдуна 1-го уровня, перечисленные в таблице Умения колдуна.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the following traits from the Core Warlock Traits table: Hit Point Die and training with Light armor.
-- Gain the Warlock's level 1 features, which are listed in the Warlock Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
+- Получите следующие черты из таблицы Основные черты колдуна: Кость Хитов и владение лёгкими доспехами.
+- Получите умения колдуна 1-го уровня, перечисленные в таблице Умения колдуна. Смотрите правила мультиклассирования в разделе «Создание персонажа», чтобы определить доступные ячейки заклинаний.
 
-### Warlock Class Features
+### Умения колдуна
 
-As a Warlock, you gain the following class features when you reach the specified Warlock levels. These features are listed in the Warlock Features table.
+Как колдун, вы получаете следующие классовые умения, когда достигаете указанных уровней колдуна. Эти умения перечислены в таблице Умения колдуна.
 
-Table: Warlock Features
+Таблица: Умения колдуна
 
-| Level | Proficiency Bonus | Class Features                   | Eldritch Invocations | Cantrips | Prepared Spells | Spell Slots | Slot Level |
-|-------|-------------------|----------------------------------|----------------------|----------|-----------------|-------------|------------|
-| 1     | +2                | Eldritch Invocations, Pact Magic | 1                    | 2        | 2               | 1           | 1          |
-| 2     | +2                | Magical Cunning                  | 3                    | 2        | 3               | 2           | 1          |
-| 3     | +2                | Warlock Subclass                 | 3                    | 2        | 4               | 2           | 2          |
-| 4     | +2                | Ability Score Improvement        | 3                    | 3        | 5               | 2           | 2          |
-| 5     | +3                | —                                | 5                    | 3        | 6               | 2           | 3          |
-| 6     | +3                | Subclass feature                 | 5                    | 3        | 7               | 2           | 3          |
-| 7     | +3                | —                                | 6                    | 3        | 8               | 2           | 4          |
-| 8     | +3                | Ability Score Improvement        | 6                    | 3        | 9               | 2           | 4          |
-| 9     | +4                | Contact Patron                   | 7                    | 3        | 10              | 2           | 5          |
-| 10    | +4                | Subclass feature                 | 7                    | 4        | 10              | 2           | 5          |
-| 11    | +4                | Mystic Arcanum (level 6 spell)   | 7                    | 4        | 11              | 3           | 5          |
-| 12    | +4                | Ability Score Improvement        | 8                    | 4        | 11              | 3           | 5          |
-| 13    | +5                | Mystic Arcanum (level 7 spell)   | 8                    | 4        | 12              | 3           | 5          |
-| 14    | +5                | Subclass feature                 | 8                    | 4        | 12              | 3           | 5          |
-| 15    | +5                | Mystic Arcanum (level 8 spell)   | 9                    | 4        | 13              | 3           | 5          |
-| 16    | +5                | Ability Score Improvement        | 9                    | 4        | 13              | 3           | 5          |
-| 17    | +6                | Mystic Arcanum (level 9 spell)   | 9                    | 4        | 14              | 4           | 5          |
-| 18    | +6                | —                                | 10                   | 4        | 14              | 4           | 5          |
-| 19    | +6                | Epic Boon                        | 10                   | 4        | 15              | 4           | 5          |
-| 20    | +6                | Eldritch Master                  | 10                   | 4        | 15              | 4           | 5          |
+| Уровень | Бонус мастерства | Классовые умения                      | Таинственные воззвания | Заговоры | Подготовленные заклинания | Ячейки | Уровень ячеек |
+|---------|------------------|---------------------------------------|------------------------|----------|---------------------------|--------|---------------|
+| 1       | +2               | Таинственные воззвания, Магия договора | 1                      | 2        | 2                         | 1      | 1             |
+| 2       | +2               | Магическая хитрость                   | 3                      | 2        | 3                         | 2      | 1             |
+| 3       | +2               | Подкласс колдуна                      | 3                      | 2        | 4                         | 2      | 2             |
+| 4       | +2               | Увеличение характеристик              | 3                      | 3        | 5                         | 2      | 2             |
+| 5       | +3               | —                                     | 5                      | 3        | 6                         | 2      | 3             |
+| 6       | +3               | Умение подкласса                      | 5                      | 3        | 7                         | 2      | 3             |
+| 7       | +3               | —                                     | 6                      | 3        | 8                         | 2      | 4             |
+| 8       | +3               | Увеличение характеристик              | 6                      | 3        | 9                         | 2      | 4             |
+| 9       | +4               | Связь с покровителем                  | 7                      | 3        | 10                        | 2      | 5             |
+| 10      | +4               | Умение подкласса                      | 7                      | 4        | 10                        | 2      | 5             |
+| 11      | +4               | Мистический секрет (заклинание 6 ур.) | 7                      | 4        | 11                        | 3      | 5             |
+| 12      | +4               | Увеличение характеристик              | 8                      | 4        | 11                        | 3      | 5             |
+| 13      | +5               | Мистический секрет (заклинание 7 ур.) | 8                      | 4        | 12                        | 3      | 5             |
+| 14      | +5               | Умение подкласса                      | 8                      | 4        | 12                        | 3      | 5             |
+| 15      | +5               | Мистический секрет (заклинание 8 ур.) | 9                      | 4        | 13                        | 3      | 5             |
+| 16      | +5               | Увеличение характеристик              | 9                      | 4        | 13                        | 3      | 5             |
+| 17      | +6               | Мистический секрет (заклинание 9 ур.) | 9                      | 4        | 14                        | 4      | 5             |
+| 18      | +6               | —                                     | 10                     | 4        | 14                        | 4      | 5             |
+| 19      | +6               | Эпический дар                         | 10                     | 4        | 15                        | 4      | 5             |
+| 20      | +6               | Таинственный мастер                   | 10                     | 4        | 15                        | 4      | 5             |
 
-#### Level 1: Eldritch Invocations
+#### Уровень 1: Таинственные воззвания
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options" section later in this class's description.
+Вы раскопали Таинственные воззвания — фрагменты запретных знаний, которые наделяют вас постоянной магической способностью или другими уроками. Вы получаете одно воззвание на свой выбор, например Договор гримуара. Воззвания описаны в разделе «Опции таинственных воззваний» далее в описании этого класса.
 
-**Prerequisites.** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
+**Требования.** Если у воззвания есть требование, вы должны соответствовать ему, чтобы изучить это воззвание. Например, если воззвание требует, чтобы вы были колдуном 5-го уровня или выше, вы можете выбрать это воззвание, достигнув 5-го уровня колдуна.
 
-**Replacing and Gaining Invocations.** Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have.
+**Замена и получение воззваний.** Каждый раз, когда вы получаете уровень колдуна, вы можете заменить одно из воззваний другим, для которого вы соответствуете требованиям. Вы не можете заменить воззвание, если оно является требованием для другого воззвания, которое у вас есть.
 
-When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.
+Когда вы достигаете определённых уровней колдуна, вы получаете больше воззваний на свой выбор, как показано в столбце Воззвания таблицы Умения колдуна.
 
-You can't pick the same invocation more than once unless its description says otherwise.
+Вы не можете выбрать одно и то же воззвание более одного раза, если в его описании не сказано иное.
 
-#### Level 1: Pact Magic
+#### Уровень 1: Магия договора
 
-Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the Warlock spell list later in the class's description.
+Посредством оккультной церемонии вы заключили договор с таинственной сущностью для получения магических сил. Эта сущность — голос в тенях, её личность неясна, но её дар вам конкретен: способность творить заклинания. Смотрите раздел «Заклинания» для правил использования заклинаний. Информация ниже описывает, как вы используете эти правила с заклинаниями колдуна, которые приведены в списке заклинаний колдуна далее в описании класса.
 
-**Cantrips.** You know two Warlock cantrips of your choice. *Eldritch Blast* and *Prestidigitation* are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+**Заговоры.** Вы знаете два заговора колдуна на свой выбор. Рекомендуются *Мистический заряд* и *Фокусы*. Каждый раз, когда вы получаете уровень колдуна, вы можете заменить один из заговоров этого умения другим заговором колдуна на свой выбор.
 
-When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
+Когда вы достигаете 4-го и 10-го уровня колдуна, вы узнаёте ещё один заговор колдуна на свой выбор, как показано в столбце Заговоры таблицы Умения колдуна.
 
-**Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
+**Ячейки заклинаний.** Таблица Умения колдуна показывает, сколько у вас есть ячеек заклинаний для сотворения заклинаний колдуна уровней 1–5. Таблица также показывает уровень этих ячеек, все они одного уровня. Вы восстанавливаете все потраченные ячейки Магии договора, когда заканчиваете короткий или продолжительный отдых.
 
-For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell *Charm Person*, you must spend one of those slots, and you cast it as a level 3 spell.
+Например, когда вы колдун 5-го уровня, у вас есть две ячейки 3-го уровня. Чтобы сотворить заклинание 1-го уровня *Очарование личности*, вы должны потратить одну из этих ячеек, и вы творите его как заклинание 3-го уровня.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. *Charm Person* and *Hex* are recommended.
+**Подготовленные заклинания 1-го уровня и выше.** Вы подготавливаете список заклинаний 1-го уровня и выше, которые доступны вам для сотворения с помощью этого умения. Для начала выберите два заклинания колдуна 1-го уровня. Рекомендуются *Очарование личности* и *Проклятие*.
 
-The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
+Количество заклинаний в вашем списке увеличивается по мере получения уровней колдуна, как показано в столбце Подготовленные заклинания таблицы Умения колдуна. Каждый раз, когда это число увеличивается, выбирайте дополнительные заклинания колдуна, пока количество заклинаний в вашем списке не сравняется с числом в таблице. Выбранные заклинания должны быть не выше уровня, указанного в столбце Уровень ячеек таблицы для вашего уровня. Например, когда вы достигаете 6-го уровня, вы узнаёте новое заклинание колдуна, которое может быть 1-го, 2-го или 3-го уровня.
 
-If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.
+Если другое умение колдуна даёт вам заклинания, которые вы всегда держите подготовленными, эти заклинания не учитываются в количестве заклинаний, которые вы можете подготовить с помощью этого умения, но в остальном считаются заклинаниями колдуна для вас.
 
-**Changing Your Prepared Spells.** Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.
+**Изменение подготовленных заклинаний.** Каждый раз, когда вы получаете уровень колдуна, вы можете заменить одно заклинание в своём списке другим заклинанием колдуна подходящего уровня.
 
-**Spellcasting Ability.** Charisma is the spellcasting ability for your Warlock spells.
+**Базовая характеристика заклинаний.** Харизма является вашей базовой характеристикой для заклинаний колдуна.
 
-**Spellcasting Focus.** You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.
+**Фокусировка заклинаний.** Вы можете использовать магическую фокусировку в качестве фокусировки для заклинаний колдуна.
 
-#### Level 2: Magical Cunning
+#### Уровень 2: Магическая хитрость
 
-You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a Long Rest.
+Вы можете провести эзотерический ритуал в течение 1 минуты. В конце вы восстанавливаете потраченные ячейки Магии договора, но не более количества, равного половине вашего максимума (с округлением вверх). После использования этого умения вы не можете использовать его снова, пока не закончите продолжительный отдых.
 
-#### Level 3: Warlock Subclass
+#### Уровень 3: Подкласс колдуна
 
-You gain a Warlock subclass of your choice. The Fiend Patron subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower.
+Вы получаете подкласс колдуна на свой выбор. Подкласс Покровитель: Исчадие описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях колдуна. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню колдуна или ниже.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях колдуна.
 
-#### Level 9: Contact Patron
+#### Уровень 9: Связь с покровителем
 
-In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the *Contact Other Plane* spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
+В прошлом вы обычно связывались со своим покровителем через посредников. Теперь вы можете общаться напрямую; у вас всегда подготовлено заклинание *Связь с иным миром*. С помощью этого умения вы можете сотворить заклинание без траты ячейки заклинания для связи с покровителем, и вы автоматически преуспеваете в спасброске заклинания.
 
-Once you cast the spell with this feature, you can't do so in this way again until you finish a Long Rest.
+После сотворения заклинания с помощью этого умения вы не можете сделать это таким образом снова, пока не закончите продолжительный отдых.
 
-#### Level 11: Mystic Arcanum
+#### Уровень 11: Мистический секрет
 
-Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
+Ваш покровитель дарует вам магический секрет, называемый секретом. Выберите одно заклинание колдуна 6-го уровня в качестве этого секрета.
 
-You can cast your arcanum spell once without expending a spell slot, and you must finish a Long Rest before you can cast it in this way again.
+Вы можете сотворить своё заклинание-секрет один раз без траты ячейки заклинания и должны закончить продолжительный отдых, прежде чем сможете сотворить его таким образом снова.
 
-As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a Long Rest.
+Как показано в таблице Умения колдуна, вы получаете другое заклинание колдуна на свой выбор, которое можно сотворить таким образом, когда достигаете 13-го (заклинание 7-го уровня), 15-го (заклинание 8-го уровня) и 17-го (заклинание 9-го уровня) уровня колдуна. Вы восстанавливаете все использования Мистического секрета, когда заканчиваете продолжительный отдых.
 
-Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
+Каждый раз, когда вы получаете уровень колдуна, вы можете заменить одно из заклинаний-секретов другим заклинанием колдуна того же уровня.
 
-#### Level 19: Epic Boon
+#### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Fate is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар судьбы.
 
-#### Level 20: Eldritch Master
+#### Уровень 20: Таинственный мастер
 
-When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots.
+Когда вы используете умение Магическая хитрость, вы восстанавливаете все потраченные ячейки Магии договора.
 
-### Eldritch Invocation Options
+### Опции таинственных воззваний
 
-Eldritch Invocation options appear in alphabetical order.
+Опции таинственных воззваний представлены в алфавитном порядке.
 
-#### Agonizing Blast
+#### Мучительный заряд
 
-*Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
+*Требование: Колдун 2-го уровня или выше, заговор колдуна, наносящий урон*
 
-Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.
+Выберите один из известных вам заговоров колдуна, наносящий урон. Вы можете добавлять свой модификатор Харизмы к броскам урона этого заклинания.
 
-**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Повторяемое.** Вы можете получить это воззвание более одного раза. Каждый раз выбирайте другой подходящий заговор.
 
-#### Armor of Shadows
+#### Доспехи теней
 
-You can cast *Mage Armor* on yourself without expending a spell slot.
+Вы можете творить *Магические доспехи* на себя без траты ячейки заклинания.
 
-#### Ascendant Step
+#### Возвышенный шаг
 
-*Prerequisite: Level 5+ Warlock*
+*Требование: Колдун 5-го уровня или выше*
 
-You can cast *Levitate* on yourself without expending a spell slot.
+Вы можете творить *Левитацию* на себя без траты ячейки заклинания.
 
-#### Devil's Sight
+#### Дьявольское зрение
 
-*Prerequisite: Level 2+ Warlock*
+*Требование: Колдун 2-го уровня или выше*
 
-You can see normally in Dim Light and Darkness both magical and nonmagical—within 120 feet of yourself.
+Вы можете нормально видеть в тусклом свете и тьме — как магической, так и обычной — в пределах 120 футов от себя.
 
-#### Devouring Blade
+#### Пожирающий клинок
 
-*Prerequisite: Level 12+ Warlock, Thirsting Blade Invocation*
+*Требование: Колдун 12-го уровня или выше, воззвание Жаждущий клинок*
 
-The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
+Дополнительная атака вашего воззвания Жаждущий клинок даёт две дополнительные атаки вместо одной.
 
-#### Eldritch Mind
+#### Мистический разум
 
-You have Advantage on Constitution saving throws that you make to maintain Concentration.
+Вы получаете преимущество на спасброски Телосложения, которые вы совершаете для поддержания концентрации.
 
-#### Eldritch Smite
+#### Мистическая кара
 
-*Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation*
+*Требование: Колдун 5-го уровня или выше, воззвание Договор клинка*
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+Один раз в ход, когда вы попадаете по существу оружием договора, вы можете потратить ячейку Магии договора, чтобы нанести дополнительно 1d8 урона силовым полем цели, плюс ещё 1d8 за каждый уровень ячейки заклинания, и вы можете дать цели состояние Лежащий, если она имеет размер Огромный или меньше.
 
-#### Eldritch Spear
+#### Мистическое копьё
 
-*Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
+*Требование: Колдун 2-го уровня или выше, заговор колдуна, наносящий урон, с дистанцией 10+ футов*
 
-Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
+Выберите один из известных вам заговоров колдуна, который наносит урон и имеет дистанцию 10+ футов. Когда вы творите это заклинание, его дистанция увеличивается на количество футов, равное 30, умноженному на ваш уровень колдуна.
 
-**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Повторяемое.** Вы можете получить это воззвание более одного раза. Каждый раз выбирайте другой подходящий заговор.
 
-#### Fiendish Vigor
+#### Дьявольская живучесть
 
-*Prerequisite: Level 2+ Warlock*
+*Требование: Колдун 2-го уровня или выше*
 
-You can cast *False Life* on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
+Вы можете творить *Ложную жизнь* на себя без траты ячейки заклинания. Когда вы творите заклинание с помощью этого умения, вы не бросаете кость для временных хитов; вы автоматически получаете максимальное число на кости.
 
-#### Gaze of Two Minds
+#### Взгляд двух разумов
 
-*Prerequisite: Level 5+ Warlock*
+*Требование: Колдун 5-го уровня или выше*
 
-You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
+Вы можете использовать Бонусное действие, чтобы коснуться согласного существа и воспринимать через его чувства до конца вашего следующего хода. Пока существо находится на том же плане существования, что и вы, вы можете использовать Бонусное действие в последующие ходы для поддержания этой связи, продлевая длительность до конца вашего следующего хода. Связь заканчивается, если вы не поддерживаете её таким образом.
 
-While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
+Воспринимая через чувства другого существа, вы получаете выгоду от любых особых чувств этого существа и можете творить заклинания, как если бы находились в своём пространстве или пространстве другого существа, если вы двое находитесь в пределах 60 футов друг от друга.
 
-#### Gift of the Depths
+#### Дар глубин
 
-*Prerequisite: Level 5+ Warlock*
+*Требование: Колдун 5-го уровня или выше*
 
-You can breathe underwater, and you gain a Swim Speed equal to your Speed.
+Вы можете дышать под водой и получаете скорость плавания, равную вашей скорости.
 
-You can also cast *Water Breathing* once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+Вы также можете сотворить *Подводное дыхание* один раз без траты ячейки заклинания. Вы восстанавливаете способность сотворить его таким образом, когда заканчиваете продолжительный отдых.
 
-#### Gift of the Protectors
+#### Дар защитников
 
-*Prerequisite: Level 9+ Warlock, Pact of the Tome Invocation*
+*Требование: Колдун 9-го уровня или выше, воззвание Договор гримуара*
 
-A new page appears in your *Book of Shadows* when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).
+Новая страница появляется в вашей *Книге теней*, когда вы её призываете. С вашего разрешения существо может использовать действие, чтобы записать своё имя на этой странице, которая может содержать количество имён, равное вашему модификатору Харизмы (минимум одно имя).
 
-When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a Long Rest.
+Когда любое существо, чьё имя записано на странице, хиты которого уменьшаются до 0, но оно не убито сразу, существо магическим образом падает до 1 хита вместо этого. После срабатывания этой магии ни одно существо не может получить от неё пользу, пока вы не закончите продолжительный отдых.
 
-As a Magic action, you can erase a name on the page by touching it.
+Как Магическое действие, вы можете стереть имя на странице, прикоснувшись к ней.
 
-#### Investment of the Chain Master
+#### Инвестиция хозяина цепи
 
-*Prerequisite: Level 5+ Warlock, Pact of the Chain Invocation*
+*Требование: Колдун 5-го уровня или выше, воззвание Договор цепи*
 
-When you cast *Find Familiar*, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+Когда вы творите *Поиск фамильяра*, вы наполняете призванного фамильяра частью своей таинственной силы, давая существу следующие преимущества.
 
-**Aerial or Aquatic.** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
+**Воздушный или водный.** Фамильяр получает либо скорость полёта, либо скорость плавания (на ваш выбор) 40 футов.
 
-**Quick Attack.** As a Bonus Action, you can command the familiar to take the Attack action.
+**Быстрая атака.** Как Бонусное действие, вы можете приказать фамильяру совершить действие Атака.
 
-**Necrotic or Radiant Damage.** Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+**Некротический или излучающий урон.** Каждый раз, когда фамильяр наносит дробящий, колющий или рубящий урон, вы можете сделать его некротическим или излучением вместо этого.
 
-**Your Save DC.** If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+**Ваша СЛ спасброска.** Если фамильяр заставляет существо совершать спасбросок, он использует СЛ спасброска ваших заклинаний.
 
-**Resistance.** When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+**Сопротивление.** Когда фамильяр получает урон, вы можете использовать Реакцию, чтобы дать ему сопротивление к этому урону.
 
-#### **Lessons of the First Ones**
+#### Уроки первых
 
-*Prerequisite: Level 2+ Warlock*
+*Требование: Колдун 2-го уровня или выше*
 
-You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice (see "Feats").
+Вы получили знания от древней сущности мультивселенной, позволяющие вам получить одну черту происхождения на свой выбор (смотрите раздел «Черты»).
 
-**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+**Повторяемое.** Вы можете получить это воззвание более одного раза. Каждый раз выбирайте другую черту происхождения.
 
-#### Lifedrinker
+#### Похититель жизни
 
-*Prerequisite: Level 9+ Warlock, Pact of the Blade Invocation*
+*Требование: Колдун 9-го уровня или выше, воззвание Договор клинка*
 
-Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your Hit Point Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+Один раз в ход, когда вы попадаете по существу оружием договора, вы можете нанести дополнительно 1d6 некротического, психического урона или урона излучением (на ваш выбор) существу, и вы можете потратить одну из ваших Костей Хитов, бросить её и восстановить количество хитов, равное результату броска + ваш модификатор Телосложения (минимум 1 хит).
 
-#### Mask of Many Faces
+#### Маска многих лиц
 
-*Prerequisite: Level 2+ Warlock*
+*Требование: Колдун 2-го уровня или выше*
 
-You can cast *Disguise Self* without expending a spell slot.
+Вы можете творить *Маскировку* без траты ячейки заклинания.
 
-#### Master of Myriad Forms
+#### Мастер многих форм
 
-*Prerequisite: Level 5+ Warlock*
+*Требование: Колдун 5-го уровня или выше*
 
-You can cast *Alter Self* without expending a spell slot.
+Вы можете творить *Превращение* без траты ячейки заклинания.
 
-#### Misty Visions
+#### Туманные видения
 
-*Prerequisite: Level 2+ Warlock*
+*Требование: Колдун 2-го уровня или выше*
 
-You can cast *Silent Image* without expending a spell slot.
+Вы можете творить *Немое изображение* без траты ячейки заклинания.
 
-#### One with Shadows
+#### Единение с тенями
 
-*Prerequisite: Level 5+ Warlock*
+*Требование: Колдун 5-го уровня или выше*
 
-While you're in an area of Dim Light or Darkness, you can cast *Invisibility* on yourself without expending a spell slot.
+Находясь в области тусклого света или тьмы, вы можете творить *Невидимость* на себя без траты ячейки заклинания.
 
-#### Otherworldly Leap
+#### Потусторонний прыжок
 
-*Prerequisite: Level 2+ Warlock*
+*Требование: Колдун 2-го уровня или выше*
 
-You can cast *Jump* on yourself without expending a spell slot.
+Вы можете творить *Прыжок* на себя без траты ячейки заклинания.
 
-#### Pact of the Blade
+#### Договор клинка
 
-As a Bonus Action, you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+Как Бонусное действие, вы можете призвать оружие договора в руку — простое или воинское оружие ближнего боя на ваш выбор, с которым вы связываетесь, — или создать связь с магическим оружием, которого касаетесь; вы не можете связаться с магическим оружием, если кто-то другой настроен на него или другой колдун связан с ним. Пока связь не закончится, вы владеете этим оружием и можете использовать его как фокусировку заклинаний.
 
-Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
+Каждый раз, когда вы атакуете связанным оружием, вы можете использовать модификатор Харизмы для бросков атаки и урона вместо Силы или Ловкости; и вы можете заставить оружие наносить некротический, психический урон или урон излучением вместо обычного типа урона.
 
-Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Ваша связь с оружием заканчивается, если вы снова используете Бонусное действие этого умения, если оружие находится на расстоянии более 5 футов от вас в течение 1 минуты или дольше, или если вы умираете. Призванное оружие исчезает, когда связь заканчивается.
 
-#### Pact of the Chain
+#### Договор цепи
 
-You learn the *Find Familiar* spell and can cast it as a Magic action without expending a spell slot.
+Вы узнаёте заклинание *Поиск фамильяра* и можете творить его как Магическое действие без траты ячейки заклинания.
 
-When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **Imp, Pseudodragon, Quasit, Skeleton, Sphinx of Wonder, Sprite,** or **Venomous Snake** (see "Monsters" for the familiar's stat block).
+Когда вы творите заклинание, вы выбираете одну из обычных форм для фамильяра или одну из следующих особых форм: **Бес, Псевдодракон, Квазит, Скелет, Сфинкс чудес, Спрайт** или **Ядовитая змея** (смотрите раздел «Монстры» для блока статистики фамильяра).
 
-Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+Кроме того, когда вы совершаете действие Атака, вы можете отказаться от одной из своих атак, чтобы позволить фамильяру совершить одну атаку своей Реакцией.
 
-#### Pact of the Tome
+#### Договор гримуара
 
-Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short or Long Rest. This *Book of Shadows* (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+Сплетая нити тени, вы призываете книгу в руку в конце короткого или продолжительного отдыха. Эта *Книга теней* (вы определяете её внешний вид) содержит таинственную магию, к которой можете получить доступ только вы, даруя преимущества ниже. Книга исчезает, если вы призываете другую книгу с помощью этого умения или если вы умираете.
 
-**Cantrips and Rituals.** When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+**Заговоры и ритуалы.** Когда появляется книга, выберите три заговора и два заклинания 1-го уровня с меткой Ритуал. Заклинания могут быть из списка заклинаний любого класса, и они должны быть заклинаниями, которые у вас ещё не подготовлены. Пока книга при вас, у вас подготовлены выбранные заклинания, и они считаются заклинаниями колдуна для вас.
 
-**Spellcasting Focus.** You can use the book as a Spellcasting Focus.
+**Фокусировка заклинаний.** Вы можете использовать книгу как фокусировку заклинаний.
 
-#### Repelling Blast
+#### Отталкивающий заряд
 
-*Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll*
+*Требование: Колдун 2-го уровня или выше, заговор колдуна, наносящий урон через бросок атаки*
 
-Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
+Выберите один из известных вам заговоров колдуна, требующий броска атаки. Когда вы попадаете по существу размером Большой или меньше этим заговором, вы можете оттолкнуть существо на расстояние до 10 футов прямо от вас.
 
-**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Повторяемое.** Вы можете получить это воззвание более одного раза. Каждый раз выбирайте другой подходящий заговор.
 
-#### Thirsting Blade
+#### Жаждущий клинок
 
-*Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation*
+*Требование: Колдун 5-го уровня или выше, воззвание Договор клинка*
 
-You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
+Вы получаете умение Дополнительная атака только для оружия договора. С этим умением вы можете атаковать дважды оружием вместо одного раза, когда совершаете действие Атака в свой ход.
 
-#### Visions of Distant Realms
+#### Видения далёких миров
 
-*Prerequisite: Level 9+ Warlock* 
+*Требование: Колдун 9-го уровня или выше*
 
-You can cast *Arcane Eye* without expending a spell slot.
+Вы можете творить *Магический глаз* без траты ячейки заклинания.
 
-#### Whispers of the Grave
+#### Шёпот могилы
 
-*Prerequisite: Level 7+ Warlock*
+*Требование: Колдун 7-го уровня или выше*
 
-You can cast *Speak with Dead* without expending a spell slot.
+Вы можете творить *Разговор с мёртвыми* без траты ячейки заклинания.
 
-#### Witch Sight
+#### Ведьмино зрение
 
-*Prerequisite: Level 15+ Warlock*
+*Требование: Колдун 15-го уровня или выше*
 
-You have Truesight with a range of 30 feet.
+Вы получаете истинное зрение с радиусом 30 футов.
 
-### Warlock Spell List
+### Список заклинаний колдуна
 
-This section presents the Warlock spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
+Таблица: Заговоры (заклинания колдуна 0-го уровня)
 
-Table: Cantrips (Level 0 Warlock Spells)
+| Заклинание         | Школа         | Особое |
+|--------------------|---------------|--------|
+| Леденящее касание  | Некромантия   | —      |
+| Магическая рука    | Вызов         | —      |
+| Малая иллюзия      | Иллюзия       | —      |
+| Мистический заряд  | Воплощение    | —      |
+| Фокусы             | Преобразование | —     |
+| Ядовитые брызги    | Некромантия   | —      |
+| Истинный удар      | Прорицание    | —      |
 
-| Spell            | School        | Special |
-|------------------|---------------|---------|
-| Chill Touch      | Necromancy    | —       |
-| Eldritch Blast   | Evocation     | —       |
-| Mage Hand        | Conjuration   | —       |
-| Minor Illusion   | Illusion      | —       |
-| Poison Spray     | Necromancy    | —       |
-| Prestidigitation | Transmutation | —       |
-| True Strike      | Divination    | —       |
+Таблица: Заклинания колдуна 1-го уровня
 
-Table: Level 1 Warlock Spells
+| Заклинание                  | Школа         | Особое |
+|-----------------------------|---------------|--------|
+| Адское возмездие            | Воплощение    | —      |
+| Защита от добра и зла       | Ограждение    | К, М   |
+| Иллюзорный текст            | Иллюзия       | Р, М   |
+| Невидимый слуга             | Вызов         | Р      |
+| Обнаружение магии           | Прорицание    | К, Р   |
+| Омерзительный смех          | Очарование    | К      |
+| Очарование личности         | Очарование    | —      |
+| Понимание языков            | Прорицание    | Р      |
+| Порча                       | Очарование    | К      |
+| Проклятие                   | Очарование    | К      |
+| Разговор с животными        | Прорицание    | Р      |
+| Стремительное отступление   | Преобразование | К     |
 
-| Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
-| Bane                          | Enchantment   | C       |
-| Charm Person                  | Enchantment   | —       |
-| Comprehend Languages          | Divination    | R       |
-| Detect Magic                  | Divination    | C, R    |
-| Expeditious Retreat           | Transmutation | C       |
-| Hellish Rebuke                | Evocation     | —       |
-| Hex                           | Enchantment   | C       |
-| Hideous Laughter              | Enchantment   | C       |
-| Illusory Script               | Illusion      | R, M    |
-| Protection from Evil and Good | Abjuration    | C, M    |
-| Speak with Animals            | Divination    | R       |
-| Unseen Servant                | Conjuration   | R       |
+Таблица: Заклинания колдуна 2-го уровня
 
-Table: Level 2 Warlock Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Внушение               | Очарование    | К      |
+| Зеркальное изображение | Иллюзия       | —      |
+| Луч слабости           | Некромантия   | К      |
+| Мозговой шип           | Прорицание    | К      |
+| Невидимость            | Иллюзия       | К      |
+| Обездвиживание личности | Очарование   | К      |
+| Очарование             | Очарование    | К      |
+| Туманный шаг           | Вызов         | —      |
+| Тьма                   | Воплощение    | К      |
+| Хождение по паутине    | Преобразование | К     |
 
-| Spell               | School        | Special |
-|---------------------|---------------|---------|
-| Darkness            | Evocation     | C       |
-| Enthrall            | Enchantment   | C       |
-| Hold Person         | Enchantment   | C       |
-| Invisibility        | Illusion      | C       |
-| Mind Spike          | Divination    | C       |
-| Mirror Image        | Illusion      | —       |
-| Misty Step          | Conjuration   | —       |
-| Ray of Enfeeblement | Necromancy    | C       |
-| Spider Climb        | Transmutation | C       |
-| Suggestion          | Enchantment   | C       |
+Таблица: Заклинания колдуна 3-го уровня
 
-Table: Level 3 Warlock Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Вампирическое касание  | Некромантия   | К      |
+| Газообразная форма     | Преобразование | К     |
+| Гипнотический узор     | Иллюзия       | К      |
+| Контрзаклинание        | Ограждение    | —      |
+| Круг защиты            | Ограждение    | М      |
+| Основательное изображение | Иллюзия    | К      |
+| Полёт                  | Преобразование | К     |
+| Рассеивание магии      | Ограждение    | —      |
+| Снятие проклятия       | Ограждение    | —      |
+| Страх                  | Иллюзия       | К      |
+| Языки                  | Прорицание    | —      |
 
-| Spell            | School        | Special |
-|------------------|---------------|---------|
-| Counterspell     | Abjuration    | —       |
-| Dispel Magic     | Abjuration    | —       |
-| Fear             | Illusion      | C       |
-| Fly              | Transmutation | C       |
-| Gaseous Form     | Transmutation | C       |
-| Hypnotic Pattern | Illusion      | C       |
-| Magic Circle     | Abjuration    | M       |
-| Major Image      | Illusion      | C       |
-| Remove Curse     | Abjuration    | —       |
-| Tongues          | Divination    | —       |
-| Vampiric Touch   | Necromancy    | C       |
+Таблица: Заклинания колдуна 4-го уровня
 
-Table: Level 4 Warlock Spells
+| Заклинание             | Школа       | Особое |
+|------------------------|-------------|--------|
+| Врата измерений        | Вызов       | —      |
+| Изгнание               | Ограждение  | К      |
+| Иллюзорная местность   | Иллюзия     | —      |
+| Очарование чудовища    | Очарование  | —      |
+| Порча                  | Некромантия | —      |
 
-| Spell                 | School      | Special |
-|-----------------------|-------------|---------|
-| Banishment            | Abjuration  | C       |
-| Blight                | Necromancy  | —       |
-| Charm Monster         | Enchantment | —       |
-| Dimension Door        | Conjuration | —       |
-| Hallucinatory Terrain | Illusion    | —       |
+Таблица: Заклинания колдуна 5-го уровня
 
-Table: Level 5 Warlock Spells
+| Заклинание             | Школа       | Особое |
+|------------------------|-------------|--------|
+| Круг телепортации      | Вызов       | М      |
+| Наблюдение             | Прорицание  | К, М   |
+| Обездвиживание чудовища | Очарование | К      |
+| Обманный путь          | Иллюзия     | К      |
+| Планарные узы          | Ограждение  | М      |
+| Связь с иным миром     | Прорицание  | Р      |
+| Сновидение             | Иллюзия     | —      |
 
-| Spell                | School      | Special |
-|----------------------|-------------|---------|
-| Contact Other Plane  | Divination  | R       |
-| Dream                | Illusion    | —       |
-| Hold Monster         | Enchantment | C       |
-| Mislead              | Illusion    | C       |
-| Planar Binding       | Abjuration  | M       |
-| Scrying              | Divination  | C, M    |
-| Teleportation Circle | Conjuration | M       |
+Таблица: Заклинания колдуна 6-го уровня
 
-Table: Level 6 Warlock Spells
+| Заклинание         | Школа       | Особое |
+|--------------------|-------------|--------|
+| Взгляд             | Некромантия | К      |
+| Истинное зрение    | Прорицание  | М      |
+| Круг смерти        | Некромантия | М      |
+| Сотворение нежити  | Некромантия | М      |
 
-| Spell           | School     | Special |
-|-----------------|------------|---------|
-| Circle of Death | Necromancy | M       |
-| Create Undead   | Necromancy | M       |
-| Eyebite         | Necromancy | C       |
-| True Seeing     | Divination | M       |
+Таблица: Заклинания колдуна 7-го уровня
 
-Table: Level 7 Warlock Spells
+| Заклинание              | Школа       | Особое |
+|-------------------------|-------------|--------|
+| Палец смерти            | Некромантия | —      |
+| Переход между планами   | Вызов       | М      |
+| Силовая клетка          | Воплощение  | К, М   |
+| Эфирность               | Вызов       | —      |
 
-| Spell           | School      | Special |
-|-----------------|-------------|---------|
-| Etherealness    | Conjuration | —       |
-| Finger of Death | Necromancy  | —       |
-| Forcecage       | Evocation   | C, M    |
-| Plane Shift     | Conjuration | M       |
+Таблица: Заклинания колдуна 8-го уровня
 
-Table: Level 8 Warlock Spells
+| Заклинание            | Школа       | Особое |
+|-----------------------|-------------|--------|
+| Власть над чудовищем  | Очарование  | К      |
+| Красноречие           | Очарование  | —      |
+| Помрачение            | Очарование  | —      |
+| Полупространство      | Вызов       | —      |
+| Слово силы: оглушение | Очарование  | —      |
 
-| Spell            | School      | Special |
-|------------------|-------------|---------|
-| Befuddlement     | Enchantment | —       |
-| Demiplane        | Conjuration | —       |
-| Dominate Monster | Enchantment | C       |
-| Glibness         | Enchantment | —       |
-| Power Word Stun  | Enchantment | —       |
+Таблица: Заклинания колдуна 9-го уровня
 
-Table: Level 9 Warlock Spells
+| Заклинание            | Школа         | Особое |
+|-----------------------|---------------|--------|
+| Астральная проекция   | Некромантия   | М      |
+| Врата                 | Вызов         | К, М   |
+| Истинный полиморф     | Преобразование | К     |
+| Кошмар                | Иллюзия       | К      |
+| Предвидение           | Прорицание    | —      |
+| Слово силы: смерть    | Очарование    | —      |
+| Темница               | Ограждение    | М      |
 
-| Spell             | School        | Special |
-|-------------------|---------------|---------|
-| Astral Projection | Necromancy    | M       |
-| Foresight         | Divination    | —       |
-| Gate              | Conjuration   | C, M    |
-| Imprisonment      | Abjuration    | M       |
-| Power Word Kill   | Enchantment   | —       |
-| True Polymorph    | Transmutation | C       |
-| Weird             | Illusion      | C       |
+### Подкласс колдуна: Покровитель: Исчадие
 
-### Warlock Subclass: Fiend Patron
+*Заключите сделку с Нижними планами*
 
-*Make a Deal with the Lower Planes*
+Ваш договор черпает силу из Нижних планов, миров погибели. Вы могли заключить сделку с лордом демонов, архидьяволом или другим особенно могущественным исчадием. Цели этого покровителя злы — порча или разрушение всего сущего, включая в конечном счёте вас — и ваш путь определяется тем, насколько вы противостоите этим целям.
 
-Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord, an archdevil, or another fiend that is especially mighty. That patron's aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
+#### Уровень 3: Благословение тёмного
 
-#### Level 3: Dark One's Blessing
+Когда вы уменьшаете хиты врага до 0, вы получаете временные хиты, равные вашему модификатору Харизмы + ваш уровень колдуна (минимум 1 временный хит). Вы также получаете это преимущество, если кто-то другой уменьшает хиты врага в пределах 10 футов от вас до 0.
 
-When you reduce an enemy to 0 Hit Points, you gain Temporary Hit Points equal to your Charisma modifier plus your Warlock level (minimum of 1 Temporary Hit Point). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 Hit Points.
+#### Уровень 3: Заклинания исчадия
 
-#### Level 3: Fiend Spells
+Магия вашего покровителя гарантирует, что у вас всегда готовы определённые заклинания; когда вы достигаете уровня колдуна, указанного в таблице Заклинания исчадия, у вас с этого момента всегда подготовлены перечисленные заклинания.
 
-The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.
+Таблица: Заклинания исчадия
 
-Table: Fiend Spells
+| Уровень колдуна | Заклинания                                    |
+|-----------------|-----------------------------------------------|
+| 3               | Горящие руки, Приказ, Опаляющий луч, Внушение |
+| 5               | Огненный шар, Зловонное облако                |
+| 7               | Огненный щит, Стена огня                      |
+| 9               | Кара, Нашествие насекомых                     |
 
-| Warlock Level | Spells                                            |
-|---------------|---------------------------------------------------|
-| 3             | Burning Hands, Command, Scorching Ray, Suggestion |
-| 5             | Fireball, Stinking Cloud                          |
-| 7             | Fire Shield, Wall of Fire                         |
-| 9             | Geas, Insect Plague                               |
+#### Уровень 6: Собственная удача тёмного
 
-#### Level 6: Dark One's Own Luck
+Вы можете призвать своего дьявольского покровителя изменить судьбу в вашу пользу. Когда вы совершаете проверку характеристики или спасбросок, вы можете использовать это умение, чтобы добавить 1d10 к броску. Вы можете сделать это после того, как увидите результат броска, но до того, как проявятся какие-либо его последствия.
 
-You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add 1d10 to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
+Вы можете использовать это умение количество раз, равное вашему модификатору Харизмы (минимум один раз), но не более одного раза за бросок. Вы восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a Long Rest.
+#### Уровень 10: Дьявольская стойкость
 
-#### Level 10: Fiendish Resilience
+Выбирайте один тип урона, кроме урона силовым полем, каждый раз, когда вы заканчиваете короткий или продолжительный отдых. Вы получаете сопротивление к этому типу урона, пока не выберете другой с помощью этого умения.
 
-Choose one damage type, other than Force, whenever you finish a Short or Long Rest. You have Resistance to that damage type until you choose a different one with this feature.
+#### Уровень 14: Низвержение в ад
 
-#### Level 14: Hurl Through Hell
+Один раз в ход, когда вы попадаете по существу броском атаки, вы можете попытаться мгновенно перенести цель через Нижние планы. Цель должна преуспеть в спасброске Харизмы против СЛ спасброска ваших заклинаний, или цель исчезает и проносится через кошмарный ландшафт. Цель получает 8d10 психического урона, если это не исчадие, и получает состояние Недееспособный до конца вашего следующего хода, когда она возвращается в пространство, которое занимала ранее, или в ближайшее незанятое пространство.
 
-Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes 8d10 Psychic damage if it isn't a Fiend, and it has the Incapacitated condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
-
-Once you use this feature, you can't use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+После использования этого умения вы не можете использовать его снова, пока не закончите продолжительный отдых, если только вы не потратите ячейку Магии договора (действие не требуется), чтобы восстановить использование.

@@ -1,675 +1,675 @@
-# Gameplay Toolbox
+# Инструментарий игрового процесса
 
-## Travel Pace
+## Темп путешествия
 
-A group of characters can travel overland at a Normal, Fast, or Slow pace, as described in "Playing the Game." During any journey stage, the predominant terrain determines the characters' maximum travel pace, as shown in the Maximum Pace column of the Travel Terrain table. Certain factors can affect a group's travel pace.
+Группа персонажей может путешествовать по суше в нормальном, быстром или медленном темпе, как описано в «Процессе игры». На любом этапе путешествия преобладающая местность определяет максимальный темп путешествия персонажей, как показано в колонке «Максимальный темп» таблицы местности путешествия. Определённые факторы могут влиять на темп путешествия группы.
 
-### Good Roads
+### Хорошие дороги
 
-The presence of a good road increases the group's maximum pace by one step (from Slow to Normal or from Normal to Fast).
+Наличие хорошей дороги увеличивает максимальный темп группы на одну ступень (с медленного на нормальный или с нормального на быстрый).
 
-### Slower Travelers
+### Медленные путешественники
 
-The group must move at a Slow pace if any group member's Speed is reduced to half or less of normal.
+Группа должна двигаться в медленном темпе, если скорость любого члена группы снижена до половины или менее от нормальной.
 
-### Extended Travel
+### Продлённое путешествие
 
-Characters can push themselves to travel for more than 8 hours per day, at the risk of tiring. At the end of each additional hour of travel beyond 8 hours, each character must succeed on a Constitution saving throw or gain 1 Exhaustion level. The DC is 10 plus 1 for each hour past 8 hours.
+Персонажи могут заставить себя путешествовать более 8 часов в день, рискуя устать. В конце каждого дополнительного часа путешествия сверх 8 часов каждый персонаж должен преуспеть в спасброске Телосложения или получить 1 уровень истощения. СЛ равна 10 плюс 1 за каждый час сверх 8 часов.
 
-### Special Movement
+### Особое перемещение
 
-If a party can travel at a high Speed for an extended time, as with a spell such as *Wind Walk* or a magic item such as a *Carpet of Flying*, translate the party's Speed into travel rates using these rules:
+Если группа может путешествовать с высокой скоростью в течение продолжительного времени, как с заклинанием *Путешествие ветром* или магическим предметом, таким как *Ковёр-самолёт*, преобразуйте скорость группы в темп путешествия по этим правилам:
 
-**Miles per hour** = Speed ÷ 10 
+**Миль в час** = Скорость ÷ 10
 
-**Miles per day** (Normal pace) = Miles per hour × number of hours traveled (typically 8) 
+**Миль в день** (нормальный темп) = Миль в час × количество часов путешествия (обычно 8)
 
-**Fast pace** = Miles per day × 1⅓ (round down) 
+**Быстрый темп** = Миль в день × 1⅓ (округление вниз)
 
-**Slow pace** = Miles per day × 2/3 (round down)
+**Медленный темп** = Миль в день × 2/3 (округление вниз)
 
-If the characters are flying or their special movement allows them to ignore Difficult Terrain, they can move at a Fast pace regardless of the terrain.
+Если персонажи летят или их особое перемещение позволяет игнорировать труднопроходимую местность, они могут двигаться в быстром темпе независимо от местности.
 
-### Vehicles
+### Транспортные средства
 
-Characters traveling in a vehicle use the vehicle's speed in miles per hour (as shown in "Equipment") to determine their rate of travel, and they don't choose a travel pace.
+Персонажи, путешествующие на транспортном средстве, используют скорость транспортного средства в милях в час (как показано в «Снаряжении») для определения темпа путешествия, и они не выбирают темп путешествия.
 
-## Creating a Background
+## Создание предыстории
 
-A character's background represents what the character did prior to becoming an adventurer. Creating a unique background or customizing an existing one can reflect the particular theme of your campaign or elements of your world. You can also create a background to help a player craft the story they have in mind for their character.
+Предыстория персонажа представляет, чем персонаж занимался до того, как стал искателем приключений. Создание уникальной предыстории или настройка существующей может отражать конкретную тему вашей кампании или элементы вашего мира. Вы также можете создать предысторию, чтобы помочь игроку воплотить историю, которую он задумал для своего персонажа.
 
-This section describes, step by step, how you can create backgrounds tailored for your world and the heroes in it.
+Этот раздел описывает, шаг за шагом, как вы можете создать предыстории, подходящие для вашего мира и героев в нём.
 
-### 1: Choose Abilities
+### 1: Выберите характеристики
 
-Choose three abilities that seem appropriate for the background:
+Выберите три характеристики, которые кажутся подходящими для предыстории:
 
-**Strength or Dexterity.** These abilities are ideal for a background involving physical exertion.
+**Сила или Ловкость.** Эти характеристики идеальны для предыстории, связанной с физической нагрузкой.
 
-**Constitution.** This ability is ideal for a background that involves endurance or long hours of activity.
+**Телосложение.** Эта характеристика идеальна для предыстории, связанной с выносливостью или долгими часами деятельности.
 
-**Intelligence or Wisdom.** One or both abilities are ideal for a background that focuses on cerebral or spiritual matters.
+**Интеллект или Мудрость.** Одна или обе характеристики идеальны для предыстории, сосредоточенной на умственных или духовных вопросах.
 
-**Charisma.** This ability is ideal for a background that involves performance or social interaction.
+**Харизма.** Эта характеристика идеальна для предыстории, связанной с выступлениями или социальным взаимодействием.
 
-Table: Travel Terrain
+Таблица: Местность путешествия
 
-| Terrain    | Maximum Pace | Encounter Distance | Foraging DC | Navigation DC | Search DC |
-|------------|--------------|--------------------|-------------|---------------|-----------|
-| Arctic     | Fast*        | 6d6 × 10 feet      | 20          | 10            | 10        |
-| Coastal    | Normal       | 2d10 × 10 feet     | 10          | 5             | 15        |
-| Desert     | Normal       | 6d6 × 10 feet      | 20          | 10            | 10        |
-| Forest     | Normal       | 2d8 × 10 feet      | 10          | 15            | 15        |
-| Grassland  | Fast         | 6d6 × 10 feet      | 15          | 5             | 15        |
-| Hill       | Normal       | 2d10 × 10 feet     | 15          | 10            | 15        |
-| Mountain   | Slow         | 4d10 × 10 feet     | 20          | 15            | 20        |
-| Swamp      | Slow         | 2d8 × 10 feet      | 10          | 15            | 20        |
-| Underdark  | Normal       | 2d6 × 10 feet      | 20          | 10            | 20        |
-| Urban      | Normal       | 2d6 × 10 feet      | 20          | 15            | 15        |
-| Waterborne | Special†     | 6d6 × 10 feet      | 15          | 10            | 15        |
+| Местность      | Максимальный темп | Дистанция встречи | СЛ фуражировки | СЛ навигации | СЛ поиска |
+|----------------|-------------------|-------------------|----------------|--------------|-----------|
+| Арктика        | Быстрый*          | 6d6 × 10 футов    | 20             | 10           | 10        |
+| Побережье      | Нормальный        | 2d10 × 10 футов   | 10             | 5            | 15        |
+| Пустыня        | Нормальный        | 6d6 × 10 футов    | 20             | 10           | 10        |
+| Лес            | Нормальный        | 2d8 × 10 футов    | 10             | 15           | 15        |
+| Равнина        | Быстрый           | 6d6 × 10 футов    | 15             | 5            | 15        |
+| Холмы          | Нормальный        | 2d10 × 10 футов   | 15             | 10           | 15        |
+| Горы           | Медленный         | 4d10 × 10 футов   | 20             | 15           | 20        |
+| Болото         | Медленный         | 2d8 × 10 футов    | 10             | 15           | 20        |
+| Подземье       | Нормальный        | 2d6 × 10 футов    | 20             | 10           | 20        |
+| Город          | Нормальный        | 2d6 × 10 футов    | 20             | 15           | 15        |
+| Водный путь    | Особый†           | 6d6 × 10 футов    | 15             | 10           | 15        |
 
-\*Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain. 
+\*Для поддержания быстрого темпа в арктической местности необходимо соответствующее снаряжение (например, лыжи).
 
-† Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
+† Темп путешествия персонажей по воде зависит от транспортного средства, на котором они путешествуют; см. «Транспортные средства».
 
-### 2: Choose a Feat
+### 2: Выберите черту
 
-Choose one feat from the Origin category. See "Origin Feats" for examples of Origin feats.
+Выберите одну черту из категории происхождения. Примеры черт происхождения см. в разделе «Черты происхождения».
 
-### 3: Choose Skill Proficiencies
+### 3: Выберите владения навыками
 
-Choose two skills appropriate for the background. There needn't be a relationship between the skill proficiencies a background grants and the ability scores it increases.
+Выберите два навыка, подходящих для предыстории. Не обязательно должна быть связь между владениями навыками, которые предоставляет предыстория, и характеристиками, которые она увеличивает.
 
-### 4: Choose a Tool Proficiency
+### 4: Выберите владение инструментом
 
-Choose one tool used in the practice of the background or often associated with it.
+Выберите один инструмент, используемый в практике предыстории или часто с ней связанный.
 
-### 5: Choose Equipment
+### 5: Выберите снаряжение
 
-Assemble a package of equipment worth 50 GP (including unspent gold). Don't include Martial weapons or armor, as characters get them from their class choices.
+Соберите набор снаряжения стоимостью 50 зм (включая неизрасходованное золото). Не включайте воинское оружие или доспехи, так как персонажи получают их от выбора класса.
 
-## Curses and Magical Contagions
+## Проклятия и магические заражения
 
-A curse is a magical burden that lasts for a specified time or until it is ended by some means. A magical contagion is an adverse effect of magical origin that is contagious by definition.
+Проклятие — это магическое бремя, которое длится определённое время или пока не будет снято каким-либо способом. Магическое заражение — это неблагоприятный эффект магического происхождения, который по определению заразен.
 
-The following sections discuss curses and magical contagions in detail.
+Следующие разделы подробно обсуждают проклятия и магические заражения.
 
-### Curses
+### Проклятия
 
-A curse typically takes one of the forms detailed below.
+Проклятие обычно принимает одну из форм, подробно описанных ниже.
 
-#### Bestow Curse
+#### Проклятие
 
-The simplest curses are created by the *Bestow Curse* spell. The effects of such curses are limited and can be ended by the *Remove Curse* spell.
+Простейшие проклятия создаются заклинанием *Проклятие*. Эффекты таких проклятий ограничены и могут быть сняты заклинанием *Снятие проклятия*.
 
-*Bestow Curse* provides useful benchmarks for gauging the potency of other curses. A curse that lasts for 1 minute equates to a level 3 spell, while one that lasts until dispelled equates to a level 9 spell.
+*Проклятие* предоставляет полезные ориентиры для оценки силы других проклятий. Проклятие, длящееся 1 минуту, эквивалентно заклинанию 3-го уровня, тогда как проклятие до рассеивания эквивалентно заклинанию 9-го уровня.
 
-#### Cursed Creatures
+#### Проклятые существа
 
-Some monsters are associated with curses, whether as part of their origins or due to their ability to spread curses—werewolves being a prime example.
+Некоторые монстры связаны с проклятиями, будь то как часть их происхождения или из-за их способности распространять проклятия — оборотни являются ярким примером.
 
-You decide how a spell like *Remove Curse* affects a creature with accursed origins. For example, you might decide that a mummy was created through a curse and it can be destroyed permanently only by casting *Remove Curse* on its corpse.
+Вы решаете, как заклинание вроде *Снятия проклятия* влияет на существо с проклятым происхождением. Например, вы можете решить, что мумия была создана посредством проклятия и может быть уничтожена навсегда только если сотворить *Снятие проклятия* на её труп.
 
-#### Cursed Magic Items
+#### Проклятые магические предметы
 
-Cursed magic items are created deliberately or originate as the result of supernatural events. Such items are detailed in "Magic Items."
+Проклятые магические предметы создаются намеренно или возникают в результате сверхъестественных событий. Такие предметы подробно описаны в «Магических предметах».
 
-#### Narrative Curses
+#### Сюжетные проклятия
 
-A curse might manifest during an adventure when a creature's violation of a taboo warrants supernatural punishment, such as breaking a vow, defiling a tomb, or murdering an innocent. Such a curse can have any effects you design, or it might be a customized version of another type of curse discussed in this section.
+Проклятие может проявиться во время приключения, когда нарушение существом табу заслуживает сверхъестественного наказания, например нарушение клятвы, осквернение гробницы или убийство невинного. Такое проклятие может иметь любые эффекты, которые вы разработаете, или это может быть адаптированная версия другого типа проклятия, обсуждаемого в этом разделе.
 
-A creature affected by such a curse should know why they're being punished and be able to learn how to end their curse, likely by symbolically righting the wrong they committed. How a spell like *Remove Curse* affects a curse that's part of your adventure is up to you—the spell might merely suppress the effects of the curse for a time. Regardless, narrative curses should feel like rare, potent magic rooted in the lore of your campaign.
+Существо, затронутое таким проклятием, должно знать, почему его наказывают, и иметь возможность узнать, как снять своё проклятие, вероятно, символически исправив совершённый проступок. Как заклинание вроде *Снятия проклятия* влияет на проклятие, являющееся частью вашего приключения, зависит от вас — заклинание может лишь временно подавить эффекты проклятия. В любом случае сюжетные проклятия должны ощущаться как редкая, мощная магия, укоренённая в истории вашей кампании.
 
-#### Environmental Curses
+#### Проклятия окружающей среды
 
-Some locations are so suffused with evil that anyone who lingers there is burdened with a curse. Demonic Possession is one example of an environmental curse.
+Некоторые места настолько пропитаны злом, что любой, кто там задерживается, обременяется проклятием. Одержимость демоном — один из примеров проклятия окружающей среды.
 
-**Demonic Possession.** Demonic Possession arises from the chaos and evil of the Abyss and commonly besets creatures that interact with demonic objects or linger in desecrated locations, where demonic spirits await victims.
+**Одержимость демоном.** Одержимость демоном возникает из хаоса и зла Бездны и обычно поражает существ, которые взаимодействуют с демоническими объектами или задерживаются в осквернённых местах, где демонические духи ждут жертв.
 
-A creature that becomes the target of Demonic Possession must succeed on a DC 15 Charisma saving throw or be possessed by a bodiless demonic entity. Whenever the possessed creature rolls a 1 on a D20 Test, the demonic entity takes control of the creature and determines the creature's behavior thereafter. At the end of each of the possessed creature's later turns, the creature makes a DC 15 Charisma saving throw, regaining control of itself on a success.
+Существо, которое становится целью одержимости демоном, должно преуспеть в спасброске Харизмы со СЛ 15 или быть одержимым бестелесной демонической сущностью. Каждый раз, когда одержимое существо выбрасывает 1 на проверке d20, демоническая сущность берёт контроль над существом и определяет его поведение в дальнейшем. В конце каждого последующего хода одержимого существа оно совершает спасбросок Харизмы со СЛ 15, восстанавливая контроль над собой при успехе.
 
-After finishing a Long Rest, a creature with Demonic Possession makes a DC 15 Charisma saving throw. On a successful save, the effect ends on the creature. A *Dispel Evil and Good* spell or any magic that removes a curse also ends the effect on it.
+После завершения продолжительного отдыха существо с одержимостью демоном совершает спасбросок Харизмы со СЛ 15. При успешном спасброске эффект заканчивается на существе. Заклинание *Рассеивание добра и зла* или любая магия, снимающая проклятие, также прекращает эффект на нём.
 
-### Magical Contagions
+### Магические заражения
 
-Alchemists, potion brewers, and areas of wild magic are credited with creating the first magical contagions. An outbreak of such a contagion can form the basis of an adventure as characters search for a cure and try to stop the contagion's spread.
+Алхимикам, пивоварам зелий и областям дикой магии приписывается создание первых магических заражений. Вспышка такого заражения может стать основой приключения, в котором персонажи ищут лекарство и пытаются остановить распространение заражения.
 
-#### Rest and Recuperation
+#### Отдых и восстановление
 
-If a creature infected with a magical contagion spends 3 days recuperating—engaging in no activities that would interrupt a Long Rest—the creature makes a DC 15 Constitution saving throw at the end of the recuperation period. On a successful save, the creature has Advantage on saving throws to fight off the magical contagion for the next 24 hours.
+Если существо, заражённое магическим заражением, проводит 3 дня на восстановлении — не занимаясь деятельностью, которая прервала бы продолжительный отдых — существо совершает спасбросок Телосложения со СЛ 15 в конце периода восстановления. При успешном спасброске существо совершает с преимуществом спасброски для борьбы с магическим заражением в течение следующих 24 часов.
 
-#### Example Contagions
+#### Примеры заражений
 
-The following examples show how magical contagions can work. Feel free to alter the saving throw DCs, effects, and other characteristics of these contagions to suit your campaign.
+Следующие примеры показывают, как могут работать магические заражения. Не стесняйтесь изменять СЛ спасбросков, эффекты и другие характеристики этих заражений в соответствии с вашей кампанией.
 
-#### Cackle Fever
+#### Хохотливая лихорадка
 
-*Magical Contagion*
+*Магическое заражение*
 
-Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which affects Humanoids only (gnomes are strangely immune). A creature suffers the following effects 1d4 days after infection:
+Дешёво изготовленные зелья и эликсиры иногда заражены хохотливой лихорадкой, которая поражает только гуманоидов (гномы странным образом иммунны). Существо страдает от следующих эффектов через 1d4 дней после заражения:
 
-**Fever.** The creature gains 1 Exhaustion level, which lasts until the contagion ends on the creature.
+**Лихорадка.** Существо получает 1 уровень истощения, который длится до окончания заражения на существе.
 
-**Uncontrollable Laughter.** While the creature has the Exhaustion condition, the creature makes a DC 13 Constitution saving throw each time it takes damage other than Psychic damage. On a failed save, the creature takes 5 (1d10) Psychic damage and has the Incapacitated condition as it laughs uncontrollably. At the end of each of its turns, the creature repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+**Неконтролируемый смех.** Пока существо находится в состоянии «истощение», оно совершает спасбросок Телосложения со СЛ 13 каждый раз, когда получает урон, кроме психического. При неудачном спасброске существо получает 5 (1d10) психического урона и находится в состоянии «недееспособный», неконтролируемо смеясь. В конце каждого своего хода существо повторяет спасбросок, прекращая эффект на себе при успехе. Через 1 минуту оно преуспевает автоматически.
 
-**_Fighting the Contagion._** At the end of each Long Rest, an infected creature makes a DC 13 Constitution saving throw. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
+**_Борьба с заражением._** В конце каждого продолжительного отдыха заражённое существо совершает спасбросок Телосложения со СЛ 13. После того как существо преуспеет в трёх таких спасбросках, заражение заканчивается на нём, и существо получает иммунитет к хохотливой лихорадке на 1 год.
 
-**_Spreading the Contagion._** Any Humanoid (other than a gnome) that starts its turn within a 10-foot Emanation originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+**_Распространение заражения._** Любой гуманоид (кроме гнома), который начинает свой ход в пределах 10-футовой эманации, исходящей от существа, заражённого хохотливой лихорадкой, должен преуспеть в спасброске Телосложения со СЛ 10 или также заразиться. При успешном спасброске гуманоид не может заразиться от этого конкретного заражённого существа в течение следующих 24 часов.
 
-#### Sewer Plague
+#### Канализационная чума
 
-*Magical Contagion*
+*Магическое заражение*
 
-Fouled potions and alchemical waste can give rise to Sewer Plague, which incubates in sewers and refuse heaps and is sometimes transmitted by creatures that dwell in such areas, including otyughs and rats. Any Humanoid that is wounded by a creature that carries the contagion or that comes into contact with contaminated filth or offal must succeed on a DC 11 Constitution saving throw or become infected with Sewer Plague. A creature suffers the following effects 1d4 days after infection:
+Испорченные зелья и алхимические отходы могут породить канализационную чуму, которая инкубируется в канализациях и кучах мусора и иногда передаётся существами, обитающими в таких местах, включая отьюгов и крыс. Любой гуманоид, раненный существом, несущим заражение, или вступивший в контакт с заражённой грязью или отбросами, должен преуспеть в спасброске Телосложения со СЛ 11 или заразиться канализационной чумой. Существо страдает от следующих эффектов через 1d4 дней после заражения:
 
-**Fatigue.** The creature gains 1 Exhaustion level. 
+**Усталость.** Существо получает 1 уровень истощения.
 
-**Weakness.** While the creature has any Exhaustion levels, it regains only half the normal number of Hit Points from spending Hit Point Dice. 
+**Слабость.** Пока у существа есть уровни истощения, оно восстанавливает только половину нормального количества хитов от траты костей хитов.
 
-**Restlessness.** While the creature has any Exhaustion levels, finishing a Long Rest neither restores lost Hit Points nor reduces the creature's Exhaustion level.
+**Беспокойство.** Пока у существа есть уровни истощения, завершение продолжительного отдыха не восстанавливает потерянные хиты и не уменьшает уровень истощения существа.
 
-**_Fighting the Contagion._** Daily at dawn, an infected creature makes a DC 11 Constitution saving throw. On a failed save, the creature gains 1 Exhaustion level as its fatigue worsens. On a successful save, the creature's Exhaustion level decreases by 1. If the creature's Exhaustion level is reduced to 0, the contagion ends on the creature.
+**_Борьба с заражением._** Ежедневно на рассвете заражённое существо совершает спасбросок Телосложения со СЛ 11. При неудачном спасброске существо получает 1 уровень истощения по мере усиления усталости. При успешном спасброске уровень истощения существа уменьшается на 1. Если уровень истощения существа снижается до 0, заражение заканчивается на существе.
 
-#### Sight Rot
+#### Гниль зрения
 
-*Magical Contagion*
+*Магическое заражение*
 
-Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a DC 15 Constitution saving throw or have the Blinded condition until the contagion ends.
+Любой зверь или гуманоид, который пьёт воду, заражённую гнилью зрения, должен преуспеть в спасброске Телосложения со СЛ 15 или получить состояние «ослеплённый» до окончания заражения.
 
-**_Fighting the Contagion._** Magic such as a *Heal* or *Lesser Restoration* spell ends the contagion immediately. A character who is proficient with an Herbalism Kit can use it to create one dose of nonmagical ointment, which takes 1 hour. When applied to the eyes of a creature suffering from Sight Rot, the ointment suppresses the contagion on that creature for 24 hours. If the contagion is suppressed in this way for a total of 72 hours (requiring three doses and applications of the ointment), the contagion ends on the creature.
+**_Борьба с заражением._** Магия, такая как заклинание *Исцеление* или *Малое восстановление*, немедленно прекращает заражение. Персонаж, владеющий набором травника, может использовать его для создания одной дозы немагической мази, что занимает 1 час. При нанесении на глаза существа, страдающего от гнили зрения, мазь подавляет заражение на этом существе на 24 часа. Если заражение подавлено таким образом в общей сложности 72 часа (требуется три дозы и применения мази), заражение заканчивается на существе.
 
-**_Spreading the Contagion._** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+**_Распространение заражения._** Любой гуманоид, который касается кожей существа, заражённого гнилью зрения, должен преуспеть в спасброске Телосложения со СЛ 15 или также заразиться. При успешном спасброске гуманоид не может заразиться от этого конкретного заражённого существа в течение следующих 24 часов.
 
-## Environmental Effects 
+## Эффекты окружающей среды
 
-### Deep Water
+### Глубокая вода
 
-Swimming through deep water (more than 100 feet deep) presents additional challenges because of the water's pressure and cold temperature. After each hour of swimming in deep water, a creature that lacks a Swim Speed must succeed on a DC 10 Constitution saving throw or gain 1 Exhaustion level.
+Плавание в глубокой воде (более 100 футов глубиной) представляет дополнительные испытания из-за давления воды и низкой температуры. После каждого часа плавания в глубокой воде существо без скорости плавания должно преуспеть в спасброске Телосложения со СЛ 10 или получить 1 уровень истощения.
 
-### Extreme Cold
+### Экстремальный холод
 
-When the temperature is 0 degrees Fahrenheit or lower, a creature exposed to the extreme cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain 1 Exhaustion level. Creatures that have Resistance or Immunity to Cold damage automatically succeed on the save.
+Когда температура составляет 0 градусов по Фаренгейту (-18°C) или ниже, существо, подверженное экстремальному холоду, должно преуспеть в спасброске Телосложения со СЛ 10 в конце каждого часа или получить 1 уровень истощения. Существа, имеющие сопротивление или иммунитет к урону холодом, автоматически преуспевают в спасброске.
 
-### Extreme Heat
+### Экстремальная жара
 
-When the temperature is 100 degrees Fahrenheit or higher, a creature exposed to the extreme heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain 1 Exhaustion level. The DC is 5 for the first hour and increases by 1 for each additional hour. Creatures wearing Medium or Heavy armor have Disadvantage on the save. Creatures that have Resistance or Immunity to Fire damage automatically succeed on the save.
+Когда температура составляет 100 градусов по Фаренгейту (38°C) или выше, существо, подверженное экстремальной жаре и без доступа к питьевой воде, должно преуспеть в спасброске Телосложения в конце каждого часа или получить 1 уровень истощения. СЛ равна 5 для первого часа и увеличивается на 1 за каждый дополнительный час. Существа в средних или тяжёлых доспехах совершают спасбросок с помехой. Существа, имеющие сопротивление или иммунитет к урону огнём, автоматически преуспевают в спасброске.
 
-### Frigid Water
+### Ледяная вода
 
-A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain 1 Exhaustion level. Creatures with Resistance or Immunity to Cold damage automatically succeed on the save, as do creatures that are naturally adapted to living in ice-cold water.
+Существо может находиться погружённым в ледяную воду в течение количества минут, равного его значению Телосложения, прежде чем пострадать от каких-либо негативных эффектов. Каждая дополнительная минута, проведённая в ледяной воде, требует от существа преуспеть в спасброске Телосложения со СЛ 10 или получить 1 уровень истощения. Существа с сопротивлением или иммунитетом к урону холодом автоматически преуспевают в спасброске, как и существа, естественно приспособленные к жизни в ледяной воде.
 
-### Heavy Precipitation
+### Сильные осадки
 
-Everything within an area of heavy rain or heavy snowfall is Lightly Obscured, and creatures in the area have Disadvantage on all Wisdom (Perception) checks. Heavy rain also extinguishes open flames.
+Всё в области сильного дождя или сильного снегопада слабо заслонено, и существа в этой области совершают с помехой все проверки Мудрости (Восприятие). Сильный дождь также тушит открытый огонь.
 
-### High Altitude
+### Большая высота
 
-Traveling at altitudes of 10,000 feet or higher above sea level is taxing for most creatures because of the reduced amount of oxygen in the air. Each hour such a creature spends traveling at high altitude counts as 2 hours for the purpose of determining how long that creature can travel (see "Travel Pace").
+Путешествие на высотах 10 000 футов (3000 м) или выше над уровнем моря утомительно для большинства существ из-за уменьшенного количества кислорода в воздухе. Каждый час, который такое существо проводит, путешествуя на большой высоте, считается за 2 часа для определения того, как долго существо может путешествовать (см. «Темп путешествия»).
 
-Creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
+Существа могут акклиматизироваться к большой высоте, проведя 30 дней или более на этой высоте. Существа не могут акклиматизироваться к высотам выше 20 000 футов (6000 м), если они не родом из таких мест.
 
-### Slippery Ice
+### Скользкий лёд
 
-Slippery ice is Difficult Terrain. A creature that moves onto slippery ice for the first time on a turn or starts its turn there must succeed on a DC 10 Dexterity saving throw or have the Prone condition.
+Скользкий лёд является труднопроходимой местностью. Существо, которое впервые в ход перемещается на скользкий лёд или начинает там свой ход, должно преуспеть в спасброске Ловкости со СЛ 10 или получить состояние «лежащий ничком».
 
-### Strong Wind
+### Сильный ветер
 
-Strong wind imposes Disadvantage on ranged attack rolls with weapons. It also extinguishes open flames and disperses fog. A flying creature in a strong wind must land at the end of its turn or fall.
+Сильный ветер накладывает помеху на дальнобойные броски атаки оружием. Он также тушит открытый огонь и рассеивает туман. Летающее существо в сильном ветре должно приземлиться в конце своего хода или упасть.
 
-A strong wind in a desert can create a sandstorm that imposes Disadvantage on Wisdom (Perception) checks.
+Сильный ветер в пустыне может создать песчаную бурю, которая накладывает помеху на проверки Мудрости (Восприятие).
 
-### Thin Ice
+### Тонкий лёд
 
-Thin ice has a weight tolerance of 3d10 × 10 pounds per 10-foot-square area. Whenever the total weight on an area of thin ice exceeds its tolerance, the ice in that area breaks. All creatures on broken ice fall through. Below the ice is frigid water (see "Frigid Water" above).
+Тонкий лёд имеет допустимую нагрузку 3d10 × 10 фунтов на 10-футовую квадратную область. Всякий раз, когда общий вес на области тонкого льда превышает допустимый, лёд в этой области ломается. Все существа на сломанном льду проваливаются. Под льдом находится ледяная вода (см. «Ледяная вода» выше).
 
-## Fear and Mental Stress
+## Страх и психический стресс
 
-Due to the nature of their vocation, adventurers tend to be less susceptible to fear and mental stress than common folk. Whereas a farmer might flee in terror from a bear or an apparition, adventurers are made of sterner stuff. That said, certain creatures and game effects can terrify or fray the mind of even the most stalwart adventurer.
+Из-за характера своей профессии искатели приключений, как правило, менее восприимчивы к страху и психическому стрессу, чем простые люди. В то время как фермер может в ужасе бежать от медведя или привидения, искатели приключений сделаны из более крепкого материала. Тем не менее определённые существа и игровые эффекты могут напугать или поколебать разум даже самого стойкого искателя приключений.
 
-If you plan to use any of these rules, discuss them with your players at the start of the campaign.
+Если вы планируете использовать какие-либо из этих правил, обсудите их с игроками в начале кампании.
 
-### Fear Effects
+### Эффекты страха
 
-Whenever the characters encounter something that is supernaturally frightful, use the Frightened condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
+Всякий раз, когда персонажи сталкиваются с чем-то сверхъестественно ужасным, используйте состояние «испуганный» как базовый эффект. Эффекты страха обычно требуют спасброска Мудрости со СЛ, основанной на том, насколько ужасна ситуация. Таблица примеров СЛ страха приводит некоторые примеры.
 
-Table: Sample Fear DCs
+Таблица: Примеры СЛ страха
 
-| Example                                                                                                                                     | Save DC |
-|---------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| When the characters open a sarcophagus, a harmless yet terrifying apparition appears.                                                       | 10      |
-| A character triggers a magical trap that creates an illusory manifestation of that character's worst fears, visible only to that character. | 15      |
-| A portal to the Abyss opens, revealing a nightmarish realm of torment and slaughter.                                                        | 20      |
+| Пример                                                                                                                             | СЛ спасброска |
+|------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| Когда персонажи открывают саркофаг, появляется безобидное, но ужасающее привидение.                                                | 10            |
+| Персонаж активирует магическую ловушку, создающую иллюзорное проявление худших страхов персонажа, видимое только этому персонажу. | 15            |
+| Открывается портал в Бездну, открывая кошмарное царство мучений и резни.                                                           | 20            |
 
-Typically, a Frightened creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Обычно испуганное существо повторяет спасбросок в конце каждого своего хода, прекращая эффект на себе при успехе.
 
-At your discretion, a Frightened creature might be subject to other effects as long as the Frightened condition lasts. Consider these examples:
+По вашему усмотрению испуганное существо может быть подвержено другим эффектам, пока длится состояние «испуганный». Рассмотрите эти примеры:
 
-- The Frightened creature must take the Dash action on each of its turns and uses its movement to get farther away from the source of its fear.
-- Attack rolls against the Frightened creature have Advantage.
-- The Frightened creature can do only one of the following on each of its turns: move, take an action, or take a Bonus Action.
+- Испуганное существо должно совершать действие Рывок в каждый свой ход и использовать своё перемещение, чтобы удалиться от источника страха.
+- Броски атаки против испуганного существа совершаются с преимуществом.
+- Испуганное существо может делать только одно из следующего в каждый свой ход: перемещаться, совершать действие или совершать бонусное действие.
 
-### Mental Stress Effects
+### Эффекты психического стресса
 
-When a character is subjected to an effect that causes intense mental stress, Psychic damage is the best way to emulate that effect.
+Когда персонаж подвергается эффекту, вызывающему интенсивный психический стресс, психический урон — лучший способ эмулировать этот эффект.
 
-The Sample Mental Stress Effects table provides a few examples of such effects, with suggested saving throw DCs and damage. Mental stress can usually be resisted with a successful Wisdom save, but sometimes an Intelligence or Charisma save is more appropriate. On a successful save, a character might take half as much damage instead of no damage, at your discretion.
+Таблица примеров эффектов психического стресса приводит несколько примеров таких эффектов с рекомендуемыми СЛ спасбросков и уроном. Психическому стрессу обычно можно противостоять успешным спасброском Мудрости, но иногда более уместен спасбросок Интеллекта или Харизмы. При успешном спасброске персонаж может получить половину урона вместо отсутствия урона, по вашему усмотрению.
 
-Table: Sample Mental Stress Effects
+Таблица: Примеры эффектов психического стресса
 
-| Example                                                                                              | Save DC | Psychic Damage |
-|------------------------------------------------------------------------------------------------------|---------|----------------|
-| A character ingests a hallucinogenic substance that distorts the charac ter's perception of reality. | 10      | 1d6            |
-| A character touches a fiendish idol that tears at the character's mind, threatening to shatter it.   | 15      | 3d6            |
-| A magical trap flings a character into the Far Realm until the end of that character's next turn.    | 20      | 9d6            |
+| Пример                                                                                                               | СЛ спасброска | Психический урон |
+|----------------------------------------------------------------------------------------------------------------------|---------------|------------------|
+| Персонаж принимает галлюциногенное вещество, искажающее восприятие реальности персонажем.                            | 10            | 1d6              |
+| Персонаж касается демонического идола, который терзает разум персонажа, угрожая разрушить его.                       | 15            | 3d6              |
+| Магическая ловушка забрасывает персонажа в Дальний Предел до конца следующего хода этого персонажа.                  | 20            | 9d6              |
 
-#### Prolonged Effects
+#### Продолжительные эффекты
 
-Exposure to mental stress can cause prolonged effects. Consider the following possibilities.
+Воздействие психического стресса может вызвать продолжительные эффекты. Рассмотрите следующие возможности.
 
-**_Short-Term Effects._** The character has the Frightened, Incapacitated, or Stunned condition for 1d10 minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the *Calm Emotions* spell or removed by the *Lesser Restoration* spell.
+**_Кратковременные эффекты._** Персонаж находится в состоянии «испуганный», «недееспособный» или «ошеломлённый» в течение 1d10 минут. Это состояние может сопровождаться тревожным поведением или галлюцинациями. Эти эффекты можно подавить заклинанием *Успокоение эмоций* или снять заклинанием *Малое восстановление*.
 
-**_Long-Term Effects._** The character has Disadvantage on some or all ability checks for 1d10 × 10 hours, stemming from an unwillingness or inability to exert a particular set of abilities. The character might feel enervated and unable to exert much Strength, for example, or become so suspicious of others that Charisma checks are more difficult. These effects can be suppressed with the *Calm Emotions* spell or removed by the *Lesser Restoration* spell.
+**_Долговременные эффекты._** Персонаж совершает с помехой некоторые или все проверки характеристик в течение 1d10 × 10 часов, вызванные нежеланием или неспособностью проявить определённый набор способностей. Например, персонаж может чувствовать себя обессиленным и неспособным приложить много Силы, или стать настолько подозрительным к другим, что проверки Харизмы становятся сложнее. Эти эффекты можно подавить заклинанием *Успокоение эмоций* или снять заклинанием *Малое восстановление*.
 
-**_Indefinite Effects._** An indefinite effect is a longterm effect (see above) that lasts until removed by a *Greater Restoration* spell. It can be suppressed by a *Calm Emotions* spell.
+**_Бессрочные эффекты._** Бессрочный эффект — это долговременный эффект (см. выше), который длится до снятия заклинанием *Высшее восстановление*. Его можно подавить заклинанием *Успокоение эмоций*.
 
-## Poison
+## Яд
 
-Given their insidious and deadly nature, poisons are a favorite tool among assassins and evil creatures. Poisons come in the following four types:
+Учитывая их коварную и смертоносную природу, яды — излюбленный инструмент убийц и злых существ. Яды бывают четырёх типов:
 
-**Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.
+**Контактный.** Контактный яд можно нанести на объект, и он остаётся действенным, пока к нему не прикоснутся или не смоют. Существо, которое касается контактного яда открытой кожей, испытывает его эффекты.
 
-**Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing Advantage on the saving throw or dealing only half as much damage on a failed save.
+**Проглатываемый.** Существо должно проглотить целую дозу проглатываемого яда, чтобы испытать его эффекты. Доза может быть подмешана в еду или жидкость. Вы можете решить, что частичная доза имеет уменьшенный эффект, например предоставление преимущества на спасбросок или нанесение только половины урона при неудачном спасброске.
 
-**Inhaled.** Poisonous powders and gases take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot Cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
+**Вдыхаемый.** Ядовитые порошки и газы действуют при вдыхании. Распыление порошка или выпуск газа подвергает существ в 5-футовом кубе его эффекту. Образовавшееся облако рассеивается сразу после этого. Задержка дыхания неэффективна против вдыхаемых ядов, так как они воздействуют на носовые мембраны, слёзные протоки и другие части тела.
 
-**Injury.** Injury poison can be applied as a Bonus Action to a weapon, a piece of ammunition, or similar object. The poison remains potent until delivered through a wound or washed off. A creature that takes Piercing or Slashing damage from an object coated with the poison is exposed to its effects.
+**Раневой.** Раневой яд можно нанести бонусным действием на оружие, боеприпас или подобный объект. Яд остаётся действенным, пока не будет доставлен через рану или смыт. Существо, получающее колющий или рубящий урон от объекта, покрытого ядом, подвергается его эффектам.
 
-### Purchasing Poison
+### Покупка яда
 
-In some settings, laws prohibit the possession and use of poison, but an illicit dealer or unscrupulous apothecary might keep a hidden stash. Characters with criminal contacts might be able to acquire poison easily. Other characters might have to make extensive inquiries and pay bribes before they acquire the poison they seek.
+В некоторых сеттингах законы запрещают хранение и использование яда, но нелегальный торговец или недобросовестный аптекарь может хранить тайный запас. Персонажи с криминальными связями могут легко приобрести яд. Другим персонажам, возможно, придётся провести обширные расспросы и дать взятки, прежде чем они приобретут нужный им яд.
 
-### Harvesting Poison
+### Добыча яда
 
-A character can attempt to harvest poison from a venomous creature that is dead or has the Incapacitated condition. The effort takes 1d6 minutes, after which the character makes a DC 20 Intelligence (Nature) check using a Poisoner's Kit. On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+Персонаж может попытаться извлечь яд из ядовитого существа, которое мертво или находится в состоянии «недееспособный». Усилие занимает 1d6 минут, после чего персонаж совершает проверку Интеллекта (Природа) со СЛ 20 с использованием набора отравителя. При успешной проверке персонаж извлекает достаточно яда для одной дозы, и дополнительный яд нельзя извлечь из этого существа. При неудачной проверке персонаж не может извлечь яд. Если персонаж проваливает проверку на 5 или более, персонаж подвергается яду существа.
 
-### Sample Poisons
+### Примеры ядов
 
-Example poisons are detailed here in alphabetical order. Each poison's description includes the suggested price for a single dose of the poison, its type (contact, ingested, inhaled, or injury), and a description of the poison's debilitating effects.
+Примеры ядов подробно описаны здесь в алфавитном порядке. Описание каждого яда включает рекомендуемую цену за одну дозу яда, его тип (контактный, проглатываемый, вдыхаемый или раневой) и описание изнурительных эффектов яда.
 
-#### Assassin's Blood (150 GP)
+#### Кровь убийцы (150 зм)
 
-*Ingested Poison*
+*Проглатываемый яд*
 
-A creature subjected to Assassin's Blood makes a DC 10 Constitution saving throw. On a failed save, the creature takes 6 (1d12) Poison damage and has the Poisoned condition for 24 hours. On a successful save, the creature takes half as much damage only.
+Существо, подвергшееся воздействию крови убийцы, совершает спасбросок Телосложения со СЛ 10. При неудачном спасброске существо получает 6 (1d12) урона ядом и находится в состоянии «отравленный» в течение 24 часов. При успешном спасброске существо получает только половину урона.
 
-#### Burnt Othur Fumes (500 GP)
+#### Жжёные пары отура (500 зм)
 
-*Inhaled Poison*
+*Вдыхаемый яд*
 
-A creature subjected to Burnt Othur Fumes must succeed on a DC 13 Constitution saving throw or take 10 (3d6) Poison damage, and it must repeat the save at the start of each of its turns. On each successive failed save, the creature takes 3 (1d6) Poison damage. After three successful saves, the poison ends.
+Существо, подвергшееся воздействию жжёных паров отура, должно преуспеть в спасброске Телосложения со СЛ 13 или получить 10 (3d6) урона ядом, и оно должно повторять спасбросок в начале каждого своего хода. При каждом последующем неудачном спасброске существо получает 3 (1d6) урона ядом. После трёх успешных спасбросков яд заканчивается.
 
-#### Crawler Mucus (200 GP)
+#### Слизь ползуна (200 зм)
 
-*Contact Poison*
+*Контактный яд*
 
-A creature subjected to Crawler Mucus must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1 minute. The creature also has the Paralyzed condition while Poisoned in this way. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+Существо, подвергшееся воздействию слизи ползуна, должно преуспеть в спасброске Телосложения со СЛ 13 или получить состояние «отравленный» на 1 минуту. Существо также находится в состоянии «парализованный», пока отравлено таким образом. Существо повторяет спасбросок в конце каждого своего хода, прекращая эффект на себе при успехе.
 
-#### Essence of Ether (300 GP)
+#### Эссенция эфира (300 зм)
 
-*Inhaled Poison*
+*Вдыхаемый яд*
 
-A creature subjected to Essence of Ether must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 8 hours. The creature also has the Unconscious condition while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+Существо, подвергшееся воздействию эссенции эфира, должно преуспеть в спасброске Телосложения со СЛ 15 или получить состояние «отравленный» на 8 часов. Существо также находится в состоянии «без сознания», пока отравлено таким образом. Существо просыпается, если получает урон или если другое существо использует действие, чтобы разбудить его.
 
-#### Malice (250 GP)
+#### Злоба (250 зм)
 
-*Inhaled Poison*
+*Вдыхаемый яд*
 
-A creature subjected to Malice must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 1 hour. The creature also has the Blinded condition while Poisoned in this way.
+Существо, подвергшееся воздействию злобы, должно преуспеть в спасброске Телосложения со СЛ 15 или получить состояние «отравленный» на 1 час. Существо также находится в состоянии «ослеплённый», пока отравлено таким образом.
 
-#### Midnight Tears (1,500 GP)
+#### Полуночные слёзы (1 500 зм)
 
-*Ingested Poison*
+*Проглатываемый яд*
 
-A creature that ingests Midnight Tears suffers no effect until the stroke of midnight. Any effect that ends the Poisoned condition neutralizes this poison. If the poison hasn't been neutralized before midnight, the creature makes a DC 17 Constitution saving throw, taking 31 (9d6) Poison damage on a failed save or half as much damage on a successful one.
+Существо, проглотившее полуночные слёзы, не испытывает никакого эффекта до полуночи. Любой эффект, снимающий состояние «отравленный», нейтрализует этот яд. Если яд не был нейтрализован до полуночи, существо совершает спасбросок Телосложения со СЛ 17, получая 31 (9d6) урона ядом при неудачном спасброске или половину этого урона при успешном.
 
-#### Oil of Taggit (400 GP)
+#### Масло таггита (400 зм)
 
-*Contact Poison*
+*Контактный яд*
 
-A creature subjected to Oil of Taggit must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 24 hours. The creature also has the Unconscious condition while Poisoned in this way. It wakes up if it takes damage.
+Существо, подвергшееся воздействию масла таггита, должно преуспеть в спасброске Телосложения со СЛ 13 или получить состояние «отравленный» на 24 часа. Существо также находится в состоянии «без сознания», пока отравлено таким образом. Оно просыпается, если получает урон.
 
-#### Pale Tincture (250 GP)
+#### Бледная настойка (250 зм)
 
-*Ingested Poison*
+*Проглатываемый яд*
 
-A creature subjected to Pale Tincture must succeed on a DC 16 Constitution saving throw or take 3 (1d6) Poison damage and have the Poisoned condition. The Poisoned creature repeats the save every 24 hours, taking 3 (1d6) Poison damage on a failed save. The damage the poison deals can't be healed by any means while the creature remains Poisoned. After seven successful saves against the poison, the creature is no longer Poisoned.
+Существо, подвергшееся воздействию бледной настойки, должно преуспеть в спасброске Телосложения со СЛ 16 или получить 3 (1d6) урона ядом и получить состояние «отравленный». Отравленное существо повторяет спасбросок каждые 24 часа, получая 3 (1d6) урона ядом при неудачном спасброске. Урон, наносимый ядом, не может быть исцелён никакими средствами, пока существо остаётся отравленным. После семи успешных спасбросков против яда существо больше не отравлено.
 
-#### Purple Worm Poison (2,000 GP)
+#### Яд пурпурного червя (2 000 зм)
 
-*Injury Poison*
+*Раневой яд*
 
-A creature subjected to Purple Worm Poison makes a DC 21 Constitution saving throw, taking 35 (10d6) Poison damage on a failed save or half as much damage on a successful one.
+Существо, подвергшееся воздействию яда пурпурного червя, совершает спасбросок Телосложения со СЛ 21, получая 35 (10d6) урона ядом при неудачном спасброске или половину этого урона при успешном.
 
-#### Serpent Venom (200 GP)
+#### Змеиный яд (200 зм)
 
-*Injury Poison*
+*Раневой яд*
 
-A creature subjected to Serpent Venom must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) Poison damage on a failed save or half as much damage on a successful one.
+Существо, подвергшееся воздействию змеиного яда, должно преуспеть в спасброске Телосложения со СЛ 11, получая 10 (3d6) урона ядом при неудачном спасброске или половину этого урона при успешном.
 
-#### Spider's Sting (200 GP)
+#### Жало паука (200 зм)
 
-*Injury Poison*
+*Раневой яд*
 
-A creature subjected to Spider's Sting must succeed on a DC 13 Constitution saving throw or have the Poisoned condition for 1 hour. If the creature fails the save by 5 or more, the creature also has the Unconscious condition while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+Существо, подвергшееся воздействию жала паука, должно преуспеть в спасброске Телосложения со СЛ 13 или получить состояние «отравленный» на 1 час. Если существо проваливает спасбросок на 5 или более, существо также находится в состоянии «без сознания», пока отравлено таким образом. Существо просыпается, если получает урон или если другое существо использует действие, чтобы разбудить его.
 
-#### Torpor (600 GP)
+#### Оцепенение (600 зм)
 
-*Ingested Poison*
+*Проглатываемый яд*
 
-A creature subjected to Torpor poison must succeed on a DC 15 Constitution saving throw or have the Poisoned condition for 4d6 hours. The creature's Speed is halved while the creature is Poisoned in this way.
+Существо, подвергшееся воздействию яда оцепенения, должно преуспеть в спасброске Телосложения со СЛ 15 или получить состояние «отравленный» на 4d6 часов. Скорость существа уменьшена вдвое, пока оно отравлено таким образом.
 
-#### Truth Serum (150 GP)
+#### Сыворотка правды (150 зм)
 
-*Ingested Poison*
+*Проглатываемый яд*
 
-A creature subjected to Truth Serum must succeed on a DC 11 Constitution saving throw or have the Poisoned condition for 1 hour. The Poisoned creature can't knowingly communicate a lie.
+Существо, подвергшееся воздействию сыворотки правды, должно преуспеть в спасброске Телосложения со СЛ 11 или получить состояние «отравленный» на 1 час. Отравленное существо не может сознательно сообщать ложь.
 
-#### Wyvern Poison (1,200 GP)
+#### Яд виверны (1 200 зм)
 
-*Injury Poison*
+*Раневой яд*
 
-A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (7d6) Poison damage on a failed save or half as much damage on a successful one.
+Существо, подвергшееся воздействию яда виверны, совершает спасбросок Телосложения со СЛ 14, получая 24 (7d6) урона ядом при неудачном спасброске или половину этого урона при успешном.
 
-## Traps
+## Ловушки
 
-Traps should be used sparingly, lest they lose their charm. A hidden pit can be a fun surprise, but too many traps in an adventure can lead players to become overly cautious, which slows down the game.
+Ловушки следует использовать экономно, чтобы они не потеряли своего очарования. Скрытая яма может стать весёлым сюрпризом, но слишком много ловушек в приключении может привести к тому, что игроки станут чрезмерно осторожными, что замедлит игру.
 
-The best traps are fleeting distractions that skilled characters can overcome in a short amount of time or deadly puzzles that require quick thinking and teamwork to overcome. Traps that are undetectable and inescapable are rarely fun.
+Лучшие ловушки — это мимолётные отвлечения, которые умелые персонажи могут преодолеть за короткое время, или смертельные головоломки, требующие быстрого мышления и командной работы. Ловушки, которые невозможно обнаружить и от которых невозможно спастись, редко бывают интересными.
 
-### Parts of a Trap
+### Части ловушки
 
-The description of a trap includes the following parts after the trap's name:
+Описание ловушки включает следующие части после названия ловушки:
 
-**Severity and Levels.** A trap is designated as a nuisance or as deadly for characters of certain levels. A nuisance trap is unlikely to seriously harm characters of the indicated levels, whereas a deadly trap can grievously damage characters of the indicated levels.
+**Опасность и уровни.** Ловушка обозначается как неприятность или как смертельная для персонажей определённых уровней. Ловушка-неприятность вряд ли серьёзно навредит персонажам указанных уровней, тогда как смертельная ловушка может серьёзно повредить персонажей указанных уровней.
 
-**Trigger.** Traps are often set to go off when a creature enters an area or touches an object. Examples of triggers include stepping on a pressure plate, crossing a trip wire, turning a doorknob, or using the wrong key in a lock.
+**Триггер.** Ловушки часто настроены срабатывать, когда существо входит в область или касается объекта. Примеры триггеров включают наступление на нажимную плиту, пересечение натяжной проволоки, поворот дверной ручки или использование неправильного ключа в замке.
 
-**Duration.** Some traps have durations expressed in rounds, minutes, or hours. Others specify that their effects last until the trap is destroyed or dispelled. If a trap's duration is instantaneous, its effect is resolved instantly. If a trap resets after activating, that fact is noted in this entry. A trap is otherwise inert after activation.
+**Длительность.** Некоторые ловушки имеют длительность, выраженную в раундах, минутах или часах. Другие указывают, что их эффекты длятся до уничтожения или рассеивания ловушки. Если длительность ловушки мгновенная, её эффект разрешается мгновенно. Если ловушка перезаряжается после активации, это указано в этой записи. В противном случае ловушка неактивна после активации.
 
-Use caution when introducing a trap to characters of a level lower than the trap's level range. A trap that is a nuisance at one level range could be deadly to characters of a lower level range.
+Будьте осторожны при знакомстве персонажей уровня ниже диапазона уровней ловушки с этой ловушкой. Ловушка, которая является неприятностью для одного диапазона уровней, может быть смертельной для персонажей более низкого диапазона уровней.
 
-### Example Traps
+### Примеры ловушек
 
-Traps are presented in alphabetical order.
+Ловушки представлены в алфавитном порядке.
 
-#### Collapsing Roof
+#### Обрушивающийся потолок
 
-*Deadly Trap (Levels 1–4)*
+*Смертельная ловушка (уровни 1–4)*
 
-**Trigger:** A creature crosses a trip wire 
+**Триггер:** Существо пересекает натяжную проволоку
 
-**Duration:** Instantaneous
+**Длительность:** Мгновенная
 
-This trap uses a trip wire to collapse an unstable section of ceiling. The trip wire is 3 inches off the ground and stretches between two weak supports that topple when the trip wire is pulled.
+Эта ловушка использует натяжную проволоку для обрушения неустойчивой секции потолка. Натяжная проволока находится в 3 дюймах от земли и натянута между двумя слабыми опорами, которые падают, когда проволока натягивается.
 
-The first creature that crosses the trip wire causes the supports to topple and the unstable section of ceiling to collapse. Each creature beneath the unstable section of ceiling must succeed on a DC 13 Dexterity saving throw, taking 11 (2d10) Bludgeoning damage on a failed save or half as much damage on a successful one. Rubble from the collapse turns the trapped area into Difficult Terrain.
+Первое существо, пересекающее натяжную проволоку, вызывает падение опор и обрушение неустойчивой секции потолка. Каждое существо под неустойчивой секцией потолка должно преуспеть в спасброске Ловкости со СЛ 13, получая 11 (2d10) дробящего урона при неудачном спасброске или половину этого урона при успешном. Обломки от обрушения превращают область ловушки в труднопроходимую местность.
 
-**_Detect and Disarm._** As a Search action, a creature can examine the trapped area and make a DC 11 Wisdom (Perception) check, detecting the trip wire and the unstable section of ceiling on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
+**_Обнаружение и обезвреживание._** Действием Поиск существо может осмотреть область ловушки и совершить проверку Мудрости (Восприятие) со СЛ 11, обнаруживая натяжную проволоку и неустойчивую секцию потолка при успешной проверке. После обнаружения натяжную проволоку можно легко перерезать или обойти (проверка характеристики не требуется).
 
-**_At Higher Levels._** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
+**_На более высоких уровнях._** Вы можете масштабировать ловушку для более высоких уровней, увеличивая урон и СЛ спасброска, как показано в следующей таблице.
 
-| Levels | Bludgeoning Damage | Save DC |
-|--------|--------------------|---------|
-| 5–10   | 22 (4d10)          | 15      |
-| 11–16  | 55 (10d10)         | 17      |
-| 17–20  | 99 (18d10)         | 19      |
+| Уровни | Дробящий урон | СЛ спасброска |
+|--------|---------------|---------------|
+| 5–10   | 22 (4d10)     | 15            |
+| 11–16  | 55 (10d10)    | 17            |
+| 17–20  | 99 (18d10)    | 19            |
 
-#### Falling Net
+#### Падающая сеть
 
-*Nuisance Trap (Levels 1–4)*
+*Ловушка-неприятность (уровни 1–4)*
 
-**Trigger:** A creature crosses a trip wire 
+**Триггер:** Существо пересекает натяжную проволоку
 
-**Duration:** Instantaneous
+**Длительность:** Мгновенная
 
-A falling net trap uses a trip wire to release a weighted, 10-foot-square Net suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
+Ловушка с падающей сетью использует натяжную проволоку для высвобождения утяжелённой 10-футовой квадратной сети, подвешенной к потолку. Натяжная проволока находится в 3 дюймах от земли и натянута между двумя колоннами или деревьями.
 
-The first creature that crosses the trip wire causes the Net to fall on it. The target must succeed on a DC 10 Dexterity saving throw or have the Restrained condition until it escapes. The target succeeds automatically if it's Huge or larger. A creature can take an action to make a DC 10 Strength (Athletics) check, freeing itself or another creature within its reach from the Net on a successful check.
+Первое существо, пересекающее натяжную проволоку, вызывает падение сети на него. Цель должна преуспеть в спасброске Ловкости со СЛ 10 или получить состояние «опутанный», пока не освободится. Цель преуспевает автоматически, если она огромная или больше. Существо может использовать действие, чтобы совершить проверку Силы (Атлетика) со СЛ 10, освобождая себя или другое существо в пределах досягаемости от сети при успешной проверке.
 
-**_Detect and Disarm._** As a Search action, a creature can examine the trapped area and make a DC 11 Wisdom (Perception) check, detecting the trip wire and the suspended Net on a successful check. Once detected, the trip wire can be easily cut or avoided (no ability check required).
+**_Обнаружение и обезвреживание._** Действием Поиск существо может осмотреть область ловушки и совершить проверку Мудрости (Восприятие) со СЛ 11, обнаруживая натяжную проволоку и подвешенную сеть при успешной проверке. После обнаружения натяжную проволоку можно легко перерезать или обойти (проверка характеристики не требуется).
 
-**_Destroy the Net._** Reducing the Net to 0 Hit Points frees any creature trapped in it (see "Adventuring Gear" for the Net's statistics).
+**_Уничтожение сети._** Снижение хитов сети до 0 освобождает любое существо, пойманное в неё (см. «Снаряжение искателя приключений» для характеристик сети).
 
-**_Set the Trap._** A creature that has Thieves' Tools and all the trap's components (including a Net) can try to set a falling net trap, doing so with a successful DC 13 Dexterity (Sleight of Hand) check. Each attempt to set this trap takes 10 minutes.
+**_Установка ловушки._** Существо, имеющее воровские инструменты и все компоненты ловушки (включая сеть), может попытаться установить ловушку с падающей сетью, делая это при успешной проверке Ловкости (Ловкость рук) со СЛ 13. Каждая попытка установить эту ловушку занимает 10 минут.
 
-**_At Higher Levels._** You can scale the trap for higher levels by increasing the weight of the Net, which increases the save DC and the DC of the Strength (Athletics) check as follows: DC 12 at levels 5–10, DC 14 at levels 11–16, or DC 16 at levels 17–20.
+**_На более высоких уровнях._** Вы можете масштабировать ловушку для более высоких уровней, увеличивая вес сети, что увеличивает СЛ спасброска и СЛ проверки Силы (Атлетика) следующим образом: СЛ 12 на уровнях 5–10, СЛ 14 на уровнях 11–16 или СЛ 16 на уровнях 17–20.
 
-#### Fire-Casting Statue
+#### Огнемётная статуя
 
-*Deadly Trap (Levels 1–4)*
+*Смертельная ловушка (уровни 1–4)*
 
-**Trigger:** A creature moves onto a pressure plate
+**Триггер:** Существо наступает на нажимную плиту
 
-**Duration:** Instantaneous, and the trap resets at the start of the next turn
+**Длительность:** Мгновенная, и ловушка перезаряжается в начале следующего хода
 
-When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot Cone of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (2d10) Fire damage on a failed save or half as much damage on a successful one.
+Когда существо впервые в ход наступает на нажимную плиту этой ловушки или начинает там свой ход, ближайшая статуя выдыхает 15-футовый конус магического пламени. Статуя может изображать что угодно, например дракона или волшебника. Каждое существо в конусе должно преуспеть в спасброске Ловкости со СЛ 15, получая 11 (2d10) урона огнём при неудачном спасброске или половину этого урона при успешном.
 
-**_Detect and Disarm._** A *Detect Magic* spell reveals an aura of Evocation magic around the statue. As a Search action, a creature within 5 feet of the statue can examine it and make a DC 10 Wisdom (Perception) check, detecting a tiny glyph on the statue on a successful check. Once the glyph is found, a character can take a Study action to examine it and make a DC 15 Intelligence (Arcana) check, ascertaining that the glyph means "fire" on a successful check. As an action, a character can use a sharp tool to deface the glyph, which disarms the trap.
+**_Обнаружение и обезвреживание._** Заклинание *Обнаружение магии* выявляет ауру магии школы воплощения вокруг статуи. Действием Поиск существо в пределах 5 футов от статуи может осмотреть её и совершить проверку Мудрости (Восприятие) со СЛ 10, обнаруживая крошечный глиф на статуе при успешной проверке. После обнаружения глифа персонаж может использовать действие Изучение, чтобы осмотреть его и совершить проверку Интеллекта (Магия) со СЛ 15, определяя, что глиф означает «огонь», при успешной проверке. Действием персонаж может использовать острый инструмент, чтобы испортить глиф, что обезвреживает ловушку.
 
-As a Search action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom (Perception) check, detecting the pressure plate on a successful check. Wedging an Iron Spike or similar object under the pressure plate prevents the trap from triggering.
+Действием Поиск существо может осмотреть секцию пола, образующую нажимную плиту, и совершить проверку Мудрости (Восприятие) со СЛ 15, обнаруживая нажимную плиту при успешной проверке. Вклинивание железного шипа или подобного объекта под нажимную плиту предотвращает срабатывание ловушки.
 
-**_At Higher Levels._** You can scale the trap for higher levels by increasing the damage and the area of effect, as shown in the following table.
+**_На более высоких уровнях._** Вы можете масштабировать ловушку для более высоких уровней, увеличивая урон и область эффекта, как показано в следующей таблице.
 
-| Levels | Fire Damage | Area of Effect | 
+| Уровни | Урон огнём  | Область эффекта    |
+|--------|-------------|--------------------|
+| 5–10   | 22 (4d10)   | 30-футовый конус   |
+| 11–16  | 55 (10d10)  | 60-футовый конус   |
+| 17–20  | 99 (18d10)  | 120-футовый конус  |
+
+#### Скрытая яма
+
+*Ловушка-неприятность (уровни 1–4)*
+
+**Триггер:** Существо наступает на крышку ямы
+
+**Длительность:** Мгновенная
+
+Эта 10-футовая глубокая яма имеет откидную крышку, сделанную из материала, идентичного окружающему полу. Когда существо наступает на крышку, она открывается как люк, вызывая падение существа в яму. Крышка остаётся открытой после этого.
+
+Существо, падающее в яму, получает 3 (1d6) дробящего урона от падения.
+
+**_Обнаружение и обезвреживание._** Действием Изучение существо может осмотреть секцию пола, образующую крышку ямы, и совершить проверку Интеллекта (Расследование) со СЛ 15, обнаруживая яму при успешной проверке. После обнаружения ямы железный шип или подобный объект можно вклинить между крышкой ямы и окружающим полом, чтобы предотвратить открытие крышки, делая безопасным проход. Крышку также можно удерживать закрытой с помощью *Волшебного замка* или подобной магии.
+
+**_Побег._** Существу нужна скорость лазания, снаряжение для лазания или магия, такая как *Паучья хватка*, чтобы взобраться по гладким стенам ямы. Вы можете облегчить побег из ямы, добавив трещины в стенах, достаточно большие, чтобы служить выступами для рук и ног.
+
+**_На более высоких уровнях._** Вы можете масштабировать ловушку для более высоких уровней, увеличивая глубину ямы и урон, как показано в следующей таблице.
+
+| Уровни | Глубина ямы | Дробящий урон  |
 |--------|-------------|----------------|
-| 5–10   | 22 (4d10)   | 30-foot Cone   |
-| 11–16  | 55 (10d10)  | 60-foot Cone   |
-| 17–20  | 99 (18d10)  | 120-foot Cone  |
+| 5–10   | 30 футов    | 10 (3d6)       |
+| 11–16  | 60 футов    | 21 (6d6)       |
+| 17–20  | 120 футов   | 42 (12d6)      |
 
-#### Hidden Pit
+#### Отравленные дротики
 
-*Nuisance Trap (Levels 1–4)*
+*Смертельная ловушка (уровни 1–4)*
 
-**Trigger:** A creature moves onto the pit's lid 
+**Триггер:** Существо наступает на нажимную плиту
 
-**Duration:** Instantaneous
+**Длительность:** Мгновенная, и ловушка перезаряжается в начале следующего хода, если активировалась менее трёх раз
 
-This 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit. The lid remains open thereafter.
+Когда существо впервые в ход наступает на нажимную плиту этой ловушки, отравленные дротики вылетают из трубок, встроенных в окружающие стены. Отверстия, в которых находятся эти трубки, скрыты пылью и паутиной или искусно спрятаны среди барельефов, фресок или росписей.
 
-A creature that falls into the pit takes 3 (1d6) Bludgeoning damage from the fall.
+Каждое существо на пути дротиков должно преуспеть в спасброске Ловкости со СЛ 13 или быть поражено 1d3 дротиками, получая 3 (1d6) урона ядом за каждый дротик.
 
-**_Detect and Disarm._** As a Study action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence (Investigation) check, detecting the pit on a successful check. Once the pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using *Arcane Lock* or similar magic.
+**_Обнаружение и обезвреживание._** Действием Поиск существо может осмотреть стены и совершить проверку Мудрости (Восприятие) со СЛ 15, обнаруживая отверстия при успешной проверке. Закупоривание всех отверстий воском, тканью или мусором предотвращает вылет дротиков.
 
-**_Escape._** A creature needs a Climb Speed, climbing gear, or magic such as *Spider Climb* to scale the pit's smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.
+Действием Поиск существо может осмотреть секцию пола, образующую нажимную плиту, и совершить проверку Мудрости (Восприятие) со СЛ 15, обнаруживая нажимную плиту при успешной проверке. Вклинивание железного шипа или подобного объекта под нажимную плиту предотвращает срабатывание ловушки.
 
-**_At Higher Levels._** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
+**_На более высоких уровнях._** Вы можете масштабировать ловушку для более высоких уровней, увеличивая урон ядом каждого дротика следующим образом: 7 (2d6) на уровнях 5–10, 14 (4d6) на уровнях 11–16 или 24 (7d6) на уровнях 17–20.
 
-| Levels | Pit Depth | Bludgeoning Damage |
-|--------|-----------|--------------------|
-| 5–10   | 30 feet   | 10 (3d6)           |
-| 11–16  | 60 feet   | 21 (6d6)           |
-| 17–20  | 120 feet  | 42 (12d6)          |
+#### Отравленная игла
 
-#### Poisoned Darts
+*Ловушка-неприятность (уровни 1–4)*
 
-*Deadly Trap (Levels 1–4)*
+**Триггер:** Существо неправильно открывает замок ловушки или не может обезвредить ловушку
 
-**Trigger:** A creature moves onto a pressure plate 
+**Длительность:** Мгновенная
 
-**Duration:** Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
+Отравленная игла спрятана в замке. Когда существо открывает замок любым предметом, кроме правильного ключа, игла выскакивает и колет существо. Существо совершает спасбросок Телосложения со СЛ 11. При неудачном спасброске существо получает 5 (1d10) урона ядом и получает состояние «отравленный» на 1 час. При успешном спасброске существо получает только половину урона.
 
-When a creature moves onto this trap's pressure plate for the first time on a turn, poisoned darts shoot from tubes embedded in the surrounding walls. The holes that house these tubes are obscured by dust and cobwebs or skillfully hidden amid bas-reliefs, murals, or frescoes.
+**_Избежание._** Ловушка не срабатывает, если замок открыт с помощью заклинания *Открывание* или подобной магии.
 
-Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw or be struck by 1d3 darts, taking 3 (1d6) Poison damage per dart.
+**_Обнаружение и обезвреживание._** Действием Поиск существо может осмотреть замок с ловушкой и совершить проверку Мудрости (Восприятие) со СЛ 15, обнаруживая иглу при успешной проверке. После обнаружения ловушки персонаж может использовать действие, чтобы попытаться обезвредить ловушку, делая это при успешной проверке Ловкости (Ловкость рук) со СЛ 15. При неудачной проверке существо активирует ловушку.
 
-**_Detect and Disarm._** As a Search action, a creature can examine the walls and make a DC 15 Wisdom (Perception) check, detecting the holes on a successful check. Plugging all the holes with wax, cloth, or detritus prevents the darts from firing.
+**_На более высоких уровнях._** Вы можете масштабировать ловушку для более высоких уровней, увеличивая урон и СЛ спасброска, как показано в следующей таблице.
 
-As a Search action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Wisdom (Perception) check, detecting the pressure plate on a successful check. Wedging an Iron Spike or a similar object under the pressure plate prevents the trap from triggering.
+| Уровни | Урон ядом    | СЛ спасброска |
+|--------|--------------|---------------|
+| 5–10   | 11 (2d10)    | 13            |
+| 11–16  | 22 (4d10)    | 15            |
+| 17–20  | 55 (10d10)   | 17            |
 
-**_At Higher Levels._** You can scale the trap for higher levels by increasing each dart's Poison damage as follows: 7 (2d6) at levels 5–10, 14 (4d6) at levels 11–16, or 24 (7d6) at levels 17–20.
+#### Катящийся камень
 
-#### Poisoned Needle
+*Смертельная ловушка (уровни 11–16) или ловушка-неприятность (уровни 17–20)*
 
-*Nuisance Trap (Levels 1–4)*
+**Триггер:** Существо наступает на нажимную плиту
 
-**Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap 
+**Длительность:** До остановки камня
 
-**Duration:** Instantaneous
+Когда существо наступает на скрытую нажимную плиту, из тайного отсека высвобождается 5-футовый радиус сферы из цельного камня и начинает катиться. Камень и все существа поблизости бросают инициативу; камень получает бонус +8 к броску инициативы.
 
-A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (1d10) Poison damage and has the Poisoned condition for 1 hour. On a successful save, the creature takes half as much damage only.
+В свой ход камень перемещается на 60 футов в одном направлении, меняя курс, если перенаправляется препятствием. Камень может перемещаться через пространства существ, и существа могут перемещаться через пространство камня, считая его труднопроходимой местностью. Всякий раз, когда камень впервые в ход входит в пространство существа или существо входит в пространство камня, пока камень катится, это существо должно преуспеть в спасброске Ловкости со СЛ 15 или получить 55 (10d10) дробящего урона и получить состояние «лежащий ничком».
 
-**_Avoid._** The trap doesn't trigger if the lock is opened using a *Knock* spell or similar magic.
+Камень останавливается, когда ударяется о стену или подобное препятствие. Он не может обходить углы, но творческие строители подземелий включают изогнутые повороты в близлежащие проходы, позволяющие камню продолжать движение.
 
-**_Detect and Disarm._** As a Search action, a creature can examine the trapped lock and make a DC 15 Wisdom (Perception) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity (Sleight of Hand) check. On a failed check, the creature triggers the trap.
+**_Обнаружение и обезвреживание._** Действием Изучение существо может осмотреть секцию пола, образующую нажимную плиту, и совершить проверку Интеллекта (Расследование) со СЛ 15, определяя функцию нажимной плиты при успешной проверке. Вклинивание железного шипа или подобного объекта под нажимную плиту предотвращает срабатывание ловушки.
 
-**_At Higher Levels._** You can scale the trap for higher levels by increasing the damage and the save DC, as shown in the following table.
+**_Уничтожение камня._** Камень — это большой объект, имеющий КД 17, хиты 100, порог урона 10 и иммунитет к урону ядом и психическому урону.
 
-| Levels | Poison Damage | Save DC |
-|--------|---------------|---------|
-| 5–10   | 11 (2d10)     | 13      |
-| 11–16  | 22 (4d10)     | 15      |
-| 17–20  | 55 (10d10)    | 17      |
+**_Замедление камня._** Действием существо может попытаться замедлить камень проверкой Силы (Атлетика) со СЛ 20. При успешной проверке расстояние, на которое камень перемещается в свой ход, уменьшается на 15 футов. Если это расстояние падает до 0, он перестаёт двигаться и больше не представляет угрозы.
 
-#### Rolling Stone
+#### Яма с шипами
 
-*Deadly Trap (Levels 11–16) or Nuisance Trap (Levels 17–20)*
+*Смертельная ловушка (уровни 1–4)*
 
-**Trigger:** A creature moves onto a pressure plate 
+**Триггер:** Существо наступает на крышку ямы
 
-**Duration:** Until the stone stops rolling
+**Длительность:** Мгновенная
 
-When a creature moves onto a hidden pressure plate, a 5-foot-radius orb of solid stone is released from a secret compartment and begins to roll. The stone and all creatures nearby roll Initiative; the stone gets a +8 bonus on its Initiative roll.
+10-футовая глубокая яма имеет откидную крышку, сделанную из материала, идентичного окружающему полу. Когда существо наступает на крышку, она открывается как люк, вызывая падение существа в яму, на дне которой находятся заострённые деревянные или металлические шипы. Крышка остаётся открытой после этого.
 
-On its turn, the stone moves 60 feet in one direction, changing course if redirected by an obstacle. The stone can move through creatures' spaces, and creatures can move through the stone's space, treating it as Difficult Terrain. Whenever the stone enters a creature's space for the first time on a turn or a creature enters the stone's space while the stone is rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 55 (10d10) Bludgeoning damage and have the Prone condition.
+Существо, падающее в яму, приземляется на дно и получает 3 (1d6) дробящего урона от падения плюс 9 (2d8) колющего урона от шипов.
 
-The stone stops when it hits a wall or similar barrier. It can't go around corners, but creative dungeon builders incorporate curving turns into nearby passages that allow the stone to keep moving.
+**_Обнаружение и обезвреживание._** Действием Изучение существо может осмотреть секцию пола, образующую крышку ямы, и совершить проверку Интеллекта (Расследование) со СЛ 15, обнаруживая яму при успешной проверке. После обнаружения скрытой ямы железный шип или подобный объект можно вклинить между крышкой ямы и окружающим полом, чтобы предотвратить открытие крышки, делая безопасным проход. Крышку также можно удерживать закрытой с помощью заклинания *Волшебный замок* или подобной магии.
 
-**_Detect and Disarm._** As a Study action, a creature can examine the section of floor that forms the pressure plate and make a DC 15 Intelligence (Investigation) check, deducing the pressure plate's function on a successful check. Wedging an Iron Spike or a similar object under the pressure plate prevents the trap from triggering.
+**_Побег._** Существу нужна скорость лазания, снаряжение для лазания или магия, такая как заклинание *Паучья хватка*, чтобы взобраться по гладким стенам ямы. Вы можете облегчить побег из ямы, добавив трещины в стенах, достаточно большие, чтобы служить выступами для рук и ног.
 
-**_Destroy the Stone._** The stone is a Large object that has AC 17, HP 100, a Damage Threshold of 10, and Immunity to Poison and Psychic damage.
+**_На более высоких уровнях._** Вы можете масштабировать ловушку для более высоких уровней, увеличивая глубину ямы и урон, как показано в следующей таблице.
 
-**_Slow the Stone._** As an action, a creature can try to slow down the stone with a DC 20 Strength (Athletics) check. If the check is successful, the distance the stone moves on its turn is reduced by 15 feet. If that distance drops to 0, it stops moving and is no longer a threat.
+| Уровни | Глубина ямы | Урон                                              |
+|--------|-------------|---------------------------------------------------|
+| 5–10   | 30 футов    | 10 (3d6) дробящего плюс 13 (3d8) колющего         |
+| 11–16  | 60 футов    | 21 (6d6) дробящего плюс 36 (8d8) колющего         |
+| 17–20  | 120 футов   | 42 (12d6) дробящего плюс 57 (13d8) колющего       |
 
-#### Spiked Pit
+## Боевые столкновения
 
-*Deadly Trap (Levels 1–4)*
+Следующие особенности могут сделать боевое столкновение более интересным или сложным:
 
-**Trigger:** A creature moves onto the pit's lid 
+**Изменения высоты.** Элементы местности, обеспечивающие изменение высоты (такие как штабели пустых ящиков, выступы и балконы), вознаграждают умное позиционирование и поощряют персонажей прыгать, лазать, летать или телепортироваться.
 
-**Duration:** Instantaneous
+**Оборонительные позиции.** Враги в труднодоступных местах или оборонительных позициях заставляют персонажей, которые обычно атакуют издалека, перемещаться.
 
-A 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit, which has sharpened wooden or metal spikes at the bottom. The lid remains open thereafter.
+**Смешанные группы монстров.** Когда разные типы монстров работают вместе, они могут сочетать свои способности — так же, как персонажи разных классов и происхождения. Разнообразная сила более мощная.
 
-A creature that falls into the pit lands at the bottom and takes 3 (1d6) Bludgeoning damage from the fall plus 9 (2d8) Piercing damage from the spikes.
+**Причины для перемещения.** Используйте элементы, которые побуждают персонажей и их врагов перемещаться, такие как люстры, бочки с порохом или маслом и ловушки с катящимися камнями.
 
-**_Detect and Disarm._** As a Study action, a creature can examine the section of floor that forms the pit's lid and make a DC 15 Intelligence (Investigation) check, detecting the pit on a successful check. Once the hidden pit is detected, an Iron Spike or a similar object can be wedged between the pit's lid and the surrounding floor to prevent the lid from opening, thereby making it safe to cross. The cover can also be held shut using an *Arcane Lock* spell or similar magic.
+### Сложность боевого столкновения
 
-**_Escape._** A creature needs a Climb Speed, climbing gear, or magic such as a *Spider Climb* spell to scale the pit's smooth walls. You can make the pit easier to escape by adding cracks in the walls big enough to serve as handholds and footholds.
+Используйте следующие рекомендации для создания боевого столкновения желаемого уровня сложности.
 
-**_At Higher Levels._** You can scale the trap for higher levels by increasing the pit's depth and damage, as shown in the following table.
+#### Шаг 1: Выберите сложность
 
-| Levels | Pit Depth | Damage                                        |
-|--------|-----------|-----------------------------------------------|
-| 5–10   | 30 feet   | 10 (3d6) Bludgeoning plus 13 (3d8) Piercing   |
-| 11–16  | 60 feet   | 21 (6d6) Bludgeoning plus 36 (8d8) Piercing   |
-| 17–20  | 120 feet  | 42 (12d6) Bludgeoning plus 57 (13d8) Piercing |
+Три категории описывают диапазон сложности столкновения:
 
-## Combat Encounters
+**Низкая сложность.** Столкновение низкой сложности, вероятно, будет иметь один или два пугающих момента для игроков, но их персонажи должны выйти победителями без потерь. Однако одному или нескольким из них может потребоваться использовать ресурсы исцеления. В качестве грубого ориентира один монстр обычно представляет испытание низкой сложности для группы из четырёх персонажей, чей уровень равен показателю опасности монстра.
 
-The following features can make a combat encounter more interesting or challenging:
+**Умеренная сложность.** При отсутствии исцеления и других ресурсов столкновение умеренной сложности может плохо закончиться для искателей приключений. Более слабые персонажи могут выбыть из боя, и есть небольшой шанс, что один или несколько персонажей могут погибнуть.
 
-**Changes in Elevation.** Terrain features that provide a change of elevation (such as stacks of empty crates, ledges, and balconies) reward clever positioning and encourage characters to jump, climb, fly, or teleport.
+**Высокая сложность.** Столкновение высокой сложности может быть смертельным для одного или нескольких персонажей. Чтобы выжить, персонажам понадобятся умная тактика, быстрое мышление и, возможно, немного удачи.
 
-**Defensive Positions.** Enemies in hard-to-reach locations or defensive positions force characters who normally attack at range to move around.
+#### Шаг 2: Определите ваш бюджет ОП
 
-**Mixed Monster Groups.** When different types of monsters work together, they can combine their abilities—just like characters with different classes and origins. A diverse force is more powerful.
+Используя таблицу бюджета ОП на персонажа, сопоставьте уровень группы с желаемой сложностью столкновения. Умножьте число в таблице на количество персонажей в группе, чтобы получить бюджет ОП для столкновения.
 
-**Reasons to Move.** Use features that encourage characters and their enemies to move around, such as chandeliers, kegs of gunpowder or oil, and rolling stone traps.
+Таблица: Бюджет ОП на персонажа: ——— Сложность столкновения ———
 
-### Combat Encounter Difficulty
+| Уровень группы | Низкая СЛ | Умеренная СЛ | Высокая СЛ |
+|----------------|-----------|--------------|------------|
+| 1              | 50        | 75           | 100        |
+| 2              | 100       | 150          | 200        |
+| 3              | 150       | 225          | 400        |
+| 4              | 250       | 375          | 500        |
+| 5              | 500       | 750          | 1 100      |
+| 6              | 600       | 1 000        | 1 400      |
+| 7              | 750       | 1 300        | 1 700      |
+| 8              | 1 000     | 1 700        | 2 100      |
+| 9              | 1 300     | 2 000        | 2 600      |
+| 10             | 1 600     | 2 300        | 3 100      |
+| 11             | 1 900     | 2 900        | 4 100      |
+| 12             | 2 200     | 3 700        | 4 700      |
+| 13             | 2 600     | 4 200        | 5 400      |
+| 14             | 2 900     | 4 900        | 6 200      |
+| 15             | 3 300     | 5 400        | 7 800      |
+| 16             | 3 800     | 6 100        | 9 800      |
+| 17             | 4 500     | 7 200        | 11 700     |
+| 18             | 5 000     | 8 700        | 14 200     |
+| 19             | 5 500     | 10 700       | 17 200     |
+| 20             | 6 400     | 13 200       | 22 000     |
 
-Use the following guidelines to create a combat encounter of a desired level of difficulty.
+#### Шаг 3: Потратьте ваш бюджет
 
-#### Step 1: Choose a Difficulty
+Каждое существо имеет значение ОП в своём блоке характеристик. Когда вы добавляете существо в боевое столкновение, вычтите его ОП из вашего бюджета ОП, чтобы определить, сколько ОП осталось потратить. Потратьте как можно больше вашего бюджета ОП, не превышая его. Это нормально, если у вас останется немного неизрасходованных ОП. Примеры приведены ниже:
 
-Three categories describe the range of encounter difficulty:
+**Пример 1.** Столкновение низкой сложности для четырёх персонажей 1-го уровня имеет бюджет ОП 50 × 4, в сумме 200 ОП. С этим вы можете составить любое из следующих столкновений:
+- 1 **Воин-медвежатник** (200 ОП)
+- 2 **Гигантские осы** (100 ОП каждая), в сумме 200 ОП
+- 6 **Гигантских крыс** (25 ОП каждая), в сумме 150 ОП
 
-**Low Difficulty.** An encounter of low difficulty is likely to have one or two scary moments for the players, but their characters should emerge victorious with no casualties. One or more of them might need to use healing resources, however. As a rough guideline, a single monster generally presents a low-difficulty challenge for a party of four characters whose level equals the monster's Challenge Rating.
+**Пример 2.** Столкновение умеренной сложности для пяти персонажей 3-го уровня имеет бюджет ОП 225 × 5, в сумме 1 125 ОП. С этим вы можете составить любое из этих столкновений:
+- 2 **Друида** (450 ОП каждый) и 9 **Стирг** (25 ОП каждая), в сумме 1 125 ОП
+- 1 **Умертвие** (700 ОП), 1 **Скелет боевого коня** (100 ОП) и 6 **Скелетов** (50 ОП каждый), в сумме 1 100 ОП
 
-**Moderate Difficulty.** Absent healing and other resources, an encounter of moderate difficulty could go badly for the adventurers. Weaker characters might get taken out of the fight, and there's a slim chance that one or more characters might die.
+**Пример 3.** Столкновение высокой сложности для шести персонажей 15-го уровня имеет бюджет ОП 7 800 × 6, в сумме 46 800 ОП. С этим вы можете составить это столкновение:
 
-**High Difficulty.** A high-difficulty encounter could be lethal for one or more characters. To survive it, the characters will need smart tactics, quick thinking, and maybe even a little luck.
+- 2 **Взрослых красных дракона** (18 000 ОП каждый) и 2 **Огненных великана** (5 000 ОП каждый), в сумме 46 000 ОП
 
-#### Step 2: Determine Your XP Budget
+### Устранение проблем
 
-Using the XP Budget per Character table, cross-reference the party's level with the desired encounter difficulty. Multiply the number in the table by the number of characters in the party to get your XP budget for the encounter.
+При создании и проведении боевых столкновений помните следующее.
 
-Table: XP Budget per Character: ——— Encounter Difficulty ——— 
+#### Много существ
 
-| Party's Level | Low DC | Moderate DC | High DC |
-|---------------|--------|-------------|---------|
-| 1             | 50     | 75          | 100     |
-| 2             | 100    | 150         | 200     |
-| 3             | 150    | 225         | 400     |
-| 4             | 250    | 375         | 500     |
-| 5             | 500    | 750         | 1,100   |
-| 6             | 600    | 1,000       | 1,400   |
-| 7             | 750    | 1,300       | 1,700   |
-| 8             | 1,000  | 1,700       | 2,100   |
-| 9             | 1,300  | 2,000       | 2,600   |
-| 10            | 1,600  | 2,300       | 3,100   |
-| 11            | 1,900  | 2,900       | 4,100   |
-| 12            | 2,200  | 3,700       | 4,700   |
-| 13            | 2,600  | 4,200       | 5,400   |
-| 14            | 2,900  | 4,900       | 6,200   |
-| 15            | 3,300  | 5,400       | 7,800   |
-| 16            | 3,800  | 6,100       | 9,800   |
-| 17            | 4,500  | 7,200       | 11,700  |
-| 18            | 5,000  | 8,700       | 14,200  |
-| 19            | 5,500  | 10,700      | 17,200  |
-| 20            | 6,400  | 13,200      | 22,000  |
+Чем больше существ в столкновении, тем выше риск, что полоса удачи с их стороны может нанести персонажам больше урона, чем вы ожидаете. Если ваше столкновение включает более двух существ на персонажа, включите хрупких существ, которых можно быстро победить. Это руководство особенно важно для персонажей 1-го или 2-го уровня.
 
-#### Step 3: Spend Your Budget
+#### Корректировки
 
-Every creature has an XP value in its stat block. When you add a creature to your combat encounter, deduct its XP from your XP budget to determine how many XP you have left to spend. Spend as much of your XP budget as you can without going over. It's OK if you have a few unspent XP left over. Examples are given below:
+Отсутствие игрока может потребовать удаления существ из столкновения, чтобы сохранить запланированную сложность. Также броски кубиков и другие факторы могут привести к тому, что столкновение окажется легче или сложнее, чем предполагалось. Вы можете корректировать столкновение на ходу, например, заставив существ бежать (делая столкновение легче) или добавив подкрепления (делая столкновение сложнее).
 
-**Example 1.** A low-difficulty encounter for four level 1 characters has an XP budget of 50 × 4, for a total of 200 XP. With that, you could build any of the following encounters:
-- 1 **Bugbear Warrior** (200 XP)
-- 2 **Giant Wasps** (100 XP each), for 200 XP total
-- 6 **Giant Rats** (25 XP each), for 150 XP total
+#### Существа с ПО 0
 
-**Example 2.** A moderate-difficulty encounter for five level 3 characters has an XP budget of 225 × 5, for a total of 1,125 XP. With that, you could build either of these encounters:
-- 2 **Druids** (450 XP each) and 9 **Stirges** (25 XP each), for 1,125 XP total
-- 1 **Wight** (700 XP), 1 **Warhorse Skeleton** (100 XP), and 6 **Skeletons** (50 XP each), for 1,100 XP total
+Существа с ПО 0, особенно те, которые стоят 0 ОП, следует использовать экономно. Если вы хотите включить много мелких существ с ПО 0 в столкновение, используйте вместо них рои.
 
-**Example 3.** A high-difficulty encounter for six level 15 characters has an XP budget of 7,800 × 6, for a total of 46,800 XP. With that, you could build this encounter:
+#### Количество блоков характеристик
 
-- 2 **Adult Red Dragons** (18,000 XP each) and 2 **Fire Giants** (5,000 XP each), for 46,000 XP total
+Лучшие боевые столкновения часто сочетают один вид существ с другим, например огненных великанов с адскими гончими. Будьте внимательны к количеству блоков характеристик, которые вам нужно использовать в столкновении. Обращение к более чем двум или трём блокам характеристик для одного столкновения может быть затруднительным, особенно если существа сложные.
 
-### Troubleshooting
+#### Мощные существа
 
-When creating and running combat encounters, keep the following in mind.
+Если ваше боевое столкновение включает существо, чей ПО выше уровня группы, имейте в виду, что такое существо может нанести достаточно урона одним действием, чтобы вывести из строя одного или нескольких персонажей. Например, **Огр** (ПО 2) может убить волшебника 1-го уровня одним ударом.
 
-#### Many Creatures
+#### Необычные особенности
 
-The more creatures in an encounter, the higher the risk that a lucky streak on their part could deal more damage to the characters than you expect. If your encounter includes more than two creatures per character, include fragile creatures that can be defeated quickly. This guideline is especially important for characters of level 1 or 2.
-
-#### Adjustments
-
-A player's absence might warrant removing creatures from an encounter to keep it at the intended difficulty. Also, die rolls and other factors can result in an encounter being easier or harder than intended. You can adjust an encounter on the fly, such as by having creatures flee (making the encounter easier) or adding reinforcements (making the encounter harder).
-
-#### CR 0 Creatures
-
-Creatures that have a CR of 0, particularly ones that are worth 0 XP, should be used sparingly. If you want to include many CR 0 critters in an encounter, use swarms instead.
-
-#### Number of Stat Blocks
-
-The best combat encounters often pair one kind of creature with another, such as fire giants paired with hell hounds. Be mindful of the number of stat blocks you need to run the encounter. Referencing more than two or three stat blocks for a single encounter can be daunting, particularly if the creatures are complex.
-
-#### Powerful Creatures
-
-If your combat encounter includes a creature whose CR is higher than the party's level, be aware that such a creature might deal enough damage with a single action to take out one or more characters. For example, an **Ogre** (CR 2) can kill a level 1 Wizard with a single blow.
-
-#### Unusual Features
-
-If a monster has a feature that lower-level characters can't easily overcome, consider not adding that monster to an encounter for characters whose level is lower than the monster's Challenge Rating.
+Если у монстра есть особенность, которую персонажи низкого уровня не могут легко преодолеть, подумайте о том, чтобы не добавлять этого монстра в столкновение для персонажей, чей уровень ниже показателя опасности монстра.

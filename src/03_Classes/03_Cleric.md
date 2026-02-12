@@ -1,340 +1,339 @@
-## Cleric
+## Жрец
 
-Table: Core Cleric Traits
+Таблица: Основные черты жреца
 
-|                               |                                                                                                    |
-|-------------------------------|----------------------------------------------------------------------------------------------------|
-| Primary Ability               | Wisdom                                                                                             |
-| Hit Point Die                 | D8 per Cleric level                                                                                |
-| Saving Throw Proficiencies    | Wisdom and Charisma                                                                                |
-| Skill Proficiencies           | Choose 2: History, Insight, Medicine, Persuasion, or Religion                                      |
-| Weapon Proficiencies          | Simple weapons                                                                                     |
-| Armor Training                | Light and Medium armor and Shields                                                                 |
-| Starting Equipment            | Choose A or B: (A) Chain Shirt, Shield, Mace, Holy Symbol, Priest's Pack, and 7 GP; or (B) 110 GP  |
+|                            |                                                                                                                           |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Основная характеристика    | Мудрость                                                                                                                  |
+| Кость Хитов                | d8 за каждый уровень жреца                                                                                                |
+| Владение спасбросками      | Мудрость и Харизма                                                                                                        |
+| Владение навыками          | Выберите 2: История, Проницательность, Медицина, Убеждение или Религия                                                   |
+| Владение оружием           | Простое оружие                                                                                                            |
+| Владение доспехами         | Лёгкие и средние доспехи, щиты                                                                                            |
+| Начальное снаряжение       | Выберите А или Б: (А) Кольчужная рубаха, щит, булава, священный символ, набор священника и 7 зм; или (Б) 110 зм           |
 
-### Becoming a Cleric …
+### Как стать жрецом…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Cleric Traits table.
-- Gain the Cleric's level 1 features, which are listed in the Cleric Features table.
+- Получите все черты из таблицы Основные черты жреца.
+- Получите умения жреца 1-го уровня, перечисленные в таблице Умения жреца.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
-- Gain the Cleric's level 1 features, which are listed in the Cleric Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
+- Получите следующие черты из таблицы Основные черты жреца: Кость Хитов и владение лёгкими и средними доспехами, а также щитами.
+- Получите умения жреца 1-го уровня, перечисленные в таблице Умения жреца. Смотрите правила мультиклассирования в разделе «Создание персонажа», чтобы определить доступные ячейки заклинаний.
 
-#### **Cleric Features**
+#### **Умения жреца**
 
-As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
+Как жрец, вы получаете следующие классовые умения, когда достигаете указанных уровней жреца. Эти умения перечислены в таблице Умения жреца.
 
-Table: Cleric Class Features: ——Spell Slots per Spell Level—— 
+Таблица: Умения жреца: ——Ячейки заклинаний по уровням——
 
-| Level | Proficiency Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|-----------------------------|------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
-| 1     | +2                | Spellcasting, Divine Order  | —                | 3        | 4               | 2 | — | — | — | — | — | — | — | — |
-| 2     | +2                | Channel Divinity            | 2                | 3        | 5               | 3 | — | — | — | — | — | — | — | — |
-| 3     | +2                | Cleric Subclass             | 2                | 3        | 6               | 4 | 2 | — | — | — | — | — | — | — |
-| 4     | +2                | Ability Score Improvement   | 2                | 4        | 7               | 4 | 3 | — | — | — | — | — | — | — |
-| 5     | +3                | Sear Undead                 | 2                | 4        | 9               | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6     | +3                | Subclass feature            | 3                | 4        | 10              | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7     | +3                | Blessed Strikes             | 3                | 4        | 11              | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8     | +3                | Ability Score Improvement   | 3                | 4        | 12              | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9     | +4                | —                           | 3                | 4        | 14              | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10    | +4                | Divine Intervention         | 3                | 5        | 15              | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11    | +4                | —                           | 3                | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12    | +4                | Ability Score Improvement   | 3                | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13    | +5                | —                           | 3                | 5        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14    | +5                | Improved Blessed Strikes    | 3                | 5        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15    | +5                | —                           | 3                | 5        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16    | +5                | Ability Score Improvement   | 3                | 5        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17    | +6                | Subclass feature            | 3                | 5        | 19              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18    | +6                | —                           | 4                | 5        | 20              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | +6                | Epic Boon                   | 4                | 5        | 21              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20    | +6                | Greater Divine Intervention | 4                | 5        | 22              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Уровень | Бонус мастерства | Классовые умения                           | Божественный канал | Заговоры | Подготовленные заклинания | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---------|------------------|--------------------------------------------|--------------------|----------|---------------------------|---|---|---|---|---|---|---|---|---|
+| 1       | +2               | Использование заклинаний, Божественный орден | —                | 3        | 4                         | 2 | — | — | — | — | — | — | — | — |
+| 2       | +2               | Божественный канал                         | 2                  | 3        | 5                         | 3 | — | — | — | — | — | — | — | — |
+| 3       | +2               | Подкласс жреца                             | 2                  | 3        | 6                         | 4 | 2 | — | — | — | — | — | — | — |
+| 4       | +2               | Увеличение характеристик                   | 2                  | 4        | 7                         | 4 | 3 | — | — | — | — | — | — | — |
+| 5       | +3               | Испепеление нежити                         | 2                  | 4        | 9                         | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6       | +3               | Умение подкласса                           | 3                  | 4        | 10                        | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7       | +3               | Благословенные удары                       | 3                  | 4        | 11                        | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8       | +3               | Увеличение характеристик                   | 3                  | 4        | 12                        | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9       | +4               | —                                          | 3                  | 4        | 14                        | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10      | +4               | Божественное вмешательство                 | 3                  | 5        | 15                        | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11      | +4               | —                                          | 3                  | 5        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12      | +4               | Увеличение характеристик                   | 3                  | 5        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13      | +5               | —                                          | 3                  | 5        | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14      | +5               | Улучшенные благословенные удары            | 3                  | 5        | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15      | +5               | —                                          | 3                  | 5        | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16      | +5               | Увеличение характеристик                   | 3                  | 5        | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17      | +6               | Умение подкласса                           | 3                  | 5        | 19                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18      | +6               | —                                          | 4                  | 5        | 20                        | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19      | +6               | Эпический дар                              | 4                  | 5        | 21                        | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20      | +6               | Великое божественное вмешательство         | 4                  | 5        | 22                        | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-#### Level 1: Spellcasting
+#### Уровень 1: Использование заклинаний
 
-You have learned to cast spells through prayer and meditation. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the Cleric spell list later in the class's description.
+Вы научились творить заклинания через молитву и медитацию. Смотрите раздел «Заклинания» для правил использования заклинаний. Информация ниже описывает, как вы используете эти правила с заклинаниями жреца, которые приведены в списке заклинаний жреца далее в описании класса.
 
-**Cantrips.** You know three cantrips of your choice from the Cleric spell list. *Guidance*, *Sacred Flame*, and *Thaumaturgy* are recommended.
+**Заговоры.** Вы знаете три заговора на свой выбор из списка заклинаний жреца. Рекомендуются *Указание*, *Священное пламя* и *Чудотворство*.
 
-Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
+Каждый раз, когда вы получаете уровень жреца, вы можете заменить один из своих заговоров другим заговором на свой выбор из списка заклинаний жреца.
 
-When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the Cleric spell list, as shown in the Cantrips column of the Cleric Features table.
+Когда вы достигаете 4-го и 10-го уровня жреца, вы узнаёте ещё один заговор на свой выбор из списка заклинаний жреца, как показано в столбце Заговоры таблицы Умения жреца.
 
-**Spell Slots.** The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Ячейки заклинаний.** Таблица Умения жреца показывает, сколько у вас есть ячеек заклинаний для сотворения заклинаний 1-го уровня и выше. Вы восстанавливаете все потраченные ячейки, когда заканчиваете продолжительный отдых.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. *Bless*, *Cure Wounds*, *Guiding Bolt*, and *Shield of Faith* are recommended.
+**Подготовленные заклинания 1-го уровня и выше.** Вы подготавливаете список заклинаний 1-го уровня и выше, которые доступны вам для сотворения с помощью этого умения. Для начала выберите четыре заклинания 1-го уровня из списка заклинаний жреца. Рекомендуются *Благословение*, *Лечение ран*, *Направленный снаряд* и *Щит веры*.
 
-The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+Количество заклинаний в вашем списке увеличивается по мере получения уровней жреца, как показано в столбце Подготовленные заклинания таблицы Умения жреца. Каждый раз, когда это число увеличивается, выбирайте дополнительные заклинания из списка заклинаний жреца, пока количество заклинаний в вашем списке не сравняется с числом в таблице. Выбранные заклинания должны быть того уровня, для которого у вас есть ячейки заклинаний. Например, если вы жрец 3-го уровня, ваш список подготовленных заклинаний может включать шесть заклинаний 1-го и 2-го уровней в любой комбинации.
 
-If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
+Если другое умение жреца даёт вам заклинания, которые вы всегда держите подготовленными, эти заклинания не учитываются в количестве заклинаний, которые вы можете подготовить с помощью этого умения, но в остальном считаются заклинаниями жреца для вас.
 
-**Changing Your Prepared Spells.** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots.
+**Изменение подготовленных заклинаний.** Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете изменить свой список подготовленных заклинаний, заменив любые заклинания в нём другими заклинаниями жреца, для которых у вас есть ячейки заклинаний.
 
-**Spellcasting Ability.** Wisdom is your spellcasting ability for your Cleric spells.
+**Базовая характеристика заклинаний.** Мудрость является вашей базовой характеристикой для заклинаний жреца.
 
-**Spellcasting Focus.** You can use a Holy Symbol as a Spellcasting Focus for your Cleric spells.
+**Фокусировка заклинаний.** Вы можете использовать священный символ в качестве фокусировки для заклинаний жреца.
 
-#### Level 1: Divine Order
+#### Уровень 1: Божественный орден
 
-You have dedicated yourself to one of the following sacred roles of your choice.
+Вы посвятили себя одной из следующих священных ролей на свой выбор.
 
-**Protector.** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
+**Защитник.** Обученный для битвы, вы получаете владение воинским оружием и тяжёлыми доспехами.
 
-**Thaumaturge.** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Arcana or Religion) checks. The bonus equals your Wisdom modifier (minimum of +1).
+**Чудотворец.** Вы знаете один дополнительный заговор из списка заклинаний жреца. Кроме того, ваша мистическая связь с божественным даёт вам бонус к проверкам Интеллекта (Магия или Религия). Бонус равен вашему модификатору Мудрости (минимум +1).
 
-#### Level 2: Channel Divinity
+#### Уровень 2: Божественный канал
 
-You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
+Вы можете направлять божественную энергию непосредственно из Внешних Планов для создания магических эффектов. Изначально у вас есть два таких эффекта: Божественная искра и Изгнание нежити, каждый из которых описан ниже. Каждый раз, когда вы используете Божественный канал этого класса, выбирайте, какой эффект Божественного канала этого класса создать. На более высоких уровнях жреца вы получаете дополнительные варианты эффектов.
 
-You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.
+Вы можете использовать Божественный канал этого класса дважды. Вы восстанавливаете одно потраченное использование, когда заканчиваете короткий отдых, и восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых. Вы получаете дополнительные использования, когда достигаете определённых уровней жреца, как показано в столбце Божественный канал таблицы Умения жреца.
 
-If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
+Если эффект Божественного канала требует спасброска, СЛ равна СЛ спасброска заклинаний из умения Использование заклинаний этого класса.
 
-**Divine Spark.** As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+**Божественная искра.** Как Магическое действие, вы направляете священный символ на другое существо, которое видите в пределах 30 футов от себя, и фокусируете на нём божественную энергию. Бросьте 1d8 и добавьте свой модификатор Мудрости. Вы либо восстанавливаете существу количество хитов, равное этой сумме, либо заставляете его совершить спасбросок Телосложения. При провале существо получает некротический урон или урон излучением (на ваш выбор), равный этой сумме. При успехе существо получает половину этого урона (с округлением вниз).
 
-You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
+Вы бросаете дополнительный d8, когда достигаете 7-го (2d8), 13-го (3d8) и 18-го (4d8) уровня жреца.
 
-**Turn Undead.** As a Magic action, you present your Holy Symbol and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the Frightened and Incapacitated conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the Incapacitated condition, or if you die.
+**Изгнание нежити.** Как Магическое действие, вы представляете свой священный символ и порицаете нежить. Каждая нежить на ваш выбор в пределах 30 футов от вас должна совершить спасбросок Мудрости. Если существо проваливает спасбросок, оно получает состояния Испуганный и Недееспособный на 1 минуту. В течение этого времени оно пытается переместиться как можно дальше от вас в свой ход. Этот эффект заканчивается досрочно для существа, если оно получает какой-либо урон, если вы получаете состояние Недееспособный или если вы умираете.
 
-#### Level 3: Cleric Subclass
+#### Уровень 3: Подкласс жреца
 
-You gain a Cleric subclass of your choice. The Life Domain subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower.
+Вы получаете подкласс жреца на свой выбор. Подкласс Домен жизни описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях жреца. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню жреца или ниже.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях жреца.
 
-#### Level 5: Sear Undead
+#### Уровень 5: Испепеление нежити
 
-Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the turn effect.
+Каждый раз, когда вы используете Изгнание нежити, вы можете бросить количество d8, равное вашему модификатору Мудрости (минимум 1d8), и сложить результаты. Каждая нежить, провалившая спасбросок против этого использования Изгнания нежити, получает урон излучением, равный сумме броска. Этот урон не прекращает эффект изгнания.
 
-#### Level 7: Blessed Strikes
+#### Уровень 7: Благословенные удары
 
-Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).
+Божественная сила наполняет вас в бою. Вы получаете одну из следующих опций на свой выбор (если вы получили какую-либо из этих опций от подкласса жреца из более старой книги, используйте только ту опцию, которую выбрали для этого умения).
 
-**Divine Strike.** Once on each of your turns when you hit a creature with an attack roll using a weapon, you can cause the target to take an extra 1d8 Necrotic or Radiant damage (your choice).
+**Божественный удар.** Один раз в каждый свой ход, когда вы попадаете по существу броском атаки с использованием оружия, вы можете заставить цель получить дополнительно 1d8 некротического урона или урона излучением (на ваш выбор).
 
-**Potent Spellcasting.** Add your Wisdom modifier to the damage you deal with any Cleric cantrip.
+**Мощное колдовство.** Добавляйте свой модификатор Мудрости к урону, который вы наносите любым заговором жреца.
 
-#### Level 10: Divine Intervention
-
-You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Cleric spell of level 5 or lower that doesn't require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a Long Rest.
+#### Уровень 10: Божественное вмешательство
 
-#### Level 14: Improved Blessed Strikes
+Вы можете призвать своё божество или пантеон вмешаться от вашего имени. Как Магическое действие, выберите любое заклинание жреца 5-го уровня или ниже, которое не требует Реакции для сотворения. В рамках того же действия вы творите это заклинание без траты ячейки заклинания и без необходимости в материальных компонентах. Вы не можете использовать это умение снова, пока не закончите продолжительный отдых.
 
-The option you chose for Blessed Strikes grows more powerful.
+#### Уровень 14: Улучшенные благословенные удары
 
-**Divine Strike.** The extra damage of your Divine Strike increases to 2d8.
-
-**Potent Spellcasting.** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.
-
-#### Level 19: Epic Boon
-
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Fate is recommended.
-
-#### Level 20: Greater Divine Intervention
-
-You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose *Wish* when you select a spell. If you do so, you can't use Divine Intervention again until you finish 2d4 Long Rests.
-
-### Cleric Spell List
-
-This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
-
-Table: Cantrips (Level 0 Cleric Spells)
-
-| Spell           | School        | Special |
-|-----------------|---------------|---------|
-| Guidance        | Divination    | C       |
-| Light           | Evocation     | —       |
-| Mending         | Transmutation | —       |
-| Resistance      | Abjuration    | C       |
-| Sacred Flame    | Evocation     | —       |
-| Spare the Dying | Necromancy    | —       |
-| Thaumaturgy     | Transmutation | —       |
-
-Table: Level 1 Cleric Spells
-
-| Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
-| Bane                          | Enchantment   | C       |
-| Bless                         | Enchantment   | C, M    |
-| Command                       | Enchantment   | —       |
-| Create or Destroy Water       | Transmutation | —       |
-| Cure Wounds                   | Abjuration    | —       |
-| Detect Evil and Good          | Divination    | C       |
-| Detect Magic                  | Divination    | C, R    |
-| Detect Poison and Disease     | Divination    | C, R    |
-| Guiding Bolt                  | Evocation     | —       |
-| Healing Word                  | Abjuration    | —       |
-| Inflict Wounds                | Necromancy    | —       |
-| Protection from Evil and Good | Abjuration    | C, M    |
-| Purify Food and Drink         | Transmutation | R       |
-| Sanctuary                     | Abjuration    | —       |
-| Shield of Faith               | Abjuration    | C       |
-
-Table: Level 2 Cleric Spells
-
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Aid                    | Abjuration    | —       |
-| Augury                 | Divination    | R, M    |
-| Blindness/Deafness     | Transmutation | —       |
-| Calm Emotions          | Enchantment   | C       |
-| Continual Flame        | Evocation     | M       |
-| Enhance Ability        | Transmutation | C       |
-| Find Traps             | Divination    | —       |
-| Gentle Repose          | Necromancy    | R, M    |
-| Hold Person            | Enchantment   | C       |
-| Lesser Restoration     | Abjuration    | —       |
-| Locate Object          | Divination    | C       |
-| Prayer of Healing      | Abjuration    | —       |
-| Protection from Poison | Abjuration    | —       |
-| Silence                | Illusion      | C, R    |
-| Spiritual Weapon       | Evocation     | C       |
-| Warding Bond           | Abjuration    | M       |
-| Zone of Truth          | Enchantment   | —       |
-
-Table: Level 3 Cleric Spells
-
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Animate Dead           | Necromancy    | —       |
-| Beacon of Hope         | Abjuration    | C       |
-| Bestow Curse           | Necromancy    | C       |
-| Clairvoyance           | Divination    | C, M    |
-| Create Food and Water  | Conjuration   | —       |
-| Daylight               | Evocation     | —       |
-| Dispel Magic           | Abjuration    | —       |
-| Glyph of Warding       | Abjuration    | M       |
-| Magic Circle           | Abjuration    | M       |
-| Mass Healing Word      | Abjuration    | —       |
-| Meld into Stone        | Transmutation | R       |
-| Protection from Energy | Abjuration    | C       |
-| Remove Curse           | Abjuration    | —       |
-| Revivify               | Necromancy    | M       |
-| Sending                | Divination    | —       |
-| Speak with Dead        | Necromancy    | —       |
-| Spirit Guardians       | Conjuration   | C       |
-| Tongues                | Divination    | —       |
-| Water Walk             | Transmutation | R       |
-
-#### Level 4 Cleric Spells
-
-| Spell               | School        | Special |
-|---------------------|---------------|---------|
-| Aura of Life        | Abjuration    | C       |
-| Banishment          | Abjuration    | C       |
-| Control Water       | Transmutation | C       |
-| Death Ward          | Abjuration    | —       |
-| Divination          | Divination    | R, M    |
-| Freedom of Movement | Abjuration    | —       |
-| Guardian of Faith   | Conjuration   | —       |
-| Locate Creature     | Divination    | C       |
-| Stone Shape         | Transmutation | —       |
-
-#### Level 5 Cleric Spells
-
-| Spell                | School      | Special |
-|----------------------|-------------|---------|
-| Commune              | Divination  | R       |
-| Contagion            | Necromancy  | —       |
-| Dispel Evil and Good | Abjuration  | C       |
-| Flame Strike         | Evocation   | —       |
-| Geas                 | Enchantment | —       |
-| Greater Restoration  | Abjuration  | M       |
-| Hallow               | Abjuration  | M       |
-| Insect Plague        | Conjuration | C       |
-| Legend Lore          | Divination  | M       |
-| Mass Cure Wounds     | Abjuration  | —       |
-| Planar Binding       | Abjuration  | M       |
-| Raise Dead           | Necromancy  | M       |
-| Scrying              | Divination  | C, M    |
-
-#### Level 6 Cleric Spells
-
-| Spell          | School      | Special |
-|----------------|-------------|---------|
-| Blade Barrier  | Evocation   | C       |
-| Create Undead  | Necromancy  | M       |
-| Find the Path  | Divination  | C, M    |
-| Forbiddance    | Abjuration  | R, M    |
-| Harm           | Necromancy  | —       |
-| Heal           | Abjuration  | —       |
-| Heroes' Feast  | Conjuration | M       |
-| Planar Ally    | Conjuration | —       |
-| Sunbeam        | Evocation   | C       |
-| True Seeing    | Divination  | M       |
-| Word of Recall | Conjuration | —       |
-
-#### Level 7 Cleric Spells
-
-| Spell             | School        | Special |
-|-------------------|---------------|---------|
-| Conjure Celestial | Conjuration   | C       |
-| Divine Word       | Evocation     | —       |
-| Etherealness      | Conjuration   | —       |
-| Fire Storm        | Evocation     | —       |
-| Plane Shift       | Conjuration   | M       |
-| Regenerate        | Transmutation | —       |
-| Resurrection      | Necromancy    | M       |
-| Symbol            | Abjuration    | M       |
-
-#### Level 8 Cleric Spells
-
-| Spell           | School        | Special |
-|-----------------|---------------|---------|
-| Antimagic Field | Abjuration    | C       |
-| Control Weather | Transmutation | C       |
-| Earthquake      | Transmutation | C       |
-| Holy Aura       | Abjuration    | C, M    |
-| Sunburst        | Evocation     | —       |
-
-#### Level 9 Cleric Spells
-
-| Spell             | School      | Special |
-|-------------------|-------------|---------|
-| Astral Projection | Necromancy  | M       |
-| Gate              | Conjuration | C, M    |
-| Mass Heal         | Abjuration  | —       |
-| Power Word Heal   | Enchantment | —       |
-| True Resurrection | Necromancy  | M       |
-
-### Cleric Subclass: Life Domain
-
-*Soothe the Hurts of the World*
-
-The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.
-
-Existence itself relies on the positive energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.
-
-#### Level 3: Disciple of Life
-
-When a spell you cast with a spell slot restores Hit Points to a creature, that creature regains additional Hit Points on the turn you cast the spell. The additional Hit Points equal 2 plus the spell slot's level.
-
-#### Level 3: Life Domain Spells
-
-Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
-
-Table: Life Domain Spells
-
-| Cleric Level    | Prepared Spells                                |
-|-----------------|------------------------------------------------|
-| 3               | Aid, Bless, Cure Wounds, Lesser Restoration    |
-| 5               | Mass Healing Word, Revivify                    |
-| 7               | Aura of Life, Death Ward                       |
-| 9               | Greater Restoration, Mass Cure Wounds          |
-
-#### Level 3: Preserve Life
-
-As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
-
-#### Level 6: Blessed Healer
-
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores Hit Points to one or more creatures other than yourself, you regain Hit Points equal to 2 plus the spell slot's level.
-
-#### Level 17: Supreme Healing
-
-When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
+Опция, которую вы выбрали для Благословенных ударов, становится мощнее.
+
+**Божественный удар.** Дополнительный урон вашего Божественного удара увеличивается до 2d8.
+
+**Мощное колдовство.** Когда вы творите заговор жреца и наносите им урон существу, вы можете дать жизненную силу себе или другому существу в пределах 60 футов от себя, даруя количество временных хитов, равное удвоенному модификатору вашей Мудрости.
+
+#### Уровень 19: Эпический дар
+
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар судьбы.
+
+#### Уровень 20: Великое божественное вмешательство
+
+Вы можете призвать ещё более могущественное божественное вмешательство. Когда вы используете умение Божественное вмешательство, вы можете выбрать *Исполнение желаний* при выборе заклинания. Если вы это делаете, вы не можете использовать Божественное вмешательство снова, пока не закончите 2d4 продолжительных отдыхов.
+
+### Список заклинаний жреца
+
+В этом разделе представлен список заклинаний жреца. Заклинания организованы по уровню заклинания, а затем в алфавитном порядке, и для каждого заклинания указана школа магии. В столбце Особое: *К* означает, что заклинание требует концентрации, *Р* — что это ритуал, *М* — что требуется особый материальный компонент.
+
+Таблица: Заговоры (заклинания жреца 0-го уровня)
+
+| Заклинание          | Школа         | Особое |
+|---------------------|---------------|--------|
+| Указание            | Прорицание    | К      |
+| Свет                | Воплощение    | —      |
+| Починка             | Преобразование | —     |
+| Сопротивление       | Ограждение    | К      |
+| Священное пламя     | Воплощение    | —      |
+| Уход за умирающим   | Некромантия   | —      |
+| Чудотворство        | Преобразование | —     |
+
+Таблица: Заклинания жреца 1-го уровня
+
+| Заклинание                        | Школа         | Особое |
+|-----------------------------------|---------------|--------|
+| Благословение                     | Очарование    | К, М   |
+| Власть над водой                  | Преобразование | —     |
+| Исцеляющее слово                  | Ограждение    | —      |
+| Лечение ран                       | Ограждение    | —      |
+| Направленный снаряд               | Воплощение    | —      |
+| Нанесение ран                     | Некромантия   | —      |
+| Обнаружение магии                 | Прорицание    | К, Р   |
+| Обнаружение яда и болезни         | Прорицание    | К, Р   |
+| Очищение пищи и воды              | Преобразование | Р     |
+| Порча                             | Очарование    | К      |
+| Приказ                            | Очарование    | —      |
+| Убежище                           | Ограждение    | —      |
+| Щит веры                          | Ограждение    | К      |
+| Обнаружение добра и зла           | Прорицание    | К      |
+| Защита от добра и зла             | Ограждение    | К, М   |
+
+Таблица: Заклинания жреца 2-го уровня
+
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Безмолвие               | Иллюзия       | К, Р   |
+| Духовное оружие         | Воплощение    | К      |
+| Защита от яда           | Ограждение    | —      |
+| Малое восстановление    | Ограждение    | —      |
+| Молитва лечения         | Ограждение    | —      |
+| Найти ловушки           | Прорицание    | —      |
+| Негасимое пламя         | Воплощение    | М      |
+| Обездвиживание личности | Очарование    | К      |
+| Обнаружение предмета    | Прорицание    | К      |
+| Охранные узы            | Ограждение    | М      |
+| Подмога                 | Ограждение    | —      |
+| Предсказание            | Прорицание    | Р, М   |
+| Слепота/глухота         | Преобразование | —     |
+| Спокойствие эмоций      | Очарование    | К      |
+| Улучшение характеристики | Преобразование | К    |
+| Область истины          | Очарование    | —      |
+
+Таблица: Заклинания жреца 3-го уровня
+
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Воскрешение             | Некромантия   | М      |
+| Дневной свет            | Воплощение    | —      |
+| Духи-хранители          | Вызов         | К      |
+| Массовое исцеляющее слово | Ограждение  | —      |
+| Насылание проклятия     | Некромантия   | К      |
+| Оживление мёртвых       | Некромантия   | —      |
+| Охранный символ         | Ограждение    | М      |
+| Разговор с мёртвыми     | Некромантия   | —      |
+| Рассеивание магии       | Ограждение    | —      |
+| Связь                   | Прорицание    | —      |
+| Слияние с камнем        | Преобразование | Р     |
+| Снятие проклятия        | Ограждение    | —      |
+| Сотворение пищи и воды  | Вызов         | —      |
+| Хождение по воде        | Преобразование | Р     |
+| Ясновидение             | Прорицание    | К, М   |
+| Защита от энергии       | Ограждение    | К      |
+| Круг защиты             | Ограждение    | М      |
+| Свет надежды            | Ограждение    | К      |
+| Языки                   | Прорицание    | —      |
+
+#### Заклинания жреца 4-го уровня
+
+| Заклинание            | Школа         | Особое |
+|-----------------------|---------------|--------|
+| Аура жизни            | Ограждение    | К      |
+| Власть над водой      | Преобразование | К     |
+| Изгнание              | Ограждение    | К      |
+| Обнаружение существа  | Прорицание    | К      |
+| Предсказание          | Прорицание    | Р, М   |
+| Превращение камня     | Преобразование | —     |
+| Смертельная защита    | Ограждение    | —      |
+| Свобода перемещения   | Ограждение    | —      |
+| Страж веры            | Вызов         | —      |
+
+#### Заклинания жреца 5-го уровня
+
+| Заклинание               | Школа       | Особое |
+|--------------------------|-------------|--------|
+| Великое восстановление   | Ограждение  | М      |
+| Заражение                | Некромантия | —      |
+| Кара                     | Очарование  | —      |
+| Легенда                  | Прорицание  | М      |
+| Массовое лечение ран     | Ограждение  | —      |
+| Наблюдение               | Прорицание  | К, М   |
+| Нашествие насекомых      | Вызов       | К      |
+| Огненный столп           | Воплощение  | —      |
+| Освящение                | Ограждение  | М      |
+| Планарные узы            | Ограждение  | М      |
+| Поднятие мёртвого        | Некромантия | М      |
+| Рассеивание добра и зла  | Ограждение  | К      |
+| Связь                    | Прорицание  | Р      |
+
+#### Заклинания жреца 6-го уровня
+
+| Заклинание         | Школа       | Особое |
+|--------------------|-------------|--------|
+| Вред               | Некромантия | —      |
+| Исцеление          | Ограждение  | —      |
+| Истинное зрение    | Прорицание  | М      |
+| Клинковый барьер   | Воплощение  | К      |
+| Найти путь         | Прорицание  | К, М   |
+| Пир героев         | Вызов       | М      |
+| Планарный союзник  | Вызов       | —      |
+| Сотворение нежити  | Некромантия | М      |
+| Слово возврата     | Вызов       | —      |
+| Солнечный луч      | Воплощение  | К      |
+| Запрет             | Ограждение  | Р, М   |
+
+#### Заклинания жреца 7-го уровня
+
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Божественное слово      | Воплощение    | —      |
+| Воскрешение             | Некромантия   | М      |
+| Огненный шторм          | Воплощение    | —      |
+| Переход между планами   | Вызов         | М      |
+| Призыв небожителя       | Вызов         | К      |
+| Регенерация             | Преобразование | —     |
+| Символ                  | Ограждение    | М      |
+| Эфирность               | Вызов         | —      |
+
+#### Заклинания жреца 8-го уровня
+
+| Заклинание        | Школа         | Особое |
+|-------------------|---------------|--------|
+| Антимагическое поле | Ограждение  | К      |
+| Власть над погодой | Преобразование | К    |
+| Землетрясение     | Преобразование | К     |
+| Святая аура       | Ограждение    | К, М   |
+| Солнечный взрыв   | Воплощение    | —      |
+
+#### Заклинания жреца 9-го уровня
+
+| Заклинание            | Школа       | Особое |
+|-----------------------|-------------|--------|
+| Астральная проекция   | Некромантия | М      |
+| Врата                 | Вызов       | К, М   |
+| Истинное воскрешение  | Некромантия | М      |
+| Массовое исцеление    | Ограждение  | —      |
+| Слово силы: исцеление | Очарование  | —      |
+
+### Подкласс жреца: Домен жизни
+
+*Исцеление боли мира*
+
+Домен жизни сосредоточен на позитивной энергии, которая поддерживает всю жизнь во вселенной. Жрецы, черпающие силу из этого домена, являются мастерами исцеления, использующими эту жизненную силу для лечения многих недугов.
+
+Само существование опирается на позитивную энергию, связанную с этим доменом, поэтому жрец практически любой религиозной традиции может выбрать его. Этот домен особенно связан с божествами земледелия, богами исцеления или выносливости, а также богами дома и общины. Религиозные ордена целителей также ищут магию этого домена.
+
+#### Уровень 3: Послушник жизни
+
+Когда заклинание, которое вы творите с использованием ячейки заклинания, восстанавливает хиты существу, это существо восстанавливает дополнительные хиты в ход, когда вы творите заклинание. Дополнительные хиты равны 2 плюс уровень ячейки заклинания.
+
+#### Уровень 3: Заклинания домена жизни
+
+Ваша связь с этим божественным доменом гарантирует, что у вас всегда подготовлены определённые заклинания. Когда вы достигаете уровня жреца, указанного в таблице Заклинания домена жизни, у вас с этого момента всегда подготовлены перечисленные заклинания.
+
+Таблица: Заклинания домена жизни
+
+| Уровень жреца | Подготовленные заклинания                             |
+|---------------|-------------------------------------------------------|
+| 3             | Подмога, Благословение, Лечение ран, Малое восстановление |
+| 5             | Массовое исцеляющее слово, Воскрешение                |
+| 7             | Аура жизни, Смертельная защита                        |
+| 9             | Великое восстановление, Массовое лечение ран          |
+
+#### Уровень 3: Сохранение жизни
+
+Как Магическое действие, вы представляете священный символ и тратите одно использование Божественного канала, чтобы вызвать исцеляющую энергию, способную восстановить количество хитов, равное пятикратному вашему уровню жреца. Выберите окровавленных существ в пределах 30 футов от себя (включая себя) и распределите эти хиты между ними. Это умение может восстановить существу не более половины его максимума хитов.
+
+#### Уровень 6: Благословенный целитель
+
+Исцеляющие заклинания, которые вы творите на других, исцеляют и вас. Сразу после того, как вы сотворили заклинание с использованием ячейки заклинания, которое восстанавливает хиты одному или нескольким существам, кроме вас, вы восстанавливаете хиты, равные 2 плюс уровень ячейки заклинания.
+
+#### Уровень 17: Высшее исцеление
+
+Когда вы обычно бросаете одну или несколько костей для восстановления хитов существу заклинанием или Божественным каналом, не бросайте эти кости для исцеления; вместо этого используйте максимально возможное число для каждой кости. Например, вместо восстановления 2d6 хитов существу заклинанием, вы восстанавливаете 12.

@@ -1,1254 +1,1247 @@
-# Equipment
+# Снаряжение
 
-## Coins
+## Монеты
 
-Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of their material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
+Персонажи часто находят монеты во время приключений и могут тратить их в магазинах, тавернах и других заведениях. Монеты бывают разных номиналов в зависимости от относительной ценности их материала. В таблице «Стоимость монет» перечислены монеты и их стоимость относительно золотой монеты, которая является основной монетой в игре. Например, 100 медных монет стоят 1 золотую монету.
 
-A coin weighs about a third of an ounce, so fifty coins weigh a pound.
+Монета весит около трети унции, поэтому пятьдесят монет весят один фунт.
 
-Table: Coin Values
+Таблица: Стоимость монет
 
-| Coin                | Value in GP |
-|---------------------|-------------|
-| Copper Piece (CP)   | 1/100       |
-| Silver Piece (SP)   | 1/10        |
-| Electrum Piece (EP) | 1/2         |
-| Gold Piece (GP)     | 1           |
-| Platinum Piece (PP) | 10          |
+| Монета | Стоимость в зм |
+|--------|----------------|
+| Медная монета (мм) | 1/100 |
+| Серебряная монета (см) | 1/10 |
+| Электрумовая монета (эм) | 1/2 |
+| Золотая монета (зм) | 1 |
+| Платиновая монета (пм) | 10 |
 
-## Weapons
+## Оружие
 
-The Weapons table in this section shows the game's main weapons. The table lists the cost and weight of each weapon, as well as the following details:
+В таблице «Оружие» в этом разделе показано основное оружие в игре. В таблице указаны стоимость и вес каждого оружия, а также следующие детали:
 
-- **Category.** Every weapon falls into a category: Simple or Martial. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
-- **Melee or Ranged.** A weapon is classified as either Melee or Ranged. A Melee weapon is used to attack a target within 5 feet, whereas a Ranged weapon is used to attack at a greater distance.
-- **Damage.** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
-- **Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the "Properties" section.
-- **Mastery.** Each weapon has a mastery property, which is defined in the "Mastery Properties" section. To use that property, you must have a feature that lets you use it.
+- **Категория.** Каждое оружие относится к категории: Простое или Воинское. Владение оружием обычно связано с одной из этих категорий. Например, вы можете владеть простым оружием.
+- **Ближний бой или дальний бой.** Оружие классифицируется как оружие ближнего боя или дальнобойное. Оружие ближнего боя используется для атаки цели в пределах 5 футов, тогда как дальнобойное оружие используется для атаки на большем расстоянии.
+- **Урон.** В таблице указан урон, который наносит оружие при попадании, а также тип этого урона.
+- **Свойства.** Все свойства оружия перечислены в столбце «Свойства». Каждое свойство определено в разделе «Свойства».
+- **Мастерство.** Каждое оружие имеет свойство мастерства, которое определено в разделе «Свойства мастерства». Чтобы использовать это свойство, у вас должно быть умение, позволяющее его использовать.
 
-> ### Selling Equipment
-> 
-> Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. "Magic Items" has prices for magic items.
-
-### Weapon Proficiency
-
-Anyone can wield a weapon, but you must have proficiency with it to add your Proficiency Bonus to an attack roll you make with it. A player character's features can provide weapon proficiencies. A monster is proficient with any weapon in its stat block.
-
-### Properties
-
-Here are definitions of the properties in the Properties column of the Weapons table.
-
-#### Ammunition
-
-You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
-
-#### Finesse
-
-When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
-
-#### Heavy
-
-You have Disadvantage on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
-
-#### Light
-
-When you take the Attack action on your turn and attack with a Light weapon, you can make one extra attack as a Bonus Action later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a Shortsword in one hand and a Dagger in the other using the Attack action and a Bonus Action, but you don't add your Strength or Dexterity modifier to the damage roll of the Bonus Action unless that modifier is negative.
-
-#### Loading
-
-You can fire only one piece of ammunition from a Loading weapon when you use an action, a Bonus Action, or a Reaction to fire it, regardless of the number of attacks you can normally make.
-
-#### Range
-
-A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have Disadvantage on the attack roll. You can't attack a target beyond the long range.
-
-#### Reach
-
-A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for Opportunity Attacks with it.
-
-#### Thrown
-
-If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
-
-#### Two-Handed
-
-A Two-Handed weapon requires two hands when you attack with it.
-
-#### Versatile
-
-A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
-
-### Mastery Properties
-
-Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
-
-> ### Improvised Weapons
+> ### Продажа снаряжения
 >
-> If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "Improvised Weapons" in "Rules Glossary." Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
+> Снаряжение продаётся за половину своей стоимости. В отличие от этого, торговые товары и ценности — такие как драгоценные камни и произведения искусства — сохраняют свою полную стоимость на рынке. Цены на магические предметы указаны в разделе «Магические предметы».
 
-#### Cleave
+### Владение оружием
 
-If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+Любой может держать оружие, но вы должны владеть им, чтобы добавить бонус мастерства к броску атаки, который вы совершаете с ним. Умения игрового персонажа могут давать владение оружием. Монстр владеет любым оружием из своего блока статистики.
 
-#### Graze
+### Свойства
 
-If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can be increased only by increasing the ability modifier.
+Ниже приведены определения свойств из столбца «Свойства» таблицы «Оружие».
 
-#### Nick
+#### Боеприпас
 
-When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
+Вы можете использовать оружие со свойством «Боеприпас» для совершения дальнобойной атаки, только если у вас есть боеприпасы для стрельбы из него. Тип требуемых боеприпасов указан вместе с дистанцией оружия. Каждая атака расходует один боеприпас. Извлечение боеприпаса является частью атаки (вам нужна свободная рука для зарядки одноручного оружия). После боя вы можете потратить 1 минуту, чтобы восстановить половину (округляя вниз) использованных в бою боеприпасов; остальные потеряны.
 
-#### Push
+#### Фехтовальное
 
-If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
+При совершении атаки фехтовальным оружием используйте на выбор модификатор Силы или Ловкости для бросков атаки и урона. Вы должны использовать один и тот же модификатор для обоих бросков.
 
-#### Sap
+#### Тяжёлое
 
-If you hit a creature with this weapon, that creature has Disadvantage on its next attack roll before the start of your next turn.
+Вы совершаете с помехой броски атаки тяжёлым оружием, если это оружие ближнего боя и ваша Сила меньше 13, или если это дальнобойное оружие и ваша Ловкость меньше 13.
 
-#### Slow
+#### Лёгкое
 
-If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn't exceed 10 feet.
+Когда вы совершаете действие Атака в свой ход и атакуете лёгким оружием, вы можете совершить одну дополнительную атаку бонусным действием позже в тот же ход. Эта дополнительная атака должна быть совершена другим лёгким оружием, и вы не добавляете модификатор характеристики к урону дополнительной атаки, если только этот модификатор не отрицательный. Например, вы можете атаковать коротким мечом в одной руке и кинжалом в другой, используя действие Атака и бонусное действие, но не добавляете модификатор Силы или Ловкости к урону бонусного действия, если только этот модификатор не отрицательный.
 
-#### Topple
+#### Перезарядка
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.
+Вы можете выстрелить только один боеприпас из оружия с перезарядкой, когда используете действие, бонусное действие или реакцию для выстрела из него, независимо от количества атак, которые вы обычно можете совершить.
 
-#### Vex
+#### Дистанция
 
-If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
+Оружие с дистанцией имеет диапазон в скобках после свойства «Боеприпас» или «Метательное». Диапазон указывает два числа. Первое — это нормальная дистанция оружия в футах, а второе — его максимальная дистанция. При атаке цели за пределами нормальной дистанции вы совершаете бросок атаки с помехой. Вы не можете атаковать цель за пределами максимальной дистанции.
 
-### Weapon Tables
+#### Досягаемость
 
-Table: Simple Melee Weapons
+Оружие с досягаемостью добавляет 5 футов к вашей досягаемости при атаке им, а также при определении вашей досягаемости для провоцированных атак с ним.
 
-| Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
-|------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
-| Club                   | 1d4 Bludgeoning | Light                                                     | Slow    | 2 lb.   | 1 SP   |
-| Dagger                 | 1d4 Piercing    | Finesse, Light, Thrown (Range 20/60)                      | Nick    | 1 lb.   | 2 GP   |
-| Greatclub              | 1d8 Bludgeoning | Two-Handed                                                | Push    | 10 lb.  | 2 SP   |
-| Handaxe                | 1d6 Slashing    | Light, Thrown (Range 20/60)                               | Vex     | 2 lb.   | 5 GP   |
-| Javelin                | 1d6 Piercing    | Thrown (Range 30/120)                                     | Slow    | 2 lb.   | 5 SP   |
-| Light Hammer           | 1d4 Bludgeoning | Light, Thrown (Range 20/60)                               | Nick    | 2 lb.   | 2 GP   |
-| Mace                   | 1d6 Bludgeoning | —                                                         | Sap     | 4 lb.   | 5 GP   |
-| Quarterstaff           | 1d6 Bludgeoning | Versatile (1d8)                                           | Topple  | 4 lb.   | 2 SP   |
-| Sickle                 | 1d4 Slashing    | Light                                                     | Nick    | 2 lb.   | 1 GP   |
-| Spear                  | 1d6 Piercing    | Thrown (Range 20/60), Versatile (1d8)                     | Sap     | 3 lb.   | 1 GP   |
+#### Метательное
 
-Table: Simple Ranged Weapons 
-| Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
-|------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
-| Dart                   | 1d4 Piercing    | Finesse, Thrown (Range 20/60)                             | Vex     | 1/4 lb. | 5 CP   |
-| Light Crossbow         | 1d8 Piercing    | Ammunition (Range 80/320; Bolt), Loading, Two-Handed   | Slow    | 5 lb.   | 25 GP  |
-| Shortbow               | 1d6 Piercing    | Ammunition (Range 80/320; Arrow), Two-Handed              | Vex     | 2 lb.   | 25 GP  |
-| Sling                  | 1d4 Bludgeoning | Ammunition (Range 30/120; Bullet)                         | Slow    | —       | 1 SP   |
+Если оружие имеет свойство «Метательное», вы можете метнуть оружие для совершения дальнобойной атаки, и вы можете извлечь это оружие как часть атаки. Если это оружие ближнего боя, используйте тот же модификатор характеристики для бросков атаки и урона, который вы используете для рукопашной атаки этим оружием.
 
-Table: Martial Melee Weapons 
+#### Двуручное
 
-| Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
-|------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
-| Battleaxe              | 1d8 Slashing    | Versatile (1d10)                                          | Topple  | 4 lb.   | 10 GP  |
-| Flail                  | 1d8 Bludgeoning | —                                                         | Sap     | 2 lb.   | 10 GP  |
-| Glaive                 | 1d10 Slashing   | Heavy, Reach, Two-Handed                                  | Graze   | 6 lb.   | 20 GP  |
-| Greataxe               | 1d12 Slashing   | Heavy, Two-Handed                                         | Cleave  | 7 lb.   | 30 GP  |
-| Greatsword             | 2d6 Slashing    | Heavy, Two-Handed                                         | Graze   | 6 lb.   | 50 GP  |
-| Halberd                | 1d10 Slashing   | Heavy, Reach, Two-Handed                                  | Cleave  | 6 lb.   | 20 GP  |
-| Lance                  | 1d10 Piercing   | Heavy, Reach, Two-Handed (unless mounted)                 | Topple  | 6 lb.   | 10 GP  |
-| Longsword              | 1d8 Slashing    | Versatile (1d10)                                          | Sap     | 3 lb.   | 15 GP  |
-| Maul                   | 2d6 Bludgeoning | Heavy, Two-Handed                                         | Topple  | 10 lb.  | 10 GP  |
-| Morningstar            | 1d8 Piercing    | —                                                         | Sap     | 4 lb.   | 15 GP  |
-| Pike                   | 1d10 Piercing   | Heavy, Reach, Two-Handed                                  | Push    | 18 lb.  | 5 GP   |
-| Rapier                 | 1d8 Piercing    | Finesse                                                   | Vex     | 2 lb.   | 25 GP  |
-| Scimitar               | 1d6 Slashing    | Finesse, Light                                            | Nick    | 3 lb.   | 25 GP  |
-| Shortsword             | 1d6 Piercing    | Finesse, Light                                            | Vex     | 2 lb.   | 10 GP  |
-| Trident                | 1d8 Piercing    | Thrown (Range 20/60), Versatile (1d10)                    | Topple  | 4 lb.   | 5 GP   |
-| Warhammer              | 1d8 Bludgeoning | Versatile (1d10)                                          | Push    | 5 lb.   | 15 GP  |
-| War Pick               | 1d8 Piercing    | Versatile (1d10)                                          | Sap     | 2 lb.   | 5 GP   |
-| Whip                   | 1d4 Slashing    | Finesse, Reach                                            | Slow    | 3 lb.   | 2 GP   |
+Двуручное оружие требует двух рук для атаки им.
 
-Table: Martial Ranged Weapons 
+#### Универсальное
 
-| Name           | Damage          | Properties                                                   | Mastery | Weight  | Cost   |
-|----------------|-----------------|--------------------------------------------------------------|---------|---------|--------|
-| Blowgun        | 1 Piercing      | Ammunition (Range 25/100; Needle), Loading                   | Vex     | 1 lb.   | 10 GP  |
-| Hand Crossbow  | 1d6 Piercing    | Ammunition (Range 30/120; Bolt), Light, Loading              | Vex     | 3 lb.   | 75 GP  |
-| Heavy Crossbow | 1d10 Piercing   | Ammunition (Range 100/400; Bolt), Heavy, Loading, Two-Handed | Push    | 18 lb.  | 50 GP  |
-| Longbow        | 1d8 Piercing    | Ammunition (Range 150/600; Arrow), Heavy, Two-Handed         | Slow    | 2 lb.   | 50 GP  |
-| Musket         | 1d12 Piercing   | Ammunition (Range 40/120; Bullet), Loading, Two-Handed       | Slow    | 10 lb.  | 500 GP |
-| Pistol         | 1d10 Piercing   | Ammunition (Range 30/90; Bullet), Loading                    | Vex     | 3 lb.   | 250 GP |
+Универсальное оружие можно использовать одной или двумя руками. Значение урона в скобках появляется рядом со свойством. Оружие наносит этот урон при использовании двумя руками для рукопашной атаки.
 
-## Armor
+### Свойства мастерства
 
-The Armor table lists the game's main armor. The table includes the cost and weight of armor, as well as the following details:
+Каждое оружие имеет свойство мастерства, которое может использовать только персонаж, обладающий умением, таким как «Мастерство оружия», которое открывает это свойство для персонажа. Свойства определены ниже.
 
-- **Category.** Every type of armor falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armor (as shown in the table).
-- **Armor Class (AC).** The table's Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
-- **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
-- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has Disadvantage on Dexterity (Stealth) checks.
+> ### Импровизированное оружие
+>
+> Если вы используете предмет — такой как ножка стола, сковородка или бутылка — в качестве импровизированного оружия, смотрите «Импровизированное оружие» в «Глоссарии правил». Также смотрите эти правила, если вы используете оружие необычным способом, например, используете дальнобойное оружие для рукопашной атаки.
 
-### Armor Training
+#### Рассечение
 
-Anyone can don armor or hold a Shield, but only those with training can use them effectively, as explained below. A character's class and other features determine the character's armor training. A monster has training with any armor in its stat block.
+Если вы попадаете по существу броском рукопашной атаки этим оружием, вы можете совершить бросок рукопашной атаки этим оружием против второго существа в пределах 5 футов от первого, которое также находится в пределах вашей досягаемости. При попадании второе существо получает урон от оружия, но не добавляйте модификатор характеристики к этому урону, если только этот модификатор не отрицательный. Вы можете совершить эту дополнительную атаку только один раз в ход.
 
-#### Light, Medium, or Heavy Armor
+#### Скольжение
 
-If you wear Light, Medium, or Heavy armor and lack training with it, you have Disadvantage on any D20 Test that involves Strength or Dexterity, and you can't cast spells.
+Если ваш бросок атаки этим оружием промахивается по существу, вы можете нанести этому существу урон, равный модификатору характеристики, который вы использовали для броска атаки. Этот урон того же типа, что наносит оружие, и урон может быть увеличен только путём увеличения модификатора характеристики.
 
-#### Shield
+#### Порез
 
-You gain the Armor Class benefit of a Shield only if you have training with it.
+Когда вы совершаете дополнительную атаку свойства «Лёгкое», вы можете совершить её как часть действия Атака вместо бонусного действия. Вы можете совершить эту дополнительную атаку только один раз в ход.
 
-### One at a Time
+#### Толчок
 
-A creature can wear only one suit of armor at a time and wield only one Shield at a time.
+Если вы попадаете по существу этим оружием, вы можете оттолкнуть существо на расстояние до 10 футов прямо от себя, если оно размера не больше Большого.
 
-Table: Light Armor (1 Minute to Don or Doff)
+#### Оглушение
 
-| Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
-| Padded Armor                                          | 11 + Dex modifier         | —        | Disadvantage | 8 lb.  | 5 GP     |
-| Leather Armor                                         | 11 + Dex modifier         | —        | —            | 10 lb. | 10 GP    |
-| Studded Leather Armor                                 | 12 + Dex modifier         | —        | —            | 13 lb. | 45 GP    |
+Если вы попадаете по существу этим оружием, это существо совершает с помехой свой следующий бросок атаки до начала вашего следующего хода.
 
-Table: Medium Armor (5 Minutes to Don and 1 Minute to Doff)
+#### Замедление
 
-| Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
-| Hide Armor                                            | 12 + Dex modifier (max 2) | —        | —            | 12 lb. | 10 GP    |
-| Chain Shirt                                           | 13 + Dex modifier (max 2) | —        | —            | 20 lb. | 50 GP    |
-| Scale Mail                                            | 14 + Dex modifier (max 2) | —        | Disadvantage | 45 lb. | 50 GP    |
-| Breastplate                                           | 14 + Dex modifier (max 2) | —        | —            | 20 lb. | 400 GP   |
-| Half Plate Armor                                      | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. | 750 GP   |
+Если вы попадаете по существу этим оружием и наносите ему урон, вы можете уменьшить его скорость на 10 футов до начала вашего следующего хода. Если по существу попадают несколько раз оружием с этим свойством, уменьшение скорости не превышает 10 футов.
 
-Table: Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)
+#### Опрокидывание
 
-| Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
-| Ring Mail                                             | 14                        | —        | Disadvantage | 40 lb. | 30 GP    |
-| Chain Mail                                            | 16                        | Str 13   | Disadvantage | 55 lb. | 75 GP    |
-| Splint Armor                                          | 17                        | Str 15   | Disadvantage | 60 lb. | 200 GP   |
-| Plate Armor                                           | 18                        | Str 15   | Disadvantage | 65 lb. | 1,500 GP |
+Если вы попадаете по существу этим оружием, вы можете заставить существо совершить спасбросок Телосложения (СЛ 8 плюс модификатор характеристики, использованный для броска атаки, и ваш бонус мастерства). При провале существо получает состояние «лежащий».
 
-Table: Shield (Utilize Action to Don or Doff)
+#### Досаждение
 
-| Armor                                                 | Armor Class (AC)          | Strength | Stealth      | Weight | Cost     |
-|-------------------------------------------------------|---------------------------|----------|--------------|--------|----------|
-| Shield                                                | +2                        | —        | —            | 6 lb.  | 10 GP    |
+Если вы попадаете по существу этим оружием и наносите существу урон, вы совершаете с преимуществом свой следующий бросок атаки против этого существа до конца вашего следующего хода.
 
-## Tools
+### Таблицы оружия
 
-A tool helps you make specialized ability checks, craft certain items, or both. A tool's description includes the tool's cost and weight, as well as the following entries:
+Таблица: Простое оружие ближнего боя
 
-- **Ability.** This entry lists the ability to use when making an ability check with the tool.
-- **Utilize.** This entry lists things you can do with the tool when you take the Utilize action. You can do one of those things each time you take the action. This entry also provides the DC for the action.
-- **Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see "Crafting Nonmagical Items," "Brewing Potions of Healing," and "Scribing Spell Scrolls" later in "Equipment."
-- **Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.
+| Название | Урон | Свойства | Мастерство | Вес | Цена |
+|----------|------|----------|------------|-----|------|
+| Дубинка | 1d4 дробящий | Лёгкое | Замедление | 2 фнт. | 1 см |
+| Кинжал | 1d4 колющий | Фехтовальное, лёгкое, метательное (дистанция 20/60) | Порез | 1 фнт. | 2 зм |
+| Палица | 1d8 дробящий | Двуручное | Толчок | 10 фнт. | 2 см |
+| Ручной топор | 1d6 рубящий | Лёгкое, метательное (дистанция 20/60) | Досаждение | 2 фнт. | 5 зм |
+| Метательное копьё | 1d6 колющий | Метательное (дистанция 30/120) | Замедление | 2 фнт. | 5 см |
+| Лёгкий молот | 1d4 дробящий | Лёгкое, метательное (дистанция 20/60) | Порез | 2 фнт. | 2 зм |
+| Булава | 1d6 дробящий | — | Оглушение | 4 фнт. | 5 зм |
+| Боевой посох | 1d6 дробящий | Универсальное (1d8) | Опрокидывание | 4 фнт. | 2 см |
+| Серп | 1d4 рубящий | Лёгкое | Порез | 2 фнт. | 1 зм |
+| Копьё | 1d6 колющий | Метательное (дистанция 20/60), универсальное (1d8) | Оглушение | 3 фнт. | 1 зм |
+
+Таблица: Простое дальнобойное оружие
+
+| Название | Урон | Свойства | Мастерство | Вес | Цена |
+|----------|------|----------|------------|-----|------|
+| Дротик | 1d4 колющий | Фехтовальное, метательное (дистанция 20/60) | Досаждение | 1/4 фнт. | 5 мм |
+| Лёгкий арбалет | 1d8 колющий | Боеприпас (дистанция 80/320; болт), перезарядка, двуручное | Замедление | 5 фнт. | 25 зм |
+| Короткий лук | 1d6 колющий | Боеприпас (дистанция 80/320; стрела), двуручное | Досаждение | 2 фнт. | 25 зм |
+| Праща | 1d4 дробящий | Боеприпас (дистанция 30/120; снаряд) | Замедление | — | 1 см |
+
+Таблица: Воинское оружие ближнего боя
+
+| Название | Урон | Свойства | Мастерство | Вес | Цена |
+|----------|------|----------|------------|-----|------|
+| Боевой топор | 1d8 рубящий | Универсальное (1d10) | Опрокидывание | 4 фнт. | 10 зм |
+| Цеп | 1d8 дробящий | — | Оглушение | 2 фнт. | 10 зм |
+| Глефа | 1d10 рубящий | Тяжёлое, досягаемость, двуручное | Скольжение | 6 фнт. | 20 зм |
+| Секира | 1d12 рубящий | Тяжёлое, двуручное | Рассечение | 7 фнт. | 30 зм |
+| Двуручный меч | 2d6 рубящий | Тяжёлое, двуручное | Скольжение | 6 фнт. | 50 зм |
+| Алебарда | 1d10 рубящий | Тяжёлое, досягаемость, двуручное | Рассечение | 6 фнт. | 20 зм |
+| Копьё для турнира | 1d10 колющий | Тяжёлое, досягаемость, двуручное (если не верхом) | Опрокидывание | 6 фнт. | 10 зм |
+| Длинный меч | 1d8 рубящий | Универсальное (1d10) | Оглушение | 3 фнт. | 15 зм |
+| Молот | 2d6 дробящий | Тяжёлое, двуручное | Опрокидывание | 10 фнт. | 10 зм |
+| Моргенштерн | 1d8 колющий | — | Оглушение | 4 фнт. | 15 зм |
+| Пика | 1d10 колющий | Тяжёлое, досягаемость, двуручное | Толчок | 18 фнт. | 5 зм |
+| Рапира | 1d8 колющий | Фехтовальное | Досаждение | 2 фнт. | 25 зм |
+| Скимитар | 1d6 рубящий | Фехтовальное, лёгкое | Порез | 3 фнт. | 25 зм |
+| Короткий меч | 1d6 колющий | Фехтовальное, лёгкое | Досаждение | 2 фнт. | 10 зм |
+| Трезубец | 1d8 колющий | Метательное (дистанция 20/60), универсальное (1d10) | Опрокидывание | 4 фнт. | 5 зм |
+| Боевой молот | 1d8 дробящий | Универсальное (1d10) | Толчок | 5 фнт. | 15 зм |
+| Боевая кирка | 1d8 колющий | Универсальное (1d10) | Оглушение | 2 фнт. | 5 зм |
+| Кнут | 1d4 рубящий | Фехтовальное, досягаемость | Замедление | 3 фнт. | 2 зм |
 
-### Tool Proficiency
+Таблица: Воинское дальнобойное оружие
 
-If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have Advantage on the check too.
+| Название | Урон | Свойства | Мастерство | Вес | Цена |
+|----------|------|----------|------------|-----|------|
+| Духовая трубка | 1 колющий | Боеприпас (дистанция 25/100; игла), перезарядка | Досаждение | 1 фнт. | 10 зм |
+| Ручной арбалет | 1d6 колющий | Боеприпас (дистанция 30/120; болт), лёгкое, перезарядка | Досаждение | 3 фнт. | 75 зм |
+| Тяжёлый арбалет | 1d10 колющий | Боеприпас (дистанция 100/400; болт), тяжёлое, перезарядка, двуручное | Толчок | 18 фнт. | 50 зм |
+| Длинный лук | 1d8 колющий | Боеприпас (дистанция 150/600; стрела), тяжёлое, двуручное | Замедление | 2 фнт. | 50 зм |
+| Мушкет | 1d12 колющий | Боеприпас (дистанция 40/120; пуля), перезарядка, двуручное | Замедление | 10 фнт. | 500 зм |
+| Пистолет | 1d10 колющий | Боеприпас (дистанция 30/90; пуля), перезарядка | Досаждение | 3 фнт. | 250 зм |
 
-Your features might give you proficiency with a tool. A monster has proficiency with any tool in its stat block.
+## Доспехи
 
-### Artisan's Tools
+В таблице «Доспехи» перечислены основные доспехи в игре. В таблице указаны стоимость и вес доспехов, а также следующие детали:
 
-Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
+- **Категория.** Каждый тип доспехов относится к категории: Лёгкие, Средние или Тяжёлые. Категория определяет, сколько времени требуется для надевания или снятия доспехов (как показано в таблице).
+- **Класс Доспеха (КД).** Столбец «Класс Доспеха» в таблице показывает, каков ваш базовый КД, когда вы носите этот тип доспехов. Например, если вы носите кожаный доспех, ваш базовый КД равен 11 плюс ваш модификатор Ловкости, тогда как в кольчуге ваш КД равен 16.
+- **Сила.** Если в таблице указано значение Силы в столбце «Сила» для типа доспехов, эти доспехи уменьшают скорость носящего на 10 футов, если у носящего Сила меньше указанного значения.
+- **Скрытность.** Если в таблице указано «Помеха» в столбце «Скрытность» для типа доспехов, носящий совершает с помехой проверки Ловкости (Скрытность).
 
-#### Alchemist's Supplies (50 GP)
+### Обучение доспехам
 
-**Ability:** Intelligence 
+Любой может надеть доспехи или взять щит, но только обученные могут эффективно их использовать, как объяснено ниже. Класс и другие умения персонажа определяют обучение персонажа доспехам. Монстр обучен любым доспехам из своего блока статистики.
 
-**Weight:** 8 lb. 
+#### Лёгкие, средние или тяжёлые доспехи
 
-**Utilize:** Identify a substance (DC 15), or start a fire (DC 15) 
+Если вы носите лёгкие, средние или тяжёлые доспехи и не обучены им, вы совершаете с помехой любую проверку d20, включающую Силу или Ловкость, и не можете творить заклинания.
 
-**Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
+#### Щит
 
-#### Brewer's Supplies (20 GP)
+Вы получаете бонус к классу доспеха от щита, только если обучены им.
 
-**Ability:** Intelligence 
+### Только один комплект
 
-**Weight:** 9 lb. 
+Существо может носить только один комплект доспехов и держать только один щит одновременно.
 
-**Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10) 
+Таблица: Лёгкие доспехи (1 минута, чтобы надеть или снять)
 
-**Craft:** Antitoxin
+| Доспех | Класс Доспеха (КД) | Сила | Скрытность | Вес | Цена |
+|--------|-------------------|------|------------|-----|------|
+| Стёганый доспех | 11 + модификатор Лов | — | Помеха | 8 фнт. | 5 зм |
+| Кожаный доспех | 11 + модификатор Лов | — | — | 10 фнт. | 10 зм |
+| Проклёпанный кожаный доспех | 12 + модификатор Лов | — | — | 13 фнт. | 45 зм |
 
-#### Calligrapher's Supplies (10 GP)
+Таблица: Средние доспехи (5 минут, чтобы надеть, 1 минута, чтобы снять)
 
-**Ability:** Dexterity 
+| Доспех | Класс Доспеха (КД) | Сила | Скрытность | Вес | Цена |
+|--------|-------------------|------|------------|-----|------|
+| Шкурный доспех | 12 + модификатор Лов (макс. 2) | — | — | 12 фнт. | 10 зм |
+| Кольчужная рубаха | 13 + модификатор Лов (макс. 2) | — | — | 20 фнт. | 50 зм |
+| Чешуйчатый доспех | 14 + модификатор Лов (макс. 2) | — | Помеха | 45 фнт. | 50 зм |
+| Кираса | 14 + модификатор Лов (макс. 2) | — | — | 20 фнт. | 400 зм |
+| Полулаты | 15 + модификатор Лов (макс. 2) | — | Помеха | 40 фнт. | 750 зм |
 
-**Weight:** 5 lb. 
+Таблица: Тяжёлые доспехи (10 минут, чтобы надеть, 5 минут, чтобы снять)
 
-**Utilize:** Write text with impressive flourishes that guard against forgery (DC 15) 
+| Доспех | Класс Доспеха (КД) | Сила | Скрытность | Вес | Цена |
+|--------|-------------------|------|------------|-----|------|
+| Колечный доспех | 14 | — | Помеха | 40 фнт. | 30 зм |
+| Кольчуга | 16 | Сил 13 | Помеха | 55 фнт. | 75 зм |
+| Наборный доспех | 17 | Сил 15 | Помеха | 60 фнт. | 200 зм |
+| Латы | 18 | Сил 15 | Помеха | 65 фнт. | 1500 зм |
 
-**Craft:** Ink, *Spell Scroll*
+Таблица: Щит (действие Использование, чтобы надеть или снять)
 
-#### Carpenter's Tools (8 GP)
+| Доспех | Класс Доспеха (КД) | Сила | Скрытность | Вес | Цена |
+|--------|-------------------|------|------------|-----|------|
+| Щит | +2 | — | — | 6 фнт. | 10 зм |
 
-**Ability:** Strength 
+## Инструменты
 
-**Weight:** 6 lb. 
+Инструмент помогает вам совершать специализированные проверки характеристик, создавать определённые предметы или и то, и другое. Описание инструмента включает его стоимость и вес, а также следующие записи:
 
-**Utilize:** Seal or pry open a door or container (DC 20)
+- **Характеристика.** В этой записи указана характеристика, используемая при совершении проверки характеристики с инструментом.
+- **Использование.** В этой записи перечислено, что вы можете делать с инструментом, когда совершаете действие Использование. Вы можете сделать одно из этого каждый раз, когда совершаете действие. В этой записи также указана СЛ для действия.
+- **Создание.** В этой записи перечислено, что (если вообще что-либо) вы можете создать с помощью инструмента. Правила создания смотрите в разделах «Создание немагических предметов», «Варка зелий лечения» и «Написание свитков заклинаний» далее в «Снаряжении».
+- **Варианты.** Эта запись появляется, если у инструмента есть варианты, которые перечислены. Каждый требует отдельного владения.
 
-**Craft:** Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch
+### Владение инструментами
 
-#### Cartographer's Tools (15 GP)
+Если вы владеете инструментом, добавляйте бонус мастерства к любой проверке характеристики, которую вы совершаете с использованием этого инструмента. Если вы также владеете навыком, используемым в этой проверке, вы совершаете проверку с преимуществом.
 
-**Ability:** Wisdom 
+Ваши умения могут давать вам владение инструментом. Монстр владеет любым инструментом из своего блока статистики.
 
-**Weight:** 6 lb. 
+### Инструменты ремесленника
 
-**Utilize:** Draft a map of a small area (DC 15) 
+Инструменты ремесленника предназначены для создания предметов и занятия ремеслом. Каждый из этих инструментов требует отдельного владения.
 
-**Craft:** Map
+#### Алхимические принадлежности (50 зм)
 
-#### Cobbler's Tools (5 GP)
+**Характеристика:** Интеллект
 
-**Ability:** Dexterity 
+**Вес:** 8 фнт.
 
-**Weight:** 5 lb. 
+**Использование:** Определить вещество (СЛ 15) или разжечь огонь (СЛ 15)
 
-**Utilize:** Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10) 
+**Создание:** Кислота, алхимический огонь, мешочек с компонентами, масло, бумага, духи
 
-**Craft:** Climber's Kit
+#### Пивоваренные принадлежности (20 зм)
 
-#### Cook's Utensils (1 GP)
+**Характеристика:** Интеллект
 
-**Ability:** Wisdom 
+**Вес:** 9 фнт.
 
-**Weight:** 8 lb. 
+**Использование:** Обнаружить отравленный напиток (СЛ 15) или определить алкоголь (СЛ 10)
 
-**Utilize:** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15) 
+**Создание:** Противоядие
 
-**Craft:** Rations
+#### Каллиграфические принадлежности (10 зм)
 
-#### Glassblower's Tools (30 GP)
+**Характеристика:** Ловкость
 
-**Ability:** Intelligence 
+**Вес:** 5 фнт.
 
-**Weight:** 5 lb. 
+**Использование:** Написать текст с впечатляющими завитками, защищающими от подделки (СЛ 15)
 
-**Utilize:** Discern what a glass object held in the past 24 hours (DC 15) 
+**Создание:** Чернила, *свиток заклинания*
 
-**Craft:** Glass Bottle, Magnifying Glass, Spyglass, Vial
+#### Плотницкие инструменты (8 зм)
 
-#### Jeweler's Tools (25 GP)
+**Характеристика:** Сила
 
-**Ability:** Intelligence 
+**Вес:** 6 фнт.
 
-**Weight:** 2 lb. 
+**Использование:** Запечатать или вскрыть дверь или контейнер (СЛ 20)
 
-**Utilize:** Discern a gem's value (DC 15) 
+**Создание:** Дубинка, палица, боевой посох, бочка, сундук, лестница, шест, переносной таран, факел
 
-**Craft:** Arcane Focus, Holy Symbol
+#### Картографические инструменты (15 зм)
 
-#### Leatherworker's Tools (5 GP)
+**Характеристика:** Мудрость
 
-**Ability:** Dexterity 
+**Вес:** 6 фнт.
 
-**Weight:** 5 lb. 
+**Использование:** Составить карту небольшой области (СЛ 15)
 
-**Utilize:** Add a design to a leather item (DC 10) 
+**Создание:** Карта
 
-**Craft:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
+#### Сапожные инструменты (5 зм)
 
-#### Mason's Tools (10 GP)
+**Характеристика:** Ловкость
 
-**Ability:** Strength 
+**Вес:** 5 фнт.
 
-**Weight:** 8 lb. 
+**Использование:** Модифицировать обувь, чтобы дать преимущество на следующую проверку Ловкости (Акробатика) носящего (СЛ 10)
 
-**Utilize:** Chisel a symbol or hole in stone (DC 10) 
+**Создание:** Набор для лазания
 
-**Craft:** Block and Tackle
+#### Кухонная утварь (1 зм)
 
-#### Painter's Supplies (10 GP)
+**Характеристика:** Мудрость
 
-**Ability:** Wisdom 
+**Вес:** 8 фнт.
 
-**Weight:** 5 lb. 
+**Использование:** Улучшить вкус еды (СЛ 10) или обнаружить испорченную или отравленную пищу (СЛ 15)
 
-**Utilize:** Paint a recognizable image of something you've seen (DC 10) 
+**Создание:** Рационы
 
-**Craft:** Druidic Focus, Holy Symbol
+#### Стеклодувные инструменты (30 зм)
 
-#### Potter's Tools (10 GP)
+**Характеристика:** Интеллект
 
-**Ability:** Intelligence 
+**Вес:** 5 фнт.
 
-**Weight:** 3 lb. 
+**Использование:** Определить, что содержал стеклянный предмет в последние 24 часа (СЛ 15)
 
-**Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15) 
+**Создание:** Стеклянная бутылка, увеличительное стекло, подзорная труба, флакон
 
-**Craft:** Jug, Lamp
+#### Ювелирные инструменты (25 зм)
 
-#### Smith's Tools (20 GP)
+**Характеристика:** Интеллект
 
-**Ability:** Strength 
+**Вес:** 2 фнт.
 
-**Weight:** 8 lb. 
+**Использование:** Оценить стоимость драгоценного камня (СЛ 15)
 
-**Utilize:** Pry open a door or container (DC 20) 
+**Создание:** Магический фокус, священный символ
 
-**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
+#### Кожевенные инструменты (5 зм)
 
-#### Tinker's Tools (50 GP)
+**Характеристика:** Ловкость
 
-**Ability:** Dexterity 
+**Вес:** 5 фнт.
 
-**Weight:** 10 lb. 
+**Использование:** Добавить узор на кожаный предмет (СЛ 10)
 
-**Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
+**Создание:** Праща, кнут, шкурный доспех, кожаный доспех, проклёпанный кожаный доспех, рюкзак, футляр для арбалетных болтов, футляр для карты или свитка, пергамент, кошель, колчан, бурдюк
 
-**Craft:** Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
+#### Каменщицкие инструменты (10 зм)
 
-#### Weaver's Tools (1 GP)
+**Характеристика:** Сила
 
-**Ability:** Dexterity 
+**Вес:** 8 фнт.
 
-**Weight:** 5 lb. 
+**Использование:** Выдолбить символ или отверстие в камне (СЛ 10)
 
-**Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
+**Создание:** Блок и полиспаст
 
-**Craft:** Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
+#### Принадлежности художника (10 зм)
 
-#### Woodcarver's Tools (1 GP)
+**Характеристика:** Мудрость
 
-**Ability:** Dexterity 
+**Вес:** 5 фнт.
 
-**Weight:** 5 lb. 
+**Использование:** Нарисовать узнаваемое изображение того, что вы видели (СЛ 10)
 
-**Utilize:** Carve a pattern in wood (DC 10) 
+**Создание:** Друидический фокус, священный символ
 
-**Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
+#### Гончарные инструменты (10 зм)
 
-### Other Tools
+**Характеристика:** Интеллект
 
-#### Disguise Kit (25 GP)
+**Вес:** 3 фнт.
 
-**Ability:** Charisma 
+**Использование:** Определить, что содержал керамический предмет в последние 24 часа (СЛ 15)
 
-**Weight:** 3 lb. 
+**Создание:** Кувшин, лампа
 
-**Utilize:** Apply makeup (DC 10) 
+#### Кузнечные инструменты (20 зм)
 
-**Craft:** Costume
+**Характеристика:** Сила
 
-#### Forgery Kit (15 GP)
+**Вес:** 8 фнт.
 
-**Ability:** Dexterity 
+**Использование:** Вскрыть дверь или контейнер (СЛ 20)
 
-**Weight:** 5 lb. 
+**Создание:** Любое оружие ближнего боя (кроме дубинки, палицы, боевого посоха и кнута), средние доспехи (кроме шкурных), тяжёлые доспехи, металлические шарики, ведро, шипы, цепь, ломик, огнестрельные пули, крюк-кошка, железный котелок, железные шипы, снаряды для пращи
 
-**Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
+#### Инструменты жестянщика (50 зм)
 
-#### Gaming Set (Varies)
+**Характеристика:** Ловкость
 
-**Ability:** Wisdom 
+**Вес:** 10 фнт.
 
-**Weight:** — 
+**Использование:** Собрать крошечный предмет из хлама, который развалится через 1 минуту (СЛ 20)
 
-**Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20) 
+**Создание:** Мушкет, пистолет, колокольчик, бычий фонарь, фляга, закрытый фонарь, охотничий капкан, замок, кандалы, зеркало, лопата, сигнальный свисток, трутница
 
-**Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
+#### Ткацкие инструменты (1 зм)
 
-#### **Herbalism Kit (5 GP)**
+**Характеристика:** Ловкость
 
-**Ability:** Intelligence 
+**Вес:** 5 фнт.
 
-**Weight:** 3 lb. 
+**Использование:** Зашить разрыв на одежде (СЛ 10) или пришить крошечный узор (СЛ 10)
 
-**Utilize:** Identify a plant (DC 10) 
+**Создание:** Стёганый доспех, корзина, спальник, одеяло, изысканная одежда, сеть, ряса, верёвка, мешок, бечёвка, палатка, дорожная одежда
 
-**Craft:** Antitoxin, Candle, Healer's Kit, *Potion of Healing*
+#### Инструменты резчика по дереву (1 зм)
 
-#### **Musical Instrument (Varies)**
+**Характеристика:** Ловкость
 
-**Ability:** Charisma 
+**Вес:** 5 фнт.
 
-**Weight:** Varies 
+**Использование:** Вырезать узор на дереве (СЛ 10)
 
-**Utilize:** Play a known tune (DC 10), or improvise a song (DC 15) 
+**Создание:** Дубинка, палица, боевой посох, дальнобойное оружие (кроме пистолета, мушкета и пращи), магический фокус, стрелы, болты, друидический фокус, чернильная ручка, иглы
 
-**Variants:** Bagpipes (30 GP, 6 lb.), drum (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flute (2 GP, 1 lb.), horn (3 GP, 2 lb.), lute (35 GP, 2 lb.), lyre (30 GP, 2 lb.), pan flute (12 GP, 2 lb.), shawm (2 GP, 1 lb.), viol (30 GP, 1 lb.)
+### Прочие инструменты
 
-#### Navigator's Tools (25 GP)
+#### Набор для грима (25 зм)
 
-**Ability:** Wisdom 
+**Характеристика:** Харизма
 
-**Weight:** 2 lb. 
+**Вес:** 3 фнт.
 
-**Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
+**Использование:** Нанести макияж (СЛ 10)
 
-#### Poisoner's Kit (50 GP)
+**Создание:** Костюм
 
-**Ability:** Intelligence 
+#### Набор для подделок (15 зм)
 
-**Weight:** 2 lb. 
+**Характеристика:** Ловкость
 
-**Utilize:** Detect a poisoned object (DC 10) 
+**Вес:** 5 фнт.
 
-**Craft:** Basic Poison
+**Использование:** Имитировать 10 или менее слов почерка другого человека (СЛ 15) или скопировать восковую печать (СЛ 20)
 
-#### Thieves' Tools (25 GP)
+#### Игровой набор (разная)
 
-**Ability:** Dexterity 
+**Характеристика:** Мудрость
 
-**Weight:** 1 lb. 
+**Вес:** —
 
-**Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
+**Использование:** Определить, жульничает ли кто-то (СЛ 10), или выиграть игру (СЛ 20)
 
-## Adventuring Gear
+**Варианты:** Кости (1 см), драконьи шахматы (1 зм), игральные карты (5 см), трёхдраконовое анте (1 зм)
 
-The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
+#### **Набор травника (5 зм)**
 
-#### Acid (25 GP)
+**Характеристика:** Интеллект
 
-When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d6 Acid damage.
+**Вес:** 3 фнт.
 
-#### Alchemist's Fire (50 GP)
+**Использование:** Определить растение (СЛ 10)
 
-When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see "Rules Glossary").
+**Создание:** Противоядие, свеча, набор целителя, *зелье лечения*
 
-#### Ammunition (Varies)
+#### **Музыкальный инструмент (разная)**
 
-Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. The Ammunition table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
+**Характеристика:** Харизма
 
-Table: Adventuring Gear
+**Вес:** Разный
 
-| Item                   | Weight       | Cost     |
-|------------------------|--------------|----------|
-| Acid                   | 1 lb.        | 25 GP    |
-| Alchemist's Fire       | 1 lb.        | 50 GP    |
-| Ammunition             | Varies       | Varies   |
-| Antitoxin              | —            | 50 GP    |
-| Arcane Focus           | Varies       | Varies   |
-| Backpack               | 5 lb.        | 2 GP     |
-| Ball Bearings          | 2 lb.        | 1 GP     |
-| Barrel                 | 70 lb.       | 2 GP     |
-| Basket                 | 2 lb.        | 4 SP     |
-| Bedroll                | 7 lb.        | 1 GP     |
-| Bell                   | —            | 1 GP     |
-| Blanket                | 3 lb.        | 5 SP     |
-| Block and Tackle       | 5 lb.        | 1 GP     |
-| Book                   | 5 lb.        | 25 GP    |
-| Bottle, Glass          | 2 lb.        | 2 GP     |
-| Bucket                 | 2 lb.        | 5 CP     |
-| Burglar's Pack         | 42 lb.       | 16 GP    |  
-| Caltrops               | 2 lb.        | 1 GP     |
-| Candle                 | —            | 1 CP     |
-| Case, Crossbow Bolt    | 1 lb.        | 1 GP     |
-| Case, Map or Scroll    | 1 lb.        | 1 GP     |
-| Chain                  | 10 lb.       | 5 GP     |
-| Chest                  | 25 lb.       | 5 GP     |  
-| Climber's Kit          | 12 lb.       | 25 GP    |
-| Clothes, Fine          | 6 lb.        | 15 GP    |
-| Clothes, Traveler's    | 4 lb.        | 2 GP     |
-| Component Pouch        | 2 lb.        | 25 GP    |
-| Costume                | 4 lb.        | 5 GP     |
-| Crowbar                | 5 lb.        | 2 GP     |
-| Diplomat's Pack        | 39 lb.       | 39 GP    |
-| Druidic Focus          | Varies       | Varies   |
-| Dungeoneer's Pack      | 55 lb.       | 12 GP    |
-| Entertainer's Pack     | 58½ lb.      | 40 GP    |
-| Explorer's Pack        | 55 lb.       | 10 GP    |
-| Flask                  | 1 lb.        | 2 CP     |
-| Grappling Hook         | 4 lb.        | 2 GP     |
-| Healer's Kit           | 3 lb.        | 5 GP     |
-| Holy Symbol            | Varies       | Varies   |  
-| Holy Water             | 1 lb.        | 25 GP    |
-| Hunting Trap           | 25 lb.       | 5 GP     |
-| Ink                    | —            | 10 GP    |
-| Ink Pen                | —            | 2 CP     |
-| Jug                    | 4 lb.        | 2 CP     |
-| Ladder                 | 25 lb.       | 1 SP     |
-| Lamp                   | 1 lb.        | 5 SP     |
-| Lantern, Bullseye      | 2 lb.        | 10 GP    |
-| Lantern, Hooded        | 2 lb.        | 5 GP     |
-| Lock                   | 1 lb.        | 10 GP    |
-| Magnifying Glass       | —            | 100 GP   |
-| Manacles               | 6 lb.        | 2 GP     |
-| Map                    | —            | 1 GP     |
-| Mirror                 | 1/2 lb.      | 5 GP     |
-| Net                    | 3 lb.        | 1 GP     |
-| Oil                    | 1 lb.        | 1 SP     |
-| Paper                  | —            | 2 SP     |
-| Parchment              | —            | 1 SP     |
-| Perfume                | —            | 5 GP     |
-| Poison, Basic          | —            | 100 GP   |
-| Pole                   | 7 lb.        | 5 CP     |
-| Pot, Iron              | 10 lb.       | 2 GP     |
-| Potion of Healing      | 1/2 lb.      | 50 GP    |
-| Pouch                  | 1 lb.        | 5 SP     |
-| Priest's Pack          | 29 lb.       | 33 GP    |
-| Quiver                 | 1 lb.        | 1 GP     |
-| Ram, Portable          | 35 lb.       | 4 GP     |
-| Rations                | 2 lb.        | 5 SP     |
-| Robe                   | 4 lb.        | 1 GP     |
-| Rope                   | 5 lb.        | 1 GP     |
-| Sack                   | 1/2 lb.      | 1 CP     |
-| Scholar's Pack         | 22 lb.       | 40 GP    |
-| Shovel                 | 5 lb.        | 2 GP     |
-| Signal Whistle         | —            | 5 CP     |
-| Spell Scroll (Cantrip) | —            | 30 GP    |
-| Spell Scroll (Level 1) | —            | 50 GP    |
-| Spikes, Iron           | 5 lb.        | 1 GP     |
-| Spyglass               | 1 lb.        | 1,000 GP |
-| String                 | —            | 1 SP     |
-| Tent                   | 20 lb.       | 2 GP     |
-| Tinderbox              | 1 lb.        | 5 SP     |
-| Torch                  | 1 lb.        | 1 CP     |
-| Vial                   | —            | 1 GP     |
-| Waterskin              | 5 lb. (full) | 2 SP     |
+**Использование:** Сыграть знакомую мелодию (СЛ 10) или импровизировать песню (СЛ 15)
 
-Table: Ammunition
+**Варианты:** Волынка (30 зм, 6 фнт.), барабан (6 зм, 3 фнт.), цимбалы (25 зм, 10 фнт.), флейта (2 зм, 1 фнт.), рожок (3 зм, 2 фнт.), лютня (35 зм, 2 фнт.), лира (30 зм, 2 фнт.), свирель (12 зм, 2 фнт.), шалмей (2 зм, 1 фнт.), виола (30 зм, 1 фнт.)
 
-| Type             | Amount | Storage | Weight | Cost |
-|------------------|--------|---------|--------|------|
-| Arrows           | 20     | Quiver  | 1 lb.  | 1 GP |
-| Bolts            | 20     | Case    | 1½ lb. | 1 GP |
-| Bullets, Firearm | 10     | Pouch   | 2 lb.  | 3 GP |
-| Bullets, Sling   | 20     | Pouch   | 1½ lb. | 4 CP |
-| Needles          | 50     | Pouch   | 1 lb.  | 1 GP |
+#### Навигационные инструменты (25 зм)
 
-#### Antitoxin (50 GP)
+**Характеристика:** Мудрость
 
-As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.
+**Вес:** 2 фнт.
 
-#### Arcane Focus (Varies)
+**Использование:** Проложить курс (СЛ 10) или определить местоположение по звёздам (СЛ 15)
 
-An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.
+#### Набор отравителя (50 зм)
 
-Table: Arcane Focuses
+**Характеристика:** Интеллект
 
-| Focus                       | Weight | Cost  |
-|-----------------------------|--------|-------|
-| Crystal                     | 1 lb.  | 10 GP |
-| Orb                         | 3 lb.  | 20 GP |
-| Rod                         | 2 lb.  | 10 GP |
-| Staff (also a Quarterstaff) | 4 lb.  | 5 GP  |
-| Wand                        | 1 lb.  | 10 GP |
+**Вес:** 2 фнт.
 
-#### Backpack (2 GP)
+**Использование:** Обнаружить отравленный предмет (СЛ 10)
 
-A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.
+**Создание:** Простой яд
 
-#### Ball Bearings (1 GP)
+#### Воровские инструменты (25 зм)
 
-As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-footsquare area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.
+**Характеристика:** Ловкость
 
-#### Barrel (2 GP)
+**Вес:** 1 фнт.
 
-A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.
+**Использование:** Вскрыть замок (СЛ 15) или обезвредить ловушку (СЛ 15)
 
-#### Basket (4 SP)
+## Снаряжение искателя приключений
 
-A Basket holds up to 40 pounds within 2 cubic feet.
+В таблице «Снаряжение искателя приключений» в этом разделе перечислено снаряжение, которое искатели приключений часто находят полезным. Эти предметы описаны здесь в алфавитном порядке, с ценой предмета после его названия.
 
-#### Bedroll (1 GP)
+#### Кислота (25 зм)
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see "Gameplay Toolbox").
+Когда вы совершаете действие Атака, вы можете заменить одну из своих атак бросанием флакона кислоты. Выберите цель — одно существо или предмет, которые вы видите в пределах 20 футов от себя. Цель должна преуспеть в спасброске Ловкости (СЛ 8 плюс ваш модификатор Ловкости и бонус мастерства) или получить 2d6 урона кислотой.
 
-#### Bell (1 GP)
+#### Алхимический огонь (50 зм)
 
-When rung as a Utilize action, a Bell produces a sound that can be heard up to 60 feet away.
+Когда вы совершаете действие Атака, вы можете заменить одну из своих атак бросанием фляги с алхимическим огнём. Выберите цель — одно существо или предмет, которые вы видите в пределах 20 футов от себя. Цель должна преуспеть в спасброске Ловкости (СЛ 8 плюс ваш модификатор Ловкости и бонус мастерства) или получить 1d4 урона огнём и начать гореть (см. «Глоссарий правил»).
 
-#### Blanket (5 SP)
+#### Боеприпасы (разная)
 
-While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see "Gameplay Toolbox").
+Боеприпасы требуются для оружия со свойством «Боеприпас». Описание оружия указывает тип используемых боеприпасов. В таблице «Боеприпасы» перечислены различные типы и количество, которое вы получаете при покупке. В таблице также указан предмет, обычно используемый для хранения каждого типа; хранилище нужно покупать отдельно.
 
-#### Block and Tackle (1 GP)
+Таблица: Снаряжение искателя приключений
 
-A Block and Tackle allows you to hoist up to four times the weight you can normally lift.
+| Предмет | Вес | Цена |
+|---------|-----|------|
+| Кислота | 1 фнт. | 25 зм |
+| Алхимический огонь | 1 фнт. | 50 зм |
+| Боеприпасы | Разный | Разная |
+| Противоядие | — | 50 зм |
+| Магический фокус | Разный | Разная |
+| Рюкзак | 5 фнт. | 2 зм |
+| Металлические шарики | 2 фнт. | 1 зм |
+| Бочка | 70 фнт. | 2 зм |
+| Корзина | 2 фнт. | 4 см |
+| Спальник | 7 фнт. | 1 зм |
+| Колокольчик | — | 1 зм |
+| Одеяло | 3 фнт. | 5 см |
+| Блок и полиспаст | 5 фнт. | 1 зм |
+| Книга | 5 фнт. | 25 зм |
+| Бутылка стеклянная | 2 фнт. | 2 зм |
+| Ведро | 2 фнт. | 5 мм |
+| Набор взломщика | 42 фнт. | 16 зм |
+| Шипы | 2 фнт. | 1 зм |
+| Свеча | — | 1 мм |
+| Футляр для арбалетных болтов | 1 фнт. | 1 зм |
+| Футляр для карты или свитка | 1 фнт. | 1 зм |
+| Цепь | 10 фнт. | 5 зм |
+| Сундук | 25 фнт. | 5 зм |
+| Набор для лазания | 12 фнт. | 25 зм |
+| Одежда, изысканная | 6 фнт. | 15 зм |
+| Одежда, дорожная | 4 фнт. | 2 зм |
+| Мешочек с компонентами | 2 фнт. | 25 зм |
+| Костюм | 4 фнт. | 5 зм |
+| Ломик | 5 фнт. | 2 зм |
+| Набор дипломата | 39 фнт. | 39 зм |
+| Друидический фокус | Разный | Разная |
+| Набор исследователя подземелий | 55 фнт. | 12 зм |
+| Набор артиста | 58½ фнт. | 40 зм |
+| Набор путешественника | 55 фнт. | 10 зм |
+| Фляга | 1 фнт. | 2 мм |
+| Крюк-кошка | 4 фнт. | 2 зм |
+| Набор целителя | 3 фнт. | 5 зм |
+| Священный символ | Разный | Разная |
+| Святая вода | 1 фнт. | 25 зм |
+| Охотничий капкан | 25 фнт. | 5 зм |
+| Чернила | — | 10 зм |
+| Чернильная ручка | — | 2 мм |
+| Кувшин | 4 фнт. | 2 мм |
+| Лестница | 25 фнт. | 1 см |
+| Лампа | 1 фнт. | 5 см |
+| Фонарь, бычий | 2 фнт. | 10 зм |
+| Фонарь, закрытый | 2 фнт. | 5 зм |
+| Замок | 1 фнт. | 10 зм |
+| Увеличительное стекло | — | 100 зм |
+| Кандалы | 6 фнт. | 2 зм |
+| Карта | — | 1 зм |
+| Зеркало | 1/2 фнт. | 5 зм |
+| Сеть | 3 фнт. | 1 зм |
+| Масло | 1 фнт. | 1 см |
+| Бумага | — | 2 см |
+| Пергамент | — | 1 см |
+| Духи | — | 5 зм |
+| Яд, простой | — | 100 зм |
+| Шест | 7 фнт. | 5 мм |
+| Котелок, железный | 10 фнт. | 2 зм |
+| Зелье лечения | 1/2 фнт. | 50 зм |
+| Кошель | 1 фнт. | 5 см |
+| Набор жреца | 29 фнт. | 33 зм |
+| Колчан | 1 фнт. | 1 зм |
+| Таран, переносной | 35 фнт. | 4 зм |
+| Рационы | 2 фнт. | 5 см |
+| Ряса | 4 фнт. | 1 зм |
+| Верёвка | 5 фнт. | 1 зм |
+| Мешок | 1/2 фнт. | 1 мм |
+| Набор учёного | 22 фнт. | 40 зм |
+| Лопата | 5 фнт. | 2 зм |
+| Сигнальный свисток | — | 5 мм |
+| Свиток заклинания (заговор) | — | 30 зм |
+| Свиток заклинания (1 уровень) | — | 50 зм |
+| Шипы, железные | 5 фнт. | 1 зм |
+| Подзорная труба | 1 фнт. | 1000 зм |
+| Бечёвка | — | 1 см |
+| Палатка | 20 фнт. | 2 зм |
+| Трутница | 1 фнт. | 5 см |
+| Факел | 1 фнт. | 1 мм |
+| Флакон | — | 1 зм |
+| Бурдюк | 5 фнт. (полный) | 2 см |
 
-#### Book (25 GP)
+Таблица: Боеприпасы
 
-A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence (Arcana, History, Nature, or Religion) checks you make about that topic.
+| Тип | Количество | Хранение | Вес | Цена |
+|-----|------------|----------|-----|------|
+| Стрелы | 20 | Колчан | 1 фнт. | 1 зм |
+| Болты | 20 | Футляр | 1½ фнт. | 1 зм |
+| Пули огнестрельные | 10 | Кошель | 2 фнт. | 3 зм |
+| Снаряды для пращи | 20 | Кошель | 1½ фнт. | 4 мм |
+| Иглы | 50 | Кошель | 1 фнт. | 1 зм |
 
-#### Bottle, Glass (2 GP)
+#### Противоядие (50 зм)
 
-A Glass Bottle holds up to 1 1/2 pints.
+Бонусным действием вы можете выпить флакон противоядия, чтобы получить преимущество на спасброски, чтобы избежать или прекратить состояние «отравленный», на 1 час.
 
-#### Bucket (5 CP)
+#### Магический фокус (разная)
 
-A Bucket holds up to half a cubic foot of contents.
+Магический фокус принимает одну из форм в таблице «Магические фокусы» и украшен драгоценными камнями или резьбой для направления тайной магии. Чародей, колдун или волшебник может использовать такой предмет в качестве фокуса для заклинаний.
 
-#### Burglar's Pack (16 GP)
+Таблица: Магические фокусы
 
-A Burglar's Pack contains the following items: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 flasks of Oil, 5 days of Rations, Rope, Tinderbox, and Waterskin.
+| Фокус | Вес | Цена |
+|-------|-----|------|
+| Кристалл | 1 фнт. | 10 зм |
+| Сфера | 3 фнт. | 20 зм |
+| Скипетр | 2 фнт. | 10 зм |
+| Посох (также боевой посох) | 4 фнт. | 5 зм |
+| Жезл | 1 фнт. | 10 зм |
 
-#### Caltrops (1 GP)
+#### Рюкзак (2 зм)
 
-As a Utilize action, you can spread Caltrops from their bag to cover a 5-foot-square area within 5 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
+Рюкзак вмещает до 30 фунтов в пределах 1 кубического фута. Он также может служить седельной сумкой.
 
-#### Candle (1 CP)
+#### Металлические шарики (1 зм)
 
-For 1 hour, a lit Candle sheds Bright Light in a 5-foot radius and Dim Light for an additional 5 feet.
+Действием Использование вы можете высыпать металлические шарики из их мешочка. Они распределяются, покрывая ровную квадратную область 10 футов в пределах 10 футов от вас. Существо, впервые за ход входящее в эту область, должно преуспеть в спасброске Ловкости СЛ 10 или получить состояние «лежащий». Требуется 10 минут, чтобы собрать шарики.
 
-#### Case, Crossbow Bolt (1 GP)
+#### Бочка (2 зм)
 
-A Crossbow Bolt Case holds up to 20 Bolts.
+Бочка вмещает до 40 галлонов жидкости или до 4 кубических футов сухих грузов.
 
-#### Case, Map or Scroll (1 GP)
+#### Корзина (4 см)
 
-A Map or Scroll Case holds up to 10 sheets of paper or 5 sheets of parchment.
+Корзина вмещает до 40 фунтов в пределах 2 кубических футов.
 
-#### Chain (5 GP)
+#### Спальник (1 зм)
 
-As a Utilize action, you can wrap a Chain around an unwilling creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
+В спальнике помещается одно существо размера Маленький или Средний. Находясь в спальнике, вы автоматически преуспеваете в спасбросках от экстремального холода (см. «Инструментарий игрового процесса»).
 
-#### Chest (5 GP)
+#### Колокольчик (1 зм)
 
-A Chest holds up to 12 cubic feet of contents.
+Когда вы звоните в колокольчик действием Использование, он издаёт звук, слышимый на расстоянии до 60 футов.
 
-#### Climber's Kit (25 GP)
+#### Одеяло (5 см)
 
-A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 25 feet from the anchor point, and you can't move more than 25 feet from there without undoing the anchor as a Bonus Action.
+Закутавшись в одеяло, вы совершаете с преимуществом спасброски от экстремального холода (см. «Инструментарий игрового процесса»).
 
-#### Clothes, Fine (15 GP)
+#### Блок и полиспаст (1 зм)
 
-Fine Clothes are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing these clothes.
+Блок и полиспаст позволяет вам поднимать в четыре раза больший вес, чем обычно.
 
-#### Clothes, Traveler's (2 GP)
+#### Книга (25 зм)
 
-Traveler's Clothes are resilient garments designed for travel in various environments.
+Книга содержит художественную или научную литературу. Если вы сверяетесь с точной научной книгой по её теме, вы получаете бонус +5 к проверкам Интеллекта (Магия, История, Природа или Религия), которые вы совершаете по этой теме.
 
-#### Component Pouch (25 GP)
+#### Бутылка стеклянная (2 зм)
 
-A Component Pouch is watertight and filled with compartments that hold all the free Material components of your spells.
+Стеклянная бутылка вмещает до 1½ пинт.
 
-#### Costume (5 GP)
+#### Ведро (5 мм)
 
-While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.
+Ведро вмещает до половины кубического фута содержимого.
 
-#### Crowbar (2 GP)
+#### Набор взломщика (16 зм)
 
-Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.
+Набор взломщика содержит следующие предметы: рюкзак, металлические шарики, колокольчик, 10 свечей, ломик, закрытый фонарь, 7 фляг масла, 5 дней рационов, верёвка, трутница и бурдюк.
 
-#### Diplomat's Pack (39 GP)
+#### Шипы (1 зм)
 
-A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.
+Действием Использование вы можете рассыпать шипы из их мешка, покрывая квадратную область 5 футов в пределах 5 футов от себя. Существо, впервые за ход входящее в эту область, должно преуспеть в спасброске Ловкости СЛ 15 или получить 1 колющего урона и иметь скорость, уменьшенную до 0 до начала своего следующего хода. Требуется 10 минут, чтобы собрать шипы.
 
-#### Druidic Focus (Varies)
+#### Свеча (1 мм)
 
-A Druidic Focus takes one of the forms in the Druidic Focuses table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.
+В течение 1 часа зажжённая свеча излучает яркий свет в радиусе 5 футов и тусклый свет ещё на 5 футов.
 
-Table: Druidic Focuses
+#### Футляр для арбалетных болтов (1 зм)
 
-| Focus                              | Weight | Cost  |
-|------------------------------------|--------|-------|
-| Sprig of mistletoe                 | —      | 1 GP  |
-| Wooden staff (also a Quarterstaff) | 4 lb.  | 5 GP  |
-| Yew wand                           | 1 lb.  | 10 GP |
+Футляр для арбалетных болтов вмещает до 20 болтов.
 
-#### Dungeoneer's Pack (12 GP)
+#### Футляр для карты или свитка (1 зм)
 
-A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10
+Футляр для карты или свитка вмещает до 10 листов бумаги или 5 листов пергамента.
 
-days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+#### Цепь (5 зм)
 
-#### Entertainer's Pack (40 GP)
+Действием Использование вы можете обмотать цепью несогласное существо в пределах 5 футов от себя, имеющее состояние «схваченный», «недееспособный» или «опутанный», если преуспеете в проверке Силы (Атлетика) СЛ 13. Если ноги существа связаны, оно получает состояние «опутанный», пока не освободится. Освобождение от цепи требует от существа успешной проверки Ловкости (Акробатика) СЛ 18 действием. Разрыв цепи требует успешной проверки Силы (Атлетика) СЛ 20 действием.
 
-An Entertainer's Pack contains the following items: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 flasks of Oil, 9 days of Rations, Tinderbox, and Waterskin.
+#### Сундук (5 зм)
 
-#### Explorer's Pack (10 GP)
+Сундук вмещает до 12 кубических футов содержимого.
 
-An Explorer's Pack contains the following items: Backpack, Bedroll, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+#### Набор для лазания (25 зм)
 
-#### Flask (2 CP)
+Набор для лазания включает накладки на ботинки, перчатки, крючья и обвязку. Действием Использование вы можете использовать набор для лазания, чтобы закрепиться; когда вы делаете это, вы не можете упасть более чем на 25 футов от точки крепления и не можете отойти более чем на 25 футов от неё, пока не отстегнёте крепление бонусным действием.
 
-A Flask holds up to 1 pint.
+#### Одежда, изысканная (15 зм)
 
-#### Grappling Hook (2 GP)
+Изысканная одежда сшита из дорогих тканей и украшена мастерски выполненными деталями. На некоторые мероприятия и в некоторые места допускаются только люди в такой одежде.
 
-As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or another catch within 50 feet of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a Rope to the hook, you can then climb it.
+#### Одежда, дорожная (2 зм)
 
-#### Healer's Kit (5 GP)
+Дорожная одежда — это прочная одежда, предназначенная для путешествий в различных условиях.
 
-A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
+#### Мешочек с компонентами (25 зм)
 
-#### Holy Symbol (Varies)
+Мешочек с компонентами водонепроницаем и наполнен отделениями, в которых хранятся все бесплатные материальные компоненты ваших заклинаний.
 
-A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.
+#### Костюм (5 зм)
 
-The table indicates whether a Holy Symbol needs to be held, worn, or borne on fabric (such as a tabard or banner) or a Shield.
+Нося костюм, вы совершаете с преимуществом любую проверку характеристики для имитации человека или типа людей, которых он представляет.
 
-Table: Holy Symbols
+#### Ломик (2 зм)
 
-| Symbol                               | Weight | Cost |
-|--------------------------------------|--------|------|
-| Amulet (worn or held)                | 1 lb.  | 5 GP |
-| Emblem (borne on fabric or a Shield) | —      | 5 GP |
-| Reliquary (held)                     | 2 lb.  | 5 GP |
+Использование ломика даёт вам преимущество на проверки Силы, где можно применить рычаг ломика.
 
-#### Holy Water (25 GP)
+#### Набор дипломата (39 зм)
 
-When you take the Attack action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d8 Radiant damage if it is a Fiend or an Undead.
+Набор дипломата содержит следующие предметы: сундук, изысканная одежда, чернила, 5 чернильных ручек, лампа, 2 футляра для карты или свитка, 4 фляги масла, 5 листов бумаги, 5 листов пергамента, духи и трутница.
 
-#### Hunting Trap (5 GP)
+#### Друидический фокус (разная)
 
-As a Utilize action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center.
+Друидический фокус принимает одну из форм в таблице «Друидические фокусы» и вырезан, перевязан лентой или раскрашен для направления первозданной магии. Друид или следопыт может использовать такой предмет в качестве фокуса для заклинаний.
 
-The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
+Таблица: Друидические фокусы
 
-#### Ink (10 GP)
+| Фокус | Вес | Цена |
+|-------|-----|------|
+| Веточка омелы | — | 1 зм |
+| Деревянный посох (также боевой посох) | 4 фнт. | 5 зм |
+| Тисовый жезл | 1 фнт. | 10 зм |
 
-Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 pages.
+#### Набор исследователя подземелий (12 зм)
 
-#### Ink Pen (2 CP)
+Набор исследователя подземелий содержит следующие предметы: рюкзак, шипы, ломик, 2 фляги масла, 10 дней рационов, верёвка, трутница, 10 факелов и бурдюк.
 
-Using Ink, an Ink Pen is used to write or draw.
+#### Набор артиста (40 зм)
 
-#### Jug (2 CP)
+Набор артиста содержит следующие предметы: рюкзак, спальник, колокольчик, бычий фонарь, 3 костюма, зеркало, 8 фляг масла, 9 дней рационов, трутница и бурдюк.
 
-A Jug holds up to 1 gallon.
+#### Набор путешественника (10 зм)
 
-#### Ladder (1 SP)
+Набор путешественника содержит следующие предметы: рюкзак, спальник, 2 фляги масла, 10 дней рационов, верёвка, трутница, 10 факелов и бурдюк.
 
-A Ladder is 10 feet tall. You must climb to move up or down it.
+#### Фляга (2 мм)
 
-#### Lamp (5 SP)
+Фляга вмещает до 1 пинты.
 
-A Lamp burns Oil as fuel to cast Bright Light in a 15 foot radius and Dim Light for an additional 30 feet.
+#### Крюк-кошка (2 зм)
 
-#### Lantern, Bullseye (10 GP)
+Действием Использование вы можете бросить крюк-кошку на перила, выступ или другой уступ в пределах 50 футов от себя, и крюк зацепится, если вы преуспеете в проверке Ловкости (Акробатика) СЛ 13. Если вы привязали верёвку к крюку, вы можете взобраться по ней.
 
-A Bullseye Lantern burns Oil as fuel to cast Bright Light in a 60-foot Cone and Dim Light for an additional 60 feet.
+#### Набор целителя (5 зм)
 
-#### Lantern, Hooded (5 GP)
+Набор целителя имеет десять использований. Действием Использование вы можете израсходовать одно использование, чтобы стабилизировать существо без сознания с 0 хитов, не совершая проверку Мудрости (Медицина).
 
-A Hooded Lantern burns Oil as fuel to cast Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. As a Bonus Action, you can lower the hood, reducing the light to Dim Light in a 5-foot radius, or raise it again.
+#### Священный символ (разная)
 
-#### Lock (10 GP)
+Священный символ принимает одну из форм в таблице «Священные символы» и украшен драгоценными камнями или раскрашен для направления божественной магии. Жрец или паладин может использовать священный символ в качестве фокуса для заклинаний.
 
-A Lock comes with a key. Without the key, a creature can use Thieves' Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+В таблице указано, нужно ли держать священный символ, носить его или помещать на ткань (такую как накидка или знамя) или щит.
 
-#### Magnifying Glass (100 GP)
+Таблица: Священные символы
 
-A Magnifying Glass grants Advantage on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
+| Символ | Вес | Цена |
+|--------|-----|------|
+| Амулет (носимый или держимый) | 1 фнт. | 5 зм |
+| Эмблема (на ткани или щите) | — | 5 зм |
+| Реликварий (держимый) | 2 фнт. | 5 зм |
 
-#### Manacles (2 GP)
+#### Святая вода (25 зм)
 
-As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13
+Когда вы совершаете действие Атака, вы можете заменить одну из своих атак бросанием фляги со святой водой. Выберите цель — одно существо, которое вы видите в пределах 20 футов от себя. Цель должна преуспеть в спасброске Ловкости (СЛ 8 плюс ваш модификатор Ловкости и бонус мастерства) или получить 2d8 урона излучением, если это исчадие или нежить.
 
-Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
+#### Охотничий капкан (5 зм)
 
-Each set of Manacles comes with a key. Without the key, a creature can use Thieves' Tools to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+Действием Использование вы можете установить охотничий капкан — зубчатое стальное кольцо, которое защёлкивается, когда существо наступает на центральную пластину.
 
-#### Map (1 GP)
+Капкан прикреплён тяжёлой цепью к неподвижному объекту, такому как дерево или вбитый в землю кол. Существо, наступившее на пластину, должно преуспеть в спасброске Ловкости СЛ 13 или получить 1d4 колющего урона и иметь скорость, уменьшенную до 0 до начала своего следующего хода. После этого, пока существо не освободится от капкана, его перемещение ограничено длиной цепи (обычно 3 фута). Существо может действием совершить проверку Силы (Атлетика) СЛ 13, освобождая себя или другое существо в пределах досягаемости при успехе. Каждая неудачная проверка наносит 1 колющего урона попавшемуся существу.
 
-If you consult an accurate Map, you gain a +5 bonus to Wisdom (Survival) checks you make to find your way in the place represented on it.
+#### Чернила (10 зм)
 
-#### Mirror (5 GP)
+Чернила поставляются во флаконе объёмом 1 унция, которого хватает примерно на 500 страниц.
 
-A handheld steel Mirror is useful for personal cosmetics but also for peeking around corners and reflecting light as a signal.
+#### Чернильная ручка (2 мм)
 
-#### Net (1 GP)
+С использованием чернил чернильная ручка используется для письма или рисования.
 
-When you take the Attack action, you can replace one of your attacks with throwing a Net. Target a creature you can see within 15 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger.
+#### Кувшин (2 мм)
 
-To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
+Кувшин вмещает до 1 галлона.
 
-#### Oil (1 SP)
+#### Лестница (1 см)
 
-You can douse a creature, object, or space with Oil or use it as fuel, as detailed below.
+Лестница имеет высоту 10 футов. Вы должны карабкаться, чтобы двигаться вверх или вниз по ней.
 
-**Dousing a Creature or an Object.** When you take the Attack action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil.
+#### Лампа (5 см)
 
-**Dousing a Space.** You can take the Utilize action to pour an Oil flask on level ground to cover a 5-foot-square area within 5 feet of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
+Лампа сжигает масло в качестве топлива и излучает яркий свет в радиусе 15 футов и тусклый свет ещё на 30 футов.
 
-**Fuel.** Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.
+#### Фонарь, бычий (10 зм)
 
-#### Paper (2 SP)
+Бычий фонарь сжигает масло в качестве топлива и излучает яркий свет 60-футовым конусом и тусклый свет ещё на 60 футов.
 
-One sheet of Paper can hold about 250 handwritten words.
+#### Фонарь, закрытый (5 зм)
 
-#### Parchment (1 SP)
+Закрытый фонарь сжигает масло в качестве топлива и излучает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. Бонусным действием вы можете опустить шторку, уменьшая свет до тусклого в радиусе 5 футов, или поднять её снова.
 
-One sheet of Parchment can hold about 250 handwritten words.
+#### Замок (10 зм)
 
-#### Perfume (5 GP)
+Замок поставляется с ключом. Без ключа существо может использовать воровские инструменты, чтобы вскрыть этот замок успешной проверкой Ловкости (Ловкость рук) СЛ 15.
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
+#### Увеличительное стекло (100 зм)
 
-#### Poison, Basic (100 GP)
+Увеличительное стекло даёт преимущество на любую проверку характеристики для оценки или осмотра высокодетализированного предмета. Для разжигания огня с помощью увеличительного стекла требуется свет яркий, как солнечный, чтобы сфокусировать его, трут для воспламенения и около 5 минут, чтобы огонь загорелся.
 
-As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition. A creature that takes Piercing or Slashing damage from the poisoned weapon or ammunition takes an extra 1d4 Poison damage. Once applied, the poison retains potency for 1 minute or until its damage is dealt, whichever comes first.
+#### Кандалы (2 зм)
 
-#### Pole (5 CP)
+Действием Использование вы можете использовать кандалы, чтобы связать несогласное существо размера Маленький или Средний в пределах 5 футов от себя, имеющее состояние «схваченный», «недееспособный» или «опутанный», если преуспеете в проверке Ловкости (Ловкость рук) СЛ 13. Пока существо связано, оно совершает с помехой броски атаки, и существо опутано, если кандалы прикреплены к цепи или крюку, закреплённому на месте. Освобождение от кандалов требует успешной проверки Ловкости (Ловкость рук) СЛ 20 действием. Разрыв их требует успешной проверки Силы (Атлетика) СЛ 25 действием.
 
-A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength (Athletics) check as part of a High or Long Jump, you can use the Pole to vault, giving yourself Advantage on the check.
+Каждый комплект кандалов поставляется с ключом. Без ключа существо может использовать воровские инструменты, чтобы вскрыть замок кандалов успешной проверкой Ловкости (Ловкость рук) СЛ 15.
 
-#### Pot, Iron (2 GP)
+#### Карта (1 зм)
 
-An Iron Pot holds up to 1 gallon.
+Если вы сверяетесь с точной картой, вы получаете бонус +5 к проверкам Мудрости (Выживание), которые вы совершаете, чтобы найти путь в месте, изображённом на ней.
 
-#### Potion of Healing (50 GP)
+#### Зеркало (5 зм)
 
-This potion is a magic item. As a Bonus Action, you can drink it or administer it to another creature within 5 feet of yourself. The creature that drinks the magical red fluid in this vial regains 2d4 + 2 Hit Points.
+Ручное стальное зеркало полезно для личной косметики, но также для заглядывания за углы и отражения света в качестве сигнала.
 
-#### Pouch (5 SP)
+#### Сеть (1 зм)
 
-A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
+Когда вы совершаете действие Атака, вы можете заменить одну из своих атак бросанием сети. Выберите цель — существо, которое вы видите в пределах 15 футов от себя. Цель должна преуспеть в спасброске Ловкости (СЛ 8 плюс ваш модификатор Ловкости и бонус мастерства) или получить состояние «опутанный», пока не освободится. Цель преуспевает автоматически, если она размера Огромный или больше.
 
-#### Priest's Pack (33 GP)
+Чтобы освободиться, цель или существо в пределах 5 футов от неё должно действием совершить проверку Силы (Атлетика) СЛ 10, освобождая опутанное существо при успехе. Уничтожение сети (КД 10; 5 хитов; иммунитет к дробящему, ядовитому и психическому урону) также освобождает цель, завершая эффект.
 
-A Priest's Pack contains the following items: Backpack, Blanket, Holy Water, Lamp, 7 days of Rations, Robe, and Tinderbox.
+#### Масло (1 см)
 
-#### Quiver (1 GP)
+Вы можете облить маслом существо, предмет или пространство или использовать его как топливо, как описано ниже.
 
-A Quiver holds up to 20 Arrows.
+**Обливание существа или предмета.** Когда вы совершаете действие Атака, вы можете заменить одну из своих атак бросанием фляги с маслом. Выберите цель — одно существо или предмет в пределах 20 футов от себя. Цель должна преуспеть в спасброске Ловкости (СЛ 8 плюс ваш модификатор Ловкости и бонус мастерства) или быть облитой маслом. Если цель получает урон огнём до того, как масло высохнет (через 1 минуту), цель получает дополнительно 5 урона огнём от горящего масла.
 
-#### Ram, Portable (4 GP)
+**Обливание пространства.** Вы можете действием Использование вылить флягу масла на ровную поверхность, покрывая квадратную область 5 футов в пределах 5 футов от себя. Если подожжено, масло горит до конца хода через 2 раунда после поджигания (или 12 секунд) и наносит 5 урона огнём любому существу, которое входит в область или заканчивает в ней свой ход. Существо может получить этот урон только один раз в ход.
 
-You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you Advantage on this check.
+**Топливо.** Масло служит топливом для ламп и фонарей. После поджигания фляга масла горит 6 часов в лампе или фонаре. Это время не обязательно должно быть непрерывным; вы можете потушить горящее масло (действием Использование) и снова зажечь его, пока оно не прогорит в общей сложности 6 часов.
 
-#### Rations (5 SP)
+#### Бумага (2 см)
 
-Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "Malnutrition" in "Rules Glossary" for the risks of not eating.
+На одном листе бумаги помещается около 250 слов, написанных от руки.
 
-#### Robe (1 GP)
+#### Пергамент (1 см)
 
-A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.
+На одном листе пергамента помещается около 250 слов, написанных от руки.
 
-#### Rope (1 GP)
+#### Духи (5 зм)
 
-As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
+Духи поставляются во флаконе объёмом 4 унции. В течение 1 часа после нанесения духов на себя вы совершаете с преимуществом проверки Харизмы (Убеждение) для воздействия на безразличного гуманоида в пределах 5 футов от вас.
 
-You can bind an unwilling creature with the Rope only if the creature has the Grappled, Incapacitated, or Restrained condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
+#### Яд, простой (100 зм)
 
-#### Sack (1 CP)
+Бонусным действием вы можете использовать флакон простого яда, чтобы покрыть одно оружие или до трёх единиц боеприпасов. Существо, получающее колющий или рубящий урон от отравленного оружия или боеприпасов, получает дополнительно 1d4 урона ядом. После нанесения яд сохраняет действие в течение 1 минуты или пока его урон не будет нанесён, в зависимости от того, что наступит раньше.
 
-A Sack holds up to 30 pounds within 1 cubic foot.
+#### Шест (5 мм)
 
-#### Scholar's Pack (40 GP)
+Шест имеет длину 10 футов. Вы можете использовать его, чтобы коснуться чего-либо на расстоянии до 10 футов. Если вы должны совершить проверку Силы (Атлетика) как часть прыжка в высоту или в длину, вы можете использовать шест для прыжка с шестом, давая себе преимущество на проверку.
 
-A Scholar's Pack contains the following items: Backpack, Book, Ink, Ink Pen, Lamp, 10 flasks of Oil, 10 sheets of Parchment, and Tinderbox.
+#### Котелок, железный (2 зм)
 
-#### Shovel (2 GP)
+Железный котелок вмещает до 1 галлона.
 
-Working for 1 hour, you can use a Shovel to dig a hole that is 5 feet on each side in soil or similar material.
+#### Зелье лечения (50 зм)
 
-#### Signal Whistle (5 CP)
+Это зелье является магическим предметом. Бонусным действием вы можете выпить его или дать другому существу в пределах 5 футов от себя. Существо, выпившее магическую красную жидкость в этом флаконе, восстанавливает 2d4 + 2 хитов.
 
-When blown as a Utilize action, a Signal Whistle produces a sound that can be heard up to 600 feet away.
+#### Кошель (5 см)
 
-#### Spell Scroll (Cantrip, 30 GP; Level 1, 50 GP)
+Кошель вмещает до 6 фунтов в пределах одной пятой кубического фута.
 
-A *Spell Scroll* (Cantrip) or *Spell Scroll* (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
+#### Набор жреца (33 зм)
 
-If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.
+Набор жреца содержит следующие предметы: рюкзак, одеяло, святая вода, лампа, 7 дней рационов, ряса и трутница.
 
-#### Spikes, Iron (1 GP)
+#### Колчан (1 зм)
 
-Iron Spikes come in bundles of ten. As a Utilize action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a Rope or Chain to the Spike.
+Колчан вмещает до 20 стрел.
 
-#### Spyglass (1,000 GP)
+#### Таран, переносной (4 зм)
 
-Objects viewed through a Spyglass are magnified to twice their size.
+Вы можете использовать переносной таран, чтобы выбивать двери. При этом вы получаете бонус +4 к проверке Силы. Другой персонаж может помочь вам использовать таран, давая вам преимущество на эту проверку.
 
-#### String (1 SP)
+#### Рационы (5 см)
 
-String is 10 feet long. You can tie a knot in it as a Utilize action.
+Рационы состоят из готовой к путешествию пищи, включая вяленое мясо, сушёные фрукты, сухари и орехи. Смотрите «Недоедание» в «Глоссарии правил» для рисков отсутствия питания.
 
-#### Tent (2 GP)
+#### Ряса (1 зм)
 
-A Tent sleeps up to two Small or Medium creatures.
+Ряса имеет профессиональное или церемониальное значение. На некоторые мероприятия и в некоторые места допускаются только люди в рясе определённых цветов или символов.
 
-#### Tinderbox (5 SP)
+#### Верёвка (1 зм)
 
-A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a Candle, Lamp, Lantern, or Torch—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
+Действием Использование вы можете завязать узел на верёвке, если преуспеете в проверке Ловкости (Ловкость рук) СЛ 10. Верёвку можно разорвать успешной проверкой Силы (Атлетика) СЛ 20.
 
-#### Torch (1 CP)
+Вы можете связать несогласное существо верёвкой, только если существо имеет состояние «схваченный», «недееспособный» или «опутанный». Если ноги существа связаны, существо получает состояние «опутанный», пока не освободится. Освобождение от верёвки требует от существа успешной проверки Ловкости (Акробатика) СЛ 15 действием.
 
-A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. When you take the Attack action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+#### Мешок (1 мм)
 
-#### Vial (1 GP)
+Мешок вмещает до 30 фунтов в пределах 1 кубического фута.
 
-A Vial holds up to 4 ounces.
+#### Набор учёного (40 зм)
 
-#### Waterskin (2 SP)
+Набор учёного содержит следующие предметы: рюкзак, книга, чернила, чернильная ручка, лампа, 10 фляг масла, 10 листов пергамента и трутница.
 
-A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration (see "Rules Glossary").
+#### Лопата (2 зм)
 
-## Mounts and Vehicles
+Работая 1 час, вы можете использовать лопату, чтобы выкопать яму 5 футов с каждой стороны в почве или подобном материале.
 
-A mount can help you move more quickly through the wilderness, but its primary purpose is to carry gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's carrying capacity. See "Monsters" for the animals' stat blocks.
+#### Сигнальный свисток (5 мм)
 
-### Mounts and Cargo
+Когда вы дуете в свисток действием Использование, он издаёт звук, слышимый на расстоянии до 600 футов.
 
-An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, add their carrying capacities together.
+#### Свиток заклинания (заговор — 30 зм; 1 уровень — 50 зм)
 
-### Barding
+*Свиток заклинания* (заговор) или *свиток заклинания* (1 уровень) — это магический предмет, содержащий слова заговора или заклинания 1-го уровня соответственно, определённые создателем свитка. Если заклинание находится в списке заклинаний вашего класса, вы можете прочитать свиток и сотворить заклинание, используя его обычное время сотворения и без предоставления каких-либо материальных компонентов.
 
-Barding is armor designed for a mount. Any type of armor on the Armor table in "Equipment" can
+Если заклинание требует спасброска или броска атаки, СЛ спасброска равна 13, а бонус атаки равен +5. Свиток рассыпается, когда сотворение завершено.
 
-be purchased as barding. The cost is four times the normal cost, and it weighs twice as much.
+#### Шипы, железные (1 зм)
 
-### Saddles
+Железные шипы поставляются связками по десять штук. Действием Использование вы можете использовать тупой предмет, такой как лёгкий молот, чтобы вбить шип в дерево, землю или подобный материал. Вы можете сделать это, чтобы заклинить дверь или затем привязать к шипу верёвку или цепь.
 
-A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.
+#### Подзорная труба (1000 зм)
 
-Table: Mounts and Other Animals
+Предметы, рассматриваемые через подзорную трубу, увеличиваются в два раза.
 
-| Item          | Carrying Capacity | Cost   |
-|---------------|-------------------|--------|
-| Camel         | 450 lb.           | 50 GP  |
-| Elephant      | 1,320 lb.         | 200 GP |
-| Horse, Draft  | 540 lb.           | 50 GP  |
-| Horse, Riding | 480 lb.           | 75 GP  |
-| Mastiff       | 195 lb.           | 25 GP  |
-| Mule          | 420 lb.           | 8 GP   |
-| Pony          | 225 lb.           | 30 GP  |
-| Warhorse      | 540 lb.           | 400 GP |
+#### Бечёвка (1 см)
 
-Table: Tack, Harness, and Drawn Vehicles
+Бечёвка имеет длину 10 футов. Вы можете завязать на ней узел действием Использование.
 
-| Item              | Weight  | Cost   |
-|-------------------|---------|--------|
-| Carriage          | 600 lb. | 100 GP |
-| Cart              | 200 lb. | 15 GP  |
-| Chariot           | 100 lb. | 250 GP |
-| Feed per day      | 10 lb.  | 5 CP   |
-| Saddle - Exotic   | 40 lb.  | 60 GP  |
-| Saddle - Military | 30 lb.  | 20 GP  |
-| Saddle - Riding   | 25 lb.  | 10 GP  |
-| Sled              | 300 lb. | 20 GP  |
-| Stabling per day  | —       | 5 SP   |
-| Wagon             | 400 lb. | 35 GP  |
+#### Палатка (2 зм)
 
-### Large Vehicles
+Палатка вмещает до двух существ размера Маленький или Средний.
 
-The Airborne and Waterborne Vehicles table provides statistics for various types of large vehicles. The following notes apply.
+#### Трутница (5 см)
 
-#### Speed
+Трутница — это небольшой контейнер с кремнём, огнивом и трутом (обычно сухой тканью, пропитанной лёгким маслом), используемым для разжигания огня. Использование её для зажигания свечи, лампы, фонаря или факела — или чего-либо ещё с открытым топливом — занимает бонусное действие. Зажигание любого другого огня занимает 1 минуту.
 
-A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
+#### Факел (1 мм)
 
-Table: Airborne and Waterborne Vehicles
+Факел горит 1 час, излучая яркий свет в радиусе 20 футов и тусклый свет ещё на 20 футов. Когда вы совершаете действие Атака, вы можете атаковать факелом, используя его как простое оружие ближнего боя. При попадании цель получает 1 урона огнём.
 
-| Ship         | Speed  | Crew | Passengers | Cargo (Tons) | AC | HP  | Damage Threshold | Cost      |
-|--------------|--------|------|------------|--------------|----|-----|------------------|-----------|
-| Airship      | 8 mph  | 10   | 20         | 1            | 13 | 300 | —                | 40,000 GP |
-| Galley       | 4 mph  | 80   | —          | 150          | 15 | 500 | 20               | 30,000 GP |
-| Keelboat     | 1 mph  | 1    | 6          | 1/2          | 15 | 100 | 10               | 3,000 GP  |
-| Longship     | 3 mph  | 40   | 150        | 10           | 15 | 300 | 15               | 10,000 GP |
-| Rowboat      | 1½ mph | 1    | 3          | —            | 11 | 50  | —                | 50 GP     |
-| Sailing Ship | 2 mph  | 20   | 20         | 100          | 15 | 300 | 15               | 10,000 GP |
-| Warship      | 2½ mph | 60   | 60         | 200          | 15 | 500 | 20               | 25,000 GP |
+#### Флакон (1 зм)
 
-#### Crew
+Флакон вмещает до 4 унций.
 
-A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see "Hirelings" later in "Equipment") to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship, as shown in the table.
+#### Бурдюк (2 см)
 
-#### Passengers
+Бурдюк вмещает до 4 пинт. Если вы не пьёте достаточно воды, вы рискуете обезводиться (см. «Глоссарий правил»).
 
-The table lists the number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
+## Ездовые животные и транспорт
 
-#### Damage Threshold
+Ездовое животное может помочь вам двигаться быстрее по дикой местности, но его основная цель — нести снаряжение, которое иначе замедлило бы вас. В таблице «Ездовые и другие животные» показана грузоподъёмность каждого животного. Смотрите «Монстры» для блоков статистики животных.
 
-If a vehicle has a damage threshold (see "Rules Glossary"), it's noted in the table.
+### Ездовые животные и грузы
 
-#### Ship Repair
+Животное, тянущее карету, телегу, колесницу, сани или повозку, может перемещать вес, в пять раз превышающий его базовую грузоподъёмность, включая вес транспортного средства. Если несколько животных тянут одно транспортное средство, сложите их грузоподъёмности.
 
-Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
+### Доспехи для животных
 
-## Lifestyle Expenses
+Доспехи для животных — это доспехи, предназначенные для ездового животного. Любой тип доспехов из таблицы «Доспехи» в «Снаряжении» может быть приобретён как доспехи для животных. Стоимость в четыре раза больше обычной, а вес в два раза больше.
 
-Lifestyle expenses summarize the cost of living in a fantasy world. They cover lodging, food, equipment maintenance, and other necessities.
+### Сёдла
 
-At the start of each week or month (GM's choice), choose a lifestyle below—Wretched, Squalid, Poor, Modest, Comfortable, Wealthy, or Aristocratic—and pay the price to sustain that lifestyle.
+Седло поставляется с удилами, уздечкой, поводьями и другим снаряжением, необходимым для использования седла. Военное седло даёт преимущество на любую проверку характеристики, которую вы совершаете, чтобы остаться в седле. Экзотическое седло требуется для езды на водном или летающем ездовом животном.
 
-Lifestyles have no inherent consequences, but the GM might take them into account when determining risks or how others perceive your character.
+Таблица: Ездовые и другие животные
 
-### Wretched (Free)
+| Предмет | Грузоподъёмность | Цена |
+|---------|------------------|------|
+| Верблюд | 450 фнт. | 50 зм |
+| Слон | 1320 фнт. | 200 зм |
+| Лошадь, тягловая | 540 фнт. | 50 зм |
+| Лошадь, верховая | 480 фнт. | 75 зм |
+| Мастиф | 195 фнт. | 25 зм |
+| Мул | 420 фнт. | 8 зм |
+| Пони | 225 фнт. | 30 зм |
+| Боевой конь | 540 фнт. | 400 зм |
 
-You survive via chance and charity. You're often exposed to natural dangers as a result of sleeping outside.
+Таблица: Упряжь и гужевой транспорт
 
-### Squalid (1 SP per Day)
+| Предмет | Вес | Цена |
+|---------|-----|------|
+| Карета | 600 фнт. | 100 зм |
+| Телега | 200 фнт. | 15 зм |
+| Колесница | 100 фнт. | 250 зм |
+| Корм в день | 10 фнт. | 5 мм |
+| Седло, экзотическое | 40 фнт. | 60 зм |
+| Седло, военное | 30 фнт. | 20 зм |
+| Седло, верховое | 25 фнт. | 10 зм |
+| Сани | 300 фнт. | 20 зм |
+| Содержание в конюшне в день | — | 5 см |
+| Повозка | 400 фнт. | 35 зм |
 
-You spend the bare minimum for your necessities. You might be exposed to unhealthy conditions and opportunistic criminals.
+### Крупные транспортные средства
 
-### Poor (2 SP per Day)
+В таблице «Воздушные и водные транспортные средства» приведена статистика различных типов крупных транспортных средств. Применяются следующие примечания.
 
-You spend frugally for your necessities.
+#### Скорость
 
-### Modest (1 GP per Day)
+Корабль, идущий против сильного ветра, движется с половинной скоростью. В полный штиль (без ветра) водные суда не могут двигаться под парусом и должны идти на вёслах. Кили и шлюпки используются на озёрах и реках. При движении вниз по течению добавьте скорость течения (обычно 3 мили в час) к скорости транспортного средства. Эти суда нельзя грести против сильного течения, но их можно тянуть вверх по течению тягловыми животными на берегу. Шлюпку можно переносить, и она весит 100 фунтов.
 
-You support yourself at an average level.
+Таблица: Воздушные и водные транспортные средства
 
-### Comfortable (2 GP per Day)
+| Корабль | Скорость | Экипаж | Пассажиры | Груз (тонн) | КД | Хиты | Порог урона | Цена |
+|---------|----------|--------|-----------|-------------|----|----|-------------|------|
+| Дирижабль | 8 миль/ч | 10 | 20 | 1 | 13 | 300 | — | 40000 зм |
+| Галера | 4 мили/ч | 80 | — | 150 | 15 | 500 | 20 | 30000 зм |
+| Киль | 1 миля/ч | 1 | 6 | 1/2 | 15 | 100 | 10 | 3000 зм |
+| Драккар | 3 мили/ч | 40 | 150 | 10 | 15 | 300 | 15 | 10000 зм |
+| Шлюпка | 1½ мили/ч | 1 | 3 | — | 11 | 50 | — | 50 зм |
+| Парусник | 2 мили/ч | 20 | 20 | 100 | 15 | 300 | 15 | 10000 зм |
+| Военный корабль | 2½ мили/ч | 60 | 60 | 200 | 15 | 500 | 20 | 25000 зм |
 
-You spend modestly for your necessities and enjoy a few luxuries.
+#### Экипаж
 
-### Wealthy (4 GP per Day)
+Кораблю большему, чем киль или шлюпка, нужен экипаж из умелых наёмников (см. «Наёмники» далее в «Снаряжении») для функционирования. Минимальное количество умелых наёмников, необходимое для управления кораблём, зависит от типа корабля, как показано в таблице.
 
-You're accustomed to the finer things in life and might have servants.
+#### Пассажиры
 
-### Aristocratic (10 GP per Day)
+В таблице указано количество пассажиров размера Маленький и Средний, которых корабль может вместить в гамаках. Корабль, оборудованный частными каютами, может перевозить одну пятую от этого количества пассажиров. Пассажир обычно платит 5 см в день за гамак, но цены могут варьироваться от корабля к кораблю. Небольшая частная каюта обычно стоит 2 зм в день.
 
-You pay for the best and might have a staff that supports your lifestyle. Others notice your wealth and might encourage you to share it, either legally or otherwise.
+#### Порог урона
 
-### Food, Drink, and Lodging
+Если у транспортного средства есть порог урона (см. «Глоссарий правил»), он указан в таблице.
 
-The Food, Drink, and Lodging table gives prices for food and a single night's lodging. Prices for daily lodging and meals are included in your lifestyle's expenses.
+#### Ремонт корабля
 
-Table: Food, Drink
+Ремонт повреждённого корабля может производиться, пока судно пришвартовано. Ремонт 1 хита урона требует 1 дня и стоит 20 зм за материалы и работу. Если ремонт производится в месте, где припасы и квалифицированная рабочая сила в изобилии, например на городской верфи, время и стоимость ремонта уменьшаются вдвое.
 
-| Item                   | Cost  |
-|------------------------|-------|
-| Ale (mug)              | 4 CP  |
-| Bread (loaf)           | 2 CP  |
-| Cheese (wedge)         | 1 SP  |
-| Meal - Squalid         | 1 CP  |
-| Meal - Poor            | 2 CP  |
-| Meal - Modest          | 1 SP  |
-| Meal - Comfortable     | 2 SP  |
-| Meal - Wealthy         | 3 SP  |
-| Meal - Aristocratic    | 6 SP  |
-| Wine (bottle) - Common | 2 SP  |
-| Wine (bottle) - Fine   | 10 GP |
+## Расходы на образ жизни
 
-Table: Inn Stay per Day
+Расходы на образ жизни суммируют стоимость проживания в фэнтезийном мире. Они покрывают жильё, еду, обслуживание снаряжения и другие необходимости.
 
-| Item             | Cost |
-|------------------|------|
-| Squalid          | 7 CP |
-| Poor             | 1 SP |
-| Modest           | 5 SP |
-| Comfortable      | 8 SP |
-| Wealthy          | 2 GP |
-| Aristocratic     | 4 GP |
+В начале каждой недели или месяца (на выбор Мастера) выберите образ жизни ниже — Жалкий, Убогий, Бедный, Скромный, Комфортный, Богатый или Аристократический — и заплатите цену для поддержания этого образа жизни.
 
-## **Hirelings**
+Образ жизни не имеет врождённых последствий, но Мастер может учитывать их при определении рисков или того, как другие воспринимают вашего персонажа.
 
-Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, an artisan, a scribe, or the like. The pay shown on the Hirelings table is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for work that requires no particular proficiencies; they include laborers and porters.
+### Жалкий (бесплатно)
 
-Table: Hirelings
+Вы выживаете благодаря случаю и милосердию. Вы часто подвергаетесь природным опасностям из-за сна на улице.
 
-| Service            | Cost          |
-|--------------------|---------------|
-| Skilled hireling   | 2 GP per day  |
-| Untrained hireling | 2 SP per day  |
-| Messenger          | 2 CP per mile |
+### Убогий (1 см в день)
 
-## Spellcasting
+Вы тратите минимум на необходимое. Вы можете подвергаться нездоровым условиям и оппортунистическим преступникам.
 
-Most settlements contain individuals who are willing to cast spells in exchange for payment. If a spell has expensive components, add the cost of those components to the cost listed in the Spellcasting Services table. The higher the level of a desired spell, the harder it is to find someone to cast it.
+### Бедный (2 см в день)
 
-Table: Spellcasting Services
+Вы тратите экономно на необходимое.
 
-| Spell Level | Availability           | Cost       |
-|-------------|------------------------|------------|
-| Cantrip     | Village, town, or city | 30 GP      |
-| 1           | Village, town, or city | 50 GP      |
-| 2           | Village, town, or city | 200 GP     |
-| 3           | Town or city only      | 300 GP     |
-| 4–5         | Town or city only      | 2,000 GP   |
-| 6–8         | City only              | 20,000 GP  |
-| 9           | City only              | 100,000 GP |
+### Скромный (1 зм в день)
 
-## Magic Items
+Вы поддерживаете себя на среднем уровне.
 
-Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in "Magic Items" later in this document. Here's what you need to know about using magic items.
+### Комфортный (2 зм в день)
 
-### Identifying a Magic Item
+Вы тратите умеренно на необходимое и наслаждаетесь несколькими предметами роскоши.
 
-Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item's properties isn't automatic.
+### Богатый (4 зм в день)
 
-The *Identify* spell is the fastest way to reveal an item's properties. Alternatively, you can focus on one magic item during a Short Rest while being in physical contact with the item. At the end of the rest, you learn its properties and how to use them (but not any curse the item might bear).
+Вы привыкли к лучшему и можете иметь слуг.
 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched inside the band, or a feathered design might hint that it's a *Ring of Feather Falling*.
+### Аристократический (10 зм в день)
 
-Wearing or experimenting with an item can also offer hints about its properties. In the specific case of Potions, a little taste is enough to tell the taster what a potion does. Other items might require more experimentation. For example, if your character puts on a *Ring of Swimming*, the GM might say, "Your movement feels strangely fluid." Perhaps you then dive into a river to see what happens. The GM would then say you swim unexpectedly well.
+Вы платите за лучшее и можете иметь персонал, поддерживающий ваш образ жизни. Другие замечают ваше богатство и могут побуждать вас поделиться им, законно или иначе.
 
-### Attunement
+### Еда, питьё и жильё
 
-Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. Without becoming attuned to an item that requires Attunement, you gain only its nonmagical benefits unless its description states otherwise. For example, a magic Shield that requires Attunement provides the benefits of a normal Shield if you aren't attuned to it, but none of its magical properties.
+В таблице «Еда, питьё и жильё» приведены цены на еду и одну ночь проживания. Цены на ежедневное проживание и питание включены в расходы вашего образа жизни.
 
-#### Attune during a Short Rest
+Таблица: Еда, питьё
 
-Attuning to an item requires you to spend a Short Rest focused on only that item while being in physical contact with it (this can't be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a Weapon), meditation (for a Wand), or some other appropriate activity. If the Short Rest is interrupted, the Attunement attempt fails. Otherwise, at the end of the Short Rest, you're attuned to the magic item and can access its full magical capabilities.
+| Предмет | Цена |
+|---------|------|
+| Эль (кружка) | 4 мм |
+| Хлеб (буханка) | 2 мм |
+| Сыр (ломоть) | 1 см |
+| Еда, убогая | 1 мм |
+| Еда, бедная | 2 мм |
+| Еда, скромная | 1 см |
+| Еда, комфортная | 2 см |
+| Еда, богатая | 3 см |
+| Еда, аристократическая | 6 см |
+| Вино (бутылка), обычное | 2 см |
+| Вино (бутылка), изысканное | 10 зм |
 
-#### No More Than Three Items
+Таблица: Проживание в таверне в день
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can't attune to more than one copy of an item. For example, you can't attune to more than one *Ring of Protection* at a time.
+| Предмет | Цена |
+|---------|------|
+| Убогое | 7 мм |
+| Бедное | 1 см |
+| Скромное | 5 см |
+| Комфортное | 8 см |
+| Богатое | 2 зм |
+| Аристократическое | 4 зм |
 
-#### Ending Attunement
+## **Наёмники**
 
-Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to
+Умелые наёмники включают всех, кого нанимают для выполнения услуги, требующей владения (включая оружие, инструмент или навык): наёмник, ремесленник, писец и тому подобное. Оплата, показанная в таблице «Наёмники», является минимальной; некоторым экспертам-наёмникам требуется больше. Неумелые наёмники нанимаются для работы, не требующей особых владений; они включают чернорабочих и носильщиков.
 
-the item. You can also voluntarily end Attunement by spending another Short Rest focused on the item unless the item is cursed.
+Таблица: Наёмники
 
-### Wearing and Wielding Items
+| Услуга | Цена |
+|--------|------|
+| Умелый наёмник | 2 зм в день |
+| Неумелый наёмник | 2 см в день |
+| Курьер | 2 мм за милю |
 
-Using a magic item's properties might mean wearing or wielding it. A magic item meant to be worn must be donned in the intended fashion: boots go on feet, gloves on hands, hats and helmets on a head, and rings on a finger. Magic armor must be donned, a Shield strapped to the arm, a cloak fastened about the shoulders. A weapon must be held.
+## Услуги заклинателей
 
-In most cases, a magic item that's meant to be worn can fit a creature regardless of size or build. Magic garments are made to be easily adjustable, or they magically adjust themselves to the wearer.
+В большинстве поселений есть люди, готовые сотворить заклинания в обмен на плату. Если заклинание имеет дорогие компоненты, добавьте стоимость этих компонентов к цене, указанной в таблице «Услуги заклинателей». Чем выше уровень желаемого заклинания, тем сложнее найти кого-то, кто его сотворит.
 
-#### Multiple Items of the Same Kind
+Таблица: Услуги заклинателей
 
-You can't wear more than one of certain magic items. You can't normally wear more than one pair of footwear, one pair of gloves or gauntlets, one pair of bracers, one suit of armor, one item of headwear, or one cloak. The GM might make exceptions.
+| Уровень заклинания | Доступность | Цена |
+|--------------------|-------------|------|
+| Заговор | Деревня, город или город | 30 зм |
+| 1 | Деревня, посёлок или город | 50 зм |
+| 2 | Деревня, посёлок или город | 200 зм |
+| 3 | Только посёлок или город | 300 зм |
+| 4–5 | Только посёлок или город | 2000 зм |
+| 6–8 | Только город | 20000 зм |
+| 9 | Только город | 100000 зм |
 
-#### Paired Items
+## Магические предметы
 
-Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a *Boot of Striding and Springing* on one foot and a *Boot of Elvenkind* on the other foot gains no benefit from either.
+Приключения несут обещание — но не гарантию — обнаружения магических предметов. Сотни магических предметов подробно описаны в «Магических предметах» далее в этом документе. Вот что вам нужно знать об использовании магических предметов.
 
-## Crafting Nonmagical Items
+### Определение магического предмета
 
-To craft a nonmagical item, you need tools, raw materials, and time, each of which is detailed below. If you meet the requirements, you make the item, and you can use it or sell it at its normal price.
+Некоторые магические предметы неотличимы от их немагических аналогов, тогда как другие явно магические. Прикосновение к магическому предмету достаточно, чтобы понять, что он необычен, но узнать свойства магического предмета не происходит автоматически.
 
-### Tools
+Заклинание *Опознание* — самый быстрый способ раскрыть свойства предмета. Альтернативно, вы можете сосредоточиться на одном магическом предмете во время короткого отдыха, находясь в физическом контакте с предметом. В конце отдыха вы узнаёте его свойства и как их использовать (но не проклятие, которую предмет может нести).
 
-The "Tools" section of "Equipment" lists which tools are required to make certain items. The GM assigns required tools for items not listed there.
+Иногда магический предмет несёт подсказку о своих свойствах. Командное слово для активации кольца может быть выгравировано внутри ободка, или пернатый узор может намекать, что это *Кольцо падения пером*.
 
-You must use the required tool to make an item and have proficiency with that tool. Anyone who helps you must also have proficiency with it.
+Ношение или экспериментирование с предметом также может дать подсказки о его свойствах. В конкретном случае зелий, маленький глоток достаточен, чтобы сказать пробующему, что делает зелье. Другие предметы могут требовать больше экспериментов. Например, если ваш персонаж надевает *Кольцо плавания*, Мастер может сказать: «Ваши движения кажутся странно плавными». Возможно, вы тогда ныряете в реку, чтобы посмотреть, что произойдёт. Мастер тогда скажет, что вы плаваете неожиданно хорошо.
 
-### Raw Materials
+### Настройка
 
-To make an item, you need raw materials worth half its purchase cost (round down). For example, you need 750 GP of raw materials to make Plate Armor, which sells for 1,500 GP. The GM determines whether appropriate raw materials are available.
+Некоторые магические предметы требуют, чтобы существо установило связь — называемую настройкой — с ними, прежде чем существо сможет использовать магические свойства предмета. Без настройки на предмет, требующий настройки, вы получаете только его немагические преимущества, если в описании не указано иное. Например, магический щит, требующий настройки, предоставляет преимущества обычного щита, если вы не настроены на него, но никаких его магических свойств.
 
-### Time
+#### Настройка во время короткого отдыха
 
-To determine how many days (working 8 hours a day) it takes to make an item, divide its purchase cost in GP by 10 (round a fraction up to a day). For example, you need 5 days to make a Heavy Crossbow, which sells for 50 GP.
+Настройка на предмет требует, чтобы вы провели короткий отдых, сосредоточившись только на этом предмете, находясь в физическом контакте с ним (это не может быть тот же короткий отдых, использованный для изучения свойств предмета). Эта сосредоточенность может принять форму тренировки с оружием (для оружия), медитации (для жезла) или другой подходящей деятельности. Если короткий отдых прерван, попытка настройки не удаётся. Иначе, в конце короткого отдыха вы настроены на магический предмет и можете использовать все его магические возможности.
 
-If an item requires multiple days, the days needn't be consecutive.
+#### Не более трёх предметов
 
-Characters can combine their efforts to shorten the crafting time. Divide the time needed to create an item by the number of characters working on it. Normally, only one other character can assist you, but the GM might allow more assistants.
+Вы можете быть настроены не более чем на три магических предмета одновременно. Любая попытка настроиться на четвёртый предмет не удаётся; вы должны сначала прекратить настройку на предмет. Кроме того, вы не можете быть настроены более чем на одну копию предмета. Например, вы не можете быть настроены более чем на одно *Кольцо защиты* одновременно.
 
-## Brewing Potions of Healing
+#### Прекращение настройки
 
-A character who has proficiency with the Herbalism Kit can create a *Potion of Healing*. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
+Ваша настройка на предмет заканчивается, если вы больше не удовлетворяете требованиям для настройки, если предмет находился более чем в 100 футах от вас как минимум 24 часа, если вы умираете или если другое существо настраивается на предмет. Вы также можете добровольно прекратить настройку, проведя ещё один короткий отдых, сосредоточившись на предмете, если предмет не проклят.
 
-## **Scribing Spell Scrolls**
+### Ношение и использование предметов
 
-A spellcaster can transfer a spell to a scroll and create a *Spell Scroll*, using the rules below.
+Использование свойств магического предмета может означать ношение или использование его. Магический предмет, предназначенный для ношения, должен быть надет предназначенным образом: ботинки надеваются на ноги, перчатки на руки, шляпы и шлемы на голову, а кольца на пальцы. Магические доспехи должны быть надеты, щит закреплён на руке, плащ застёгнут на плечах. Оружие должно быть в руке.
 
-### Time and Cost
+В большинстве случаев магический предмет, предназначенный для ношения, может подойти существу независимо от размера или телосложения. Магическая одежда сделана легко регулируемой, или она магически подстраивается под носящего.
 
-Scribing a scroll takes an amount of time and money based on the level of the spell, as shown in the Spell Scroll Costs table. For each day of inscription, you must work for 8 hours. If a scroll requires multiple days, those days needn't be consecutive.
+#### Несколько предметов одного типа
 
-### Prerequisites for the Scribe
+Вы не можете носить более одного из определённых магических предметов. Вы обычно не можете носить более одной пары обуви, одной пары перчаток или рукавиц, одной пары наручей, одного комплекта доспехов, одного головного убора или одного плаща. Мастер может сделать исключения.
 
-To scribe a scroll, you must have proficiency in the Arcana skill or with Calligrapher's Supplies and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
+#### Парные предметы
 
-## **Cantrips**
+Предметы, идущие парами — такие как ботинки, наручи, рукавицы и перчатки — дают свои преимущества, только если оба предмета из пары надеты. Например, персонаж, носящий *Ботинок быстрого бега* на одной ноге и *Ботинок эльфийской поступи* на другой, не получает преимуществ ни от одного из них.
 
-If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
+## Создание немагических предметов
 
-Table: Spell Scroll Costs
+Чтобы создать немагический предмет, вам нужны инструменты, сырьё и время, каждое из которых подробно описано ниже. Если вы соответствуете требованиям, вы создаёте предмет и можете использовать его или продать по его обычной цене.
 
-| Spell Level | Time     | Cost      |
-|-------------|----------|-----------|
-| Cantrip     | 1 day    | 15 GP     |
-| 1           | 1 day    | 25 GP     |
-| 2           | 3 days   | 100 GP    |
-| 3           | 5 days   | 150 GP    |
-| 4           | 10 days  | 1,000 GP  |
-| 5           | 25 days  | 1,500 GP  |
-| 6           | 40 days  | 10,000 GP |
-| 7           | 50 days  | 12,500 GP |
-| 8           | 60 days  | 15,000 GP |
-| 9           | 120 days | 50,000 GP |
+### Инструменты
+
+В разделе «Инструменты» в «Снаряжении» перечислено, какие инструменты требуются для создания определённых предметов. Мастер назначает требуемые инструменты для предметов, не указанных там.
+
+Вы должны использовать требуемый инструмент для создания предмета и владеть этим инструментом. Любой, кто помогает вам, также должен владеть им.
+
+### Сырьё
+
+Для создания предмета вам нужно сырьё стоимостью в половину его покупной цены (округляя вниз). Например, вам нужно 750 зм сырья для создания лат, которые продаются за 1500 зм. Мастер определяет, доступно ли подходящее сырьё.
+
+### Время
+
+Чтобы определить, сколько дней (работая 8 часов в день) требуется для создания предмета, разделите его покупную цену в зм на 10 (округляя дробь до целого дня). Например, вам нужно 5 дней для создания тяжёлого арбалета, который продаётся за 50 зм.
+
+Если предмет требует несколько дней, дни не обязательно должны быть последовательными.
+
+Персонажи могут объединить усилия, чтобы сократить время изготовления. Разделите время, необходимое для создания предмета, на количество персонажей, работающих над ним. Обычно только один другой персонаж может помогать вам, но Мастер может разрешить больше помощников.
+
+## Варка зелий лечения
+
+Персонаж, владеющий набором травника, может создать *зелье лечения*. Для этого требуется использование этого набора и 25 зм сырья в течение 1 дня (8 часов работы).
+
+## **Написание свитков заклинаний**
+
+Заклинатель может перенести заклинание на свиток и создать *свиток заклинания*, используя правила ниже.
+
+### Время и стоимость
+
+Написание свитка требует количества времени и денег в зависимости от уровня заклинания, как показано в таблице «Стоимость свитков заклинаний». За каждый день написания вы должны работать 8 часов. Если свиток требует несколько дней, эти дни не обязательно должны быть последовательными.
+
+### Требования к писцу
+
+Чтобы написать свиток, вы должны владеть навыком Магия или каллиграфическими принадлежностями и иметь заклинание подготовленным в каждый день написания. Вы также должны иметь под рукой любые материальные компоненты, требуемые заклинанием; если заклинание потребляет свои материальные компоненты, они потребляются только при завершении свитка. Сложность спасброска и бонус атаки заклинания свитка используют ваши значения.
+
+## **Заговоры**
+
+Если записанное заклинание является заговором, версия на свитке работает так, как если бы заклинатель был вашего уровня.
+
+Таблица: Стоимость свитков заклинаний
+
+| Уровень заклинания | Время | Стоимость |
+|--------------------|-------|-----------|
+| Заговор | 1 день | 15 зм |
+| 1 | 1 день | 25 зм |
+| 2 | 3 дня | 100 зм |
+| 3 | 5 дней | 150 зм |
+| 4 | 10 дней | 1000 зм |
+| 5 | 25 дней | 1500 зм |
+| 6 | 40 дней | 10000 зм |
+| 7 | 50 дней | 12500 зм |
+| 8 | 60 дней | 15000 зм |
+| 9 | 120 дней | 50000 зм |

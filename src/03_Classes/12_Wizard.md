@@ -1,435 +1,432 @@
-## Wizard
+## Волшебник
 
-Table: Core Wizard Traits
+Таблица: Основные черты волшебника
 
 |                            |                                                                                                      |
 |----------------------------|------------------------------------------------------------------------------------------------------|
-| Primary Ability            | Intelligence                                                                                         |
-| Hit Point Die              | D6 per Wizard level                                                                                  |
-| Saving Throw Proficiencies | Intelligence and Wisdom                                                                              |
-| Skill Proficiencies        | Choose 2: Arcana, History, In sight, Investigation, Medicine, Nature, or Religion                    |
-| Weapon Proficiencies       | Simple weapons                                                                                       |
-| Armor Training             | None                                                                                                 |
-| Starting Equipment         | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP |
+| Основная характеристика    | Интеллект                                                                                            |
+| Кость Хитов                | d6 за каждый уровень волшебника                                                                      |
+| Владение спасбросками      | Интеллект и Мудрость                                                                                 |
+| Владение навыками          | Выберите 2: Магия, История, Проницательность, Анализ, Медицина, Природа или Религия                  |
+| Владение оружием           | Простое оружие                                                                                       |
+| Владение доспехами         | Нет                                                                                                  |
+| Начальное снаряжение       | Выберите А или Б: (А) 2 кинжала, магическая фокусировка (посох), мантия, книга заклинаний, набор учёного и 5 зм; или (Б) 55 зм |
 
-### Becoming a Wizard …
+### Как стать волшебником…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Wizard Traits table.
-- Gain the Wizard's level 1 features, which are listed in the Wizard Features table.
+- Получите все черты из таблицы Основные черты волшебника.
+- Получите умения волшебника 1-го уровня, перечисленные в таблице Умения волшебника.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the Hit Point Die from the Core Wizard Traits table.
-- Gain the Wizard's level 1 features, which are listed in the Wizard Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
+- Получите Кость Хитов из таблицы Основные черты волшебника.
+- Получите умения волшебника 1-го уровня, перечисленные в таблице Умения волшебника. Смотрите правила мультиклассирования в разделе «Создание персонажа», чтобы определить доступные ячейки заклинаний.
 
-### Wizard Class Features
+### Умения волшебника
 
-As a Wizard, you gain the following class features when you reach the specified Wizard levels. These features are listed in the Wizard Features table.
+Как волшебник, вы получаете следующие классовые умения, когда достигаете указанных уровней волшебника. Эти умения перечислены в таблице Умения волшебника.
 
-Table: Wizard Features: ——Spell Slots per Spell Level—— 
+Таблица: Умения волшебника: ——Ячейки заклинаний по уровням——
 
-| Level | Proficiency Bonus | Class Features                                 | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|------------------------------------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
-| 1     | +2                | Spellcasting, Ritual Adept, Arcane Recovery    | 3        | 4               | 2 | — | — | — | — | — | — | — | — |
-| 2     | +2                | Scholar                                        | 3        | 5               | 3 | — | — | — | — | — | — | — | — |
-| 3     | +2                | Wizard Subclass                                | 3        | 6               | 4 | 2 | — | — | — | — | — | — | — |
-| 4     | +2                | Ability Score Improvement                      | 4        | 7               | 4 | 3 | — | — | — | — | — | — | — |
-| 5     | +3                | Memorize Spell                                 | 4        | 9               | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6     | +3                | Subclass feature                               | 4        | 10              | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7     | +3                | —                                              | 4        | 11              | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8     | +3                | Ability Score Improvement                      | 4        | 12              | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9     | +4                | —                                              | 4        | 14              | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10    | +4                | Subclass feature                               | 5        | 15              | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11    | +4                | —                                              | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12    | +4                | Ability Score Improvement                      | 5        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13    | +5                | —                                              | 5        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14    | +5                | Subclass feature                               | 5        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15    | +5                | —                                              | 5        | 19              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16    | +5                | Ability Score Improvement                      | 5        | 21              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17    | +6                | —                                              | 5        | 22              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18    | +6                | Spell Mastery                                  | 5        | 23              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | +6                | Epic Boon                                      | 5        | 24              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20    | +6                | Signature Spells                               | 5        | 25              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Уровень | Бонус мастерства | Классовые умения                                         | Заговоры | Подготовленные заклинания | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---------|------------------|----------------------------------------------------------|----------|---------------------------|---|---|---|---|---|---|---|---|---|
+| 1       | +2               | Использование заклинаний, Мастер ритуалов, Магическое восстановление | 3 | 4                   | 2 | — | — | — | — | — | — | — | — |
+| 2       | +2               | Учёный                                                   | 3        | 5                         | 3 | — | — | — | — | — | — | — | — |
+| 3       | +2               | Подкласс волшебника                                      | 3        | 6                         | 4 | 2 | — | — | — | — | — | — | — |
+| 4       | +2               | Увеличение характеристик                                 | 4        | 7                         | 4 | 3 | — | — | — | — | — | — | — |
+| 5       | +3               | Запоминание заклинания                                   | 4        | 9                         | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6       | +3               | Умение подкласса                                         | 4        | 10                        | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7       | +3               | —                                                        | 4        | 11                        | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8       | +3               | Увеличение характеристик                                 | 4        | 12                        | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9       | +4               | —                                                        | 4        | 14                        | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10      | +4               | Умение подкласса                                         | 5        | 15                        | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11      | +4               | —                                                        | 5        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12      | +4               | Увеличение характеристик                                 | 5        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13      | +5               | —                                                        | 5        | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14      | +5               | Умение подкласса                                         | 5        | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15      | +5               | —                                                        | 5        | 19                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16      | +5               | Увеличение характеристик                                 | 5        | 21                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17      | +6               | —                                                        | 5        | 22                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18      | +6               | Мастерство заклинаний                                    | 5        | 23                        | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19      | +6               | Эпический дар                                            | 5        | 24                        | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20      | +6               | Коронные заклинания                                      | 5        | 25                        | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-#### Level 1: Spellcasting
+#### Уровень 1: Использование заклинаний
 
-As a student of arcane magic, you have learned to cast spells. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class's description.
+Как ученик тайной магии, вы научились творить заклинания. Смотрите раздел «Заклинания» для правил использования заклинаний. Информация ниже описывает, как вы используете эти правила с заклинаниями волшебника, которые приведены в списке заклинаний волшебника далее в описании класса.
 
-**Cantrips.** You know three Wizard cantrips of your choice. *Light*, *Mage Hand*, and *Ray of Frost* are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+**Заговоры.** Вы знаете три заговора волшебника на свой выбор. Рекомендуются *Свет*, *Магическая рука* и *Луч холода*. Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете заменить один из заговоров этого умения другим заговором волшебника на свой выбор.
 
-When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
+Когда вы достигаете 4-го и 10-го уровня волшебника, вы узнаёте ещё один заговор волшебника на свой выбор, как показано в столбце Заговоры таблицы Умения волшебника.
 
-**Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting *Identify*. You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+**Книга заклинаний.** Ваше обучение волшебству завершилось созданием уникальной книги: вашей книги заклинаний. Это Крошечный предмет весом 3 фунта, содержащий 100 страниц, который может прочитать только вы или тот, кто творит *Опознание*. Вы определяете внешний вид и материалы книги, например том с позолоченными краями или связанный бечёвкой набор листов пергамента.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. *Detect Magic*, *Feather Fall*, *Mage Armor*, *Magic Missile*, *Sleep*, and *Thunderwave* are recommended.
+Книга содержит заклинания 1-го уровня и выше, которые вы знаете. Она начинается с шести заклинаний волшебника 1-го уровня на ваш выбор. Рекомендуются *Обнаружение магии*, *Падение пёрышком*, *Магические доспехи*, *Магическая стрела*, *Усыпление* и *Волна грома*.
 
-Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
+Каждый раз, когда вы получаете уровень волшебника после 1-го, добавляйте два заклинания волшебника на свой выбор в книгу заклинаний. Каждое из этих заклинаний должно быть того уровня, для которого у вас есть ячейки заклинаний, как показано в таблице Умения волшебника. Заклинания — результат магических исследований, которые вы регулярно проводите.
 
-**Spell Slots.** The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Ячейки заклинаний.** Таблица Умения волшебника показывает, сколько у вас есть ячеек заклинаний для сотворения заклинаний 1-го уровня и выше. Вы восстанавливаете все потраченные ячейки, когда заканчиваете продолжительный отдых.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
+**Подготовленные заклинания 1-го уровня и выше.** Вы подготавливаете список заклинаний 1-го уровня и выше, которые доступны вам для сотворения с помощью этого умения. Для этого выберите четыре заклинания из книги заклинаний. Выбранные заклинания должны быть того уровня, для которого у вас есть ячейки заклинаний.
 
-The number of spells on your list increases as you gain Wizard levels, as shown in the Prepared Spells column of the Wizard Features table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Wizard, your list of prepared spells can include six spells of levels 1 and 2 in any combination, chosen from your spellbook.
+Количество заклинаний в вашем списке увеличивается по мере получения уровней волшебника, как показано в столбце Подготовленные заклинания таблицы Умения волшебника. Каждый раз, когда это число увеличивается, выбирайте дополнительные заклинания волшебника, пока количество заклинаний в вашем списке не сравняется с числом в таблице. Выбранные заклинания должны быть того уровня, для которого у вас есть ячейки заклинаний. Например, если вы волшебник 3-го уровня, ваш список подготовленных заклинаний может включать шесть заклинаний 1-го и 2-го уровней в любой комбинации, выбранных из вашей книги заклинаний.
 
-If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
+Если другое умение волшебника даёт вам заклинания, которые вы всегда держите подготовленными, эти заклинания не учитываются в количестве заклинаний, которые вы можете подготовить с помощью этого умения, но в остальном считаются заклинаниями волшебника для вас.
 
-**Changing Your Prepared Spells.** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
+**Изменение подготовленных заклинаний.** Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете изменить свой список подготовленных заклинаний, заменив любые заклинания заклинаниями из вашей книги заклинаний.
 
-**Spellcasting Ability.** Intelligence is your spellcasting ability for your Wizard spells.
+**Базовая характеристика заклинаний.** Интеллект является вашей базовой характеристикой для заклинаний волшебника.
 
-**Spellcasting Focus.** You can use an Arcane Focus or your spellbook as a Spellcasting Focus for your Wizard spells.
+**Фокусировка заклинаний.** Вы можете использовать магическую фокусировку или книгу заклинаний в качестве фокусировки для заклинаний волшебника.
 
-#### Level 1: Ritual Adept
+#### Уровень 1: Мастер ритуалов
 
-You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
+Вы можете сотворить любое заклинание как ритуал, если это заклинание имеет метку Ритуал и находится в вашей книге заклинаний. Вам не нужно иметь заклинание подготовленным, но вы должны читать из книги, чтобы сотворить заклинание таким образом.
 
-#### Level 1: Arcane Recovery
+#### Уровень 1: Магическое восстановление
 
-You can regain some of your magical energy by studying your spellbook. When you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
+Вы можете восстановить часть магической энергии, изучая книгу заклинаний. Когда вы заканчиваете короткий отдых, вы можете выбрать потраченные ячейки заклинаний для восстановления. Суммарный уровень ячеек заклинаний может быть не более половины вашего уровня волшебника (с округлением вверх), и ни одна из ячеек не может быть 6-го уровня или выше. Например, если вы волшебник 4-го уровня, вы можете восстановить до двух уровней ячеек заклинаний, восстанавливая либо одну ячейку 2-го уровня, либо две ячейки 1-го уровня.
 
-Once you use this feature, you can't do so again until you finish a Long Rest.
+После использования этого умения вы не можете использовать его снова, пока не закончите продолжительный отдых.
 
-#### Level 2: Scholar
+#### Уровень 2: Учёный
 
-While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
+Изучая магию, вы также специализировались в другой области знаний. Выберите один из следующих навыков, которым вы владеете: Магия, История, Анализ, Медицина, Природа или Религия. Вы получаете экспертизу в выбранном навыке.
 
-#### Level 3: Wizard Subclass
+#### Уровень 3: Подкласс волшебника
 
-You gain a Wizard subclass of your choice. The Evoker subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
+Вы получаете подкласс волшебника на свой выбор. Подкласс Воплотитель описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях волшебника. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню волшебника или ниже.
 
-> ### Expanding and Replacing a Spellbook
-> 
-> The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a *Spell Scroll*, for example, and then copy it into your spellbook.
+> ### Расширение и замена книги заклинаний
 >
-> **Copying a Spell into the Book.** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
-> 
-> **Copying the Book.** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
+> Заклинания, которые вы добавляете в книгу заклинаний по мере получения уровней, отражают ваши текущие магические исследования, но вы можете найти другие заклинания во время приключений, которые можно добавить в книгу. Вы можете обнаружить заклинание волшебника на *Свитке заклинания*, например, и затем скопировать его в книгу заклинаний.
 >
-> If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+> **Копирование заклинания в книгу.** Когда вы находите заклинание волшебника 1-го уровня или выше, вы можете скопировать его в книгу заклинаний, если это заклинание того уровня, который вы можете подготовить, и если у вас есть время для копирования. За каждый уровень заклинания переписывание занимает 2 часа и стоит 50 зм. После этого вы можете подготовить заклинание как и другие заклинания в книге заклинаний.
+>
+> **Копирование книги.** Вы можете скопировать заклинание из книги заклинаний в другую книгу. Это похоже на копирование нового заклинания в книгу, но быстрее, поскольку вы уже знаете, как творить заклинание. Вам нужно потратить только 1 час и 10 зм за каждый уровень копируемого заклинания.
+>
+> Если вы потеряете книгу заклинаний, вы можете использовать ту же процедуру для переписывания подготовленных заклинаний волшебника в новую книгу заклинаний. Заполнение остальной части новой книги требует поиска новых заклинаний. По этой причине многие волшебники хранят запасную книгу заклинаний.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях волшебника.
 
-#### Level 5: Memorize Spell
+#### Уровень 5: Запоминание заклинания
 
-Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
+Каждый раз, когда вы заканчиваете короткий отдых, вы можете изучить книгу заклинаний и заменить одно из подготовленных заклинаний волшебника 1-го уровня или выше из умения Использование заклинаний другим заклинанием 1-го уровня или выше из книги.
 
-#### Level 18: Spell Mastery
+#### Уровень 18: Мастерство заклинаний
 
-You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
+Вы достигли такого мастерства над определёнными заклинаниями, что можете творить их по желанию. Выберите одно заклинание 1-го уровня и одно заклинание 2-го уровня в книге заклинаний со временем накладывания одно действие. Эти заклинания всегда у вас подготовлены, и вы можете творить их на базовом уровне без траты ячейки заклинания. Чтобы сотворить любое из заклинаний на более высоком уровне, вы должны потратить ячейку заклинания.
 
-Whenever you finish a Long Rest, you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
+Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете изучить книгу заклинаний и заменить одно из этих заклинаний подходящим заклинанием того же уровня из книги.
 
-#### Level 19: Epic Boon
+#### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар вспоминания заклинаний.
 
-#### Level 20: Signature Spells
+#### Уровень 20: Коронные заклинания
 
-Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a Short or Long Rest. To cast either spell at a higher level, you must expend a spell slot.
+Выберите два заклинания 3-го уровня в книге заклинаний как ваши коронные заклинания. Эти заклинания всегда у вас подготовлены, и вы можете сотворить каждое из них один раз на 3-м уровне без траты ячейки заклинания. Когда вы это делаете, вы не можете сотворить их таким образом снова, пока не закончите короткий или продолжительный отдых. Чтобы сотворить любое из заклинаний на более высоком уровне, вы должны потратить ячейку заклинания.
 
-#### Wizard Spell List
+#### Список заклинаний волшебника
 
-This section presents the Wizard spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
+Таблица: Заговоры (заклинания волшебника 0-го уровня)
 
-Table: Cantrips (Level 0 Wizard Spells)
+| Заклинание         | Школа         | Особое |
+|--------------------|---------------|--------|
+| Брызги кислоты     | Воплощение    | —      |
+| Леденящее касание  | Некромантия   | —      |
+| Луч холода         | Воплощение    | —      |
+| Магическая рука    | Вызов         | —      |
+| Малая иллюзия      | Иллюзия       | —      |
+| Огненный снаряд    | Воплощение    | —      |
+| Пляшущие огоньки   | Иллюзия       | К      |
+| Починка            | Преобразование | —     |
+| Послание           | Преобразование | —     |
+| Свет               | Воплощение    | —      |
+| Фокусы             | Преобразование | —     |
+| Шокирующее касание | Воплощение    | —      |
+| Ядовитые брызги    | Некромантия   | —      |
+| Элементализм       | Преобразование | —     |
+| Истинный удар      | Прорицание    | —      |
 
-| Spell            | School        | Special |
-|------------------|---------------|---------|
-| Acid Splash      | Evocation     | —       |
-| Chill Touch      | Necromancy    | —       |
-| Dancing Lights   | Illusion      | C       |
-| Elementalism     | Transmutation | —       |
-| Fire Bolt        | Evocation     | —       |
-| Light            | Evocation     | —       |
-| Mage Hand        | Conjuration   | —       |
-| Mending          | Transmutation | —       |
-| Message          | Transmutation | —       |
-| Minor Illusion   | Illusion      | —       |
-| Poison Spray     | Necromancy    | —       |
-| Prestidigitation | Transmutation | —       |
-| Ray of Frost     | Evocation     | —       |
-| Shocking Grasp   | Evocation     | —       |
-| True Strike      | Divination    | —       |
+Таблица: Заклинания волшебника 1-го уровня
 
-Table: Level 1 Wizard Spells
+| Заклинание                  | Школа         | Особое |
+|-----------------------------|---------------|--------|
+| Волна грома                 | Воплощение    | —      |
+| Горящие руки                | Воплощение    | —      |
+| Жир                         | Вызов         | —      |
+| Защита от добра и зла       | Ограждение    | К, М   |
+| Иллюзорный текст            | Иллюзия       | Р, М   |
+| Ледяной нож                 | Вызов         | —      |
+| Ложная жизнь                | Некромантия   | —      |
+| Луч болезни                 | Некромантия   | —      |
+| Магическая стрела           | Воплощение    | —      |
+| Магические доспехи          | Ограждение    | —      |
+| Маскировка                  | Иллюзия       | —      |
+| Невидимый слуга             | Вызов         | Р      |
+| Немое изображение           | Иллюзия       | К      |
+| Обнаружение магии           | Прорицание    | К, Р   |
+| Омерзительный смех          | Очарование    | К      |
+| Опознание                   | Прорицание    | Р, М   |
+| Очарование личности         | Очарование    | —      |
+| Падение пёрышком            | Преобразование | —     |
+| Парящий диск                | Вызов         | Р      |
+| Поиск фамильяра             | Вызов         | Р, М   |
+| Понимание языков            | Прорицание    | Р      |
+| Прыжок                      | Преобразование | —     |
+| Сигнал тревоги              | Ограждение    | Р      |
+| Скороход                    | Преобразование | —     |
+| Стремительное отступление   | Преобразование | К     |
+| Туманное облако             | Вызов         | К      |
+| Усыпление                   | Очарование    | К      |
+| Хроматическая сфера         | Воплощение    | М      |
+| Цветные брызги              | Иллюзия       | —      |
+| Щит                         | Ограждение    | —      |
 
-| Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
-| Alarm                         | Abjuration    | R       |
-| Burning Hands                 | Evocation     | —       |
-| Charm Person                  | Enchantment   | —       |
-| Chromatic Orb                 | Evocation     | M       |
-| Color Spray                   | Illusion      | —       |
-| Comprehend Languages          | Divination    | R       |
-| Detect Magic                  | Divination    | C, R    |
-| Disguise Self                 | Illusion      | —       |
-| Expeditious Retreat           | Transmutation | C       |
-| False Life                    | Necromancy    | –       |
-| Feather Fall                  | Transmutation | —       |
-| Find Familiar                 | Conjuration   | R, M    |
-| Floating Disk                 | Conjuration   | R       |
-| Fog Cloud                     | Conjuration   | C       |
-| Grease                        | Conjuration   | —       |
-| Hideous Laughter              | Enchantment   | C       |
-| Ice Knife                     | Conjuration   | —       |
-| Identify                      | Divination    | R, M    |
-| Illusory Script               | Illusion      | R, M    |
-| Jump                          | Transmutation | —       |
-| Longstrider                   | Transmutation | —       |
-| Mage Armor                    | Abjuration    | —       |
-| Magic Missile                 | Evocation     | —       |
-| Protection from Evil and Good | Abjuration    | C, M    |
-| Ray of Sickness               | Necromancy    | —       |
-| Shield                        | Abjuration    | —       |
-| Silent Image                  | Illusion      | C       |
-| Sleep                         | Enchantment   | C       |
-| Thunderwave                   | Evocation     | —       |
-| Unseen Servant                | Conjuration   | R       |
+Таблица: Заклинания волшебника 2-го уровня
 
-Table: Level 2 Wizard Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Аура волшебника        | Иллюзия       | —      |
+| Бережный покой         | Некромантия   | Р, М   |
+| Верёвочный трюк        | Преобразование | —     |
+| Дыхание дракона        | Преобразование | К     |
+| Зеркальное изображение | Иллюзия       | —      |
+| Кислотная стрела       | Воплощение    | —      |
+| Левитация              | Преобразование | К     |
+| Луч слабости           | Некромантия   | К      |
+| Магические уста        | Иллюзия       | Р, М   |
+| Магическое оружие      | Преобразование | —     |
+| Магический замок       | Ограждение    | М      |
+| Мозговой шип           | Прорицание    | К      |
+| Невидимость            | Иллюзия       | К      |
+| Негасимое пламя        | Воплощение    | М      |
+| Обездвиживание личности | Очарование   | К      |
+| Обнаружение мыслей     | Прорицание    | К      |
+| Обнаружение предмета   | Прорицание    | К      |
+| Огненный шар (малый)   | Воплощение    | К      |
+| Опаляющий луч          | Воплощение    | —      |
+| Открывание             | Преобразование | —     |
+| Паутина                | Вызов         | К      |
+| Порыв ветра            | Воплощение    | К      |
+| Предсказание           | Прорицание    | Р, М   |
+| Размытие               | Иллюзия       | К      |
+| Раскол                 | Воплощение    | —      |
+| Слепота/глухота        | Преобразование | —     |
+| Тёмное зрение          | Преобразование | —     |
+| Тьма                   | Воплощение    | К      |
+| Туманный шаг           | Вызов         | —      |
+| Увеличение/уменьшение  | Преобразование | К     |
+| Улучшение характеристики | Преобразование | К   |
+| Хождение по паутине    | Преобразование | К     |
+| Видеть невидимое       | Прорицание    | —      |
+| Внушение               | Очарование    | К      |
 
-| Spell                 | School        | Special |
-|-----------------------|---------------|---------|
-| Acid Arrow            | Evocation     | —       |
-| Alter Self            | Transmutation | C       |
-| Arcane Lock           | Abjuration    | M       |
-| Arcanist's Magic Aura | Illusion      | —       |
-| Augury                | Divination    | R, M    |
-| Blindness/Deafness    | Transmutation | —       |
-| Blur                  | Illusion      | C       |
-| Continual Flame       | Evocation     | M       |
-| Darkness              | Evocation     | C       |
-| Darkvision            | Transmutation | —       |
-| Detect Thoughts       | Divination    | C       |
-| Dragon's Breath       | Transmutation | C       |
-| Enhance Ability       | Transmutation | C       |
-| Enlarge/Reduce        | Transmutation | C       |
-| Flaming Sphere        | Evocation     | C       |
-| Gentle Repose         | Necromancy    | R, M    |
-| Gust of Wind          | Evocation     | C       |
-| Hold Person           | Enchantment   | C       |
-| Invisibility          | Illusion      | C       |
-| Knock                 | Transmutation | —       |
-| Levitate              | Transmutation | C       |
-| Locate Object         | Divination    | C       |
-| Magic Mouth           | Illusion      | R, M    |
-| Magic Weapon          | Transmutation | —       |
-| Mind Spike            | Divination    | C       |
-| Mirror Image          | Illusion      | —       |
-| Misty Step            | Conjuration   | —       |
-| Ray of Enfeeblement   | Necromancy    | C       |
-| Rope Trick            | Transmutation | —       |
-| Scorching Ray         | Evocation     | —       |
-| See Invisibility      | Divination    | —       |
-| Shatter               | Evocation     | —       |
-| Spider Climb          | Transmutation | C       |
-| Suggestion            | Enchantment   | C       |
-| Web                   | Conjuration   | C       |
+Таблица: Заклинания волшебника 3-го уровня
 
-Table: Level 3 Wizard Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Вампирическое касание  | Некромантия   | К      |
+| Газообразная форма     | Преобразование | К     |
+| Гипнотический узор     | Иллюзия       | К      |
+| Дыхание воды           | Преобразование | Р     |
+| Замедление             | Преобразование | К     |
+| Защита от энергии      | Ограждение    | К      |
+| Зловонное облако       | Вызов         | К      |
+| Контрзаклинание        | Ограждение    | —      |
+| Круг защиты            | Ограждение    | М      |
+| Мерцание               | Преобразование | —     |
+| Метель                 | Вызов         | К      |
+| Молния                 | Воплощение    | —      |
+| Насылание проклятия    | Некромантия   | К      |
+| Необнаружимость        | Ограждение    | М      |
+| Огненный шар           | Воплощение    | —      |
+| Оживление мёртвых      | Некромантия   | —      |
+| Основательное изображение | Иллюзия    | К      |
+| Охранный символ        | Ограждение    | М      |
+| Полёт                  | Преобразование | К     |
+| Призрачный скакун      | Иллюзия       | Р      |
+| Разговор с мёртвыми    | Некромантия   | —      |
+| Рассеивание магии      | Ограждение    | —      |
+| Связь                  | Прорицание    | —      |
+| Снятие проклятия       | Ограждение    | —      |
+| Страх                  | Иллюзия       | К      |
+| Крошечная хижина       | Воплощение    | Р      |
+| Ускорение              | Преобразование | К     |
+| Ясновидение            | Прорицание    | К, М   |
+| Языки                  | Прорицание    | —      |
 
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Animate Dead           | Necromancy    | —       |
-| Bestow Curse           | Necromancy    | C       |
-| Blink                  | Transmutation | —       |
-| Clairvoyance           | Divination    | C, M    |
-| Counterspell           | Abjuration    | —       |
-| Dispel Magic           | Abjuration    | —       |
-| Fear                   | Illusion      | C       |
-| Fireball               | Evocation     | —       |
-| Fly                    | Transmutation | C       |
-| Gaseous Form           | Transmutation | C       |
-| Glyph of Warding       | Abjuration    | M       |
-| Haste                  | Transmutation | C       |
-| Hypnotic Pattern       | Illusion      | C       |
-| Lightning Bolt         | Evocation     | —       |
-| Magic Circle           | Abjuration    | M       |
-| Major Image            | Illusion      | C       |
-| Nondetection           | Abjuration    | M       |
-| Phantom Steed          | Illusion      | R       |
-| Protection from Energy | Abjuration    | C       |
-| Remove Curse           | Abjuration    | —       |
-| Sending                | Divination    | —       |
-| Sleet Storm            | Conjuration   | C       |
-| Slow                   | Transmutation | C       |
-| Speak with Dead        | Necromancy    | —       |
-| Stinking Cloud         | Conjuration   | C       |
-| Tiny Hut               | Evocation     | R       |
-| Tongues                | Divination    | —       |
-| Vampiric Touch         | Necromancy    | C       |
-| Water Breathing        | Transmutation | R       |
+Таблица: Заклинания волшебника 4-го уровня
 
-Table: Level 4 Wizard Spells
+| Заклинание               | Школа         | Особое |
+|--------------------------|---------------|--------|
+| Власть над водой         | Преобразование | К     |
+| Врата измерений          | Вызов         | —      |
+| Едкая сфера              | Воплощение    | —      |
+| Защитный пёс             | Вызов         | —      |
+| Изгнание                 | Ограждение    | К      |
+| Иллюзорная местность     | Иллюзия       | —      |
+| Каменная кожа            | Преобразование | К, М  |
+| Ледяной шторм            | Воплощение    | —      |
+| Магический глаз          | Прорицание    | К      |
+| Обнаружение существа     | Прорицание    | К      |
+| Огненный щит             | Воплощение    | —      |
+| Очарование чудовища      | Очарование    | —      |
+| Полиморф                 | Преобразование | К     |
+| Порча                    | Некромантия   | —      |
+| Превосходная невидимость | Иллюзия       | К      |
+| Превращение камня        | Преобразование | —     |
+| Предсказание             | Прорицание    | Р, М   |
+| Призыв малых элементалей | Вызов         | К      |
+| Смятение                 | Очарование    | К      |
+| Стена огня               | Воплощение    | К      |
+| Стойкая сфера            | Ограждение    | К      |
+| Тайный сундук            | Вызов         | М      |
+| Убийственный призрак     | Иллюзия       | К      |
+| Укрытие                  | Ограждение    | —      |
+| Фабрикация               | Преобразование | —     |
+| Чёрные щупальца          | Вызов         | К      |
 
-| Spell                    | School        | Special |
-|--------------------------|---------------|---------|
-| Arcane Eye               | Divination    | C       |
-| Banishment               | Abjuration    | C       |
-| Black Tentacles          | Conjuration   | C       |
-| Blight                   | Necromancy    | —       |
-| Charm Monster            | Enchantment   | —       |
-| Confusion                | Enchantment   | C       |
-| Conjure Minor Elementals | Conjuration   | C       |
-| Control Water            | Transmutation | C       |
-| Dimension Door           | Conjuration   | —       |
-| Divination               | Divination    | R, M    |
-| Fabricate                | Transmutation | —       |
-| Faithful Hound           | Conjuration   | —       |
-| Fire Shield              | Evocation     | —       |
-| Greater Invisibility     | Illusion      | C       |
-| Hallucinatory Terrain    | Illusion      | —       |
-| Ice Storm                | Evocation     | —       |
-| Locate Creature          | Divination    | C       |
-| Phantasmal Killer        | Illusion      | C       |
-| Polymorph                | Transmutation | C       |
-| Private Sanctum          | Abjuration    | —       |
-| Resilient Sphere         | Abjuration    | C       |
-| Secret Chest             | Conjuration   | M       |
-| Stone Shape              | Transmutation | —       |
-| Stoneskin                | Transmutation | C, M    |
-| Vitriolic Sphere         | Evocation     | —       |
-| Wall of Fire             | Evocation     | C       |
+Таблица: Заклинания волшебника 5-го уровня
 
-Table: Level 5 Wizard Spells
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Власть над личностью    | Очарование    | К      |
+| Изменение памяти        | Очарование    | К      |
+| Кара                    | Очарование    | —      |
+| Конус холода            | Воплощение    | —      |
+| Круг телепортации       | Вызов         | М      |
+| Легенда                 | Прорицание    | М      |
+| Магическая рука Бигби   | Воплощение    | К      |
+| Наблюдение              | Прорицание    | К, М   |
+| Обездвиживание чудовища | Очарование    | К      |
+| Обманный путь           | Иллюзия       | К      |
+| Оживление предметов     | Преобразование | К     |
+| Планарные узы           | Ограждение    | М      |
+| Подобие                 | Иллюзия       | —      |
+| Прохождение сквозь стену | Преобразование | —    |
+| Призыв дракона          | Вызов         | К, М   |
+| Призыв элементаля       | Вызов         | К      |
+| Связь с иным миром      | Прорицание    | Р      |
+| Смертельное облако      | Вызов         | К      |
+| Сновидение              | Иллюзия       | —      |
+| Сотворение              | Иллюзия       | —      |
+| Стена камня             | Воплощение    | К      |
+| Стена силы              | Воплощение    | К      |
+| Телекинез               | Преобразование | К     |
+| Телепатическая связь    | Прорицание    | Р      |
 
-| Spell                | School           | Special |
-|----------------------|------------------|---------|
-| Animate Objects      | Transmutation    | C       |
-| Arcane Hand          | Evocation        | C       |
-| Cloudkill            | Conjuration      | C       |
-| Cone of Cold         | Evocation        | —       |
-| Conjure Elemental    | Conjuration      | C       |
-| Contact Other Plane  | Divination       | R       |
-| Creation             | Illusion         | —       |
-| Dominate Person      | Enchantment      | C       |
-| Dream                | Illusion         | —       |
-| Geas                 | Enchantment      | —       |
-| Hold Monster         | Enchantment      | C       |
-| Legend Lore          | Divination       | M       |
-| Mislead              | Illusion         | C       |
-| Modify Memory        | Enchantment      | C       |
-| Passwall             | Transmutation    | —       |
-| Planar Binding       | Abjuration       | M       |
-| Scrying              | Divination       | C, M    |
-| Seeming              | Illusion         | —       |
-| Summon Dragon        | Conjuration      | C, M    |
-| Telekinesis          | Transmutation    | C       |
-| Telepathic Bond      | Divination       | R       |
-| Teleportation Circle | Conjuration      | M       |
-| Wall of Force        | Evocation        | C       |
-| Wall of Stone        | Evocation        | C       |
+Таблица: Заклинания волшебника 6-го уровня
 
-Table: Level 6 Wizard Spells
+| Заклинание                | Школа         | Особое |
+|---------------------------|---------------|--------|
+| Взгляд                    | Некромантия   | К      |
+| Глобус неуязвимости       | Ограждение    | К      |
+| Дезинтеграция             | Преобразование | —     |
+| Запрограммированная иллюзия | Иллюзия    | М      |
+| Защита и охрана           | Ограждение    | М      |
+| Истинное зрение           | Прорицание    | М      |
+| Круг смерти               | Некромантия   | М      |
+| Магический сосуд          | Некромантия   | М      |
+| Массовое внушение         | Очарование    | —      |
+| Мгновенный призыв         | Вызов         | Р, М   |
+| Непреодолимая пляска      | Очарование    | К      |
+| Непробиваемость           | Ограждение    | М      |
+| Перемещение земли         | Преобразование | К     |
+| Плоть в камень            | Преобразование | К     |
+| Солнечный луч             | Воплощение    | К      |
+| Сотворение нежити         | Некромантия   | М      |
+| Стена льда                | Воплощение    | К      |
+| Цепная молния             | Воплощение    | —      |
+| Шар холода                | Воплощение    | —      |
 
-| Spell                    | School             | Special |
-|--------------------------|--------------------|---------|
-| Chain Lightning          | Evocation          | —       |
-| Circle of Death          | Necromancy         | M       |
-| Contingency              | Abjuration         | M       |
-| Create Undead            | Necromancy         | M       |
-| Disintegrate             | Transmutation      | —       |
-| Eyebite                  | Necromancy         | C       |
-| Flesh to Stone           | Transmutation      | C       |
-| Freezing Sphere          | Evocation          | —       |
-| Globe of Invulnerability | Abjuration         | C       |
-| Guards and Wards         | Abjuration         | M       |
-| Instant Summons          | Conjuration        | R, M    |
-| Irresistible Dance       | Enchantment        | C       |
-| Magic Jar                | Necromancy         | M       |
-| Mass Suggestion          | Enchantment        | —       |
-| Move Earth               | Transmutation      | C       |
-| Programmed Illusion      | Illusion           | M       |
-| Sunbeam                  | Evocation          | C       |
-| True Seeing              | Divination         | M       |
-| Wall of Ice              | Evocation          | C       |
+Таблица: Заклинания волшебника 7-го уровня
 
-Table: Level 7 Wizard Spells
+| Заклинание                        | Школа         | Особое |
+|-----------------------------------|---------------|--------|
+| Великолепный особняк              | Вызов         | М      |
+| Мираж                             | Иллюзия       | —      |
+| Обратная гравитация               | Преобразование | К     |
+| Огненный шар замедленного действия | Воплощение   | К      |
+| Палец смерти                      | Некромантия   | —      |
+| Переход между планами             | Вызов         | М      |
+| Призматические брызги             | Воплощение    | —      |
+| Проецируемый образ                | Иллюзия       | К, М   |
+| Секвестр                          | Преобразование | М     |
+| Силовая клетка                    | Воплощение    | К, М   |
+| Симулякр                          | Иллюзия       | М      |
+| Символ                            | Ограждение    | М      |
+| Таинственный меч                  | Воплощение    | К, М   |
+| Телепортация                      | Вызов         | —      |
+| Эфирность                         | Вызов         | —      |
 
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Arcane Sword           | Evocation     | C, M    |
-| Delayed Blast Fireball | Evocation     | C       |
-| Etherealness           | Conjuration   | —       |
-| Finger of Death        | Necromancy    | —       |
-| Forcecage              | Evocation     | C, M    |
-| Magnificent Mansion    | Conjuration   | M       |
-| Mirage Arcane          | Illusion      | —       |
-| Plane Shift            | Conjuration   | M       |
-| Prismatic Spray        | Evocation     | —       |
-| Project Image          | Illusion      | C, M    |
-| Reverse Gravity        | Transmutation | C       |
-| Sequester              | Transmutation | M       |
-| Simulacrum             | Illusion      | M       |
-| Symbol                 | Abjuration    | M       |
-| Teleport               | Conjuration   | —       |
+Таблица: Заклинания волшебника 8-го уровня
 
-Table: Level 8 Wizard Spells
+| Заклинание            | Школа         | Особое |
+|-----------------------|---------------|--------|
+| Антимагическое поле   | Ограждение    | К      |
+| Власть над погодой    | Преобразование | К     |
+| Власть над чудовищем  | Очарование    | К      |
+| Клон                  | Некромантия   | М      |
+| Лабиринт              | Вызов         | К      |
+| Огненное облако       | Вызов         | К      |
+| Помрачение            | Очарование    | —      |
+| Полупространство      | Вызов         | —      |
+| Ментальная защита     | Ограждение    | —      |
+| Симпатия/антипатия    | Очарование    | —      |
+| Слово силы: оглушение | Очарование    | —      |
+| Солнечный взрыв       | Воплощение    | —      |
 
-| Spell              | School        | Special |
-|--------------------|---------------|---------|
-| Antimagic Field    | Abjuration    | C       |
-| Antipathy/Sympathy | Enchantment   | —       |
-| Befuddlement       | Enchantment   | —       |
-| Clone              | Necromancy    | M       |
-| Control Weather    | Transmutation | C       |
-| Demiplane          | Conjuration   | —       |
-| Dominate Monster   | Enchantment   | C       |
-| Incendiary Cloud   | Conjuration   | C       |
-| Maze               | Conjuration   | C       |
-| Mind Blank         | Abjuration    | —       |
-| Power Word Stun    | Enchantment   | —       |
-| Sunburst           | Evocation     | —       |
+Таблица: Заклинания волшебника 9-го уровня
 
-Table: Level 9 Wizard Spells
+| Заклинание            | Школа         | Особое |
+|-----------------------|---------------|--------|
+| Астральная проекция   | Некромантия   | М      |
+| Врата                 | Вызов         | К, М   |
+| Исполнение желаний    | Вызов         | —      |
+| Истинный полиморф     | Преобразование | К     |
+| Кошмар                | Иллюзия       | К      |
+| Метеоритный дождь     | Воплощение    | —      |
+| Остановка времени     | Преобразование | —     |
+| Предвидение           | Прорицание    | —      |
+| Превращение           | Преобразование | К, М  |
+| Призматическая стена  | Ограждение    | —      |
+| Слово силы: смерть    | Очарование    | —      |
+| Темница               | Ограждение    | М      |
 
-| Spell             | School        | Special |
-|-------------------|---------------|---------|
-| Astral Projection | Necromancy    | M       |
-| Foresight         | Divination    | —       |
-| Gate              | Conjuration   | C, M    |
-| Imprisonment      | Abjuration    | M       |
-| Meteor Swarm      | Evocation     | —       |
-| Power Word Kill   | Enchantment   | —       |
-| Prismatic Wall    | Abjuration    | —       |
-| Shapechange       | Transmutation | C, M    |
-| Time Stop         | Transmutation | —       |
-| True Polymorph    | Transmutation | C       |
-| Weird             | Illusion      | C       |
-| Wish              | Conjuration   | —       |
+### Подкласс волшебника: Воплотитель
 
-### Wizard Subclass: Evoker
+*Создание взрывных стихийных эффектов*
 
-*Create Explosive Elemental Effects*
+Ваши исследования сосредоточены на магии, создающей мощные стихийные эффекты, такие как жгучий холод, опаляющее пламя, раскатистый гром, трескучие молнии и обжигающая кислота. Некоторые воплотители находят работу в военных силах, служа артиллерией для обстрела армий издалека. Другие используют свою силу для защиты других, а некоторые ищут собственную выгоду.
 
-Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
+#### Уровень 3: Знаток воплощения
 
-#### Level 3: Evocation Savant
+Выберите два заклинания волшебника школы Воплощение, каждое из которых должно быть не выше 2-го уровня, и добавьте их в книгу заклинаний бесплатно.
 
-Choose two Wizard spells from the Evocation school, each of which must be no higher than level 2, and add them to your spellbook for free.
+Кроме того, каждый раз, когда вы получаете доступ к новому уровню ячеек заклинаний в этом классе, вы можете добавить одно заклинание волшебника школы Воплощение в книгу заклинаний бесплатно. Выбранное заклинание должно быть того уровня, для которого у вас есть ячейки заклинаний.
 
-In addition, whenever you gain access to a new level of spell slots in this class, you can add one Wizard spell from the Evocation school to your spellbook for free. The chosen spell must be of a level for which you have spell slots.
+#### Уровень 3: Мощный заговор
 
-#### Level 3: Potent Cantrip
+Ваши наносящие урон заговоры влияют даже на существ, которые избегают основной силы эффекта. Когда вы творите заговор по существу и промахиваетесь броском атаки или цель преуспевает в спасброске против заговора, цель получает половину урона заговора (если есть), но не получает никаких других эффектов от заговора.
 
-Your damaging cantrips affect even creatures that avoid the brunt of the effect. When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
+#### Уровень 6: Формирование заклинаний
 
-#### Level 6: Sculpt Spells
+Вы можете создавать карманы относительной безопасности внутри эффектов ваших воплощений. Когда вы творите заклинание Воплощения, которое воздействует на других существ, которых вы видите, вы можете выбрать количество из них, равное 1 + уровень заклинания. Выбранные существа автоматически преуспевают в спасбросках против заклинания и не получают урона, если обычно получали бы половину урона при успешном спасброске.
 
-You can create pockets of relative safety within the effects of your evocations. When you cast an Evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 plus the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save.
+#### Уровень 10: Усиленное воплощение
 
-#### Level 10: Empowered Evocation
+Каждый раз, когда вы творите заклинание волшебника школы Воплощение, вы можете добавить свой модификатор Интеллекта к одному броску урона этого заклинания.
 
-Whenever you cast a Wizard spell from the Evocation school, you can add your Intelligence modifier to one damage roll of that spell.
+#### Уровень 14: Перенаполнение
 
-#### Level 14: Overchannel
+Вы можете увеличить силу ваших заклинаний. Когда вы творите заклинание волшебника с ячейкой заклинания 1-5 уровня, наносящее урон, вы можете нанести максимальный урон этим заклинанием в ход, когда вы его творите.
 
-You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
+В первый раз, когда вы делаете это, вы не испытываете никаких негативных последствий. Если вы используете это умение снова до окончания продолжительного отдыха, вы получаете 2d12 некротического урона за каждый уровень ячейки заклинания сразу после его сотворения. Этот урон игнорирует сопротивление и иммунитет.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a Long Rest, you take 2d12 Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores Resistance and Immunity.
-
-Each time you use this feature again before finishing a Long Rest, the Necrotic damage per spell level increases by 1d12.
+Каждый раз, когда вы используете это умение снова до окончания продолжительного отдыха, некротический урон за уровень заклинания увеличивается на 1d12.

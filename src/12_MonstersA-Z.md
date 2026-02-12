@@ -1,9088 +1,8030 @@
-# Monsters A–Z
+# Монстры от А до Я
 
-## Aboleth
+## Аболет
 
-*Large Aberration, Lawful Evil*
+*Большая аберрация, принципиально-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 150 (20d10 + 40)
-- **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 17
+- **Хиты:** 150 (20d10 + 40)
+- **Скорость:** 10 футов, плавание 40 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 9 | -1 | +3 |
-| CON | 15 | +2 | +6 |
-| INT | 18 | +4 | +8 |
-| WIS | 15 | +2 | +6 |
-| CHA | 18 | +4 | +4 |
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 9 | -1 | +3 |
+| ТЕЛ | 15 | +2 | +6 |
+| ИНТ | 18 | +4 | +8 |
+| МДР | 15 | +2 | +6 |
+| ХАР | 18 | +4 | +4 |
 
-- **Skills**: History +12, Perception +10
-- **Senses**: darkvision 120 ft.; Passive Perception 20
-- **Languages**: Deep Speech; telepathy 120 ft.
-- **CR** 10 (XP 5,900, or 7,200 in lair)
+- **Навыки:** История +12, Восприятие +10
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 20
+- **Языки:** Глубинная речь; телепатия 120 футов
+- **ПО** 10 (ОО 5900 или 7200 в логове)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The aboleth can breathe air and water.
+***Амфибия.*** Аболет может дышать воздухом и водой.
 
-***Eldritch Restoration.*** If destroyed, the aboleth gains a new body in 5d10 days, reviving with all its Hit Points in the Far Realm or another location chosen by the DM.
+***Сверхъестественное восстановление.*** При уничтожении аболет получает новое тело через 5d10 дней, возрождаясь со всеми хитами в Дальнем Пределе или другом месте, выбранном Мастером.
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the aboleth fails a saving throw, it can choose to succeed instead.
+***Легендарное сопротивление (3/день, или 4/день в логове).*** Если аболет проваливает спасбросок, он может вместо этого успешно его совершить.
 
-***Mucus Cloud.*** While underwater, the aboleth is surrounded by mucus. *Constitution Saving Throw*: DC 14, each creature in a 5-foot Emanation originating from the aboleth at the end of the aboleth's turn. *Failure:*  The target is cursed. Until the curse ends, the target's skin becomes slimy, the target can breathe air and water, and it can't regain Hit Points unless it is underwater.
-While the cursed creature is outside a body of water, the creature takes 6 (1d12) Acid damage at the end of every 10 minutes unless moisture is applied to its skin before those minutes have passed.
+***Облако слизи.*** Находясь под водой, аболет окружён слизью. *Спасбросок Телосложения:* Сл 14, каждое существо в 5-футовой эманации с центром на аболете в конце хода аболета. *Провал:* Цель проклята. Пока проклятие не закончится, кожа цели становится слизистой, цель может дышать воздухом и водой и не может восстанавливать хиты, если не находится под водой.
+Пока проклятое существо находится вне водоёма, оно получает 6 (1d12) Кислотного урона в конце каждых 10 минут, если влага не нанесена на его кожу до истечения этих минут.
 
-***Probing Telepathy.*** If a creature the aboleth can see communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires.
+***Проникающая телепатия.*** Если существо, которое аболет видит, телепатически общается с аболетом, аболет узнаёт величайшие желания существа.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Аболет совершает две атаки щупальцем и использует либо «Поглощение воспоминаний», либо «Подчинение разума», если доступно.
 
-***Multiattack.*** The aboleth makes two Tentacle attacks and uses either Consume Memories or Dominate Mind if available.
+***Щупальце.*** *Рукопашная атака:* +9, досягаемость 15 футов. 12 (2d6 + 5) Дробящего урона. Если цель — Большое или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 14) одним из четырёх щупалец.
 
-***Tentacle.*** *Melee Attack Roll:* +9, reach 15 ft. 12 (2d6 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of four tentacles.
+***Поглощение воспоминаний.*** *Спасбросок Интеллекта:* Сл 16, одно существо в пределах 30 футов, которое очаровано или схвачено аболетом. *Провал:* 10 (3d6) Психического урона. *Успех:* Половина урона. *Провал или успех:* Аболет получает воспоминания цели, если цель — гуманоид и её хиты уменьшены до 0 этим действием.
 
-***Consume Memories.*** *Intelligence Saving Throw*: DC 16, one creature within 30 feet that is Charmed or Grappled by the aboleth. *Failure:*  10 (3d6) Psychic damage. *Success:*  Half damage. *Failure or Success*:  The aboleth gains the target's memories if the target is a Humanoid and is reduced to 0 Hit Points by this action.
+***Подчинение разума (2/день).*** *Спасбросок Мудрости:* Сл 16, одно существо, которое аболет видит в пределах 30 футов. *Провал:* Цель получает состояние «очарован» до смерти аболета или пока аболет не окажется на другом плане существования от цели. Пока очарована, цель действует как союзник аболета и находится под его контролем в пределах 60 футов от него. Кроме того, аболет и цель могут телепатически общаться друг с другом на любом расстоянии.
+Цель повторяет спасбросок всякий раз, когда получает урон, а также через каждые 24 часа, проведённые на расстоянии не менее 1 мили от аболета, прекращая эффект на себе при успехе.
 
-***Dominate Mind (2/Day).*** *Wisdom Saving Throw*: DC 16, one creature the aboleth can see within 30 feet. *Failure:*  The target has the Charmed condition until the aboleth dies or is on a different plane of existence from the target. While Charmed, the target acts as an ally to the aboleth and is under its control while within 60 feet of it. In addition, the aboleth and the target can communicate telepathically with each other over any distance.
-The target repeats the save whenever it takes damage as well as after every 24 hours it spends at least 1 mile away from the aboleth, ending the effect on itself on a success.
+### Легендарные действия
 
+***Удар.*** Аболет совершает одну атаку щупальцем.
 
-### Legendary Actions
+***Психическое истощение.*** Если у аболета есть хотя бы одно очарованное или схваченное существо, он использует «Поглощение воспоминаний» и восстанавливает 5 (1d10) хитов.
 
-***Lash.*** The aboleth makes one Tentacle attack.
+## Взрослый чёрный дракон
 
-***Psychic Drain.*** If the aboleth has at least one creature Charmed or Grappled, it uses Consume Memories and regains 5 (1d10) Hit Points.
+*Огромный дракон (хроматический), хаотично-злой*
 
-## Adult Black Dragon
+- **Класс доспеха:** 19
+- **Хиты:** 195 (17d12 + 85)
+- **Скорость:** 40 футов, полёт 80 футов, плавание 40 футов
+- **Инициатива:** +6 (16)
 
-*Huge Dragon (Chromatic), Chaotic Evil*
-
-- **Armor Class:** 19
-- **Hit Points:** 195 (17d12 + 85)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
-
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 14 | +2 | +7 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +6 |
-| CHA | 19 | +4 | +4 |
-
-- **Immunities**: Acid
-- **Skills**: Perception +11, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
-- **CR** 14 (XP 11,500, or 13,000 in lair)
-
-### Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Acid Arrow* (level 3 version).
-
-***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 13 (2d6 + 6) Slashing damage plus 4 (1d8) Acid damage.
-
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  54 (12d8) Acid damage. *Success:*  Half damage.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
-
-- **At Will:** *Detect Magic*, *Fear*, *Acid Arrow*
-- **1e/Day Each:** *Speak with Dead*, *Vitriolic Sphere*
-
-### Legendary Actions
-
-***Cloud of Insects.*** *Dexterity Saving Throw*: DC 17, one creature the dragon can see within 120 feet. *Failure:*  22 (4d10) Poison damage, and the target has Disadvantage on saving throws to maintain  Concentration until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
-
-***Frightful Presence.*** The dragon uses Spellcasting to cast *Fear*. The dragon can't take this action again until the start of its next turn.
-
-***Pounce.*** The dragon can move up to half its Speed, and it makes one Rend attack.
-
-## Adult Blue Dragon
-
-*Huge Dragon (Chromatic), Lawful Evil*
-
-- **Armor Class:** 19
-- **Hit Points:** 212 (17d12 + 102)
-- **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 10 | +0 | +5 |
-| CON | 23 | +6 | +6 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +7 |
-| CHA | 20 | +5 | +5 |
-
-- **Immunities**: Lightning
-- **Skills**: Perception +12, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
-- **CR** 16 (XP 15,000, or 18,000 in lair)
-
-### Traits
-
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Shatter*.
-
-***Rend.*** *Melee Attack Roll:* +12, reach 10 ft. 16 (2d8 + 7) Slashing damage plus 5 (1d10) Lightning damage.
-
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 19, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  60 (11d10) Lightning damage. *Success:*  Half damage.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
-
-- **At Will:** *Detect Magic*, *Invisibility*, *Mage Hand*, *Shatter*
-- **1e/Day Each:** *Scrying*, *Sending*
-
-### Legendary Actions
-
-***Cloaked Flight.*** The dragon uses Spellcasting to cast *Invisibility* on itself, and it can fly up to half its Fly Speed. The dragon can't take this action again until the start of its next turn.
-
-***Sonic Boom.*** The dragon uses Spellcasting to cast *Shatter*. The dragon can't take this action again until the start of its next turn.
-
-***Tail Swipe.*** The dragon makes one Rend attack.
-
-## Adult Brass Dragon
-
-*Huge Dragon (Metallic), Chaotic Good*
-
-- **Armor Class:** 18
-- **Hit Points:** 172 (15d12 + 75)
-- **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 10 | +0 | +5 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +6 |
-| CHA | 17 | +3 | +3 |
-
-- **Immunities**: Fire
-- **Skills**: History +7, Perception +11, Persuasion +8, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
-- **CR** 13 (XP 10,000, or 11,500 in lair)
-
-### Traits
-
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Sleep Breath or (B) Spellcasting to cast *Scorching Ray*.
-
-***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 17 (2d10 + 6) Slashing damage plus 4 (1d8) Fire damage.
-
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  45 (10d8) Fire damage. *Success:*  Half damage.
-
-***Sleep Breath.*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 10 minutes. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16):
-
-- **At Will:** *Detect Magic*, *Minor Illusion*, *Scorching Ray*, *Shapechange*, *Speak with Animals*
-- **1e/Day Each:** *Detect Thoughts*, *Control Weather*
-
-### Legendary Actions
-
-***Blazing Light.*** The dragon uses Spellcasting to cast *Scorching Ray*.
-
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
-
-***Scorching Sands.*** *Dexterity Saving Throw*: DC 16, one creature the dragon can see within 120 feet. *Failure:*  27 (6d8) Fire damage, and the target's Speed is halved until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
-
-## Adult Bronze Dragon
-
-*Huge Dragon (Metallic), Lawful Good*
-
-- **Armor Class:** 18
-- **Hit Points:** 212 (17d12 + 102)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 10 | +0 | +5 |
-| CON | 23 | +6 | +6 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +7 |
-| CHA | 20 | +5 | +5 |
-
-- **Immunities**: Lightning
-- **Skills**: Insight +7, Perception +12, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
-- **CR** 15 (XP 13,000, or 15,000 in lair)
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 14 | +2 | +7 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 13 | +1 | +6 |
+| ХАР | 19 | +4 | +4 |
 
-### Traits
+- **Иммунитеты:** Кислотный
+- **Навыки:** Восприятие +11, Скрытность +7
+- **Чувства:** слепое зрение 60 футов, тёмное зрение 120 футов; пассивное Восприятие 21
+- **Языки:** Общий, Драконий
+- **ПО** 14 (ОО 11 500 или 13 000 в логове)
 
-***Amphibious.*** The dragon can breathe air and water.
+### Особенности
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
+***Легендарное сопротивление (3/день, или 4/день в логове).*** Если дракон проваливает спасбросок, он может вместо этого успешно его совершить.
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Repulsion Breath or (B) Spellcasting to cast *Guiding Bolt* (level 2 version).
+***Мультиатака.*** Дракон совершает три атаки разрывом. Он может заменить одну атаку использованием «Сотворение заклинаний» для сотворения *Кислотной стрелы* (версия 3-го уровня).
 
-***Rend.*** *Melee Attack Roll:* +12, reach 10 ft. 16 (2d8 + 7) Slashing damage plus 5 (1d10) Lightning damage.
+***Разрыв.*** *Рукопашная атака:* +11, досягаемость 10 футов. 13 (2d6 + 6) Рубящего урона плюс 4 (1d8) Кислотного урона.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 19, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  55 (10d10) Lightning damage. *Success:*  Half damage.
+***Кислотное дыхание (перезарядка 5–6).*** *Спасбросок Ловкости:* Сл 18, каждое существо в линии длиной 60 футов и шириной 5 футов. *Провал:* 54 (12d8) Кислотного урона. *Успех:* Половина урона.
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 19, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 60 feet straight away from the dragon and has the Prone condition.
+***Сотворение заклинаний.*** Дракон сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (Сл спасброска 17, +9 к атаке заклинаниями):
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17, +10 to hit with spell attacks):
+- **По желанию:** *Обнаружение магии*, *Страх*, *Кислотная стрела*
+- **1/день каждое:** *Разговор с мёртвыми*, *Едкая сфера*
 
-- **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*, *Speak with Animals*, *Thaumaturgy*
-- **1e/Day Each:** *Detect Thoughts*, *Water Breathing*
+### Легендарные действия
 
-### Legendary Actions
+***Облако насекомых.*** *Спасбросок Ловкости:* Сл 17, одно существо, которое дракон видит в пределах 120 футов. *Провал:* 22 (4d10) Ядовитого урона, и цель совершает с помехой спасброски для поддержания концентрации до конца своего следующего хода. *Провал или успех:* Дракон не может совершить это действие снова до начала своего следующего хода.
 
-***Guiding Light.*** The dragon uses Spellcasting to cast *Guiding Bolt* (level 2 version).
+***Пугающее присутствие.*** Дракон использует «Сотворение заклинаний» для сотворения *Страха*. Дракон не может совершить это действие снова до начала своего следующего хода.
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+***Прыжок.*** Дракон может переместиться на половину своей скорости и совершает одну атаку разрывом.
 
-***Thunderclap.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  10 (3d6) Thunder damage, and the target has the Deafened condition until the end of its next turn.
+## Взрослый синий дракон
 
-## Adult Copper Dragon
+*Огромный дракон (хроматический), принципиально-злой*
 
-*Huge Dragon (Metallic), Chaotic Good*
+- **Класс доспеха:** 19
+- **Хиты:** 212 (17d12 + 102)
+- **Скорость:** 40 футов, копание 30 футов, полёт 80 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 18
-- **Hit Points:** 184 (16d12 + 80)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 12 | +1 | +6 |
-| CON | 21 | +5 | +5 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +4 |
-
-- **Immunities**: Acid
-- **Skills**: Deception +9, Perception +12, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
-- **CR** 14 (XP 11,500, or 13,000 in lair)
+| СИЛ | 25 | +7 | +7 |
+| ЛОВ | 10 | +0 | +5 |
+| ТЕЛ | 23 | +6 | +6 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 15 | +2 | +7 |
+| ХАР | 20 | +5 | +5 |
 
-### Traits
+- **Иммунитеты:** Электрический
+- **Навыки:** Восприятие +12, Скрытность +5
+- **Чувства:** слепое зрение 60 футов, тёмное зрение 120 футов; пассивное Восприятие 22
+- **Языки:** Общий, Драконий
+- **ПО** 16 (ОО 15 000 или 18 000 в логове)
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+### Особенности
 
+***Легендарное сопротивление (3/день, или 4/день в логове).*** Если дракон проваливает спасбросок, он может вместо этого успешно его совершить.
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Slowing Breath or (B) Spellcasting to cast *Mind Spike* (level 4 version).
+***Мультиатака.*** Дракон совершает три атаки разрывом. Он может заменить одну атаку использованием «Сотворение заклинаний» для сотворения *Раскалывания*.
 
-***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 17 (2d10 + 6) Slashing damage plus 4 (1d8) Acid damage.
+***Разрыв.*** *Рукопашная атака:* +12, досягаемость 10 футов. 16 (2d8 + 7) Рубящего урона плюс 5 (1d10) Электрического урона.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in an 60-foot-long, 5-foot-wide Line. *Failure:*  54 (12d8) Acid damage. *Success:*  Half damage.
+***Электрическое дыхание (перезарядка 5–6).*** *Спасбросок Ловкости:* Сл 19, каждое существо в линии длиной 90 футов и шириной 5 футов. *Провал:* 60 (11d10) Электрического урона. *Успех:* Половина урона.
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
+***Сотворение заклинаний.*** Дракон сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (Сл спасброска 18):
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
+- **По желанию:** *Обнаружение магии*, *Невидимость*, *Волшебная рука*, *Раскалывание*
+- **1/день каждое:** *Наблюдение*, *Послание*
 
-- **At Will:** *Detect Magic*, *Mind Spike*, *Minor Illusion*, *Shapechange*
-- **1e/Day Each:** *Greater Restoration*, *Major Image*
+### Легендарные действия
 
-### Legendary Actions
+***Скрытый полёт.*** Дракон использует «Сотворение заклинаний» для сотворения *Невидимости* на себя и может пролететь до половины своей скорости полёта. Дракон не может совершить это действие снова до начала своего следующего хода.
 
-***Giggling Magic.*** *Charisma Saving Throw*: DC 17, one creature the dragon can see within 90 feet. *Failure:*  24 (7d6) Psychic damage. Until the end of its next turn, the target rolls 1d6 whenever it makes an ability check or attack roll and subtracts the number rolled from the D20 Test. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Звуковой удар.*** Дракон использует «Сотворение заклинаний» для сотворения *Раскалывания*. Дракон не может совершить это действие снова до начала своего следующего хода.
 
-***Mind Jolt.*** The dragon uses Spellcasting to cast *Mind Spike* (level 4 version). The dragon can't take this action again until the start of its next turn.
+***Удар хвостом.*** Дракон совершает одну атаку разрывом.
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+## Взрослый латунный дракон
 
-## Adult Gold Dragon
+*Огромный дракон (металлический), хаотично-добрый*
 
-*Huge Dragon (Metallic), Lawful Good*
+- **Класс доспеха:** 18
+- **Хиты:** 172 (15d12 + 75)
+- **Скорость:** 40 футов, копание 30 футов, полёт 80 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 19
-- **Hit Points:** 243 (18d12 + 126)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 14 | +2 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +8 |
-| CHA | 24 | +7 | +7 |
-
-- **Immunities**: Fire
-- **Skills**: Insight +8, Perception +14, Persuasion +13, Stealth +8
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
-- **Languages**: Common, Draconic
-- **CR** 17 (XP 18,000, or 20,000 in lair)
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 10 | +0 | +5 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 13 | +1 | +6 |
+| ХАР | 17 | +3 | +3 |
 
-### Traits
+- **Иммунитеты:** Огненный
+- **Навыки:** История +7, Восприятие +11, Убеждение +8, Скрытность +5
+- **Чувства:** слепое зрение 60 футов, тёмное зрение 120 футов; пассивное Восприятие 21
+- **Языки:** Общий, Драконий
+- **ПО** 13 (ОО 10 000 или 11 500 в логове)
 
-***Amphibious.*** The dragon can breathe air and water.
+### Особенности
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Легендарное сопротивление (3/день, или 4/день в логове).*** Если дракон проваливает спасбросок, он может вместо этого успешно его совершить.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дракон совершает три атаки разрывом. Он может заменить одну атаку использованием (A) «Сонного дыхания» или (B) «Сотворение заклинаний» для сотворения *Палящего луча*.
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Spellcasting to cast *Guiding Bolt* (level 2 version) or (B) Weakening Breath.
+***Разрыв.*** *Рукопашная атака:* +11, досягаемость 10 футов. 17 (2d10 + 6) Рубящего урона плюс 4 (1d8) Огненного урона.
 
-***Rend.*** *Melee Attack Roll:* +14, reach 10 ft. 17 (2d8 + 8) Slashing damage plus 4 (1d8) Fire damage.
+***Огненное дыхание (перезарядка 5–6).*** *Спасбросок Ловкости:* Сл 18, каждое существо в линии длиной 60 футов и шириной 5 футов. *Провал:* 45 (10d8) Огненного урона. *Успех:* Половина урона.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 60-foot Cone. *Failure:*  66 (12d10) Fire damage. *Success:*  Half damage.
+***Сонное дыхание.*** *Спасбросок Телосложения:* Сл 18, каждое существо в 60-футовом конусе. *Провал:* Цель получает состояние «недееспособный» до конца своего следующего хода, после чего повторяет спасбросок. *Второй провал:* Цель получает состояние «без сознания» на 10 минут. Этот эффект заканчивается для цели, если она получает урон или существо в пределах 5 футов от неё совершает действие, чтобы разбудить её.
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 21, each creature that isn't currently affected by this breath in a 60-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Сотворение заклинаний.*** Дракон сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (Сл спасброска 16):
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
+- **По желанию:** *Обнаружение магии*, *Малая иллюзия*, *Палящий луч*, *Изменение формы*, *Разговор с животными*
+- **1/день каждое:** *Обнаружение мыслей*, *Управление погодой*
 
-- **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*
-- **1e/Day Each:** *Flame Strike*, *Zone of Truth*
+### Легендарные действия
 
-### Legendary Actions
+***Ослепительный свет.*** Дракон использует «Сотворение заклинаний» для сотворения *Палящего луча*.
 
-***Banish.*** *Charisma Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  10 (3d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Прыжок.*** Дракон перемещается на половину своей скорости и совершает одну атаку разрывом.
 
-***Guiding Light.*** The dragon uses Spellcasting to cast *Guiding Bolt* (level 2 version).
+***Обжигающие пески.*** *Спасбросок Ловкости:* Сл 16, одно существо, которое дракон видит в пределах 120 футов. *Провал:* 27 (6d8) Огненного урона, и скорость цели уменьшена вдвое до конца её следующего хода. *Провал или успех:* Дракон не может совершить это действие снова до начала своего следующего хода.
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+## Воздушный элементаль
 
-## Adult Green Dragon
+*Большой элементаль, нейтральный*
 
-*Huge Dragon (Chromatic), Lawful Evil*
+- **Класс доспеха:** 15
+- **Хиты:** 90 (12d10 + 24)
+- **Скорость:** 10 футов, полёт 90 футов (парение)
+- **Инициатива:** +5 (15)
 
-- **Armor Class:** 19
-- **Hit Points:** 207 (18d12 + 90)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 12 | +1 | +6 |
-| CON | 21 | +5 | +5 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +4 |
-
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +9, Perception +12, Persuasion +9, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 22
-- **Languages**: Common, Draconic
-- **CR** 15 (XP 13,000, or 15,000 in lair)
-
-### Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 20 | +5 | +5 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 6 | -2 | -2 |
 
-### Actions
+- **Сопротивления:** Дробящий, Электрический, Колющий, Рубящий
+- **Иммунитеты:** Ядовитый, Звуковой; истощение, схваченный, парализованный, окаменевший, отравленный, лежащий ничком, обездвиженный, без сознания
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первозданный (Ауран)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Mind Spike* (level 3 version).
+### Особенности
 
-***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 15 (2d8 + 6) Slashing damage plus 7 (2d6) Poison damage.
+***Воздушная форма.*** Элементаль может войти в пространство существа и остаться там. Он может проходить через пространство шириной до 1 дюйма, не затрачивая дополнительное движение.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  56 (16d6) Poison damage. *Success:*  Half damage.
+### Действия
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
+***Мультиатака.*** Элементаль совершает две атаки громовым ударом.
 
-- **At Will:** *Detect Magic*, *Mind Spike*
-- **1/Day Each:** *Geas*
+***Громовой удар.*** *Рукопашная атака:* +8, досягаемость 10 футов. 14 (2d8 + 5) Звукового урона.
 
-### Legendary Actions
+***Вихрь (перезарядка 4–6).*** *Спасбросок Силы:* Сл 13, одно Среднее или меньшее существо в пространстве элементаля. *Провал:* 24 (4d10 + 2) Звукового урона, и цель отталкивается на 20 футов по прямой от элементаля и получает состояние «лежащий ничком». *Успех:* Только половина урона.
 
-***Mind Invasion.*** The dragon uses Spellcasting to cast *Mind Spike* (level 3 version).
+## Оживлённый доспех
 
-***Noxious Miasma.*** *Constitution Saving Throw*: DC 17, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  7 (2d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+*Средний конструкт, без мировоззрения*
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+- **Класс доспеха:** 18
+- **Хиты:** 33 (6d8 + 6)
+- **Скорость:** 25 футов
+- **Инициатива:** +2 (12)
 
-## Adult Red Dragon
-
-*Huge Dragon (Chromatic), Chaotic Evil*
-
-- **Armor Class:** 19
-- **Hit Points:** 256 (19d12 + 133)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +6 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +7 |
-| CHA | 23 | +6 | +6 |
-
-- **Immunities**: Fire
-- **Skills**: Perception +13, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
-- **Languages**: Common, Draconic
-- **CR** 17 (XP 18,000, or 20,000 in lair)
-
-### Traits
-
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 3 | -4 | -4 |
+| ХАР | 1 | -5 | -5 |
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Scorching Ray*.
+- **Иммунитеты:** Ядовитый, Психический; очарованный, оглохший, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 6
+- **ПО** 1 (ОО 200; БМ +2)
 
-***Rend.*** *Melee Attack Roll:* +14, reach 10 ft. 13 (1d10 + 8) Slashing damage plus 5 (2d4) Fire damage.
+### Действия
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 60-foot Cone. *Failure:*  59 (17d6) Fire damage. *Success:*  Half damage.
+***Мультиатака.*** Доспех совершает две атаки ударом.
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit with spell attacks):
+***Удар.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Дробящего урона.
 
-- **At Will:** *Command*, *Detect Magic*, *Scorching Ray*
-- **1/Day Each:** *Fireball*
+## Оживлённый летающий меч
 
-### Legendary Actions
+*Маленький конструкт, без мировоззрения*
 
-***Commanding Presence.*** The dragon uses Spellcasting to cast *Command* (level 2 version). The dragon can't take this action again until the start of its next turn.
+- **Класс доспеха:** 17
+- **Хиты:** 14 (4d6)
+- **Скорость:** 5 футов, полёт 50 футов (парение)
+- **Инициатива:** +4 (14)
 
-***Fiery Rays.*** The dragon uses Spellcasting to cast *Scorching Ray*. The dragon can't take this action again until the start of its next turn.
-
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
-
-## Adult Silver Dragon
-
-*Huge Dragon (Metallic), Lawful Good*
-
-- **Armor Class:** 19
-- **Hit Points:** 216 (16d12 + 112)
-- **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +5 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +6 |
-| CHA | 22 | +6 | +6 |
-
-- **Immunities**: Cold
-- **Skills**: History +8, Perception +11, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
-- **CR** 16 (XP 15,000, or 18,000 in lair)
-
-### Traits
-
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Paralyzing Breath or (B) Spellcasting to cast *Ice Knife*.
-
-***Rend.*** *Melee Attack Roll:* +13, reach 10 ft. 17 (2d8 + 8) Slashing damage plus 4 (1d8) Cold damage.
-
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 20, each creature in a 60-foot Cone. *Failure:*  54 (12d8) Cold damage. *Success:*  Half damage.
-
-***Paralyzing Breath.*** *Constitution Saving Throw*: DC 20, each creature in a 60-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 19, +11 to hit with spell attacks):
-
-- **At Will:** *Detect Magic*, *Hold Monster*, *Ice Knife*, *Shapechange*
-- **1e/Day Each:** *Ice Storm*, *Zone of Truth*
+| СИЛ | 12 | +1 | +1 |
+| ЛОВ | 15 | +2 | +4 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 5 | -3 | -3 |
+| ХАР | 1 | -5 | -5 |
 
-### Legendary Actions
+- **Иммунитеты:** Ядовитый, Психический; очарованный, оглохший, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 7
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-***Chill.*** The dragon uses Spellcasting to cast *Hold Monster*. The dragon can't take this action again until the start of its next turn.
+### Действия
 
-***Cold Gale.*** *Dexterity Saving Throw*: DC 19, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:*  14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:*  Half damage only. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Рубящий удар.*** *Рукопашная атака:* +4, досягаемость 5 футов. 6 (1d8 + 2) Рубящего урона.
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+## Оживлённый ковёр-душитель
 
-## Adult White Dragon
+*Большой конструкт, без мировоззрения*
 
-*Huge Dragon (Chromatic), Chaotic Evil*
+- **Класс доспеха:** 12
+- **Хиты:** 27 (5d10)
+- **Скорость:** 10 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 18
-- **Hit Points:** 200 (16d12 + 96)
-- **Speed:** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 10 | +0 | +5 |
-| CON | 22 | +6 | +6 |
-| INT | 8 | -1 | -1 |
-| WIS | 12 | +1 | +6 |
-| CHA | 12 | +1 | +1 |
-
-- **Immunities**: Cold
-- **Skills**: Perception +11, Stealth +5
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 21
-- **Languages**: Common, Draconic
-- **CR** 13 (XP 10,000, or 11,500 in lair)
-
-### Traits
-
-***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
-
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks.
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 3 | -4 | -4 |
+| ХАР | 1 | -5 | -5 |
 
-***Rend.*** *Melee Attack Roll:* +11, reach 10 ft. 13 (2d6 + 6) Slashing damage plus 4 (1d8) Cold damage.
+- **Иммунитеты:** Ядовитый, Психический; очарованный, оглохший, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 6
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 19, each creature in a 60-foot Cone. *Failure:*  54 (12d8) Cold damage. *Success:*  Half damage.
+### Действия
 
+***Удушение.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Дробящего урона. Если цель — Среднее или меньшее существо, ковёр может вместо нанесения урона дать ей состояние «схвачен» (Сл высвобождения 13). Пока захват длится, цель получает состояния «ослеплён» и «обездвижен», задыхается и получает 10 (2d6 + 3) Дробящего урона в начале каждого из своих ходов. Ковёр может душить только одно существо одновременно.
+Пока захватывает цель, ковёр не может совершить это действие, ковёр получает вдвое меньше урона (округляя вниз), и цель получает такое же количество урона.
 
-### Legendary Actions
+## Анхег
 
-***Freezing Burst.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  7 (2d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+*Большое чудовище, без мировоззрения*
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+- **Класс доспеха:** 14
+- **Хиты:** 45 (6d10 + 12)
+- **Скорость:** 30 футов, копание 10 футов
+- **Инициатива:** +0 (10)
 
-***Frightful Presence.*** The dragon casts *Fear*, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14). The dragon can't take this action again until the start of its next turn.
-## Air Elemental
-
-*Large Elemental, Neutral*
-
-- **Armor Class:** 15
-- **Hit Points:** 90 (12d10 + 24)
-- **Speed:** 10 ft., Fly 90 ft. (hover)
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 20 | +5 | +5 |
-| CON | 14 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
-
-- **Resistances**: Bludgeoning, Lightning, Piercing, Slashing
-- **Immunities**: Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Auran)
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 6 | -2 | -2 |
 
-### Traits
+- **Чувства:** тёмное зрение 60 футов, чувство вибрации 60 футов; пассивное Восприятие 11
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Air Form.*** The elemental can enter a creature's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
+### Особенности
 
+***Прокладчик туннелей.*** Анхег может прокапывать твёрдую породу с половиной своей скорости копания и оставляет за собой туннель диаметром 10 футов.
 
-### Actions
+### Действия
 
-***Multiattack.*** The elemental makes two Thunderous Slam attacks.
+***Укус.*** *Рукопашная атака:* +5 (с преимуществом, если цель схвачена анхегом), досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона плюс 3 (1d6) Кислотного урона. Если цель — Большое или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 13).
 
-***Thunderous Slam.*** *Melee Attack Roll:* +8, reach 10 ft. 14 (2d8 + 5) Thunder damage.
+***Кислотный плевок (перезарядка 6).*** *Спасбросок Ловкости:* Сл 12, каждое существо в линии длиной 30 футов и шириной 5 футов. *Провал:* 14 (4d6) Кислотного урона. *Успех:* Половина урона.
 
-***Whirlwind (Recharge 4-6).*** *Strength Saving Throw*: DC 13, one Medium or smaller creature in the elemental's space. *Failure:*  24 (4d10 + 2) Thunder damage, and the target is pushed up to 20 feet straight away from the elemental and has the Prone condition. *Success:*  Half damage only.
+## Архимаг
 
-## Ancient Black Dragon
+*Маленький гуманоид, нейтральный*
 
-*Gargantuan Dragon (Chromatic), Chaotic Evil*
+- **Класс доспеха:** 17
+- **Хиты:** 170 (31d8 + 31)
+- **Скорость:** 30 футов
+- **Инициатива:** +6 (16)
 
-- **Armor Class:** 22
-- **Hit Points:** 367 (21d20 + 147)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 14 | +2 | +9 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +9 |
-| CHA | 22 | +6 | +6 |
-
-- **Immunities**: Acid
-- **Skills**: Perception +16, Stealth +9
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
-- **Languages**: Common, Draconic
-- **CR** 21 (XP 33,000, or 41,000 in lair)
-
-### Traits
-
-***Amphibious.*** The dragon can breathe air and water.
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 20 | +5 | +9 |
+| МДР | 15 | +2 | +6 |
+| ХАР | 16 | +3 | +3 |
 
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+- **Иммунитеты:** Психический; очарованный (с *Пустым разумом*)
+- **Навыки:** Магия +13, История +9, Восприятие +6
+- **Снаряжение:** Волшебная палочка
+- **Чувства:** пассивное Восприятие 16
+- **Языки:** Общий плюс пять других языков
+- **ПО** 12 (ОО 8400; БМ +4)
 
+### Особенности
 
-### Actions
+***Сопротивление магии.*** Архимаг совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Acid Arrow* (level 4 version).
+### Действия
 
-***Rend.*** *Melee Attack Roll:* +15, reach 15 ft. 17 (2d8 + 8) Slashing damage plus 9 (2d8) Acid damage.
+***Мультиатака.*** Архимаг совершает четыре атаки магическим разрывом.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 22, each creature in a 90-foot-long, 10-foot-wide Line. *Failure:*  67 (15d8) Acid damage. *Success:*  Half damage.
+***Магический разрыв.*** *Рукопашная или дальнобойная атака:* +9, досягаемость 5 футов или дистанция 150 футов. 27 (4d10 + 5) Силового урона.
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit with spell attacks):
+***Сотворение заклинаний.*** Архимаг сотворяет одно из следующих заклинаний, используя Интеллект как заклинательную характеристику (Сл спасброска 17):
 
-- **At Will:** *Detect Magic*, *Fear*, *Acid Arrow*
-- **1e/Day Each:** *Create Undead*, *Speak with Dead*, *Vitriolic Sphere*
+- **По желанию:** *Обнаружение магии*, *Обнаружение мыслей*, *Маскировка*, *Невидимость*, *Свет*, *Доспехи мага*, *Волшебная рука*, *Фокусы*
+- **2/день каждое:** *Полёт*, *Молния*
+- **1/день каждое:** *Конус холода*, *Пустой разум*, *Наблюдение*, *Телепортация*
 
-### Legendary Actions
+### Бонусные действия
 
-***Cloud of Insects.*** *Dexterity Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  33 (6d10) Poison damage, and the target has Disadvantage on saving throws to maintain  Concentration until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Туманный шаг (3/день).*** Маг сотворяет *Туманный шаг*, используя ту же заклинательную характеристику, что и «Сотворение заклинаний».
 
-***Frightful Presence.*** The dragon uses Spellcasting to cast *Fear*. The dragon can't take this action again until the start of its next turn.
+### Реакции
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+***Защитная магия (3/день).*** Архимаг сотворяет *Контрзаклинание* или *Щит* в ответ на триггер заклинания, используя ту же заклинательную характеристику, что и «Сотворение заклинаний».
 
-## Ancient Blue Dragon
+## Убийца
 
-*Gargantuan Dragon (Chromatic), Lawful Evil*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 22
-- **Hit Points:** 481 (26d20 + 208)
-- **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 16
+- **Хиты:** 97 (15d8 + 30)
+- **Скорость:** 30 футов
+- **Инициатива:** +10 (20)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 29 | +9 | +9 |
-| DEX | 10 | +0 | +7 |
-| CON | 27 | +8 | +8 |
-| INT | 18 | +4 | +4 |
-| WIS | 17 | +3 | +10 |
-| CHA | 25 | +7 | +7 |
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 18 | +4 | +7 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 16 | +3 | +6 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +17, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
-- **CR** 23 (XP 50,000, or 62,000 in lair)
+- **Сопротивления:** Ядовитый
+- **Навыки:** Акробатика +7, Восприятие +6, Скрытность +10
+- **Снаряжение:** Лёгкий арбалет, короткий меч, проклёпанный кожаный доспех
+- **Чувства:** пассивное Восприятие 16
+- **Языки:** Общий, Воровской жаргон
+- **ПО** 8 (ОО 3900; БМ +3)
 
-### Traits
+### Особенности
 
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Уклонение.*** Если убийца подвергается эффекту, который позволяет ему совершить спасбросок Ловкости, чтобы получить только половину урона, убийца вместо этого не получает урона при успехе и только половину урона при провале. Он не может использовать эту особенность, если находится в состоянии «недееспособный».
 
+### Действия
 
-### Actions
+***Мультиатака.*** Убийца совершает три атаки, используя короткий меч или лёгкий арбалет в любой комбинации.
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Shatter* (level 3 version).
+***Короткий меч.*** *Рукопашная атака:* +7, досягаемость 5 футов. 7 (1d6 + 4) Колющего урона плюс 17 (5d6) Ядовитого урона, и цель получает состояние «отравлен» до начала следующего хода убийцы.
 
-***Rend.*** *Melee Attack Roll:* +16, reach 15 ft. 18 (2d8 + 9) Slashing damage plus 11 (2d10) Lightning damage.
+***Лёгкий арбалет.*** *Дальнобойная атака:* +7, дистанция 80/320 футов. 8 (1d8 + 4) Колющего урона плюс 21 (6d6) Ядовитого урона.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 23, each creature in a 120-foot-long, 10-foot-wide Line. *Failure:*  88 (16d10) Lightning damage. *Success:*  Half damage.
+### Бонусные действия
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22):
+***Хитрое действие.*** Убийца совершает действие «Рывок», «Отход» или «Скрытность».
 
-- **At Will:** *Detect Magic*, *Invisibility*, *Mage Hand*, *Shatter*
-- **1e/Day Each:** *Scrying*, *Sending*
+## Пробуждённый куст
 
-### Legendary Actions
+*Маленькое растение, нейтральный*
 
-***Cloaked Flight.*** The dragon uses Spellcasting to cast *Invisibility* on itself, and it can fly up to half its Fly Speed. The dragon can't take this action again until the start of its next turn.
+- **Класс доспеха:** 9
+- **Хиты:** 10 (3d6)
+- **Скорость:** 20 футов
+- **Инициатива:** -1 (9)
 
-***Sonic Boom.*** The dragon uses Spellcasting to cast *Shatter* (level 3 version). The dragon can't take this action again until the start of its next turn.
-
-***Tail Swipe.*** The dragon makes one Rend attack.
-
-## Ancient Brass Dragon
-
-*Gargantuan Dragon (Metallic), Chaotic Good*
-
-- **Armor Class:** 20
-- **Hit Points:** 332 (19d20 + 133)
-- **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +6 |
-| CON | 25 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +8 |
-| CHA | 22 | +6 | +6 |
-
-- **Immunities**: Fire
-- **Skills**: History +9, Perception +14, Persuasion +12, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 24
-- **Languages**: Common, Draconic
-- **CR** 20 (XP 25,000, or 33,000 in lair)
-
-### Traits
-
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Sleep Breath or (B) Spellcasting to cast *Scorching Ray* (level 3 version).
-
-***Rend.*** *Melee Attack Roll:* +14, reach 15 ft. 19 (2d10 + 8) Slashing damage plus 7 (2d6) Fire damage.
-
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 21, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  58 (13d8) Fire damage. *Success:*  Half damage.
-
-***Sleep Breath.*** *Constitution Saving Throw*: DC 21, each creature in a 90-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 10 minutes. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 20):
-
-- **At Will:** *Detect Magic*, *Minor Illusion*, *Scorching Ray*, *Shapechange*, *Speak with Animals*
-- **1e/Day Each:** *Control Weather*, *Detect Thoughts*
+| СИЛ | 3 | -4 | -4 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 6 | -2 | -2 |
 
-### Legendary Actions
+- **Уязвимости:** Огненный
+- **Сопротивления:** Колющий
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий плюс один другой язык
+- **ПО** 0 (ОО 0 или 10; БМ +2)
 
-***Blazing Light.*** The dragon uses Spellcasting to cast *Scorching Ray* (level 3 version).
+### Действия
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+***Царапание.*** *Рукопашная атака:* +1, досягаемость 5 футов. 1 Рубящего урона.
 
-***Scorching Sands.*** *Dexterity Saving Throw*: DC 20, one creature the dragon can see within 120 feet. *Failure:*  36 (8d8) Fire damage, and the target's Speed is halved until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+## Пробуждённое дерево
 
-## Ancient Bronze Dragon
+*Огромное растение, нейтральный*
 
-*Gargantuan Dragon (Metallic), Lawful Good*
+- **Класс доспеха:** 13
+- **Хиты:** 59 (7d12 + 14)
+- **Скорость:** 20 футов
+- **Инициатива:** -2 (8)
 
-- **Armor Class:** 22
-- **Hit Points:** 444 (24d20 + 192)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 29 | +9 | +9 |
-| DEX | 10 | +0 | +7 |
-| CON | 27 | +8 | +8 |
-| INT | 18 | +4 | +4 |
-| WIS | 17 | +3 | +10 |
-| CHA | 25 | +7 | +7 |
-
-- **Immunities**: Lightning
-- **Skills**: Insight +10, Perception +17, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
-- **CR** 22 (XP 41,000, or 50,000 in lair)
-
-### Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Repulsion Breath or (B) Spellcasting to cast *Guiding Bolt* (level 2 version).
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 6 | -2 | -2 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 7 | -2 | -2 |
 
-***Rend.*** *Melee Attack Roll:* +16, reach 15 ft. 18 (2d8 + 9) Slashing damage plus 9 (2d8) Lightning damage.
+- **Уязвимости:** Огненный
+- **Сопротивления:** Дробящий, Колющий
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий плюс один другой язык
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 23, each creature in a 120-foot-long, 10-foot-wide Line. *Failure:*  82 (15d10) Lightning damage. *Success:*  Half damage.
+### Действия
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 23, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 60 feet straight away from the dragon and has the Prone condition.
+***Удар.*** *Рукопашная атака:* +6, досягаемость 10 футов. 13 (2d8 + 4) Дробящего урона.
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 22, +14 to hit with spell attacks):
+## Топорник
 
-- **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*, *Speak with Animals*, *Thaumaturgy*
-- **1e/Day Each:** *Detect Thoughts*, *Control Water*, *Scrying*, *Water Breathing*
+*Большое чудовище, без мировоззрения*
 
-### Legendary Actions
+- **Класс доспеха:** 11
+- **Хиты:** 19 (3d10 + 3)
+- **Скорость:** 50 футов
+- **Инициатива:** +1 (11)
 
-***Guiding Light.*** The dragon uses Spellcasting to cast *Guiding Bolt* (level 2 version).
-
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
-
-***Thunderclap.*** *Constitution Saving Throw*: DC 22, each creature in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  13 (3d8) Thunder damage, and the target has the Deafened condition until the end of its next turn.
-
-## Ancient Copper Dragon
-
-*Gargantuan Dragon (Metallic), Chaotic Good*
-
-- **Armor Class:** 21
-- **Hit Points:** 367 (21d20 + 147)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 12 | +1 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 20 | +5 | +5 |
-| WIS | 17 | +3 | +10 |
-| CHA | 22 | +6 | +6 |
-
-- **Immunities**: Acid
-- **Skills**: Deception +13, Perception +17, Stealth +8
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
-- **CR** 21 (XP 33,000, or 41,000 in lair)
-
-### Traits
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+- **Чувства:** пассивное Восприятие 10
+- **ПО** 1/4 (ОО 50; БМ +2)
 
+### Действия
 
-### Actions
+***Клюв.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Рубящего урона.
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Slowing Breath or (B) Spellcasting to cast *Mind Spike* (level 5 version).
+## Страж-азер
 
-***Rend.*** *Melee Attack Roll:* +15, reach 15 ft. 19 (2d10 + 8) Slashing damage plus 9 (2d8) Acid damage.
+*Средний элементаль, принципиально-нейтральный*
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 22, each creature in an 90-foot-long, 10-foot-wide Line. *Failure:*  63 (14d8) Acid damage. *Success:*  Half damage.
+- **Класс доспеха:** 17
+- **Хиты:** 39 (6d8 + 12)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
-
-- **At Will:** *Detect Magic*, *Mind Spike*, *Minor Illusion*, *Shapechange*
-- **1e/Day Each:** *Greater Restoration*, *Major Image*, *Project Image*
-
-### Legendary Actions
-
-***Giggling Magic.*** *Charisma Saving Throw*: DC 21, one creature the dragon can see within 120 feet. *Failure:*  31 (9d6) Psychic damage. Until the end of its next turn, the target rolls 1d8 whenever it makes an ability check or attack roll and subtracts the number rolled from the D20 Test. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
-
-***Mind Jolt.*** The dragon uses Spellcasting to cast *Mind Spike* (level 5 version). The dragon can't take this action again until the start of its next turn.
-
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
-
-## Ancient Gold Dragon
-
-*Gargantuan Dragon (Metallic), Lawful Good*
-
-- **Armor Class:** 22
-- **Hit Points:** 546 (28d20 + 252)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 14 | +2 | +9 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 17 | +3 | +10 |
-| CHA | 28 | +9 | +9 |
-
-- **Immunities**: Fire
-- **Skills**: Insight +10, Perception +17, Persuasion +16, Stealth +9
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
-- **CR** 24 (XP 62,000, or 75,000 in lair)
-
-### Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 15 | +2 | +4 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 10 | +0 | +0 |
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Spellcasting to cast *Guiding Bolt* (level 4 version) or (B) Weakening Breath.
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Чувства:** пассивное Восприятие 11
+- **Языки:** Первозданный (Игнан)
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Rend.*** *Melee Attack Roll:* +17 to hit, reach 15 ft. 19 (2d8 + 10) Slashing damage plus 9 (2d8) Fire damage.
+### Особенности
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:*  71 (13d10) Fire damage. *Success:*  Half damage.
+***Огненная аура.*** В конце каждого хода азера каждое выбранное азером существо в 5-футовой эманации с центром на азере получает 5 (1d10) Огненного урона, если азер не находится в состоянии «недееспособный».
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 24, each creature that isn't currently affected by this breath in a 90-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 5 (1d10) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Освещение.*** Азер испускает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов.
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
+### Действия
 
-- **At Will:** *Detect Magic*, *Guiding Bolt*, *Shapechange*
-- **1e/Day Each:** *Flame Strike*, *Word of Recall*, *Zone of Truth*
+***Пылающий молот.*** *Рукопашная атака:* +5, досягаемость 5 футов. 8 (1d10 + 3) Дробящего урона плюс 3 (1d6) Огненного урона.
 
-### Legendary Actions
+## Балор
 
-***Banish.*** *Charisma Saving Throw*: DC 24, one creature the dragon can see within 120 feet. *Failure:*  24 (7d6) Force damage, and the target has the Incapacitated condition and is transported to a harmless demiplane until the start of the dragon's next turn, at which point it reappears in an unoccupied space of the dragon's choice within 120 feet of the dragon. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+*Огромное исчадие (демон), хаотично-злой*
 
-***Guiding Light.*** The dragon uses Spellcasting to cast *Guiding Bolt* (level 4 version).
+- **Класс доспеха:** 19
+- **Хиты:** 287 (23d12 + 138)
+- **Скорость:** 40 футов, полёт 80 футов
+- **Инициатива:** +14 (24)
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
-
-## Ancient Green Dragon
-
-*Gargantuan Dragon (Chromatic), Lawful Evil*
-
-- **Armor Class:** 21
-- **Hit Points:** 402 (23d20 + 161)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 12 | +1 | +8 |
-| CON | 25 | +7 | +7 |
-| INT | 20 | +5 | +5 |
-| WIS | 17 | +3 | +10 |
-| CHA | 22 | +6 | +6 |
+| СИЛ | 26 | +8 | +8 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 22 | +6 | +12 |
+| ИНТ | 20 | +5 | +5 |
+| МДР | 16 | +3 | +9 |
+| ХАР | 22 | +6 | +6 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +13, Perception +17, Persuasion +13, Stealth +8
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 27
-- **Languages**: Common, Draconic
-- **CR** 22 (XP 41,000, or 50,000 in lair)
+- **Сопротивления:** Холодный, Электрический
+- **Иммунитеты:** Огненный, Ядовитый; очарованный, испуганный, отравленный
+- **Навыки:** Восприятие +9
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 19
+- **Языки:** Бездны; телепатия 120 футов
+- **ПО** 19 (ОО 22 000; БМ +6)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The dragon can breathe air and water.
+***Предсмертная агония.*** Балор взрывается при смерти. *Спасбросок Ловкости:* Сл 20, каждое существо в 30-футовой эманации с центром на балоре. *Провал:* 31 (9d6) Огненного урона плюс 31 (9d6) Силового урона. *Успех:* Половина урона. *Провал или успех:* Если балор умирает за пределами Бездны, он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Бездне.
 
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Огненная аура.*** В конце каждого хода балора каждое существо в 5-футовой эманации с центром на балоре получает 13 (3d8) Огненного урона.
 
+***Легендарное сопротивление (3/день).*** Если балор проваливает спасбросок, он может вместо этого успешно его совершить.
 
-### Actions
+***Сопротивление магии.*** Балор совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Mind Spike* (level 5 version).
+### Действия
 
-***Rend.*** *Melee Attack Roll:* +15, reach 15 ft. 17 (2d8 + 8) Slashing damage plus 10 (3d6) Poison damage.
+***Мультиатака.*** Балор совершает одну атаку огненным хлыстом и одну атаку молниевым клинком.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:*  77 (22d6) Poison damage. *Success:*  Half damage.
+***Огненный хлыст.*** *Рукопашная атака:* +14, досягаемость 30 футов. 18 (3d6 + 8) Силового урона плюс 17 (5d6) Огненного урона. Если цель — Огромное или меньшее существо, балор притягивает её на 25 футов по прямой к себе, и цель получает состояние «лежащий ничком».
 
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21):
+***Молниевый клинок.*** *Рукопашная атака:* +14, досягаемость 10 футов. 21 (3d8 + 8) Силового урона плюс 22 (4d10) Электрического урона, и цель не может совершать реакции до начала следующего хода балора.
 
-- **At Will:** *Detect Magic*, *Mind Spike*
-- **1e/Day Each:** *Geas*, *Modify Memory*
+### Бонусные действия
 
-### Legendary Actions
+***Телепортация.*** Балор телепортирует себя или согласного демона в пределах 10 футов от себя на расстояние до 60 футов в свободное пространство, которое балор видит.
 
-***Mind Invasion.*** The dragon uses Spellcasting to cast *Mind Spike* (level 5 version).
+## Капитан бандитов
 
-***Noxious Miasma.*** *Constitution Saving Throw*: DC 21, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 90 feet. *Failure:*  17 (5d6) Poison damage, and the target takes a -2 penalty to AC until the end of its next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+*Маленький гуманоид, нейтральный*
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+- **Класс доспеха:** 15
+- **Хиты:** 52 (8d8 + 16)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-## Ancient Red Dragon
-
-*Gargantuan Dragon (Chromatic), Chaotic Evil*
-
-- **Armor Class:** 22
-- **Hit Points:** 507 (26d20 + 234)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 10 | +0 | +7 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +9 |
-| CHA | 27 | +8 | +8 |
-
-- **Immunities**: Fire
-- **Skills**: Perception +16, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
-- **Languages**: Common, Draconic
-- **CR** 24 (XP 62,000, or 75,000 in lair)
-
-### Traits
-
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
-
-### Actions
-
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Spellcasting to cast *Scorching Ray* (level 3 version).
-
-***Rend.*** *Melee Attack Roll:* +17, reach 15 ft. 19 (2d8 + 10) Slashing damage plus 10 (3d6) Fire damage.
-
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:*  91 (26d6) Fire damage. *Success:*  Half damage.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
+| СИЛ | 15 | +2 | +4 |
+| ЛОВ | 16 | +3 | +5 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 14 | +2 | +2 |
 
-- **At Will:** *Command*, *Detect Magic*, *Scorching Ray*
-- **1e/Day Each:** *Fireball*, *Scrying*
+- **Навыки:** Атлетика +4, Обман +4
+- **Снаряжение:** Пистолет, скимитар, проклёпанный кожаный доспех
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий, Воровской жаргон
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Legendary Actions
+### Действия
 
-***Commanding Presence.*** The dragon uses Spellcasting to cast *Command* (level 2 version). The dragon can't take this action again until the start of its next turn.
+***Мультиатака.*** Бандит совершает две атаки, используя скимитар и пистолет в любой комбинации.
 
-***Fiery Rays.*** The dragon uses Spellcasting to cast *Scorching Ray* (level 3 version). The dragon can't take this action again until the start of its next turn.
+***Скимитар.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Рубящего урона.
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+***Пистолет.*** *Дальнобойная атака:* +5, дистанция 30/90 футов. 8 (1d10 + 3) Колющего урона.
 
-## Ancient Silver Dragon
+## Бандит
 
-*Gargantuan Dragon (Metallic), Lawful Good*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 22
-- **Hit Points:** 468 (24d20 + 216)
-- **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 12
+- **Хиты:** 11 (2d8 + 2)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 10 | +0 | +7 |
-| CON | 29 | +9 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +9 |
-| CHA | 26 | +8 | +8 |
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-- **Immunities**: Cold
-- **Skills**: History +11, Perception +16, Stealth +7
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 26
-- **Languages**: Common, Draconic
-- **CR** 23 (XP 50,000, or 62,000 in lair)
+- **Снаряжение:** Кожаный доспех, лёгкий арбалет, скимитар
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий, Воровской жаргон
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-### Traits
+### Действия
 
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
+***Скимитар.*** *Рукопашная атака:* +3, досягаемость 5 футов. 4 (1d6 + 1) Рубящего урона.
 
+***Лёгкий арбалет.*** *Дальнобойная атака:* +3, дистанция 80/320 футов. 5 (1d8 + 1) Колющего урона.
 
-### Actions
+## Шипастый дьявол
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of (A) Paralyzing Breath or (B) Spellcasting to cast *Ice Knife* (level 2 version).
+*Средний исчадие (дьявол), принципиально-злой*
 
-***Rend.*** *Melee Attack Roll:* +17, reach 15 ft. 19 (2d8 + 10) Slashing damage plus 9 (2d8) Cold damage.
+- **Класс доспеха:** 15
+- **Хиты:** 110 (13d8 + 52)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +3 (13)
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 24, each creature in a 90-foot Cone. *Failure:*  67 (15d8) Cold damage. *Success:*  Half damage.
-
-***Paralyzing Breath.*** *Constitution Saving Throw*: DC 24, each creature in a 90-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-
-***Spellcasting.*** The dragon casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks):
-
-- **At Will:** *Detect Magic*, *Hold Monster*, *Ice Knife*, *Shapechange*
-- **1e/Day Each:** *Control Weather*, *Ice Storm*, *Teleport*, *Zone of Truth*
-
-### Legendary Actions
-
-***Chill.*** The dragon uses Spellcasting to cast *Hold Monster*. The dragon can't take this action again until the start of its next turn.
-
-***Cold Gale.*** *Dexterity Saving Throw*: DC 23, each creature in a 60-foot-long, 10-foot-wide Line. *Failure:*  14 (4d6) Cold damage, and the target is pushed up to 30 feet straight away from the dragon. *Success:*  Half damage only. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
-
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
-
-## Ancient White Dragon
-
-*Gargantuan Dragon (Chromatic), Chaotic Evil*
-
-- **Armor Class:** 20
-- **Hit Points:** 333 (18d20 + 144)
-- **Speed:** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 10 | +0 | +6 |
-| CON | 26 | +8 | +8 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +7 |
-| CHA | 18 | +4 | +4 |
-
-- **Immunities**: Cold
-- **Skills**: Perception +13, Stealth +6
-- **Senses**: blindsight 60 ft., darkvision 120 ft.; Passive Perception 23
-- **Languages**: Common, Draconic
-- **CR** 20 (XP 25,000, or 33,000 in lair)
-
-### Traits
-
-***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
-
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the dragon fails a saving throw, it can choose to succeed instead.
-
+| СИЛ | 16 | +3 | +6 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 18 | +4 | +7 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 14 | +2 | +5 |
+| ХАР | 14 | +2 | +5 |
 
-### Actions
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Навыки:** Обман +5, Проницательность +5, Восприятие +8
+- **Чувства:** тёмное зрение 120 футов (не ограничено магической тьмой); пассивное Восприятие 18
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Multiattack.*** The dragon makes three Rend attacks.
+### Особенности
 
-***Rend.*** *Melee Attack Roll:* +14, reach 15 ft. 17 (2d8 + 8) Slashing damage plus 7 (2d6) Cold damage.
+***Шипастая шкура.*** В начале каждого своего хода дьявол наносит 5 (1d10) Колющего урона любому существу, которое он захватил, или любому существу, захватившему его.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 22, each creature in a 90-foot Cone. *Failure:*  63 (14d8) Cold damage. *Success:*  Half damage.
+***Дьявольское восстановление.*** Если дьявол умирает за пределами Девяти Преисподних, его тело исчезает в серном дыму, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
+***Сопротивление магии.*** Дьявол совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-### Legendary Actions
+### Действия
 
-***Freezing Burst.*** *Constitution Saving Throw*: DC 20, each creature in a 30-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the dragon can see within 120 feet. *Failure:*  14 (4d6) Cold damage, and the target's Speed is 0 until the end of the target's next turn. *Failure or Success*:  The dragon can't take this action again until the start of its next turn.
+***Мультиатака.*** Дьявол совершает одну атаку когтями и одну атаку хвостом, или он совершает две атаки метанием пламени.
 
-***Pounce.*** The dragon moves up to half its Speed, and it makes one Rend attack.
+***Когти.*** *Рукопашная атака:* +6, досягаемость 5 футов. 10 (2d6 + 3) Колющего урона. Если цель — Большое или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 13) обоими когтями.
 
-***Frightful Presence.*** The dragon casts *Fear*, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18). The dragon can't take this action again until the start of its next turn.
-## Animated Armor
+***Хвост.*** *Рукопашная атака:* +6, досягаемость 10 футов. 14 (2d10 + 3) Рубящего урона.
 
-*Medium Construct, Unaligned*
+***Метание пламени.*** *Дальнобойная атака:* +5, дистанция 150 футов. 17 (5d6) Огненного урона. Если цель — горючий объект, который никто не носит и не несёт, он загорается.
 
-- **Armor Class:** 18
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 25 ft.
-- **Initiative**: +2 (12)
+## Василиск
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 11 | +0 | +0 |
-| CON | 13 | +1 | +1 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
-
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 6
-- **CR** 1 (XP 200; PB +2)
-
-### Actions
-
-***Multiattack.*** The armor makes two Slam attacks.
+*Средняя чудовищность, без мировоззрения*
 
-***Slam.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Bludgeoning damage.
+- **Класс доспеха:** 15
+- **Хиты:** 52 (8d8 + 16)
+- **Скорость:** 20 футов
+- **Инициатива:** -1 (9)
 
-## Animated Flying Sword
-
-*Small Construct, Unaligned*
-
-- **Armor Class:** 17
-- **Hit Points:** 14 (4d6)
-- **Speed:** 5 ft., Fly 50 ft. (hover)
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 15 | +2 | +4 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 5 | -3 | -3 |
-| CHA | 1 | -5 | -5 |
-
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 7
-- **CR** 1/4 (XP 50; PB +2)
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 7 | -2 | -2 |
 
-### Actions
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Slash.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Slashing damage.
+### Действия
 
-## Animated Rug of Smothering
+***Укус.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Колющего урона плюс 7 (2d6) Ядовитого урона.
 
-*Large Construct, Unaligned*
+### Бонусные действия
 
-- **Armor Class:** 12
-- **Hit Points:** 27 (5d10)
-- **Speed:** 10 ft.
-- **Initiative**: +4 (14)
+***Окаменяющий взгляд (перезарядка 4-6).*** *Спасбросок Телосложения:* Сл 12, каждое существо в 30-футовом конусе. Если василиск видит своё отражение в пределах конуса, он должен сам пройти этот спасбросок. *Первый провал* Цель получает состояние «опутан» и повторяет спасбросок в конце своего следующего хода, если всё ещё опутана, прекращая эффект на себе при успехе. *Второй провал* Цель получает состояние «окаменевший» вместо состояния «опутан».
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
-
-- **Immunities**: Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 60 ft.; Passive Perception 6
-- **CR** 2 (XP 450; PB +2)
-
-### Actions
-
-***Smother.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the rug can give it the Grappled condition (escape DC 13) instead of dealing damage. Until the grapple ends, the target has the Blinded and Restrained conditions, is suffocating, and takes 10 (2d6 + 3) Bludgeoning damage at the start of each of its turns. The rug can smother only one creature at a time.
-While grappling the target, the rug can't take this action, the rug halves the damage it takes (round down), and the target takes the same amount of damage.
+## Бородатый дьявол
 
-## Ankheg
+*Средний исчадие (дьявол), принципиально-злой*
 
-*Large Monstrosity, Unaligned*
+- **Класс доспеха:** 13
+- **Хиты:** 58 (9d8 + 18)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 14
-- **Hit Points:** 45 (6d10 + 12)
-- **Speed:** 30 ft., Burrow 10 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 11 | +0 | +0 |
-| CON | 14 | +2 | +2 |
-| INT | 1 | -5 | -5 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 16 | +3 | +5 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 15 | +2 | +4 |
+| ИНТ | 9 | -1 | -1 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 14 | +2 | +4 |
 
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 11
-- **CR** 2 (XP 450; PB +2)
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; испуганный, отравленный
+- **Чувства:** тёмное зрение 120 футов (не ограничено магической тьмой); пассивное Восприятие 10
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Traits
+### Особенности
 
-***Tunneler.*** The ankheg can burrow through solid rock at half its Burrow Speed and leaves a 10-foot-diameter tunnel in its wake.
+***Сопротивление магии.*** Дьявол совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дьявол совершает одну атаку бородой и одну атаку адской глевой.
 
-***Bite.*** *Melee Attack Roll:* +5 (with Advantage if the target is Grappled by the ankheg), reach 5 ft. 10 (2d6 + 3) Slashing damage plus 3 (1d6) Acid damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13).
+***Борода.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Колющего урона, и цель получает состояние «отравлен» до начала следующего хода дьявола. Пока этот яд действует, цель не может восстанавливать хиты.
 
-***Acid Spray (Recharge 6).*** *Dexterity Saving Throw*: DC 12, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:*  14 (4d6) Acid damage. *Success:*  Half damage.
+***Адская глевия.*** *Рукопашная атака:* +5, досягаемость 10 футов. 8 (1d10 + 3) Рубящего урона. Если цель — существо и у неё ещё нет адской раны, она подвергается следующему эффекту. *Спасбросок Телосложения:* Сл 12. *Провал:* Цель получает адскую рану. Пока рана открыта, цель теряет 5 (1d10) хитов в начале каждого своего хода. Рана закрывается через 1 минуту, после того как заклинание восстановит хиты цели, или после того как цель или существо в пределах 5 футов от неё потратит действие, чтобы остановить кровотечение, преуспев в проверке Мудрости (Медицина) Сл 12.
 
-## Archmage
+## Бехир
 
-*Small Humanoid, Neutral*
+*Огромная чудовищность, нейтрально-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 170 (31d8 + 31)
-- **Speed:** 30 ft.
-- **Initiative**: +6 (16)
+- **Класс доспеха:** 17
+- **Хиты:** 168 (16d12 + 64)
+- **Скорость:** 50 футов, лазание 50 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 20 | +5 | +9 |
-| WIS | 15 | +2 | +6 |
-| CHA | 16 | +3 | +3 |
-
-- **Immunities**: Psychic; Charmed ((with Mind Blank))
-- **Skills**: Arcana +13, History +9, Perception +6
-- **Gear** Wand
-- **Senses**: Passive Perception 16
-- **Languages**: Common plus five other languages
-- **CR** 12 (XP 8,400; PB +4)
-
-### Traits
-
-***Magic Resistance.*** The archmage has Advantage on saving throws against spells and other magical effects.
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 12 | +1 | +1 |
 
+- **Иммунитеты:** Электрический
+- **Навыки:** Восприятие +6, Скрытность +7
+- **Чувства:** тёмное зрение 90 футов; пассивное Восприятие 16
+- **Языки:** Драконий
+- **ПО** 11 (ОО 7200; БМ +4)
 
-### Actions
+### Действия
 
-***Multiattack.*** The archmage makes four Arcane Burst attacks.
+***Мультиатака.*** Бехир совершает одну атаку укусом и использует Сдавливание.
 
-***Arcane Burst.*** *Melee or Ranged Attack Roll:* +9, reach 5 ft. or range 150 ft. 27 (4d10 + 5) Force damage.
+***Укус.*** *Рукопашная атака:* +10, досягаемость 10 футов. 19 (2d12 + 6) Колющего урона плюс 11 (2d10) Электрического урона.
 
-***Spellcasting.*** The archmage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17):
+***Сдавливание.*** *Спасбросок Силы:* Сл 18, одно Большое или меньшее существо, которое бехир видит в пределах 5 футов. *Провал:* 28 (5d8 + 6) Дробящего урона. Цель получает состояние «схвачен» (Сл высвобождения 16), и она получает состояние «опутан» до окончания захвата.
 
-- **At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Invisibility*, *Light*, *Mage Armor*, *Mage Hand*, *Prestidigitation*
-- **2e/Day Each:** *Fly*, *Lightning Bolt*
-- **1e/Day Each:** *Cone of Cold*, *Mind Blank*, *Scrying*, *Teleport*
+***Молниевое дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 16, каждое существо в 90-футовой линии шириной 5 футов. *Провал:* 66 (12d10) Электрического урона. *Успех:* Половина урона.
 
-### Bonus Actions
+### Бонусные действия
 
-***Misty Step (3/Day).*** The mage casts *Misty Step*, using the same spellcasting ability as Spellcasting.
+***Проглатывание.*** *Спасбросок Ловкости:* Сл 18, одно Большое или меньшее существо, схваченное бехиром (бехир может иметь только одно проглоченное существо одновременно). *Провал:* Бехир проглатывает цель, которая больше не схвачена. Проглоченное существо получает состояния «ослеплён» и «опутан», имеет полное укрытие от атак и других эффектов вне бехира и получает 21 (6d6) Кислотного урона в начале каждого хода бехира.
+Если бехир получает 30 или более урона за один ход от проглоченного существа, бехир должен преуспеть в спасброске Телосложения Сл 14 в конце этого хода, иначе он срыгивает существо, которое падает в пространство в пределах 10 футов от бехира и получает состояние «лежащий». Если бехир умирает, проглоченное существо больше не опутано и может выбраться из трупа, потратив 15 футов перемещения, выходя лежащим.
 
-### Reactions
+## Берсерк
 
-***Protective Magic (3/Day).*** The archmage casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
-## Assassin
+*Маленький гуманоид, нейтральный*
 
-*Small Humanoid, Neutral*
+- **Класс доспеха:** 13
+- **Хиты:** 67 (9d8 + 27)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 16
-- **Hit Points:** 97 (15d8 + 30)
-- **Speed:** 30 ft.
-- **Initiative**: +10 (20)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 18 | +4 | +7 |
-| CON | 14 | +2 | +2 |
-| INT | 16 | +3 | +6 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
-
-- **Resistances**: Poison
-- **Skills**: Acrobatics +7, Perception +6, Stealth +10
-- **Gear** Light Crossbow, Shortsword, Studded Leather Armor
-- **Senses**: Passive Perception 16
-- **Languages**: Common, Thieves' cant
-- **CR** 8 (XP 3,900; PB +3)
-
-### Traits
-
-***Evasion.*** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the Incapacitated condition.
-
-
-### Actions
-
-***Multiattack.*** The assassin makes three attacks, using Shortsword or Light Crossbow in any combination.
-
-***Shortsword.*** *Melee Attack Roll:* +7, reach 5 ft. 7 (1d6 + 4) Piercing damage plus 17 (5d6) Poison damage, and the target has the Poisoned condition until the start of the assassin's next turn.
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 9 | -1 | -1 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 9 | -1 | -1 |
 
-***Light Crossbow.*** *Ranged Attack Roll:* +7, range 80/320 ft. 8 (1d8 + 4) Piercing damage plus 21 (6d6) Poison damage.
+- **Снаряжение:** Секира, шкурный доспех
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 2 (ОО 450; БМ +2)
 
+### Особенности
 
-### Bonus Actions
+***Кровавое безумие.*** Пока берсерк окровавлен, он совершает с преимуществом броски атаки и спасброски.
 
-***Cunning Action.*** The assassin takes the Dash, Disengage, or Hide action.
+### Действия
 
-## Awakened Shrub
+***Секира.*** *Рукопашная атака:* +5, досягаемость 5 футов. 9 (1d12 + 3) Рубящего урона.
 
-*Small Plant, Neutral*
+## Детёныш чёрного дракона
 
-- **Armor Class:** 9
-- **Hit Points:** 10 (3d6)
-- **Speed:** 20 ft.
-- **Initiative**: -1 (9)
+*Средний дракон (хроматический), хаотично-злой*
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 8 | -1 | -1 |
-| CON | 11 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
-
-- **Vulnerabilities**: Fire
-- **Resistances**: Piercing
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
-- **CR** 0 (XP 0 or 10; PB +2)
-
-### Actions
-
-***Rake.*** *Melee Attack Roll:* +1, reach 5 ft. 1 Slashing damage.
+- **Класс доспеха:** 17
+- **Хиты:** 33 (6d8 + 6)
+- **Скорость:** 30 футов, полёт 60 футов, плавание 30 футов
+- **Инициатива:** +4 (14)
 
-## Awakened Tree
-
-*Huge Plant, Neutral*
-
-- **Armor Class:** 13
-- **Hit Points:** 59 (7d12 + 14)
-- **Speed:** 20 ft.
-- **Initiative**: -2 (8)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 6 | -2 | -2 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
-
-- **Vulnerabilities**: Fire
-- **Resistances**: Bludgeoning, Piercing
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 14 | +2 | +4 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 13 | +1 | +1 |
 
-### Actions
+- **Иммунитеты:** Кислотный
+- **Навыки:** Восприятие +4, Скрытность +4
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Slam.*** *Melee Attack Roll:* +6, reach 10 ft. 13 (2d8 + 4) Bludgeoning damage.
+### Особенности
 
-## Axe Beak
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
-*Large Monstrosity, Unaligned*
+### Действия
 
-- **Armor Class:** 11
-- **Hit Points:** 19 (3d10 + 3)
-- **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+***Мультиатака.*** Дракон совершает две атаки раздиранием.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
-
-- **Senses**: Passive Perception 10
-- **CR** 1/4 (XP 50; PB +2)
+***Раздирание.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Рубящего урона плюс 2 (1d4) Кислотного урона.
 
-### Actions
+***Кислотное дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 11, каждое существо в 15-футовой линии шириной 5 футов. *Провал:* 22 (5d8) Кислотного урона. *Успех:* Половина урона.
 
-***Beak.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Slashing damage.
+## Чёрная слизь
 
-## Azer Sentinel
+*Большая слизь, без мировоззрения*
 
-*Medium Elemental, Lawful Neutral*
+- **Класс доспеха:** 7
+- **Хиты:** 68 (8d10 + 24)
+- **Скорость:** 20 футов, лазание 20 футов
+- **Инициатива:** -3 (7)
 
-- **Armor Class:** 17
-- **Hit Points:** 39 (6d8 + 12)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 15 | +2 | +4 |
-| INT | 12 | +1 | +1 |
-| WIS | 13 | +1 | +1 |
-| CHA | 10 | +0 | +0 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 5 | -3 | -3 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 6 | -2 | -2 |
+| ХАР | 1 | -5 | -5 |
 
-- **Immunities**: Fire, Poison; Poisoned
-- **Senses**: Passive Perception 11
-- **Languages**: Primordial (Ignan)
-- **CR** 2 (XP 450; PB +2)
+- **Иммунитеты:** Кислотный, Холодный, Электрический, Рубящий; очарованный, оглохший, истощение, испуганный, схваченный, лежащий, опутан
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 8
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Traits
+### Особенности
 
-***Fire Aura.*** At the end of each of the azer's turns, each creature of the azer's choice in a 5-foot Emanation originating from the azer takes 5 (1d10) Fire damage unless the azer has the Incapacitated condition.
+***Аморфность.*** Слизь может перемещаться через пространство шириной 1 дюйм без затраты дополнительного перемещения.
 
-***Illumination.*** The azer sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+***Коррозийная форма.*** Существо, попавшее по слизи рукопашной атакой, получает 4 (1d8) Кислотного урона. Немагические боеприпасы уничтожаются сразу после попадания по слизи и нанесения урона. Любое немагическое оружие получает накапливающийся штраф -1 к броскам атаки сразу после нанесения урона слизи и контакта с ней. Оружие уничтожается, если штраф достигает -5. Штраф можно снять, сотворив заклинание *починка* на оружие.
+За 1 минуту слизь может проесть 2 фута немагического дерева или металла.
 
+***Паучье лазание.*** Слизь может лазать по сложным поверхностям, включая потолки, без необходимости совершать проверку характеристики.
 
-### Actions
+### Действия
 
-***Burning Hammer.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Bludgeoning damage plus 3 (1d6) Fire damage.
+***Растворяющий ложноножка.*** *Рукопашная атака:* +5, досягаемость 10 футов. 17 (4d6 + 3) Кислотного урона. Немагический доспех, который носит цель, получает штраф -1 к КД, который он даёт. Доспех уничтожается, если штраф снижает его КД до 10. Штраф можно снять, сотворив заклинание *починка* на доспех.
 
-## Balor
+## Мигающий пёс
 
-*Huge Fiend (Demon), Chaotic Evil*
+*Средняя фея, принципиально-добрый*
 
-- **Armor Class:** 19
-- **Hit Points:** 287 (23d12 + 138)
-- **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +14 (24)
+- **Класс доспеха:** 13
+- **Хиты:** 22 (4d8 + 4)
+- **Скорость:** 40 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 15 | +2 | +2 |
-| CON | 22 | +6 | +12 |
-| INT | 20 | +5 | +5 |
-| WIS | 16 | +3 | +9 |
-| CHA | 22 | +6 | +6 |
-
-- **Resistances**: Cold, Lightning
-- **Immunities**: Fire, Poison; Charmed, Frightened, Poisoned
-- **Skills**: Perception +9
-- **Senses**: truesight 120 ft.; Passive Perception 19
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 19 (XP 22,000; PB +6)
-
-### Traits
-
-***Death Throes.*** The balor explodes when it dies. *Dexterity Saving Throw*: DC 20, each creature in a 30-foot Emanation originating from the balor. *Failure:*  31 (9d6) Fire damage plus 31 (9d6) Force damage. *Success:*  Half damage. *Failure or Success*:  If the balor dies outside the Abyss, it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
-
-***Fire Aura.*** At the end of each of the balor's turns, each creature in a 5-foot Emanation originating from the balor takes 13 (3d8) Fire damage.
-
-***Legendary Resistance (3/Day).*** If the balor fails a saving throw, it can choose to succeed instead.
+| СИЛ | 12 | +1 | +1 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 11 | +0 | +0 |
 
-***Magic Resistance.*** The balor has Advantage on saving throws against spells and other magical effects.
+- **Навыки:** Восприятие +5, Скрытность +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Понимает Эльфийский и Сильванский, но не может говорить
+- **ПО** 1/4 (ОО 50; БМ +2)
 
+### Действия
 
-### Actions
+***Укус.*** *Рукопашная атака:* +5, досягаемость 5 футов. 5 (1d4 + 3) Колющего урона.
 
-***Multiattack.*** The balor makes one Flame Whip attack and one Lightning Blade attack.
+### Бонусные действия
 
-***Flame Whip.*** *Melee Attack Roll:* +14, reach 30 ft. 18 (3d6 + 8) Force damage plus 17 (5d6) Fire damage. If the target is a Huge or smaller creature, the balor pulls the target up to 25 feet straight toward itself, and the target has the Prone condition.
+***Телепортация (перезарядка 4-6).*** Пёс телепортируется на расстояние до 40 футов в свободное пространство, которое он видит.
 
-***Lightning Blade.*** *Melee Attack Roll:* +14, reach 10 ft. 21 (3d8 + 8) Force damage plus 22 (4d10) Lightning damage, and the target can't take Reactions until the start of the balor's next turn.
+## Детёныш синего дракона
 
+*Средний дракон (хроматический), принципиально-злой*
 
-### Bonus Actions
+- **Класс доспеха:** 17
+- **Хиты:** 65 (10d8 + 20)
+- **Скорость:** 30 футов, копание 15 футов, полёт 60 футов
+- **Инициатива:** +2 (12)
 
-***Teleport.*** The balor teleports itself or a willing demon within 10 feet of itself up to 60 feet to an unoccupied space the balor can see.
-
-## Bandit Captain
-
-*Small Humanoid, Neutral*
-
-- **Armor Class:** 15
-- **Hit Points:** 52 (8d8 + 16)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +4 |
-| DEX | 16 | +3 | +5 |
-| CON | 14 | +2 | +2 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 14 | +2 | +2 |
-
-- **Skills**: Athletics +4, Deception +4
-- **Gear** Pistol, Scimitar, Studded Leather Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common, Thieves' cant
-- **CR** 2 (XP 450; PB +2)
-
-### Actions
-
-***Multiattack.*** The bandit makes two attacks, using Scimitar and Pistol in any combination.
-
-***Scimitar.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Slashing damage.
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 10 | +0 | +2 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 15 | +2 | +2 |
 
-***Pistol.*** *Ranged Attack Roll:* +5, range 30/90 ft. 8 (1d10 + 3) Piercing damage.
+- **Иммунитеты:** Электрический
+- **Навыки:** Восприятие +4, Скрытность +2
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 3 (ОО 700; БМ +2)
 
-## Bandit
+### Действия
 
-*Small Humanoid, Neutral*
+***Мультиатака.*** Дракон совершает две атаки раздиранием.
 
-- **Armor Class:** 12
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+***Раздирание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 8 (1d10 + 3) Рубящего урона плюс 3 (1d6) Электрического урона.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
-
-- **Gear** Leather Armor, Light Crossbow, Scimitar
-- **Senses**: Passive Perception 10
-- **Languages**: Common, Thieves' cant
-- **CR** 1/8 (XP 25; PB +2)
-
-### Actions
-
-***Scimitar.*** *Melee Attack Roll:* +3, reach 5 ft. 4 (1d6 + 1) Slashing damage.
+***Электрическое дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 12, каждое существо в 30-футовой линии шириной 5 футов. *Провал:* 21 (6d6) Электрического урона. *Успех:* Половина урона.
 
-***Light Crossbow.*** *Ranged Attack Roll:* +3, range 80/320 ft. 5 (1d8 + 1) Piercing damage.
+## Костяной дьявол
 
-## Barbed Devil
+*Большой исчадие (дьявол), принципиально-злой*
 
-*Medium Fiend (Devil), Lawful Evil*
+- **Класс доспеха:** 16
+- **Хиты:** 161 (17d10 + 68)
+- **Скорость:** 40 футов, полёт 40 футов
+- **Инициатива:** +7 (17)
 
-- **Armor Class:** 15
-- **Hit Points:** 110 (13d8 + 52)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +6 |
-| DEX | 17 | +3 | +3 |
-| CON | 18 | +4 | +7 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +5 |
-| CHA | 14 | +2 | +5 |
-
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Deception +5, Insight +5, Perception +8
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 18
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 5 (XP 1,800; PB +3)
-
-### Traits
-
-***Barbed Hide.*** At the start of each of its turns, the devil deals 5 (1d10) Piercing damage to any creature it is grappling or any creature grappling it.
+| СИЛ | 18 | +4 | +8 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 13 | +1 | +5 |
+| МДР | 14 | +2 | +6 |
+| ХАР | 16 | +3 | +7 |
 
-***Diabolical Restoration.*** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Навыки:** Обман +7, Проницательность +6
+- **Чувства:** тёмное зрение 120 футов (не ограничено магической тьмой); пассивное Восприятие 12
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 9 (ОО 5000; БМ +4)
 
-***Magic Resistance.*** The devil has Advantage on saving throws against spells and other magical effects.
+### Особенности
 
+***Дьявольское восстановление.*** Если дьявол умирает за пределами Девяти Преисподних, его тело исчезает в серном дыму, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
-### Actions
+***Сопротивление магии.*** Дьявол совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Multiattack.*** The devil makes one Claws attack and one Tail attack, or it makes two Hurl Flame attacks.
+### Действия
 
-***Claws.*** *Melee Attack Roll:* +6, reach 5 ft. 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13) from both claws.
+***Мультиатака.*** Дьявол совершает две атаки когтями и одну атаку адским жалом.
 
-***Tail.*** *Melee Attack Roll:* +6, reach 10 ft. 14 (2d10 + 3) Slashing damage.
+***Когти.*** *Рукопашная атака:* +8, досягаемость 10 футов. 13 (2d8 + 4) Рубящего урона.
 
-***Hurl Flame.*** *Ranged Attack Roll:* +5, range 150 ft. 17 (5d6) Fire damage. If the target is a flammable object that isn't being worn or carried, it starts burning.
+***Адское жало.*** *Рукопашная атака:* +8, досягаемость 10 футов. 15 (2d10 + 4) Колющего урона плюс 18 (4d8) Ядовитого урона, и цель получает состояние «отравлен» до начала следующего хода дьявола. Пока отравлена, цель не может восстанавливать хиты.
 
-## Basilisk
+## Детёныш латунного дракона
 
-*Medium Monstrosity, Unaligned*
+*Средний дракон (металлический), хаотично-добрый*
 
-- **Armor Class:** 15
-- **Hit Points:** 52 (8d8 + 16)
-- **Speed:** 20 ft.
-- **Initiative**: -1 (9)
+- **Класс доспеха:** 15
+- **Хиты:** 22 (4d8 + 4)
+- **Скорость:** 30 футов, копание 15 футов, полёт 60 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 8 | -1 | -1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 7 | -2 | -2 |
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 10 | +0 | +2 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 13 | +1 | +1 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **CR** 3 (XP 700; PB +2)
+- **Иммунитеты:** Огненный
+- **Навыки:** Восприятие +4, Скрытность +2
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Actions
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Piercing damage plus 7 (2d6) Poison damage.
+***Раздирание.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (1d10 + 2) Рубящего урона.
 
+***Огненное дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 11, каждое существо в 20-футовой линии шириной 5 футов. *Провал:* 14 (4d6) Огненного урона. *Успех:* Половина урона.
 
-### Bonus Actions
+***Усыпляющее дыхание.*** *Спасбросок Телосложения:* Сл 11, каждое существо в 15-футовом конусе. *Провал:* Цель получает состояние «недееспособен» до конца своего следующего хода, после чего она повторяет спасбросок. *Второй провал* Цель получает состояние «без сознания» на 1 минуту. Этот эффект заканчивается для цели, если она получает урон или существо в пределах 5 футов от неё тратит действие, чтобы разбудить её.
 
-***Petrifying Gaze (Recharge 4-6).*** *Constitution Saving Throw*: DC 12, each creature in a 30-foot Cone. If the basilisk sees its reflection within the Cone, the basilisk must make this save. *First Failure* The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. *Second Failure* The target has the Petrified condition instead of the Restrained condition.
+## Детёныш бронзового дракона
 
-## Bearded Devil
+*Средний дракон (металлический), принципиально-добрый*
 
-*Medium Fiend (Devil), Lawful Evil*
+- **Класс доспеха:** 15
+- **Хиты:** 39 (6d8 + 12)
+- **Скорость:** 30 футов, полёт 60 футов, плавание 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 13
-- **Hit Points:** 58 (9d8 + 18)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +5 |
-| DEX | 15 | +2 | +2 |
-| CON | 15 | +2 | +4 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 14 | +2 | +4 |
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 10 | +0 | +2 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 15 | +2 | +2 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Frightened, Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 3 (XP 700; PB +2)
+- **Иммунитеты:** Электрический
+- **Навыки:** Восприятие +4, Скрытность +2
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Traits
+### Особенности
 
-***Magic Resistance.*** The devil has Advantage on saving throws against spells and other magical effects.
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дракон совершает две атаки раздиранием.
 
-***Multiattack.*** The devil makes one Beard attack and one Infernal Glaive attack.
+***Раздирание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 8 (1d10 + 3) Рубящего урона.
 
-***Beard.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage, and the target has the Poisoned condition until the start of the devil's next turn. Until this poison ends, the target can't regain Hit Points.
+***Электрическое дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 12, каждое существо в 40-футовой линии шириной 5 футов. *Провал:* 16 (3d10) Электрического урона. *Успех:* Половина урона.
 
-***Infernal Glaive.*** *Melee Attack Roll:* +5, reach 10 ft. 8 (1d10 + 3) Slashing damage. If the target is a creature and doesn't already have an infernal wound, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target receives an infernal wound. While wounded, the target loses 5 (1d10) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 12 Wisdom (Medicine) check.
+***Отталкивающее дыхание.*** *Спасбросок Силы:* Сл 12, каждое существо в 30-футовом конусе. *Провал:* Цель отталкивается на 30 футов от дракона и получает состояние «лежащий».
 
-## Behir
+## Медвежатник-охотник
 
-*Huge Monstrosity, Neutral Evil*
+*Средняя фея (гоблиноид), хаотично-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 168 (16d12 + 64)
-- **Speed:** 50 ft., Climb 50 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 15
+- **Хиты:** 65 (10d8 + 20)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 16 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 7 | -2 | -2 |
-| WIS | 14 | +2 | +2 |
-| CHA | 12 | +1 | +1 |
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 14 | +2 | +4 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 12 | +1 | +3 |
+| ХАР | 11 | +0 | +0 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +6, Stealth +7
-- **Senses**: darkvision 90 ft.; Passive Perception 16
-- **Languages**: Draconic
-- **CR** 11 (XP 7,200; PB +4)
+- **Навыки:** Скрытность +6, Выживание +3
+- **Снаряжение:** Кольчужная рубаха, метательное копьё ×6, моргенштерн
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **Языки:** Общий, Гоблинский
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Actions
+### Особенности
 
-***Multiattack.*** The behir makes one Bite attack and uses Constrict.
+***Похищение.*** Медвежатнику не нужно тратить дополнительное перемещение, чтобы перемещать схваченное им существо.
 
-***Bite.*** *Melee Attack Roll:* +10, reach 10 ft. 19 (2d12 + 6) Piercing damage plus 11 (2d10) Lightning damage.
+### Действия
 
-***Constrict.*** *Strength Saving Throw*: DC 18, one Large or smaller creature the behir can see within 5 feet. *Failure:*  28 (5d8 + 6) Bludgeoning damage. The target has the Grappled condition (escape DC 16), and it has the Restrained condition until the grapple ends.
+***Мультиатака.*** Медвежатник совершает две атаки метательным копьём или моргенштерном.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 16, each creature in a 90-foot-long, 5-foot-wide Line. *Failure:*  66 (12d10) Lightning damage. *Success:*  Half damage.
+***Метательное копьё.*** *Рукопашная или дальнобойная атака:* +5, досягаемость 10 футов или дистанция 30/120 футов. 13 (3d6 + 3) Колющего урона.
 
+***Моргенштерн.*** *Рукопашная атака:* +5 (с преимуществом, если цель схвачена медвежатником), досягаемость 10 футов. 12 (2d8 + 3) Колющего урона.
 
-### Bonus Actions
+### Бонусные действия
 
-***Swallow.*** *Dexterity Saving Throw*: DC 18, one Large or smaller creature Grappled by the behir (the behir can have only one creature swallowed at a time). *Failure:*  The behir swallows the target, which is no longer Grappled. While swallowed, a creature has the Blinded and Restrained conditions, has Cover|XPHB|Total Cover against attacks and other effects outside the behir, and takes 21 (6d6) Acid damage at the start of each of the behir's turns.
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls in a space within 10 feet of the behir and has the Prone condition. If the behir dies, a swallowed creature is no longer Restrained and can escape from the corpse by using 15 feet of movement, exiting Prone.
+***Быстрый захват.*** *Спасбросок Ловкости:* Сл 13, одно Среднее или меньшее существо, которое медвежатник видит в пределах 10 футов. *Провал:* Цель получает состояние «схвачен» (Сл высвобождения 13).
 
-## Berserker
+## Медвежатник-воин
 
-*Small Humanoid, Neutral*
+*Средняя фея (гоблиноид), хаотично-злой*
 
-- **Armor Class:** 13
-- **Hit Points:** 67 (9d8 + 27)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 14
+- **Хиты:** 33 (6d8 + 6)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 17 | +3 | +3 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 8 | -1 | -1 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 9 | -1 | -1 |
 
-- **Gear** Greataxe, Hide Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 2 (XP 450; PB +2)
+- **Навыки:** Скрытность +6, Выживание +2
+- **Снаряжение:** Шкурный доспех, лёгкий молот ×3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Общий, Гоблинский
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Traits
+### Особенности
 
-***Bloodied Frenzy.*** While Bloodied, the berserker has Advantage on attack rolls and saving throws.
+***Похищение.*** Медвежатнику не нужно тратить дополнительное перемещение, чтобы перемещать схваченное им существо.
 
+### Действия
 
-### Actions
+***Хватка.*** *Рукопашная атака:* +4, досягаемость 10 футов. 9 (2d6 + 2) Дробящего урона. Если цель — Среднее или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 12).
 
-***Greataxe.*** *Melee Attack Roll:* +5, reach 5 ft. 9 (1d12 + 3) Slashing damage.
+***Лёгкий молот.*** *Рукопашная или дальнобойная атака:* +4 (с преимуществом, если цель схвачена медвежатником), досягаемость 10 футов или дистанция 20/60 футов. 9 (3d4 + 2) Дробящего урона.
 
-## Black Dragon Wyrmling
+## Бюлетт
 
-*Medium Dragon (Chromatic), Chaotic Evil*
+*Большая чудовищность, без мировоззрения*
 
-- **Armor Class:** 17
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 17
+- **Хиты:** 94 (9d10 + 45)
+- **Скорость:** 40 футов, копание 40 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +4 |
-| CON | 13 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
-
-- **Immunities**: Acid
-- **Skills**: Perception +4, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-### Traits
+- **Навыки:** Восприятие +6
+- **Чувства:** тёмное зрение 60 футов, чувство вибрации 120 футов; пассивное Восприятие 16
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Amphibious.*** The dragon can breathe air and water.
+### Действия
 
+***Мультиатака.*** Бюлетт совершает две атаки укусом.
 
-### Actions
+***Укус.*** *Рукопашная атака:* +7, досягаемость 5 футов. 17 (2d12 + 4) Колющего урона.
 
-***Multiattack.*** The dragon makes two Rend attacks.
+***Смертельный прыжок.*** Бюлетт тратит 5 футов перемещения, чтобы прыгнуть в пространство в пределах 15 футов, содержащее одно или несколько Больших или меньших существ. *Спасбросок Ловкости:* Сл 15, каждое существо в пространстве приземления бюлетта. *Провал:* 19 (3d12) Дробящего урона, и цель получает состояние «лежащий». *Успех:* Половина урона, и цель отталкивается на 5 футов от бюлетта.
 
-***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Slashing damage plus 2 (1d4) Acid damage.
+### Бонусные действия
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 15-foot-long, 5-foot-wide Line. *Failure:*  22 (5d8) Acid damage. *Success:*  Half damage.
+***Прыжок.*** Бюлетт прыгает на расстояние до 30 футов, потратив 10 футов перемещения.
 
-## Black Pudding
+## Кентавр-солдат
 
-*Large Ooze, Unaligned*
+*Большая фея, нейтрально-добрый*
 
-- **Armor Class:** 7
-- **Hit Points:** 68 (8d10 + 24)
-- **Speed:** 20 ft., Climb 20 ft.
-- **Initiative**: -3 (7)
+- **Класс доспеха:** 16
+- **Хиты:** 45 (6d10 + 12)
+- **Скорость:** 50 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 5 | -3 | -3 |
-| CON | 16 | +3 | +3 |
-| INT | 1 | -5 | -5 |
-| WIS | 6 | -2 | -2 |
-| CHA | 1 | -5 | -5 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 9 | -1 | -1 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 11 | +0 | +0 |
 
-- **Immunities**: Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-- **Senses**: blindsight 60 ft.; Passive Perception 8
-- **CR** 4 (XP 1,100; PB +2)
+- **Навыки:** Атлетика +6, Восприятие +3
+- **Снаряжение:** Кираса, длинный лук, пика
+- **Чувства:** пассивное Восприятие 13
+- **Языки:** Эльфийский, Сильванский
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Traits
+### Действия
 
-***Amorphous.*** The pudding can move through a space as narrow as 1 inch without expending extra movement to do so.
+***Мультиатака.*** Кентавр совершает две атаки, используя пику или длинный лук в любой комбинации.
 
-***Corrosive Form.*** A creature that hits the pudding with a melee attack roll takes 4 (1d8) Acid damage. Nonmagical ammunition is destroyed immediately after hitting the pudding and dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty to attack rolls immediately after dealing damage to the pudding and coming into contact with it. The weapon is destroyed if the penalty reaches -5. The penalty can be removed by casting the *Mending* spell on the weapon.
-In 1 minute, the pudding can eat through 2 feet of nonmagical wood or metal.
+***Пика.*** *Рукопашная атака:* +6, досягаемость 10 футов. 9 (1d10 + 4) Колющего урона.
 
-***Spider Climb.*** The pudding can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+***Длинный лук.*** *Дальнобойная атака:* +4, дистанция 150/600 футов. 6 (1d8 + 2) Колющего урона.
 
+### Бонусные действия
 
-### Actions
+***Топочущий натиск (перезарядка 5-6).*** Кентавр перемещается на расстояние до своей скорости, не провоцируя атаки по возможности, и может проходить через пространства Средних или меньших существ. Каждое существо, в чьё пространство кентавр входит, один раз становится целью следующего эффекта. *Спасбросок Силы:* Сл 14. *Провал:* 7 (1d6 + 4) Дробящего урона, и цель получает состояние «лежащий».
 
-***Dissolving Pseudopod.*** *Melee Attack Roll:* +5, reach 10 ft. 17 (4d6 + 3) Acid damage. Nonmagical armor worn by the target takes a -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the *Mending* spell on the armor.
+## Цепной дьявол
 
-## Blink Dog
+*Средний исчадие (дьявол), принципиально-злой*
 
-*Medium Fey, Lawful Good*
+- **Класс доспеха:** 15
+- **Хиты:** 85 (10d8 + 40)
+- **Скорость:** 30 футов
+- **Инициатива:** +5 (15)
 
-- **Armor Class:** 13
-- **Hit Points:** 22 (4d8 + 4)
-- **Speed:** 40 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 17 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
-
-- **Skills**: Perception +5, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Elvish and Sylvan but can't speak them
-- **CR** 1/4 (XP 50; PB +2)
-
-### Actions
-
-***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Piercing damage.
-
-
-### Bonus Actions
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 18 | +4 | +7 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 12 | +1 | +4 |
+| ХАР | 14 | +2 | +2 |
 
-***Teleport (Recharge 4-6).*** The dog teleports up to 40 feet to an unoccupied space it can see.
+- **Сопротивления:** Дробящий, Холодный, Колющий, Рубящий
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Чувства:** тёмное зрение 120 футов (не ограничено магической тьмой); пассивное Восприятие 11
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 8 (ОО 3900; БМ +3)
 
-## Blue Dragon Wyrmling
+### Особенности
 
-*Medium Dragon (Chromatic), Lawful Evil*
+***Дьявольское восстановление.*** Если дьявол умирает за пределами Девяти Преисподних, его тело исчезает в серном дыму, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
-- **Armor Class:** 17
-- **Hit Points:** 65 (10d8 + 20)
-- **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+***Сопротивление магии.*** Дьявол совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
-
-- **Immunities**: Lightning
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 3 (XP 700; PB +2)
+### Действия
 
-### Actions
+***Мультиатака.*** Дьявол совершает две атаки цепью и использует Призыв адской цепи.
 
-***Multiattack.*** The dragon makes two Rend attacks.
+***Цепь.*** *Рукопашная атака:* +7, досягаемость 10 футов. 11 (2d6 + 4) Рубящего урона. Если цель — Большое или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 14) одной из двух цепей, и она получает состояние «опутан» до окончания захвата.
 
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Slashing damage plus 3 (1d6) Lightning damage.
+***Призыв адской цепи.*** Дьявол призывает огненную цепь, чтобы связать существо. *Спасбросок Ловкости:* Сл 15, одно существо, которое дьявол видит в пределах 60 футов. *Провал:* 9 (2d4 + 4) Огненного урона, и цель получает состояние «опутан» до конца следующего хода дьявола, после чего цепь исчезает. Если цель Большого или меньшего размера, дьявол перемещает цель на расстояние до 30 футов прямо к себе. *Успех:* Цепь исчезает.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:*  21 (6d6) Lightning damage. *Success:*  Half damage.
+## Химера
 
-## Bone Devil
+*Большая чудовищность, хаотично-злой*
 
-*Large Fiend (Devil), Lawful Evil*
+- **Класс доспеха:** 14
+- **Хиты:** 114 (12d10 + 48)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 16
-- **Hit Points:** 161 (17d10 + 68)
-- **Speed:** 40 ft., Fly 40 ft.
-- **Initiative**: +7 (17)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +8 |
-| DEX | 16 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +5 |
-| WIS | 14 | +2 | +6 |
-| CHA | 16 | +3 | +7 |
-
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Deception +7, Insight +6
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 12
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 9 (XP 5,000; PB +4)
-
-### Traits
-
-***Diabolical Restoration.*** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
-
-***Magic Resistance.*** The devil has Advantage on saving throws against spells and other magical effects.
-
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 19 | +4 | +4 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 10 | +0 | +0 |
 
-### Actions
+- **Навыки:** Восприятие +8
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 18
+- **Языки:** Понимает Драконий, но не может говорить
+- **ПО** 6 (ОО 2300; БМ +3)
 
-***Multiattack.*** The devil makes two Claw attacks and one Infernal Sting attack.
+### Действия
 
-***Claw.*** *Melee Attack Roll:* +8, reach 10 ft. 13 (2d8 + 4) Slashing damage.
+***Мультиатака.*** Химера совершает одну атаку тараном, одну атаку укусом и одну атаку когтями. Она может заменить атаку когтями использованием Огненного дыхания, если оно доступно.
 
-***Infernal Sting.*** *Melee Attack Roll:* +8, reach 10 ft. 15 (2d10 + 4) Piercing damage plus 18 (4d8) Poison damage, and the target has the Poisoned condition until the start of the devil's next turn. While Poisoned, the target can't regain Hit Points.
+***Укус.*** *Рукопашная атака:* +7, досягаемость 5 футов. 11 (2d6 + 4) Колющего урона, или 18 (4d6 + 4) Колющего урона, если химера совершала бросок атаки с преимуществом.
 
-## Brass Dragon Wyrmling
+***Когти.*** *Рукопашная атака:* +7, досягаемость 5 футов. 7 (1d6 + 4) Рубящего урона.
 
-*Medium Dragon (Metallic), Chaotic Good*
+***Таран.*** *Рукопашная атака:* +7, досягаемость 5 футов. 10 (1d12 + 4) Дробящего урона. Если цель — Среднее или меньшее существо, она получает состояние «лежащий».
 
-- **Armor Class:** 15
-- **Hit Points:** 22 (4d8 + 4)
-- **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+***Огненное дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 15, каждое существо в 15-футовом конусе. *Провал:* 31 (7d8) Огненного урона. *Успех:* Половина урона.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 10 | +0 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
-
-- **Immunities**: Fire
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 1 (XP 200; PB +2)
-
-### Actions
-
-***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage.
+## Чуул
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 20-foot-long, 5-foot-wide Line. *Failure:*  14 (4d6) Fire damage. *Success:*  Half damage.
+*Большая аберрация, хаотично-злой*
 
-***Sleep Breath.*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
+- **Класс доспеха:** 16
+- **Хиты:** 76 (9d10 + 27)
+- **Скорость:** 30 футов, плавание 30 футов
+- **Инициатива:** +0 (10)
 
-## Bronze Dragon Wyrmling
-
-*Medium Dragon (Metallic), Lawful Good*
-
-- **Armor Class:** 15
-- **Hit Points:** 39 (6d8 + 12)
-- **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
-
-- **Immunities**: Lightning
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-### Traits
+- **Иммунитеты:** Ядовитый; отравленный
+- **Навыки:** Восприятие +4
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Понимает Глубинную речь, но не может говорить
+- **ПО** 4 (ОО 1100; БМ +2)
 
-***Amphibious.*** The dragon can breathe air and water.
+### Особенности
 
+***Амфибия.*** Чуул может дышать воздухом и водой.
 
-### Actions
+***Чувство магии.*** Чуул чувствует магию в пределах 120 футов от себя. В остальном эта особенность работает как заклинание *обнаружение магии*, но сама по себе не является магической.
 
-***Multiattack.*** The dragon makes two Rend attacks.
+### Действия
 
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Slashing damage.
+***Мультиатака.*** Чуул совершает две атаки клешнями и использует Парализующие щупальца.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:*  16 (3d10) Lightning damage. *Success:*  Half damage.
+***Клешня.*** *Рукопашная атака:* +6, досягаемость 10 футов. 9 (1d10 + 4) Дробящего урона. Если цель — Большое или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 14) одной из двух клешней.
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 12, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 30 feet straight away from the dragon and has the Prone condition.
+***Парализующие щупальца.*** *Спасбросок Телосложения:* Сл 13, одно существо, схваченное чуулом. *Провал:* Цель получает состояние «отравлен» и повторяет спасбросок в конце каждого своего хода, прекращая эффект на себе при успехе. Через 1 минуту она автоматически преуспевает. Пока отравлена, цель получает состояние «парализован».
 
-## Bugbear Stalker
+## Глиняный голем
 
-*Medium Fey (Goblinoid), Chaotic Evil*
+*Большая конструкция, без мировоззрения*
 
-- **Armor Class:** 15
-- **Hit Points:** 65 (10d8 + 20)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 14
+- **Хиты:** 123 (13d10 + 52)
+- **Скорость:** 20 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +4 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +3 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 20 | +5 | +5 |
+| ЛОВ | 9 | -1 | -1 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 1 | -5 | -5 |
 
-- **Skills**: Stealth +6, Survival +3
-- **Gear** Chain Shirt, Javelin x 6, Morningstar
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common, Goblin
-- **CR** 3 (XP 700; PB +2)
+- **Сопротивления:** Дробящий, Колющий, Рубящий
+- **Иммунитеты:** Кислотный, Ядовитый, Психический; очарованный, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **Языки:** Общий плюс один другой язык
+- **ПО** 9 (ОО 5000; БМ +4)
 
-### Traits
+### Особенности
 
-***Abduct.*** The bugbear needn't spend extra movement to move a creature it is grappling.
+***Поглощение кислоты.*** Каждый раз, когда голем должен получить урон Кислотой, он не получает урона и вместо этого восстанавливает количество хитов, равное полученному урону Кислотой.
 
+***Берсерк.*** Каждый раз, когда голем начинает свой ход окровавленным, бросьте 1d6. При результате 6 голем впадает в ярость. В каждый свой ход, пока он в ярости, голем атакует ближайшее существо, которое видит. Если ни одно существо не находится достаточно близко, чтобы переместиться к нему и атаковать, голем атакует объект. Впав в ярость, голем продолжает находиться в этом состоянии, пока не будет уничтожен или пока не перестанет быть окровавленным.
 
-### Actions
+***Неизменная форма.*** Голем не может менять свою форму.
 
-***Multiattack.*** The bugbear makes two Javelin or Morningstar attacks.
+***Сопротивление магии.*** Голем совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Javelin.*** *Melee or Ranged Attack Roll:* +5, reach 10 ft. or range 30/120 ft. 13 (3d6 + 3) Piercing damage.
+### Действия
 
-***Morningstar.*** *Melee Attack Roll:* +5 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. 12 (2d8 + 3) Piercing damage.
+***Мультиатака.*** Голем совершает две атаки ударом, или три атаки ударом, если в этом ходу он использовал Ускорение.
 
+***Удар.*** *Рукопашная атака:* +9, досягаемость 5 футов. 10 (1d10 + 5) Дробящего урона плюс 6 (1d12) Кислотного урона, и максимум хитов цели уменьшается на величину, равную полученному Кислотному урону.
 
-### Bonus Actions
+### Бонусные действия
 
-***Quick Grapple.*** *Dexterity Saving Throw*: DC 13, one Medium or smaller creature the bugbear can see within 10 feet. *Failure:*  The target has the Grappled condition (escape DC 13).
+***Ускорение (перезарядка 5-6).*** Голем совершает действия Рывок и Отход.
 
-## Bugbear Warrior
+## Плащеносец
 
-*Medium Fey (Goblinoid), Chaotic Evil*
+*Большая аберрация, хаотично-нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 14
+- **Хиты:** 91 (14d10 + 14)
+- **Скорость:** 10 футов, полёт 40 футов
+- **Инициатива:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
-
-- **Skills**: Stealth +6, Survival +2
-- **Gear** Hide Armor, Light Hammer x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
-- **CR** 1 (XP 200; PB +2)
-
-### Traits
-
-***Abduct.*** The bugbear needn't spend extra movement to move a creature it is grappling.
-
-
-### Actions
-
-***Grab.*** *Melee Attack Roll:* +4, reach 10 ft. 9 (2d6 + 2) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12).
-
-***Light Hammer.*** *Melee or Ranged Attack Roll:* +4 (with Advantage if the target is Grappled by the bugbear), reach 10 ft. or range 20/60 ft. 9 (3d4 + 2) Bludgeoning damage.
-
-## Bulette
-
-*Large Monstrosity, Unaligned*
-
-- **Armor Class:** 17
-- **Hit Points:** 94 (9d10 + 45)
-- **Speed:** 40 ft., Burrow 40 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 21 | +5 | +5 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
-
-- **Skills**: Perception +6
-- **Senses**: darkvision 60 ft., tremorsense 120 ft.; Passive Perception 16
-- **CR** 5 (XP 1,800; PB +3)
-
-### Actions
-
-***Multiattack.*** The bulette makes two Bite attacks.
-
-***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 17 (2d12 + 4) Piercing damage.
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 13 | +1 | +1 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 7 | -2 | -2 |
 
-***Deadly Leap.*** The bulette spends 5 feet of movement to jump to a space within 15 feet that contains one or more Large or smaller creatures. *Dexterity Saving Throw*: DC 15, each creature in the bulette's destination space. *Failure:*  19 (3d12) Bludgeoning damage, and the target has the Prone condition. *Success:*  Half damage, and the target is pushed 5 feet straight away from the bulette.
+- **Иммунитеты:** Испуганный
+- **Навыки:** Скрытность +5
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 12
+- **Языки:** Глубинная речь, Подземный
+- **ПО** 8 (ОО 3900; БМ +3)
 
+### Особенности
 
-### Bonus Actions
+***Чувствительность к свету.*** Находясь при ярком свете, плащеносец совершает броски атаки с помехой.
 
-***Leap.*** The bulette jumps up to 30 feet by spending 10 feet of movement.
+### Действия
 
-## Centaur Trooper
+***Мультиатака.*** Плащеносец совершает одну атаку присасыванием и две атаки хвостом.
 
-*Large Fey, Neutral Good*
+***Присасывание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 13 (3d6 + 3) Колющего урона. Если цель — Большое или меньшее существо, плащеносец прикрепляется к ней. Пока плащеносец прикреплён, цель получает состояние «ослеплён», и плащеносец не может совершать атаки присасыванием по другим целям. Кроме того, плащеносец получает половину урона (округляя вниз), и цель получает такое же количество урона.
+Плащеносец может отсоединиться, потратив 5 футов перемещения. Цель или существо в пределах 5 футов от неё может потратить действие, чтобы попытаться отсоединить плащеносца, преуспев в проверке Силы (Атлетика) Сл 14.
 
-- **Armor Class:** 16
-- **Hit Points:** 45 (6d10 + 12)
-- **Speed:** 50 ft.
-- **Initiative**: +2 (12)
+***Хвост.*** *Рукопашная атака:* +6, досягаемость 10 футов. 8 (1d10 + 3) Рубящего урона.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 9 | -1 | -1 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
-
-- **Skills**: Athletics +6, Perception +3
-- **Gear** Breastplate, Longbow, Pike
-- **Senses**: Passive Perception 13
-- **Languages**: Elvish, Sylvan
-- **CR** 2 (XP 450; PB +2)
-
-### Actions
-
-***Multiattack.*** The centaur makes two attacks, using Pike or Longbow in any combination.
+### Бонусные действия
 
-***Pike.*** *Melee Attack Roll:* +6, reach 10 ft. 9 (1d10 + 4) Piercing damage.
+***Стон.*** *Спасбросок Мудрости:* Сл 13, каждое существо в 60-футовой эманации, исходящей от плащеносца. *Провал:* Цель получает состояние «испуганный» до конца следующего хода плащеносца. *Успех:* Цель получает иммунитет к Стону этого плащеносца на следующие 24 часа.
 
-***Longbow.*** *Ranged Attack Roll:* +4, range 150/600 ft. 6 (1d8 + 2) Piercing damage.
+***Фантазмы (перезарядка после короткого или продолжительного отдыха).*** Плащеносец сотворяет заклинание *отражение*, не требуя компонентов и используя Мудрость в качестве заклинательной характеристики. Заклинание заканчивается досрочно, если плащеносец начинает или заканчивает свой ход при ярком свете.
 
+## Облачный великан
 
-### Bonus Actions
+*Огромный великан, нейтральный*
 
-***Trampling Charge (Recharge 5-6).*** The centaur moves up to its Speed without provoking Opportunity Attacks and can move through the spaces of Medium or smaller creatures. Each creature whose space the centaur enters is targeted once by the following effect. *Strength Saving Throw*: DC 14. *Failure:*  7 (1d6 + 4) Bludgeoning damage, and the target has the Prone condition.
+- **Класс доспеха:** 14
+- **Хиты:** 200 (16d12 + 96)
+- **Скорость:** 40 футов, полёт 20 футов (парение)
+- **Инициатива:** +4 (14)
 
-## Chain Devil
-
-*Medium Fiend (Devil), Lawful Evil*
-
-- **Armor Class:** 15
-- **Hit Points:** 85 (10d8 + 40)
-- **Speed:** 30 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 18 | +4 | +7 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +4 |
-| CHA | 14 | +2 | +2 |
+| СИЛ | 27 | +8 | +8 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 22 | +6 | +10 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 16 | +3 | +7 |
+| ХАР | 16 | +3 | +3 |
 
-- **Resistances**: Bludgeoning, Cold, Piercing, Slashing
-- **Immunities**: Fire, Poison; Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 8 (XP 3,900; PB +3)
+- **Навыки:** Проницательность +7, Восприятие +11
+- **Чувства:** пассивное Восприятие 21
+- **Языки:** Общий, Великаний
+- **ПО** 9 (ОО 5000; БМ +4)
 
-### Traits
+### Действия
 
-***Diabolical Restoration.*** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+***Мультиатака.*** Великан совершает две атаки, используя Громовую булаву или Грозовое облако в любой комбинации. Он может заменить одну атаку использованием Колдовства, чтобы сотворить *туманное облако*.
 
-***Magic Resistance.*** The devil has Advantage on saving throws against spells and other magical effects.
+***Громовая булава.*** *Рукопашная атака:* +12, досягаемость 10 футов. 21 (3d8 + 8) Дробящего урона плюс 7 (2d6) Громового урона.
 
+***Грозовое облако.*** *Дальнобойная атака:* +12, дистанция 240 футов. 18 (3d6 + 8) Громового урона, и цель получает состояние «недееспособен» до конца своего следующего хода.
 
-### Actions
+***Колдовство.*** Великан сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму в качестве заклинательной характеристики (Сл спасброска 15):
 
-***Multiattack.*** The devil makes two Chain attacks and uses Conjure Infernal Chain.
+- **Неограниченно:** *обнаружение магии*, *туманное облако*, *свет*
+- **1/день каждое:** *управление погодой*, *газообразная форма*, *телекинез*
 
-***Chain.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Slashing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two chains, and it has the Restrained condition until the grapple ends.
+### Бонусные действия
 
-***Conjure Infernal Chain.*** The devil conjures a fiery chain to bind a creature. *Dexterity Saving Throw*: DC 15, one creature the devil can see within 60 feet. *Failure:*  9 (2d4 + 4) Fire damage, and the target has the Restrained condition until the end of the devil's next turn, at which point the chain disappears. If the target is Large or smaller, the devil moves the target up to 30 feet straight toward itself. *Success:*  The chain disappears.
+***Туманный шаг.*** Великан сотворяет заклинание *туманный шаг*, используя ту же заклинательную характеристику, что и Колдовство.
 
-## Chimera
+## Кокатрис
 
-*Large Monstrosity, Chaotic Evil*
+*Маленькая чудовищность, без мировоззрения*
 
-- **Armor Class:** 14
-- **Hit Points:** 114 (12d10 + 48)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 11
+- **Хиты:** 22 (5d6 + 5)
+- **Скорость:** 20 футов, полёт 40 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 19 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 10 | +0 | +0 |
-
-- **Skills**: Perception +8
-- **Senses**: darkvision 60 ft.; Passive Perception 18
-- **Languages**: Understands Draconic but can't speak
-- **CR** 6 (XP 2,300; PB +3)
+| СИЛ | 6 | -2 | -2 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 5 | -3 | -3 |
 
-### Actions
+- **Иммунитеты:** Окаменевший
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-***Multiattack.*** The chimera makes one Ram attack, one Bite attack, and one Claw attack. It can replace the Claw attack with a use of Fire Breath if available.
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 11 (2d6 + 4) Piercing damage, or 18 (4d6 + 4) Piercing damage if the chimera had Advantage on the attack roll.
+***Окаменяющий укус.*** *Рукопашная атака:* +3, досягаемость 5 футов. 3 (1d4 + 1) Колющего урона. Если цель — существо, она подвергается следующему эффекту. *Спасбросок Телосложения:* Сл 11. *Первый провал* Цель получает состояние «опутан». Цель повторяет спасбросок в конце своего следующего хода, если всё ещё опутана, прекращая эффект на себе при успехе. *Второй провал* Цель получает состояние «окаменевший» вместо состояния «опутан» на 24 часа.
 
-***Claw.*** *Melee Attack Roll:* +7, reach 5 ft. 7 (1d6 + 4) Slashing damage.
+## Обыватель
 
-***Ram.*** *Melee Attack Roll:* +7, reach 5 ft. 10 (1d12 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
+*Маленький гуманоид, нейтральный*
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 15, each creature in a 15-foot Cone. *Failure:*  31 (7d8) Fire damage. *Success:*  Half damage.
+- **Класс доспеха:** 10
+- **Хиты:** 4 (1d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +0 (10)
 
-## Chuul
-
-*Large Aberration, Chaotic Evil*
-
-- **Armor Class:** 16
-- **Hit Points:** 76 (9d10 + 27)
-- **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 11 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
-
-- **Immunities**: Poison; Poisoned
-- **Skills**: Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Understands Deep Speech but can't speak
-- **CR** 4 (XP 1,100; PB +2)
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-### Traits
+- **Снаряжение:** Дубинка
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 0 (ОО 0 или 10; БМ +2)
 
-***Amphibious.*** The chuul can breathe air and water.
+### Особенности
 
-***Sense Magic.*** The chuul senses magic within 120 feet of itself. This trait otherwise works like the *Detect Magic* spell but isn't itself magical.
+***Подготовка.*** Обыватель владеет одним навыком на выбор Мастера и совершает с преимуществом все проверки характеристик с использованием этого навыка.
 
+### Действия
 
-### Actions
+***Дубинка.*** *Рукопашная атака:* +2, досягаемость 5 футов. 2 (1d4) Дробящего урона.
 
-***Multiattack.*** The chuul makes two Pincer attacks and uses Paralyzing Tentacles.
+## Детёныш медного дракона
 
-***Pincer.*** *Melee Attack Roll:* +6, reach 10 ft. 9 (1d10 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two pincers.
+*Средний дракон (металлический), хаотично-добрый*
 
-***Paralyzing Tentacles.*** *Constitution Saving Throw*: DC 13, one creature Grappled by the chuul. *Failure:*  The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically. While Poisoned, the target has the Paralyzed condition.
+- **Класс доспеха:** 16
+- **Хиты:** 22 (4d8 + 4)
+- **Скорость:** 30 футов, лазание 30 футов, полёт 60 футов
+- **Инициатива:** +3 (13)
 
-## Clay Golem
-
-*Large Construct, Unaligned*
-
-- **Armor Class:** 14
-- **Hit Points:** 123 (13d10 + 52)
-- **Speed:** 20 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 9 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 1 | -5 | -5 |
-
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Acid, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common plus one other language
-- **CR** 9 (XP 5,000; PB +4)
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 12 | +1 | +3 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 13 | +1 | +1 |
 
-### Traits
+- **Иммунитеты:** Кислотный
+- **Навыки:** Восприятие +4, Скрытность +3
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 1 (ОО 200; БМ +2)
 
-***Acid Absorption.*** Whenever the golem is subjected to Acid damage, it takes no damage and instead regains a number of Hit Points equal to the Acid damage dealt.
+### Действия
 
-***Berserk.*** Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it continues to be berserk until it is destroyed or it is no longer Bloodied.
+***Раздирание.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (1d10 + 2) Рубящего урона.
 
-***Immutable Form.*** The golem can't shape-shift.
+***Кислотное дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 11, каждое существо в 20-футовой линии шириной 5 футов. *Провал:* 18 (4d8) Кислотного урона. *Успех:* Половина урона.
 
-***Magic Resistance.*** The golem has Advantage on saving throws against spells and other magical effects.
+***Замедляющее дыхание.*** *Спасбросок Телосложения:* Сл 11, каждое существо в 15-футовом конусе. *Провал:* Цель не может совершать реакции; её скорость уменьшена вдвое; и она может совершать либо действие, либо бонусное действие в свой ход, но не оба. Этот эффект длится до конца её следующего хода.
 
+## Кутатль
 
-### Actions
+*Средний небожитель, принципиально-добрый*
 
-***Multiattack.*** The golem makes two Slam attacks, or it makes three Slam attacks if it used Hasten this turn.
+- **Класс доспеха:** 19
+- **Хиты:** 60 (8d8 + 24)
+- **Скорость:** 30 футов, полёт 90 футов
+- **Инициатива:** +5 (15)
 
-***Slam.*** *Melee Attack Roll:* +9, reach 5 ft. 10 (1d10 + 5) Bludgeoning damage plus 6 (1d12) Acid damage, and the target's Hit Point maximum decreases by an amount equal to the Acid damage taken.
-
-
-### Bonus Actions
-
-***Hasten (Recharge 5-6).*** The golem takes the Dash and Disengage actions.
-
-## Cloaker
-
-*Large Aberration, Chaotic Neutral*
-
-- **Armor Class:** 14
-- **Hit Points:** 91 (14d10 + 14)
-- **Speed:** 10 ft., Fly 40 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 13 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 7 | -2 | -2 |
-
-- **Immunities**: Frightened
-- **Skills**: Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 12
-- **Languages**: Deep Speech, Undercommon
-- **CR** 8 (XP 3,900; PB +3)
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 20 | +5 | +5 |
+| ТЕЛ | 17 | +3 | +5 |
+| ИНТ | 18 | +4 | +4 |
+| МДР | 20 | +5 | +7 |
+| ХАР | 18 | +4 | +4 |
 
-### Traits
+- **Сопротивления:** Дробящий, Колющий, Рубящий
+- **Иммунитеты:** Психический, Излучение
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 15
+- **Языки:** Все; телепатия 120 футов
+- **ПО** 4 (ОО 1100; БМ +2)
 
-***Light Sensitivity.*** While in Bright Light, the cloaker has Disadvantage on attack rolls.
+### Особенности
 
+***Защищённый разум.*** Мысли кутатля не могут быть прочитаны никакими средствами, и другие существа могут общаться с ним телепатически, только если он им позволяет.
 
-### Actions
+### Действия
 
-***Multiattack.*** The cloaker makes one Attach attack and two Tail attacks.
+***Укус.*** *Рукопашная атака:* +7, досягаемость 5 футов. 11 (1d12 + 5) Колющего урона, и цель получает состояние «отравлен» до конца следующего хода кутатля.
 
-***Attach.*** *Melee Attack Roll:* +6, reach 5 ft. 13 (3d6 + 3) Piercing damage. If the target is a Large or smaller creature, the cloaker attaches to it. While the cloaker is attached, the target has the Blinded condition, and the cloaker can't make Attach attacks against other targets. In addition, the cloaker halves the damage it takes (round down), and the target takes the same amount of damage.
-The cloaker can detach itself by spending 5 feet of movement. The target or a creature within 5 feet of it can take an action to try to detach the cloaker, doing so by succeeding on a DC 14 Strength (Athletics) check.
+***Сдавливание.*** *Спасбросок Силы:* Сл 15, одно Среднее или меньшее существо, которое кутатль видит в пределах 5 футов. *Провал:* 8 (1d6 + 5) Дробящего урона. Цель получает состояние «схвачен» (Сл высвобождения 13), и она получает состояние «опутан» до окончания захвата.
 
-***Tail.*** *Melee Attack Roll:* +6, reach 10 ft. 8 (1d10 + 3) Slashing damage.
+***Колдовство.*** Кутатль сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Мудрость в качестве заклинательной характеристики (Сл спасброска 15):
 
+- **Неограниченно:** *обнаружение зла и добра*, *обнаружение магии*, *обнаружение мыслей*, *перевоплощение*
+- **1/день каждое:** *сотворение пищи и воды*, *вещий сон*, *высшее восстановление*, *наблюдение*, *усыпление*
 
-### Bonus Actions
+### Бонусные действия
 
-***Moan.*** *Wisdom Saving Throw*: DC 13, each creature in a 60-foot Emanation originating from the cloaker. *Failure:*  The target has the Frightened condition until the end of the cloaker's next turn. *Success:*  The target is immune to this cloaker's Moan for the next 24 hours.
+***Божественная помощь (2/день).*** Кутатль сотворяет *лечение ран*, *малое восстановление* или *убежище*, используя ту же заклинательную характеристику, что и Колдовство.
 
-***Phantasms (Recharge after a Short or Long Rest).*** The cloaker casts the *Mirror Image* spell, requiring no spell components and using Wisdom as the spellcasting ability. The spell ends early if the cloaker starts or ends its turn in Bright Light.
-## Cloud Giant
+## Фанатик-культист
 
-*Huge Giant, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 200 (16d12 + 96)
-- **Speed:** 40 ft., Fly 20 ft. (hover)
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 13
+- **Хиты:** 44 (8d8 + 8)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 27 | +8 | +8 |
-| DEX | 10 | +0 | +0 |
-| CON | 22 | +6 | +10 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +7 |
-| CHA | 16 | +3 | +3 |
-
-- **Skills**: Insight +7, Perception +11
-- **Senses**: Passive Perception 21
-- **Languages**: Common, Giant
-- **CR** 9 (XP 5,000; PB +4)
-
-### Actions
-
-***Multiattack.*** The giant makes two attacks, using Thunderous Mace or Thundercloud in any combination. It can replace one attack with a use of Spellcasting to cast *Fog Cloud*.
-
-***Thunderous Mace.*** *Melee Attack Roll:* +12, reach 10 ft. 21 (3d8 + 8) Bludgeoning damage plus 7 (2d6) Thunder damage.
-
-***Thundercloud.*** *Ranged Attack Roll:* +12, range 240 ft. 18 (3d6 + 8) Thunder damage, and the target has the Incapacitated condition until the end of its next turn.
-
-***Spellcasting.*** The giant casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
-
-- **At Will:** *Detect Magic*, *Fog Cloud*, *Light*
-- **1e/Day Each:** *Control Weather*, *Gaseous Form*, *Telekinesis*
-
-### Bonus Actions
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 14 | +2 | +4 |
+| ХАР | 13 | +1 | +1 |
 
-***Misty Step.*** The giant casts the *Misty Step* spell, using the same spellcasting ability as Spellcasting.
-## Cockatrice
+- **Навыки:** Обман +3, Убеждение +3, Религия +2
+- **Снаряжение:** Святой символ, кожаный доспех
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий
+- **ПО** 2 (ОО 450; БМ +2)
 
-*Small Monstrosity, Unaligned*
+### Действия
 
-- **Armor Class:** 11
-- **Hit Points:** 22 (5d6 + 5)
-- **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +1 (11)
+***Клинок договора.*** *Рукопашная атака:* +4, досягаемость 5 футов. 6 (1d8 + 2) Рубящего урона плюс 7 (2d6) Некротического урона.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 5 | -3 | -3 |
+***Колдовство.*** Культист сотворяет одно из следующих заклинаний, используя Мудрость в качестве заклинательной характеристики (Сл спасброска 12, +4 к броскам атаки заклинаниями):
 
-- **Immunities**: Petrified
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **CR** 1/2 (XP 100; PB +2)
+- **Неограниченно:** *свет*, *чудотворство*
+- **1/день каждое:** *удержание личности*
+- **2/день каждое:** *приказ*
 
-### Actions
+### Бонусные действия
 
-***Petrifying Bite.*** *Melee Attack Roll:* +3, reach 5 ft. 3 (1d4 + 1) Piercing damage. If the target is a creature, it is subjected to the following effect. *Constitution Saving Throw*: DC 11. *First Failure* The target has the Restrained condition. The target repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. *Second Failure* The target has the Petrified condition, instead of the Restrained condition, for 24 hours.
+***Духовное оружие (2/день).*** Культист сотворяет заклинание *духовное оружие*, используя ту же заклинательную характеристику, что и Колдовство.
 
-## Commoner
+## Культист
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 10
-- **Hit Points:** 4 (1d8)
-- **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 12
+- **Хиты:** 9 (2d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 10 | +0 | +0 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
-
-- **Gear** Club
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 0 (XP 0 or 10; PB +2)
-
-### Traits
-
-***Training.*** The commoner has proficiency in one skill of the DM's choice and has Advantage whenever it makes an ability check using that skill.
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 10 | +0 | +0 |
 
+- **Навыки:** Обман +2, Религия +2
+- **Снаряжение:** Кожаный доспех, серп
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-### Actions
+### Действия
 
-***Club.*** *Melee Attack Roll:* +2, reach 5 ft. 2 (1d4) Bludgeoning damage.
+***Ритуальный серп.*** *Рукопашная атака:* +3, досягаемость 5 футов. 3 (1d4 + 1) Рубящего урона плюс 1 Некротического урона.
 
-## Copper Dragon Wyrmling
+## Тёмный плащ
 
-*Medium Dragon (Metallic), Chaotic Good*
+*Маленькая аберрация, без мировоззрения*
 
-- **Armor Class:** 16
-- **Hit Points:** 22 (4d8 + 4)
-- **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 11
+- **Хиты:** 22 (5d6 + 5)
+- **Скорость:** 10 футов, полёт 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-- **Immunities**: Acid
-- **Skills**: Perception +4, Stealth +3
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 1 (XP 200; PB +2)
+- **Навыки:** Скрытность +3
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 10
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Actions
+### Действия
 
-***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage.
+***Сдавливание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Дробящего урона, и тёмный плащ прикрепляется к цели. Если цель — Среднее или меньшее существо и тёмный плащ совершал бросок атаки с преимуществом, он накрывает цель, которая получает состояние «ослеплён» и задыхается, пока тёмный плащ прикреплён таким образом.
+Пока прикреплён к цели, тёмный плащ может атаковать только цель, но совершает броски атаки с преимуществом. Его скорость становится 0, он не может получать бонусы к своей скорости и перемещается вместе с целью.
+Существо может потратить действие, чтобы попытаться отсоединить тёмный плащ от себя, преуспев в проверке Силы (Атлетика) Сл 13. В свой ход тёмный плащ может отсоединиться, потратив 5 футов перемещения.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 11, each creature in a 20-foot-long, 5-foot-wide Line. *Failure:*  18 (4d8) Acid damage. *Success:*  Half damage.
+***Аура тьмы (1/день).*** Магическая тьма заполняет 15-футовую эманацию, исходящую от тёмного плаща. Этот эффект длится, пока тёмный плащ поддерживает концентрацию, до 10 минут. Тёмное зрение не может проникнуть в эту область, и свет не может осветить её.
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
+## Адский пёс
 
-## Couatl
+*Средняя чудовищность, нейтрально-злой*
 
-*Medium Celestial, Lawful Good*
+- **Класс доспеха:** 12
+- **Хиты:** 39 (6d8 + 12)
+- **Скорость:** 40 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 19
-- **Hit Points:** 60 (8d8 + 24)
-- **Speed:** 30 ft., Fly 90 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 20 | +5 | +5 |
-| CON | 17 | +3 | +5 |
-| INT | 18 | +4 | +4 |
-| WIS | 20 | +5 | +7 |
-| CHA | 18 | +4 | +4 |
-
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Psychic, Radiant
-- **Senses**: truesight 120 ft.; Passive Perception 15
-- **Languages**: All; telepathy 120 ft.
-- **CR** 4 (XP 1,100; PB +2)
-
-### Traits
-
-***Shielded Mind.*** The couatl's thoughts can't be read by any means, and other creatures can communicate with it telepathically only if it allows them.
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 6 | -2 | -2 |
 
+- **Иммунитеты:** Ослеплённый, очарованный, оглохший, испуганный, оглушённый, без сознания
+- **Навыки:** Восприятие +5, Скрытность +4
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 15
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Actions
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 11 (1d12 + 5) Piercing damage, and the target has the Poisoned condition until the end of the couatl's next turn.
+***Мультиатака.*** Адский пёс совершает две атаки укусом.
 
-***Constrict.*** *Strength Saving Throw*: DC 15, one Medium or smaller creature the couatl can see within 5 feet. *Failure:*  8 (1d6 + 5) Bludgeoning damage. The target has the Grappled condition (escape DC 13), and it has the Restrained condition until the grapple ends.
+***Укус.*** *Рукопашная атака:* +4, досягаемость 5 футов. 4 (1d4 + 2) Колющего урона. Если цель — существо, она подвергается следующему эффекту. *Спасбросок Телосложения:* Сл 12. *Первый провал* Цель получает состояние «отравлен». Пока отравлена, максимум хитов цели не возвращается к норме после продолжительного отдыха, и она повторяет спасбросок каждые 24 часа, прекращая эффект на себе при успехе. *Последующие провалы:* Максимум хитов отравленной цели уменьшается на 5 (1d10).
 
-***Spellcasting.*** The couatl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 15):
+## Дэва
 
-- **At Will:** *Detect Evil and Good*, *Detect Magic*, *Detect Thoughts*, *Shapechange*
-- **1e/Day Each:** *Create Food and Water*, *Dream*, *Greater Restoration*, *Scrying*, *Sleep*
+*Средний небожитель (ангел), принципиально-добрый*
 
-### Bonus Actions
+- **Класс доспеха:** 17
+- **Хиты:** 229 (27d8 + 108)
+- **Скорость:** 30 футов, полёт 90 футов (парение)
+- **Инициатива:** +4 (14)
 
-***Divine Aid (2/Day).*** The couatl casts *Bless*, *Lesser Restoration*, or *Sanctuary*, requiring no spell components and using the same spellcasting ability as Spellcasting.
-## Cultist Fanatic
-
-*Small Humanoid, Neutral*
-
-- **Armor Class:** 13
-- **Hit Points:** 44 (8d8 + 8)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +4 |
-| CHA | 13 | +1 | +1 |
-
-- **Skills**: Deception +3, Persuasion +3, Religion +2
-- **Gear** Holy Symbol, Leather Armor
-- **Senses**: Passive Perception 12
-- **Languages**: Common
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 18 | +4 | +4 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 17 | +3 | +3 |
+| МДР | 20 | +5 | +9 |
+| ХАР | 20 | +5 | +9 |
 
-### Actions
+- **Сопротивления:** Излучение
+- **Иммунитеты:** Очарованный, истощение, испуганный
+- **Навыки:** Проницательность +9, Восприятие +9
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 19
+- **Языки:** Все; телепатия 120 футов
+- **ПО** 10 (ОО 5900; БМ +4)
 
-***Pact Blade.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Slashing damage plus 7 (2d6) Necrotic damage.
+### Особенности
 
-***Spellcasting.*** The cultist casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
+***Возвышенное восстановление.*** Если дэва умирает за пределами Горы Целестия, его тело исчезает, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то на Горе Целестия.
 
-- **At Will:** *Light*, *Thaumaturgy*
-- **1/Day Each:** *Hold Person*
-- **2/Day Each:** *Command*
+***Сопротивление магии.*** Дэва совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-### Bonus Actions
+### Действия
 
-***Spiritual Weapon (2/Day).*** The cultist casts the *Spiritual Weapon* spell, using the same spellcasting ability as Spellcasting.
-## Cultist
+***Мультиатака.*** Дэва совершает две атаки святой булавой.
 
-*Small Humanoid, Neutral*
+***Святая булава.*** *Рукопашная атака:* +8, досягаемость 5 футов. 7 (1d6 + 4) Дробящего урона плюс 18 (4d8) урона Излучением.
 
-- **Armor Class:** 12
-- **Hit Points:** 9 (2d8)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+***Колдовство.*** Дэва сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму в качестве заклинательной характеристики (Сл спасброска 17):
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 10 | +0 | +0 |
-
-- **Skills**: Deception +2, Religion +2
-- **Gear** Leather Armor, Sickle
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 1/8 (XP 25; PB +2)
+- **Неограниченно:** *обнаружение зла и добра*, *перевоплощение*
+- **1/день каждое:** *общение*, *воскрешение*
 
-### Actions
+### Бонусные действия
 
-***Ritual Sickle.*** *Melee Attack Roll:* +3, reach 5 ft. 3 (1d4 + 1) Slashing damage plus 1 Necrotic damage.
+***Божественная помощь (2/день).*** Дэва сотворяет *лечение ран*, *малое восстановление* или *снятие проклятия*, используя ту же заклинательную характеристику, что и Колдовство.
 
-## Darkmantle
+## Джинн
 
-*Small Aberration, Unaligned*
+*Большой элементаль (гений), хаотично-добрый*
 
-- **Armor Class:** 11
-- **Hit Points:** 22 (5d6 + 5)
-- **Speed:** 10 ft., Fly 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 17
+- **Хиты:** 218 (19d10 + 114)
+- **Скорость:** 30 футов, полёт 90 футов (парение)
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 15 | +2 | +6 |
+| ТЕЛ | 22 | +6 | +6 |
+| ИНТ | 15 | +2 | +2 |
+| МДР | 16 | +3 | +7 |
+| ХАР | 20 | +5 | +5 |
 
-- **Skills**: Stealth +3
-- **Senses**: blindsight 60 ft.; Passive Perception 10
-- **CR** 1/2 (XP 100; PB +2)
+- **Иммунитеты:** Электрический, Громовой
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 13
+- **Языки:** Первичный (Ауранский)
+- **ПО** 11 (ОО 7200; БМ +4)
 
-### Actions
+### Особенности
 
-***Crush.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Bludgeoning damage, and the darkmantle attaches to the target. If the target is a Medium or smaller creature and the darkmantle had Advantage on the attack roll, it covers the target, which has the Blinded condition and is suffocating while the darkmantle is attached in this way.
-While attached to a target, the darkmantle can attack only the target but has Advantage on its attack rolls. Its Speed becomes 0, it can't benefit from any bonus to its Speed, and it moves with the target.
-A creature can take an action to try to detach the darkmantle from itself, doing so with a successful DC 13 Strength (Athletics) check. On its turn, the darkmantle can detach itself by using 5 feet of movement.
+***Элементальное восстановление.*** Если джинн умирает за пределами Стихийного плана Воздуха, его тело растворяется в тумане, и через 1d4 дней он получает новое тело, возрождаясь со всеми хитами где-то на Плане Воздуха.
 
-***Darkness Aura (1/Day).*** Magical darkness fills a 15-foot Emanation originating from the darkmantle. This effect lasts while the darkmantle maintains  Concentration on it, up to 10 minutes. Darkvision can't penetrate this area, and no light can illuminate it.
+***Сопротивление магии.*** Джинн совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-## Death Dog
+***Желания.*** С вероятностью 30 процентов джинн знает заклинание *исполнение желаний*. Если джинн его знает, он может сотворять его только от имени существа, не являющегося гением, которое высказывает желание понятным джинну способом. Если джинн сотворяет заклинание для существа, он не страдает от стресса, связанного с заклинанием. Сотворив его три раза, джинн не может делать это снова в течение 365 дней.
 
-*Medium Monstrosity, Neutral Evil*
+### Действия
 
-- **Armor Class:** 12
-- **Hit Points:** 39 (6d8 + 12)
-- **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+***Мультиатака.*** Джинн совершает три атаки, используя Грозовой клинок или Грозовой разряд в любой комбинации.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 3 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+***Грозовой клинок.*** *Рукопашная атака:* +9, досягаемость 5 футов. 12 (2d6 + 5) Рубящего урона плюс 7 (2d6) Электрического урона.
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: darkvision 120 ft.; Passive Perception 15
-- **CR** 1 (XP 200; PB +2)
+***Грозовой разряд.*** *Дальнобойная атака:* +9, дистанция 120 футов. 13 (3d8) Громового урона. Если цель — Большое или меньшее существо, она получает состояние «лежащий».
 
-### Actions
+***Создание смерча.*** Джинн создаёт смерч в точке, которую он видит в пределах 120 футов. Смерч заполняет цилиндр радиусом 20 футов и высотой 60 футов с центром в этой точке. Смерч существует, пока джинн поддерживает на нём концентрацию. Джинн может перемещать смерч на 20 футов в начале каждого своего хода.
+Каждый раз, когда смерч входит в пространство существа или существо входит в смерч, это существо подвергается следующему эффекту. *Спасбросок Силы:* Сл 17 (существо проходит этот спасбросок только один раз в ход, и джинн не подвержен эффекту). *Провал:* Находясь в смерче, цель получает состояние «опутан» и перемещается вместе со смерчем. В начале каждого своего хода опутанная цель получает 21 (6d6) Громового урона. В конце каждого своего хода цель повторяет спасбросок, прекращая эффект на себе при успехе.
 
-***Multiattack.*** The death dog makes two Bite attacks.
+***Колдовство.*** Джинн сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму в качестве заклинательной характеристики (Сл спасброска 17):
 
-***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Piercing damage. If the target is a creature, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *First Failure* The target has the Poisoned condition. While Poisoned, the target's Hit Point maximum doesn't return to normal when finishing a Long Rest, and it repeats the save every 24 hours that elapse, ending the effect on itself on a success. Subsequent Failures: The Poisoned target's Hit Point maximum decreases by 5 (1d10).
+- **Неограниченно:** *обнаружение зла и добра*, *обнаружение магии*
+- **2/день каждое:** *сотворение пищи и воды*, *языки*, *шаг ветра*
+- **1/день каждое:** *созидание*, *газообразная форма*, *невидимость*, *образ*, *уход в иной мир*
 
-## Deva
+## Доппельгангер
 
-*Medium Celestial (Angel), Lawful Good*
+*Средняя чудовищность, нейтральный*
 
-- **Armor Class:** 17
-- **Hit Points:** 229 (27d8 + 108)
-- **Speed:** 30 ft., Fly 90 ft. (hover)
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 14
+- **Хиты:** 52 (8d8 + 16)
+- **Скорость:** 30 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 18 | +4 | +4 |
-| CON | 18 | +4 | +4 |
-| INT | 17 | +3 | +3 |
-| WIS | 20 | +5 | +9 |
-| CHA | 20 | +5 | +9 |
-
-- **Resistances**: Radiant
-- **Immunities**: Charmed, Exhaustion, Frightened
-- **Skills**: Insight +9, Perception +9
-- **Senses**: darkvision 120 ft.; Passive Perception 19
-- **Languages**: All; telepathy 120 ft.
-- **CR** 10 (XP 5,900; PB +4)
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 18 | +4 | +4 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 14 | +2 | +2 |
 
-### Traits
+- **Иммунитеты:** Очарованный
+- **Навыки:** Обман +6, Проницательность +3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **Языки:** Общий плюс три других языка
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Exalted Restoration.*** If the deva dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
+### Действия
 
-***Magic Resistance.*** The deva has Advantage on saving throws against spells and other magical effects.
+***Мультиатака.*** Доппельгангер совершает две атаки ударом и использует Тревожный облик, если он доступен.
 
+***Удар.*** *Рукопашная атака:* +6 (с преимуществом в течение первого раунда каждого боя), досягаемость 5 футов. 11 (2d6 + 4) Дробящего урона.
 
-### Actions
+***Тревожный облик (перезарядка 6).*** *Спасбросок Мудрости:* Сл 12, каждое существо в 15-футовой эманации, исходящей от доппельгангера, которое может его видеть. *Провал:* Цель получает состояние «испуганный» и повторяет спасбросок в конце каждого своего хода, прекращая эффект на себе при успехе. Через 1 минуту она автоматически преуспевает.
 
-***Multiattack.*** The deva makes two Holy Mace attacks.
+***Чтение мыслей.*** Доппельгангер сотворяет *обнаружение мыслей*, не требуя компонентов и используя Харизму в качестве заклинательной характеристики (Сл спасброска 12).
 
-***Holy Mace.*** *Melee Attack Roll:* +8, reach 5 ft. 7 (1d6 + 4) Bludgeoning damage plus 18 (4d8) Radiant damage.
+- **Неограниченно:** *обнаружение мыслей*
 
-***Spellcasting.*** The deva casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
+### Бонусные действия
 
-- **At Will:** *Detect Evil and Good*, *Shapechange*
-- **1e/Day Each:** *Commune*, *Raise Dead*
+***Смена формы.*** Доппельгангер превращается в Среднего или Маленького гуманоида или возвращается в свою истинную форму. Его игровые параметры, кроме размера, одинаковы в каждой форме. Любое снаряжение, которое он носит, не трансформируется.
 
-### Bonus Actions
+## Драконья черепаха
 
-***Divine Aid (2/Day).*** The deva casts *Cure Wounds*, *Lesser Restoration*, or *Remove Curse*, using the same spellcasting ability as Spellcasting.
-## Djinni
+*Громадный дракон, нейтральный*
 
-*Large Elemental (Genie), Chaotic Good*
+- **Класс доспеха:** 20
+- **Хиты:** 356 (23d20 + 115)
+- **Скорость:** 20 футов, плавание 50 футов
+- **Инициатива:** +6 (16)
 
-- **Armor Class:** 17
-- **Hit Points:** 218 (19d10 + 114)
-- **Speed:** 30 ft., Fly 90 ft. (hover)
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 15 | +2 | +6 |
-| CON | 22 | +6 | +6 |
-| INT | 15 | +2 | +2 |
-| WIS | 16 | +3 | +7 |
-| CHA | 20 | +5 | +5 |
-
-- **Immunities**: Lightning, Thunder
-- **Senses**: darkvision 120 ft.; Passive Perception 13
-- **Languages**: Primordial (Auran)
-- **CR** 11 (XP 7,200; PB +4)
-
-### Traits
-
-***Elemental Restoration.*** If the djinni dies outside the Elemental Plane of Air, its body dissolves into mist, and it gains a new body in 1d4 days, reviving with all its Hit Points somewhere on the Plane of Air.
+| СИЛ | 25 | +7 | +7 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 20 | +5 | +11 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 12 | +1 | +7 |
+| ХАР | 12 | +1 | +1 |
 
-***Magic Resistance.*** The djinni has Advantage on saving throws against spells and other magical effects.
+- **Сопротивления:** Огненный
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 11
+- **Языки:** Драконий, Первичный (Аквенский)
+- **ПО** 17 (ОО 18000; БМ +6)
 
-***Wishes.*** The djinni has a 30 percent chance of knowing the *Wish* spell. If the djinni knows it, the djinni can cast it only on behalf of a non-genie creature who communicates a wish in a way the djinni can understand. If the djinni casts the spell for the creature, the djinni suffers none of the spell's stress. Once the djinni has cast it three times, the djinni can't do so again for 365 days.
+### Особенности
 
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
-### Actions
+### Действия
 
-***Multiattack.*** The djinni makes three attacks, using Storm Blade or Storm Bolt in any combination.
+***Мультиатака.*** Дракон совершает три атаки укусом. Он может заменить одну атаку атакой хвостом.
 
-***Storm Blade.*** *Melee Attack Roll:* +9, reach 5 feet. 12 (2d6 + 5) Slashing damage plus 7 (2d6) Lightning damage.
+***Укус.*** *Рукопашная атака:* +13, досягаемость 15 футов. 23 (3d10 + 7) Колющего урона плюс 7 (2d6) Огненного урона. Нахождение под водой не даёт сопротивления этому Огненному урону.
 
-***Storm Bolt.*** *Ranged Attack Roll:* +9, range 120 feet. 13 (3d8) Thunder damage. If the target is a Large or smaller creature, it has the Prone condition.
+***Хвост.*** *Рукопашная атака:* +13, досягаемость 15 футов. 18 (2d10 + 7) Дробящего урона. Если цель — Огромное или меньшее существо, она получает состояние «лежащий».
 
-***Create Whirlwind.*** The djinni conjures a whirlwind at a point it can see within 120 feet. The whirlwind fills a 20-foot-radius, 60-foot-high Cylinder [Area of Effect]|XPHB|Cylinder centered on that point. The whirlwind lasts until the djinni's  Concentration on it ends. The djinni can move the whirlwind up to 20 feet at the start of each of its turns.
-Whenever the whirlwind enters a creature's space or a creature enters the whirlwind, that creature is subjected to the following effect. *Strength Saving Throw*: DC 17 (a creature makes this save only once per turn, and the djinni is unaffected). *Failure:*  While in the whirlwind, the target has the Restrained condition and moves with the whirlwind. At the start of each of its turns, the Restrained target takes 21 (6d6) Thunder damage. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success.
+***Паровое дыхание (перезарядка 5-6).*** *Спасбросок Телосложения:* Сл 19, каждое существо в 60-футовом конусе. *Провал:* 56 (16d6) Огненного урона. *Успех:* Половина урона. *Провал или успех:* Нахождение под водой не даёт сопротивления этому Огненному урону.
 
-***Spellcasting.*** The djinni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
+## Дретч
 
-- **At Will:** *Detect Evil and Good*, *Detect Magic*
-- **2e/Day Each:** *Create Food and Water*, *Tongues*, *Wind Walk*
-- **1e/Day Each:** *Creation*, *Gaseous Form*, *Invisibility*, *Major Image*, *Plane Shift*
-## Doppelganger
+*Маленький исчадие (демон), хаотично-злой*
 
-*Medium Monstrosity, Neutral*
+- **Класс доспеха:** 11
+- **Хиты:** 18 (4d6 + 4)
+- **Скорость:** 20 футов
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 14
-- **Hit Points:** 52 (8d8 + 16)
-- **Speed:** 30 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 18 | +4 | +4 |
-| CON | 14 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 14 | +2 | +2 |
-
-- **Immunities**: Charmed
-- **Skills**: Deception +6, Insight +3
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus three other languages
-- **CR** 3 (XP 700; PB +2)
-
-### Actions
-
-***Multiattack.*** The doppelganger makes two Slam attacks and uses Unsettling Visage if available.
+| СИЛ | 12 | +1 | +1 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 3 | -4 | -4 |
 
-***Slam.*** *Melee Attack Roll:* +6 (with Advantage during the first round of each combat), reach 5 ft. 11 (2d6 + 4) Bludgeoning damage.
+- **Сопротивления:** Холодный, Огненный, Электрический
+- **Иммунитеты:** Ядовитый; отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **Языки:** Бездонный; телепатия 60 футов (работает только с существами, понимающими Бездонный)
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-***Unsettling Visage (Recharge 6).*** *Wisdom Saving Throw*: DC 12, each creature in a 15-foot Emanation originating from the doppelganger that can see the doppelganger. *Failure:*  The target has the Frightened condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+### Действия
 
-***Read Thoughts.*** The doppelganger casts *Detect Thoughts*, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 12).
+***Раздирание.*** *Рукопашная атака:* +3, досягаемость 5 футов. 4 (1d6 + 1) Рубящего урона.
 
-- **At Will:** *Detect Thoughts*
+***Зловонное облако (1/день).*** *Спасбросок Телосложения:* Сл 11, каждое существо в 10-футовой эманации, исходящей от дретча. *Провал:* Цель получает состояние «отравлен» до конца своего следующего хода. Пока отравлено, существо может совершать либо действие, либо бонусное действие в свой ход, но не оба, и не может совершать реакции.
 
+## Драйдер
 
-### Bonus Actions
+*Большая чудовищность, хаотично-злой*
 
-***Shape-Shift.*** The doppelganger shape-shifts into a Medium or Small Humanoid, or it returns to its true form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+- **Класс доспеха:** 19
+- **Хиты:** 123 (13d10 + 52)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +4 (14)
 
-## Dragon Turtle
-
-*Gargantuan Dragon, Neutral*
-
-- **Armor Class:** 20
-- **Hit Points:** 356 (23d20 + 115)
-- **Speed:** 20 ft., Swim 50 ft.
-- **Initiative**: +6 (16)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 10 | +0 | +0 |
-| CON | 20 | +5 | +11 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +7 |
-| CHA | 12 | +1 | +1 |
-
-- **Resistances**: Fire
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Draconic, Primordial (Aquan)
-- **CR** 17 (XP 18,000; PB +6)
-
-### Traits
-
-***Amphibious.*** The dragon can breathe air and water.
-
-
-### Actions
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 19 | +4 | +4 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 13 | +1 | +1 |
+| МДР | 16 | +3 | +3 |
+| ХАР | 12 | +1 | +1 |
 
-***Multiattack.*** The dragon makes three Bite attacks. It can replace one attack with a Tail attack.
+- **Навыки:** Восприятие +6, Скрытность +10
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 16
+- **Языки:** Эльфийский, Подземный
+- **ПО** 6 (ОО 2300; БМ +3)
 
-***Bite.*** *Melee Attack Roll:* +13, reach 15 ft. 23 (3d10 + 7) Piercing damage plus 7 (2d6) Fire damage. Being underwater doesn't grant Resistance to this Fire damage.
+### Особенности
 
-***Tail.*** *Melee Attack Roll:* +13, reach 15 ft. 18 (2d10 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+***Паучье лазание.*** Драйдер может лазать по сложным поверхностям, включая потолки, без необходимости совершать проверку характеристики.
 
-***Steam Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 19, each creature in a 60-foot Cone. *Failure:*  56 (16d6) Fire damage. *Success:*  Half damage. *Failure or Success*:  Being underwater doesn't grant Resistance to this Fire damage.
+***Чувствительность к солнечному свету.*** Находясь на солнечном свету, драйдер совершает проверки характеристик и броски атаки с помехой.
 
-## Dretch
+***Хождение по паутине.*** Драйдер игнорирует ограничения передвижения, вызванные паутиной, и знает местоположение любого другого существа, находящегося в контакте с той же паутиной.
 
-*Small Fiend (Demon), Chaotic Evil*
+### Действия
 
-- **Armor Class:** 11
-- **Hit Points:** 18 (4d6 + 4)
-- **Speed:** 20 ft.
-- **Initiative**: +0 (10)
+***Мультиатака.*** Драйдер совершает три атаки, используя Переднюю лапу или Ядовитый выброс в любой комбинации.
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 11 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 5 | -3 | -3 |
-| WIS | 8 | -1 | -1 |
-| CHA | 3 | -4 | -4 |
-
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
-- **CR** 1/4 (XP 50; PB +2)
+***Передняя лапа.*** *Рукопашная атака:* +7, досягаемость 10 футов. 13 (2d8 + 4) Колющего урона.
 
-### Actions
+***Ядовитый выброс.*** *Дальнобойная атака:* +6, дистанция 120 футов. 13 (3d6 + 3) Ядовитого урона.
 
-***Rend.*** *Melee Attack Roll:* +3, reach 5 ft. 4 (1d6 + 1) Slashing damage.
+### Бонусные действия
 
-***Fetid Cloud (1/Day).*** *Constitution Saving Throw*: DC 11, each creature in a 10-foot Emanation originating from the dretch. *Failure:*  The target has the Poisoned condition until the end of its next turn. While Poisoned, the creature can take either an action or a Bonus Action on its turn, not both, and it can't take Reactions.
+***Магия паучьей королевы (перезарядка 5-6).*** Драйдер сотворяет *тьму*, *огонь фей* или *паутину*, не требуя материальных компонентов и используя Мудрость в качестве заклинательной характеристики (Сл спасброска 14).
 
-## Drider
+## Друид
 
-*Large Monstrosity, Chaotic Evil*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 19
-- **Hit Points:** 123 (13d10 + 52)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 13
+- **Хиты:** 44 (8d8 + 8)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 19 | +4 | +4 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 12 | +1 | +1 |
-
-- **Skills**: Perception +6, Stealth +10
-- **Senses**: darkvision 120 ft.; Passive Perception 16
-- **Languages**: Elvish, Undercommon
-- **CR** 6 (XP 2,300; PB +3)
-
-### Traits
-
-***Spider Climb.*** The drider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-
-***Sunlight Sensitivity.*** While in sunlight, the drider has Disadvantage on ability checks and attack rolls.
-
-***Web Walker.*** The drider ignores movement restrictions caused by webs, and the drider knows the location of any other creature in contact with the same web.
-
-
-### Actions
-
-***Multiattack.*** The drider makes three attacks, using Foreleg or Poison Burst in any combination.
-
-***Foreleg.*** *Melee Attack Roll:* +7, reach 10 ft. 13 (2d8 + 4) Piercing damage.
-
-***Poison Burst.*** *Ranged Attack Roll:* +6, range 120 ft. 13 (3d6 + 3) Poison damage.
-
-
-### Bonus Actions
-
-***Magic of the Spider Queen (Recharge 5-6).*** The drider casts *Darkness*, *Faerie Fire*, or *Web*, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 14).
-## Druid
-
-*Small Humanoid, Neutral*
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 16 | +3 | +3 |
+| ХАР | 11 | +0 | +0 |
 
-- **Armor Class:** 13
-- **Hit Points:** 44 (8d8 + 8)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Навыки:** Медицина +5, Природа +3, Восприятие +5
+- **Снаряжение:** Проклёпанный кожаный доспех
+- **Чувства:** пассивное Восприятие 15
+- **Языки:** Общий, Друидический, Сильванский
+- **ПО** 2 (ОО 450; БМ +2)
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 11 | +0 | +0 |
-
-- **Skills**: Medicine +5, Nature +3, Perception +5
-- **Gear** Studded Leather Armor
-- **Senses**: Passive Perception 15
-- **Languages**: Common, Druidic, Sylvan
-- **CR** 2 (XP 450; PB +2)
+### Действия
 
-### Actions
+***Мультиатака.*** Друид совершает две атаки, используя Лозовой посох или Зелёный огонёк в любой комбинации.
 
-***Multiattack.*** The druid makes two attacks, using Vine Staff or Verdant Wisp in any combination.
+***Лозовой посох.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Дробящего урона плюс 2 (1d4) Ядовитого урона.
 
-***Vine Staff.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Bludgeoning damage plus 2 (1d4) Poison damage.
+***Зелёный огонёк.*** *Дальнобойная атака:* +5, дистанция 90 футов. 10 (3d6) урона Излучением.
 
-***Verdant Wisp.*** *Ranged Attack Roll:* +5, range 90 ft. 10 (3d6) Radiant damage.
+***Колдовство.*** Друид сотворяет одно из следующих заклинаний, используя Мудрость в качестве заклинательной характеристики (Сл спасброска 13):
 
-***Spellcasting.*** The druid casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 13):
+- **Неограниченно:** *искусство друидов*, *разговор с животными*
+- **2/день каждое:** *опутывание*, *волна грома*
+- **1/день каждое:** *посланник с животным*, *скороход*, *лунный луч*
 
-- **At Will:** *Druidcraft*, *Speak with Animals*
-- **2e/Day Each:** *Entangle*, *Thunderwave*
-- **1e/Day Each:** *Animal Messenger*, *Longstrider*, *Moonbeam*
-## Dryad
+## Дриада
 
-*Medium Fey, Neutral*
+*Средняя фея, нейтральный*
 
-- **Armor Class:** 16
-- **Hit Points:** 22 (5d8)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 16
+- **Хиты:** 22 (5d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 14 | +2 | +2 |
-| WIS | 15 | +2 | +2 |
-| CHA | 18 | +4 | +4 |
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 15 | +2 | +2 |
+| ХАР | 18 | +4 | +4 |
 
-- **Skills**: Perception +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Elvish, Sylvan
-- **CR** 1 (XP 200; PB +2)
+- **Навыки:** Восприятие +4, Скрытность +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Эльфийский, Сильванский
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Traits
+### Особенности
 
-***Magic Resistance.*** The dryad has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Дриада совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Speak with Beasts and Plants.*** The dryad can communicate with Beasts and Plants as if they shared a language.
+***Общение со зверями и растениями.*** Дриада может общаться со зверями и растениями, как если бы они понимали общий язык.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дриада совершает одну атаку хлёстом лозой или выстрел шипом и может использовать Колдовство, чтобы сотворить *очарование чудовища*.
 
-***Multiattack.*** The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting to cast *Charm Monster*.
+***Хлёст лозой.*** *Рукопашная атака:* +6, досягаемость 10 футов. 8 (1d8 + 4) Рубящего урона.
 
-***Vine Lash.*** *Melee Attack Roll:* +6, reach 10 ft. 8 (1d8 + 4) Slashing damage.
+***Выстрел шипом.*** *Дальнобойная атака:* +6, дистанция 60 футов. 7 (1d6 + 4) Колющего урона.
 
-***Thorn Burst.*** *Ranged Attack Roll:* +6, range 60 ft. 7 (1d6 + 4) Piercing damage.
+***Колдовство.*** Дриада сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму в качестве заклинательной характеристики (Сл спасброска 14):
 
-***Spellcasting.*** The dryad casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 14):
+- **Неограниченно:** *дружба с животными*, *очарование чудовища*, *искусство друидов*
+- **1/день каждое:** *опутывание*, *бесследное передвижение*
 
-- **At Will:** *Animal Friendship*, *Charm Monster*, *Druidcraft*
-- **1e/Day Each:** *Entangle*, *Pass without Trace*
+### Бонусные действия
 
-### Bonus Actions
+***Древесный шаг.*** Находясь в пределах 5 футов от Большого или большего дерева, дриада телепортируется в свободное пространство в пределах 5 футов от второго Большого или большего дерева, находящегося в пределах 60 футов от первого дерева.
 
-***Tree Stride.*** If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied space within 5 feet of a second Large or bigger tree that is within 60 feet of the previous tree.
+## Пылевой мефит
 
-## Dust Mephit
+*Маленький элементаль, нейтрально-злой*
 
-*Small Elemental, Neutral Evil*
+- **Класс доспеха:** 12
+- **Хиты:** 17 (5d6)
+- **Скорость:** 30 футов, полёт 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 12
-- **Hit Points:** 17 (5d6)
-- **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 14 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+| СИЛ | 5 | -3 | -3 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 9 | -1 | -1 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Skills**: Perception +2, Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Primordial (Auran, Terran)
-- **CR** 1/2 (XP 100; PB +2)
+- **Уязвимости:** Огненный
+- **Иммунитеты:** Ядовитый; истощение, отравленный
+- **Навыки:** Восприятие +2, Скрытность +4
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 12
+- **Языки:** Первичный (Ауранский, Терранский)
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Traits
+### Особенности
 
-***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  5 (2d4) Bludgeoning damage. *Success:*  Half damage.
+***Предсмертный взрыв.*** Мефит взрывается, когда умирает. *Спасбросок Ловкости:* Сл 10, каждое существо в 5-футовой эманации, исходящей от мефита. *Провал:* 5 (2d4) Дробящего урона. *Успех:* Половина урона.
 
+### Действия
 
-### Actions
+***Когти.*** *Рукопашная атака:* +4, досягаемость 5 футов. 4 (1d4 + 2) Рубящего урона.
 
-***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Slashing damage.
+***Ослепляющее дыхание (перезарядка 6).*** *Спасбросок Ловкости:* Сл 10, каждое существо в 15-футовом конусе. *Провал:* Цель получает состояние «ослеплён» до конца следующего хода мефита.
 
-***Blinding Breath (Recharge 6).*** *Dexterity Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:*  The target has the Blinded condition until the end of the mephit's next turn.
+***Усыпление (1/день).*** Мефит сотворяет заклинание *усыпление*, не требуя компонентов и используя Харизму в качестве заклинательной характеристики (Сл спасброска 10).
 
-***Sleep (1/Day).*** The mephit casts the *Sleep* spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 10).
+- **Неограниченно:**
+- **1/день каждое:** *усыпление*
 
-- **At Will:** 
-- **1/Day Each:** *Sleep*
-## Earth Elemental
+## Земляной элементаль
 
-*Large Elemental, Neutral*
+*Большой элементаль, нейтральный*
 
-- **Armor Class:** 17
-- **Hit Points:** 147 (14d10 + 70)
-- **Speed:** 30 ft., Burrow 30 ft.
-- **Initiative**: -1 (9)
+- **Класс доспеха:** 17
+- **Хиты:** 147 (14d10 + 70)
+- **Скорость:** 30 футов, копание 30 футов
+- **Инициатива:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 8 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
-
-- **Vulnerabilities**: Thunder
-- **Immunities**: Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Terran)
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 20 | +5 | +5 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 20 | +5 | +5 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-### Traits
+- **Уязвимости:** Громовой
+- **Иммунитеты:** Ядовитый; истощение, парализованный, окаменевший, отравленный, без сознания
+- **Чувства:** тёмное зрение 60 футов, чувство вибрации 60 футов; пассивное Восприятие 10
+- **Языки:** Первичный (Терранский)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
+### Особенности
 
-***Siege Monster.*** The elemental deals double damage to objects and structures.
+***Скольжение сквозь землю.*** Элементаль может проникать сквозь немагическую необработанную землю и камень. При этом элементаль не нарушает структуру материала, через который проходит.
 
+***Осадный монстр.*** Элементаль наносит двойной урон объектам и строениям.
 
-### Actions
+### Действия
 
-***Multiattack.*** The elemental makes two attacks, using Slam or Rock Launch in any combination.
+***Мультиатака.*** Элементаль совершает две атаки, используя Удар или Запуск камня в любой комбинации.
 
-***Slam.*** *Melee Attack Roll:* +8, reach 10 ft. 14 (2d8 + 5) Bludgeoning damage.
+***Удар.*** *Рукопашная атака:* +8, досягаемость 10 футов. 14 (2d8 + 5) Дробящего урона.
 
-***Rock Launch.*** *Ranged Attack Roll:* +8, range 60 ft. 8 (1d6 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
+***Запуск камня.*** *Дальнобойная атака:* +8, дистанция 60 футов. 8 (1d6 + 5) Дробящего урона. Если цель — Большое или меньшее существо, она получает состояние «лежащий».
 
-## Efreeti
+## Ифрит
 
-*Large Elemental (Genie), Neutral*
+*Большой элементаль (гений), нейтральный*
 
-- **Armor Class:** 17
-- **Hit Points:** 212 (17d10 + 119)
-- **Speed:** 40 ft., Fly 60 ft. (hover)
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 17
+- **Хиты:** 212 (17d10 + 119)
+- **Скорость:** 40 футов, полёт 60 футов (парение)
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 12 | +1 | +1 |
-| CON | 24 | +7 | +7 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +6 |
-| CHA | 19 | +4 | +8 |
+| СИЛ | 22 | +6 | +6 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 24 | +7 | +7 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 15 | +2 | +6 |
+| ХАР | 19 | +4 | +8 |
 
-- **Immunities**: Fire
-- **Senses**: darkvision 120 ft.; Passive Perception 12
-- **Languages**: Primordial (Ignan)
-- **CR** 11 (XP 7,200; PB +4)
+- **Иммунитеты:** Огненный
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 12
+- **Языки:** Первичный (Игнанский)
+- **ПО** 11 (ОО 7200; БМ +4)
 
-### Traits
+### Особенности
 
-***Elemental Restoration.*** If the efreeti dies outside the Elemental Plane of Fire, its body dissolves into ash, and it gains a new body in 1d4 days, reviving with all its Hit Points somewhere on the Plane of Fire.
+***Элементальное восстановление.*** Если ифрит умирает за пределами Стихийного плана Огня, его тело рассыпается в пепел, и через 1d4 дней он получает новое тело, возрождаясь со всеми хитами где-то на Плане Огня.
 
-***Magic Resistance.*** The efreeti has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Ифрит совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Wishes.*** The efreeti has a 30 percent chance of knowing the *Wish* spell. If the efreeti knows it, the efreeti can cast it only on behalf of a non-genie creature who communicates a wish in a way the efreeti can understand. If the efreeti casts the spell for the creature, the efreeti suffers none of the spell's stress. Once the efreeti has cast it three times, the efreeti can't do so again for 365 days.
+***Желания.*** С вероятностью 30 процентов ифрит знает заклинание *исполнение желаний*. Если ифрит его знает, он может сотворять его только от имени существа, не являющегося гением, которое высказывает желание понятным ифриту способом. Если ифрит сотворяет заклинание для существа, он не страдает от стресса, связанного с заклинанием. Сотворив его три раза, ифрит не может делать это снова в течение 365 дней.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Ифрит совершает три атаки, используя Пылающий клинок или Бросок пламени в любой комбинации.
 
-***Multiattack.*** The efreeti makes three attacks, using Heated Blade or Hurl Flame in any combination.
+***Пылающий клинок.*** *Рукопашная атака:* +10, досягаемость 5 футов. 13 (2d6 + 6) Рубящего урона плюс 13 (2d12) Огненного урона.
 
-***Heated Blade.*** *Melee Attack Roll:* +10, reach 5 ft. 13 (2d6 + 6) Slashing damage plus 13 (2d12) Fire damage.
+***Бросок пламени.*** *Дальнобойная атака:* +8, дистанция 120 футов. 24 (7d6) Огненного урона.
 
-***Hurl Flame.*** *Ranged Attack Roll:* +8, range 120 ft. 24 (7d6) Fire damage.
+***Колдовство.*** Ифрит сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму в качестве заклинательной характеристики (Сл спасброска 16):
 
-***Spellcasting.*** The efreeti casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 16):
+- **Неограниченно:** *обнаружение магии*, *элементализм*
+- **1/день каждое:** *газообразная форма*, *невидимость*, *образ*, *уход в иной мир*, *языки*, *огненная стена*
 
-- **At Will:** *Detect Magic*, *Elementalism*
-- **1e/Day Each:** *Gaseous Form*, *Invisibility*, *Major Image*, *Plane Shift*, *Tongues*, *Wall of Fire*
-## Erinyes
+## Эриния
 
-*Medium Fiend (Devil), Lawful Evil*
+*Средний исчадие (дьявол), принципиально-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 178 (21d8 + 84)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +7 (17)
+- **Класс доспеха:** 18
+- **Хиты:** 178 (21d8 + 84)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 16 | +3 | +7 |
-| CON | 18 | +4 | +8 |
-| INT | 14 | +2 | +2 |
-| WIS | 14 | +2 | +2 |
-| CHA | 18 | +4 | +8 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 16 | +3 | +7 |
+| ТЕЛ | 18 | +4 | +8 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 18 | +4 | +8 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Perception +6, Persuasion +8
-- **Senses**: truesight 120 ft.; Passive Perception 16
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 12 (XP 8,400; PB +4)
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Навыки:** Восприятие +6, Убеждение +8
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 16
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 12 (ОО 8400; БМ +4)
 
-### Traits
+### Особенности
 
-***Diabolical Restoration.*** If the erinyes dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+***Дьявольское восстановление.*** Если эриния умирает за пределами Девяти Преисподних, её тело исчезает в серном дыму, и она мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
-***Magic Resistance.*** The erinyes has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Эриния совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Magic Rope.*** The erinyes has a magic rope. While bearing it, the erinyes can use the Entangling Rope action. The rope has AC 20, HP 90, and Immunity to Poison and Psychic damage. The rope turns to dust if reduced to 0 Hit Points, if it is 5+ feet away from the erinyes for 1 hour or more, or if the erinyes dies. If the rope is damaged or destroyed, the erinyes can fully restore it when finishing a Short Rest|XPHB|Short or Long Rest.
+***Магическая верёвка.*** У эринии есть магическая верёвка. Нося её, эриния может использовать действие Опутывающая верёвка. Верёвка имеет КД 20, 90 хитов и иммунитет к Ядовитому и Психическому урону. Верёвка превращается в прах, если её хиты снижаются до 0, если она находится в 5 и более футах от эринии в течение 1 часа или более, или если эриния умирает. Если верёвка повреждена или уничтожена, эриния может полностью восстановить её после короткого или продолжительного отдыха.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Эриния совершает три атаки Иссушающим мечом и может использовать Опутывающую верёвку.
 
-***Multiattack.*** The erinyes makes three Withering Sword attacks and can use Entangling Rope.
+***Иссушающий меч.*** *Рукопашная атака:* +8, досягаемость 5 футов. 13 (2d8 + 4) Рубящего урона плюс 11 (2d10) Некротического урона.
 
-***Withering Sword.*** *Melee Attack Roll:* +8, reach 5 ft. 13 (2d8 + 4) Slashing damage plus 11 (2d10) Necrotic damage.
+***Опутывающая верёвка (требуется магическая верёвка).*** *Спасбросок Силы:* Сл 16, одно существо, которое эриния видит в пределах 120 футов. *Провал:* 14 (4d6) урона Силой, и цель получает состояние «опутан» до тех пор, пока верёвка не будет уничтожена, эриния не использует бонусное действие, чтобы освободить цель, или эриния снова не использует Опутывающую верёвку.
 
-***Entangling Rope (Requires Magic Rope).*** *Strength Saving Throw*: DC 16, one creature the erinyes can see within 120 feet. *Failure:*  14 (4d6) Force damage, and the target has the Restrained condition until the rope is destroyed, the erinyes uses a Bonus Action to release the target, or the erinyes uses Entangling Rope again.
+## Эттеркап
 
-## Ettercap
+*Средняя чудовищность, нейтрально-злой*
 
-*Medium Monstrosity, Neutral Evil*
+- **Класс доспеха:** 13
+- **Хиты:** 44 (8d8 + 8)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 13
-- **Hit Points:** 44 (8d8 + 8)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 15 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
-
-- **Skills**: Perception +3, Stealth +4, Survival +3
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 8 | -1 | -1 |
 
-### Traits
+- **Навыки:** Восприятие +3, Скрытность +4, Выживание +3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 13
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Spider Climb.*** The ettercap can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+### Особенности
 
-***Web Walker.*** The ettercap ignores movement restrictions caused by webs, and the ettercap knows the location of any other creature in contact with the same web.
+***Паучье лазание.*** Эттеркап может лазать по сложным поверхностям, включая потолки, без необходимости совершать проверку характеристики.
 
+***Хождение по паутине.*** Эттеркап игнорирует ограничения передвижения, вызванные паутиной, и знает местоположение любого другого существа, находящегося в контакте с той же паутиной.
 
-### Actions
+### Действия
 
-***Multiattack.*** The ettercap makes one Bite attack and one Claw attack.
+***Мультиатака.*** Эттеркап совершает одну атаку укусом и одну атаку когтями.
 
-***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage plus 2 (1d4) Poison damage, and the target has the Poisoned condition until the start of the ettercap's next turn.
+***Укус.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Колющего урона плюс 2 (1d4) Ядовитого урона, и цель получает состояние «отравлен» до начала следующего хода эттеркапа.
 
-***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (2d4 + 2) Slashing damage.
+***Когти.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (2d4 + 2) Рубящего урона.
 
-***Web Strand (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, one Large or smaller creature the ettercap can see within 30 feet. *Failure:*  The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Bludgeoning, Poison, and Psychic damage).
+***Паутинная нить (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 12, одно Большое или меньшее существо, которое эттеркап видит в пределах 30 футов. *Провал:* Цель получает состояние «опутан», пока паутина не будет уничтожена (КД 10; 5 хитов; уязвимость к Огненному урону; иммунитет к Дробящему, Ядовитому и Психическому урону).
 
+### Бонусные действия
 
-### Bonus Actions
+***Подтягивание.*** Эттеркап подтягивает к себе одно существо в пределах 30 футов, опутанное его Паутинной нитью, на расстояние до 25 футов прямо к себе.
 
-***Reel.*** The ettercap pulls one creature within 30 feet of itself that is Restrained by its Web Strand up to 25 feet straight toward itself.
+## Эттин
 
-## Ettin
+*Большой великан, хаотично-злой*
 
-*Large Giant, Chaotic Evil*
+- **Класс доспеха:** 12
+- **Хиты:** 85 (10d10 + 30)
+- **Скорость:** 40 футов
+- **Инициатива:** -1 (9)
 
-- **Armor Class:** 12
-- **Hit Points:** 85 (10d10 + 30)
-- **Speed:** 40 ft.
-- **Initiative**: -1 (9)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 8 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 8 | -1 | -1 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +4
-- **Gear** Battleaxe, Morningstar
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Giant
-- **CR** 4 (XP 1,100; PB +2)
+- **Иммунитеты:** Ослеплённый, очарованный, оглохший, испуганный, оглушённый, без сознания
+- **Навыки:** Восприятие +4
+- **Снаряжение:** Боевой топор, моргенштерн
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Великаний
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The ettin makes one Battleaxe attack and one Morningstar attack.
+***Мультиатака.*** Эттин совершает одну атаку боевым топором и одну атаку моргенштерном.
 
-***Battleaxe.*** *Melee Attack Roll:* +7, reach 5 ft. 14 (2d8 + 5) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+***Боевой топор.*** *Рукопашная атака:* +7, досягаемость 5 футов. 14 (2d8 + 5) Рубящего урона. Если цель — Большое или меньшее существо, она получает состояние «лежащий».
 
-***Morningstar.*** *Melee Attack Roll:* +7, reach 5 ft. 14 (2d8 + 5) Piercing damage, and the target has Disadvantage on the next attack roll it makes before the end of its next turn.
+***Моргенштерн.*** *Рукопашная атака:* +7, досягаемость 5 футов. 14 (2d8 + 5) Колющего урона, и цель совершает с помехой следующий бросок атаки до конца своего следующего хода.
 
-## Fire Elemental
+## Огненный элементаль
 
-*Large Elemental, Neutral*
+*Большой элементаль, нейтральный*
 
-- **Armor Class:** 13
-- **Hit Points:** 93 (11d10 + 33)
-- **Speed:** 50 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 13
+- **Хиты:** 93 (11d10 + 33)
+- **Скорость:** 50 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 17 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
-
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan)
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 7 | -2 | -2 |
 
-### Traits
+- **Сопротивления:** Дробящий, Колющий, Рубящий
+- **Иммунитеты:** Огненный, Ядовитый; истощение, схваченный, парализованный, окаменевший, отравленный, лежащий, опутан, без сознания
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первичный (Игнанский)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Fire Aura.*** At the end of each of the elemental's turns, each creature in a 10-foot Emanation originating from the elemental takes 5 (1d10) Fire damage. Creatures and flammable objects in the Emanation start Hitazard burning.
+### Особенности
 
-***Fire Form.*** The elemental can move through a space as narrow as 1 inch without expending extra movement to do so, and it can enter a creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) Fire damage.
+***Огненная аура.*** В конце каждого хода элементаля каждое существо в 10-футовой эманации, исходящей от элементаля, получает 5 (1d10) Огненного урона. Существа и горючие объекты в эманации начинают гореть.
 
-***Illumination.*** The elemental sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet.
+***Огненная форма.*** Элементаль может перемещаться через пространство шириной 1 дюйм без затраты дополнительного перемещения, и он может входить в пространство существа и останавливаться там. При первом входе в пространство существа в свой ход это существо получает 5 (1d10) Огненного урона.
 
-***Water Susceptibility.*** The elemental takes 3 (1d6) Cold damage for every 5 feet the elemental moves in water or for every gallon of water splashed on it.
+***Свечение.*** Элементаль излучает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов.
 
+***Уязвимость к воде.*** Элементаль получает 3 (1d6) Холодного урона за каждые 5 футов, которые он проходит в воде, или за каждый галлон воды, выплеснутый на него.
 
-### Actions
+### Действия
 
-***Multiattack.*** The elemental makes two Burn attacks.
+***Мультиатака.*** Элементаль совершает две атаки обжиганием.
 
-***Burn.*** *Melee Attack Roll:* +6, reach 5 ft. 10 (2d6 + 3) Fire damage. If the target is a creature or a flammable object, it starts burning.
+***Обжигание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 10 (2d6 + 3) Огненного урона. Если цель — существо или горючий объект, она начинает гореть.
 
-## Fire Giant
+## Огненный великан
 
-*Huge Giant, Lawful Evil*
+*Огромный великан, принципиально-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 162 (13d12 + 78)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 18
+- **Хиты:** 162 (13d12 + 78)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 25 | +7 | +7 |
-| DEX | 9 | -1 | +3 |
-| CON | 23 | +6 | +10 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +2 |
-| CHA | 13 | +1 | +5 |
+| СИЛ | 25 | +7 | +7 |
+| ЛОВ | 9 | -1 | +3 |
+| ТЕЛ | 23 | +6 | +10 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 13 | +1 | +5 |
 
-- **Immunities**: Fire
-- **Skills**: Athletics +11, Perception +6
-- **Senses**: Passive Perception 16
-- **Languages**: Giant
-- **CR** 9 (XP 5,000; PB +4)
+- **Иммунитеты:** Огненный
+- **Навыки:** Атлетика +11, Восприятие +6
+- **Чувства:** пассивное Восприятие 16
+- **Языки:** Великаний
+- **ПО** 9 (ОО 5000; БМ +4)
 
-### Actions
+### Действия
 
-***Multiattack.*** The giant makes two attacks, using Flame Sword or Hammer Throw in any combination.
+***Мультиатака.*** Великан совершает две атаки, используя Пламенный меч или Бросок молота в любой комбинации.
 
-***Flame Sword.*** *Melee Attack Roll:* +11, reach 10 ft. 21 (4d6 + 7) Slashing damage plus 10 (3d6) Fire damage.
+***Пламенный меч.*** *Рукопашная атака:* +11, досягаемость 10 футов. 21 (4d6 + 7) Рубящего урона плюс 10 (3d6) Огненного урона.
 
-***Hammer Throw.*** *Ranged Attack Roll:* +11, range 60/240 ft. 23 (3d10 + 7) Bludgeoning damage plus 4 (1d8) Fire damage, and the target is pushed up to 15 feet straight away from the giant and has Disadvantage on the next attack roll it makes before the end of its next turn.
+***Бросок молота.*** *Дальнобойная атака:* +11, дистанция 60/240 футов. 23 (3d10 + 7) Дробящего урона плюс 4 (1d8) Огненного урона, и цель отталкивается на расстояние до 15 футов от великана и совершает с помехой следующий бросок атаки до конца своего следующего хода.
 
-## Flesh Golem
+## Голем из плоти
 
-*Medium Construct, Neutral*
+*Средняя конструкция, нейтральный*
 
-- **Armor Class:** 9
-- **Hit Points:** 127 (15d8 + 60)
-- **Speed:** 30 ft.
-- **Initiative**: -1 (9)
+- **Класс доспеха:** 9
+- **Хиты:** 127 (15d8 + 60)
+- **Скорость:** 30 футов
+- **Инициатива:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 9 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 9 | -1 | -1 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-- **Immunities**: Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands Common plus one other language but can't speak
-- **CR** 5 (XP 1,800; PB +3)
+- **Иммунитеты:** Электрический, Ядовитый; очарованный, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Понимает Общий плюс один другой язык, но не может говорить
+- **ПО** 5 (ОО 1800; БМ +3)
 
-### Traits
+### Особенности
 
-***Aversion to Fire.*** If the golem takes Fire damage, it has Disadvantage on attack rolls and ability checks until the end of its next turn.
+***Отвращение к огню.*** Если голем получает Огненный урон, он совершает броски атаки и проверки характеристик с помехой до конца своего следующего хода.
 
-***Berserk.*** Whenever the golem starts its turn Bloodied, roll 1d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object. Once the golem goes berserk, it remains so until it is destroyed or it is no longer Bloodied.
-The golem's creator, if within 60 feet of the berserk golem, can try to calm it by taking an action to make a DC 15 Charisma (Persuasion) check; the golem must be able to hear its creator. If this check succeeds, the golem ceases being berserk until the start of its next turn, at which point it resumes rolling for the Berserk trait again if it is still Bloodied.
+***Берсерк.*** Каждый раз, когда голем начинает свой ход окровавленным, бросьте 1d6. При результате 6 голем впадает в ярость. В каждый свой ход, пока он в ярости, голем атакует ближайшее существо, которое видит. Если ни одно существо не находится достаточно близко, чтобы переместиться к нему и атаковать, голем атакует объект. Впав в ярость, голем остаётся в этом состоянии, пока не будет уничтожен или пока не перестанет быть окровавленным.
+Создатель голема, находящийся в пределах 60 футов от буйствующего голема, может попытаться успокоить его, потратив действие на проверку Харизмы (Убеждение) Сл 15; голем должен слышать своего создателя. При успехе голем прекращает буйствовать до начала своего следующего хода, после чего он снова бросает кость для особенности Берсерк, если всё ещё окровавлен.
 
-***Immutable Form.*** The golem can't shape-shift.
+***Неизменная форма.*** Голем не может менять свою форму.
 
-***Lightning Absorption.*** Whenever the golem is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
+***Поглощение молнии.*** Каждый раз, когда голем должен получить урон Электричеством, он восстанавливает количество хитов, равное полученному урону Электричеством.
 
-***Magic Resistance.*** The golem has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Голем совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Голем совершает две атаки ударом.
 
-***Multiattack.*** The golem makes two Slam attacks.
+***Удар.*** *Рукопашная атака:* +7, досягаемость 5 футов. 13 (2d8 + 4) Дробящего урона плюс 4 (1d8) Электрического урона.
 
-***Slam.*** *Melee Attack Roll:* +7, reach 5 ft. 13 (2d8 + 4) Bludgeoning damage plus 4 (1d8) Lightning damage.
+## Ледяной великан
 
-## Frost Giant
+*Огромный великан, нейтрально-злой*
 
-*Huge Giant, Neutral Evil*
+- **Класс доспеха:** 15
+- **Хиты:** 149 (13d12 + 65)
+- **Скорость:** 40 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 15
-- **Hit Points:** 149 (13d12 + 65)
-- **Speed:** 40 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 9 | -1 | -1 |
-| CON | 21 | +5 | +8 |
-| INT | 9 | -1 | -1 |
-| WIS | 10 | +0 | +3 |
-| CHA | 12 | +1 | +4 |
-
-- **Immunities**: Cold
-- **Skills**: Athletics +9, Perception +3
-- **Senses**: Passive Perception 13
-- **Languages**: Giant
-- **CR** 8 (XP 3,900; PB +3)
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 9 | -1 | -1 |
+| ТЕЛ | 21 | +5 | +8 |
+| ИНТ | 9 | -1 | -1 |
+| МДР | 10 | +0 | +3 |
+| ХАР | 12 | +1 | +4 |
 
-### Actions
+- **Иммунитеты:** Холодный
+- **Навыки:** Атлетика +9, Восприятие +3
+- **Чувства:** пассивное Восприятие 13
+- **Языки:** Великаний
+- **ПО** 8 (ОО 3900; БМ +3)
 
-***Multiattack.*** The giant makes two attacks, using Frost Axe or Great Bow in any combination.
+### Действия
 
-***Frost Axe.*** *Melee Attack Roll:* +9, reach 10 ft. 19 (2d12 + 6) Slashing damage plus 9 (2d8) Cold damage.
+***Мультиатака.*** Великан совершает две атаки, используя Морозный топор или Большой лук в любой комбинации.
 
-***Great Bow.*** *Ranged Attack Roll:* +9, range 150/600 ft. 17 (2d10 + 6) Piercing damage plus 7 (2d6) Cold damage, and the target's Speed decreases by 10 feet until the end of its next turn.
+***Морозный топор.*** *Рукопашная атака:* +9, досягаемость 10 футов. 19 (2d12 + 6) Рубящего урона плюс 9 (2d8) Холодного урона.
 
+***Большой лук.*** *Дальнобойная атака:* +9, дистанция 150/600 футов. 17 (2d10 + 6) Колющего урона плюс 7 (2d6) Холодного урона, и скорость цели уменьшается на 10 футов до конца её следующего хода.
 
-### Bonus Actions
+### Бонусные действия
 
-***War Cry (Recharge 5-6).*** The giant or one creature of its choice that can see or hear it gains 16 (2d10 + 5) Temporary Hit Points and has Advantage on attack rolls until the start of the giant's next turn.
+***Боевой клич (перезарядка 5-6).*** Великан или одно существо на его выбор, которое видит или слышит его, получает 16 (2d10 + 5) временных хитов и совершает с преимуществом броски атаки до начала следующего хода великана.
 
-## Gargoyle
+## Горгулья
 
-*Medium Elemental, Chaotic Evil*
+*Средний элементаль, хаотично-злой*
 
-- **Armor Class:** 15
-- **Hit Points:** 67 (9d8 + 27)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 15
+- **Хиты:** 67 (9d8 + 27)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 11 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 11 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 7 | -2 | -2 |
 
-- **Immunities**: Poison; Exhaustion, Petrified, Poisoned
-- **Skills**: Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Terran)
-- **CR** 2 (XP 450; PB +2)
+- **Иммунитеты:** Ядовитый; истощение, окаменевший, отравленный
+- **Навыки:** Скрытность +4
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первичный (Терранский)
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Traits
+### Особенности
 
-***Flyby.*** The gargoyle doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+***Пролёт.*** Горгулья не провоцирует атаку по возможности, когда вылетает из досягаемости врага.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Горгулья совершает две атаки когтями.
 
-***Multiattack.*** The gargoyle makes two Claw attacks.
+***Когти.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (2d4 + 2) Рубящего урона.
 
-***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (2d4 + 2) Slashing damage.
+## Желатиновый куб
 
-## Gelatinous Cube
+*Большая слизь, без мировоззрения*
 
-*Large Ooze, Unaligned*
+- **Класс доспеха:** 6
+- **Хиты:** 63 (6d10 + 30)
+- **Скорость:** 15 футов
+- **Инициатива:** -4 (6)
 
-- **Armor Class:** 6
-- **Hit Points:** 63 (6d10 + 30)
-- **Speed:** 15 ft.
-- **Initiative**: -4 (6)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 3 | -4 | -4 |
-| CON | 20 | +5 | +5 |
-| INT | 1 | -5 | -5 |
-| WIS | 6 | -2 | -2 |
-| CHA | 1 | -5 | -5 |
-
-- **Immunities**: Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
-- **Senses**: blindsight 60 ft.; Passive Perception 8
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 3 | -4 | -4 |
+| ТЕЛ | 20 | +5 | +5 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 6 | -2 | -2 |
+| ХАР | 1 | -5 | -5 |
 
-### Traits
+- **Иммунитеты:** Кислотный; ослеплённый, очарованный, оглохший, истощение, испуганный, лежащий
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 8
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Ooze Cube.*** The cube fills its entire space and is transparent. Other creatures can enter that space, but a creature that does so is subjected to the cube's Engulf and has Disadvantage on the saving throw.
-Creatures inside the cube have Cover|XPHB|Total Cover, and the cube can hold one Large creature or up to four Medium or Small creatures inside itself at a time.
-As an action, a creature within 5 feet of the cube can pull a creature or an object out of the cube by succeeding on a DC 12 Strength (Athletics) check, and the puller takes 10 (3d6) Acid damage.
+### Особенности
 
-***Transparent.*** Even when the cube is in plain sight, a creature must succeed on a DC 15 Wisdom (Perception) check to notice the cube if the creature hasn't witnessed the cube move or otherwise act.
+***Слизистый куб.*** Куб заполняет всё своё пространство и прозрачен. Другие существа могут входить в это пространство, но существо, делающее это, подвергается Поглощению куба и совершает спасбросок с помехой.
+Существа внутри куба имеют полное укрытие, и куб может содержать одновременно одно Большое существо или до четырёх Средних или Маленьких существ.
+Действием существо в пределах 5 футов от куба может вытащить существо или объект из куба, преуспев в проверке Силы (Атлетика) Сл 12, и вытаскивающий получает 10 (3d6) Кислотного урона.
 
+***Прозрачность.*** Даже когда куб находится на виду, существо должно преуспеть в проверке Мудрости (Восприятие) Сл 15, чтобы заметить куб, если существо не было свидетелем движения или иных действий куба.
 
-### Actions
+### Действия
 
-***Pseudopod.*** *Melee Attack Roll:* +4, reach 5 ft. 12 (3d6 + 2) Acid damage.
+***Ложноножка.*** *Рукопашная атака:* +4, досягаемость 5 футов. 12 (3d6 + 2) Кислотного урона.
 
-***Engulf.*** The cube moves up to its Speed without provoking Opportunity Attacks. The cube can move through the spaces of Large or smaller creatures if it has room inside itself to contain them (see the Ooze Cube [Area of Effect]|XPHB|Cube trait). *Dexterity Saving Throw*: DC 12, each creature whose space the cube enters for the first time during this move. *Failure:*  10 (3d6) Acid damage, and the target is engulfed. An engulfed target is suffocating, can't cast spells with a Verbal component, has the Restrained condition, and takes 10 (3d6) Acid damage at the start of each of the cube's turns. When the cube moves, the engulfed target moves with it. An engulfed target can try to escape by taking an action to make a DC 12 Strength (Athletics) check. On a successful check, the target escapes and enters the nearest unoccupied space. *Success:*  Half damage, and the target moves to an unoccupied space within 5 feet of the cube. If there is no unoccupied space, the target fails the save instead.
+***Поглощение.*** Куб перемещается на расстояние до своей скорости, не провоцируя атаки по возможности. Куб может проходить через пространства Больших или меньших существ, если внутри него есть место для них (см. особенность Слизистый куб). *Спасбросок Ловкости:* Сл 12, каждое существо, в чьё пространство куб входит впервые во время этого перемещения. *Провал:* 10 (3d6) Кислотного урона, и цель поглощена. Поглощённая цель задыхается, не может сотворять заклинания с вербальным компонентом, получает состояние «опутан» и получает 10 (3d6) Кислотного урона в начале каждого хода куба. Когда куб перемещается, поглощённая цель перемещается вместе с ним. Поглощённая цель может попытаться выбраться, потратив действие на проверку Силы (Атлетика) Сл 12. При успехе цель выбирается и входит в ближайшее свободное пространство. *Успех:* Половина урона, и цель перемещается в свободное пространство в пределах 5 футов от куба. Если свободного пространства нет, цель вместо этого проваливает спасбросок.
 
-## Ghast
+## Гаст
 
-*Medium Undead, Chaotic Evil*
+*Средняя нежить, хаотично-злой*
 
-- **Armor Class:** 13
-- **Hit Points:** 36 (8d8)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 13
+- **Хиты:** 36 (8d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +2 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 10 | +0 | +2 |
+| ХАР | 8 | -1 | -1 |
 
-- **Resistances**: Necrotic
-- **Immunities**: Poison; Charmed, Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common
-- **CR** 2 (XP 450; PB +2)
+- **Сопротивления:** Некротический
+- **Иммунитеты:** Ядовитый; очарованный, истощение, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Traits
+### Особенности
 
-***Stench.*** *Constitution Saving Throw*: DC 10, any creature that starts its turn in a 5-foot Emanation originating from the ghast. *Failure:*  The target has the Poisoned condition until the start of its next turn. *Success:*  The target is immune to this ghast's Stench for 24 hours.
+***Смрад.*** *Спасбросок Телосложения:* Сл 10, любое существо, начинающее свой ход в 5-футовой эманации, исходящей от гаста. *Провал:* Цель получает состояние «отравлен» до начала своего следующего хода. *Успех:* Цель получает иммунитет к Смраду этого гаста на 24 часа.
 
+### Действия
 
-### Actions
+***Укус.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Колющего урона плюс 9 (2d8) Некротического урона.
 
-***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage plus 9 (2d8) Necrotic damage.
+***Когти.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона. Если цель — существо, не являющееся нежитью, она подвергается следующему эффекту. *Спасбросок Телосложения:* Сл 10. *Провал:* Цель получает состояние «парализован» до конца своего следующего хода.
 
-***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage. If the target is a non-Undead creature, it is subjected to the following effect. *Constitution Saving Throw*: DC 10. *Failure:*  The target has the Paralyzed condition until the end of its next turn.
+## Призрак
 
-## Ghost
+*Средняя нежить, нейтральный*
 
-*Medium Undead, Neutral*
+- **Класс доспеха:** 11
+- **Хиты:** 45 (10d8)
+- **Скорость:** 5 футов, полёт 40 футов (парение)
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 11
-- **Hit Points:** 45 (10d8)
-- **Speed:** 5 ft., Fly 40 ft. (hover)
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 13 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 17 | +3 | +3 |
-
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus one other language
-- **CR** 4 (XP 1,100; PB +2)
+| СИЛ | 7 | -2 | -2 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 17 | +3 | +3 |
 
-### Traits
+- **Сопротивления:** Кислотный, Дробящий, Холодный, Огненный, Электрический, Колющий, Рубящий, Громовой
+- **Иммунитеты:** Некротический, Ядовитый; очарованный, истощение, испуганный, схваченный, парализованный, окаменевший, отравленный, лежащий, опутан
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **Языки:** Общий плюс один другой язык
+- **ПО** 4 (ОО 1100; БМ +2)
 
-***Ethereal Sight.*** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane.
+### Особенности
 
-***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+***Эфирное зрение.*** Призрак может видеть на 60 футов в Эфирный план, находясь на Материальном плане.
 
+***Бестелесное перемещение.*** Призрак может проходить сквозь других существ и объекты, как если бы они были труднопроходимой местностью. Он получает 5 (1d10) урона Силой, если заканчивает свой ход внутри объекта.
 
-### Actions
+### Действия
 
-***Multiattack.*** The ghost makes two Withering Touch attacks.
+***Мультиатака.*** Призрак совершает две атаки Иссушающим касанием.
 
-***Withering Touch.*** *Melee Attack Roll:* +5, reach 5 ft. 19 (3d10 + 3) Necrotic damage.
+***Иссушающее касание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 19 (3d10 + 3) Некротического урона.
 
-***Horrific Visage.*** *Wisdom Saving Throw*: DC 13, each creature in a 60-foot Cone that can see the ghost and isn't an Undead. *Failure:*  10 (2d6 + 3) Psychic damage, and the target has the Frightened condition until the start of the ghost's next turn. *Success:*  The target is immune to this ghost's Horrific Visage for 24 hours.
+***Ужасающий облик.*** *Спасбросок Мудрости:* Сл 13, каждое существо в 60-футовом конусе, которое может видеть призрака и не является нежитью. *Провал:* 10 (2d6 + 3) Психического урона, и цель получает состояние «испуганный» до начала следующего хода призрака. *Успех:* Цель получает иммунитет к Ужасающему облику этого призрака на 24 часа.
 
-***Possession (Recharge 6).*** *Charisma Saving Throw*: DC 13, one Humanoid the ghost can see within 5 feet. *Failure:*  The target is possessed by the ghost; the ghost disappears, and the target has the Incapacitated condition and loses control of its body. The ghost now controls the body, but the target retains awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that specifically target Undead. The ghost's game statistics are the same, except it uses the possessed target's Speed, as well as the target's Strength, Dexterity, and Constitution modifiers.
-The possession lasts until the body drops to 0 Hit Points or the ghost leaves as a Bonus Action. When the possession ends, the ghost appears in an unoccupied space within 5 feet of the target, and the target is immune to this ghost's Possession for 24 hours. *Success:*  The target is immune to this ghost's Possession for 24 hours.
+***Одержимость (перезарядка 6).*** *Спасбросок Харизмы:* Сл 13, один гуманоид, которого призрак видит в пределах 5 футов. *Провал:* Цель одержима призраком; призрак исчезает, и цель получает состояние «недееспособен» и теряет контроль над своим телом. Призрак теперь управляет телом, но цель сохраняет сознание. Призрак не может быть целью никаких атак, заклинаний или других эффектов, кроме тех, которые специально нацелены на нежить. Игровые параметры призрака остаются прежними, за исключением того, что он использует скорость одержимой цели, а также её модификаторы Силы, Ловкости и Телосложения.
+Одержимость длится, пока тело не упадёт до 0 хитов или призрак не покинет его бонусным действием. Когда одержимость заканчивается, призрак появляется в свободном пространстве в пределах 5 футов от цели, и цель получает иммунитет к Одержимости этого призрака на 24 часа. *Успех:* Цель получает иммунитет к Одержимости этого призрака на 24 часа.
 
-***Etherealness.*** The ghost casts the *Etherealness* spell, requiring no spell components and using Charisma as the spellcasting ability. The ghost is visible on the Material Plane while on the Border Ethereal and vice versa, but it can't affect or be affected by anything on the other plane.
+***Эфирность.*** Призрак сотворяет заклинание *эфирность*, не требуя компонентов и используя Харизму в качестве заклинательной характеристики. Призрак виден на Материальном плане, находясь на Пограничном Эфире, и наоборот, но не может воздействовать на что-либо на другом плане или подвергаться воздействию с него.
 
-- **At Will:** *Etherealness*
+- **Неограниченно:** *эфирность*
 
-## Ghoul
+## Упырь
 
-*Medium Undead, Chaotic Evil*
+*Средняя нежить, хаотично-злой*
 
-- **Armor Class:** 12
-- **Hit Points:** 22 (5d8)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 12
+- **Хиты:** 22 (5d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 13 | +1 | +1 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 6 | -2 | -2 |
 
-- **Immunities**: Poison; Charmed, Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common
-- **CR** 1 (XP 200; PB +2)
+- **Иммунитеты:** Ядовитый; очарованный, истощение, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The ghoul makes two Bite attacks.
+***Мультиатака.*** Упырь совершает две атаки укусом.
 
-***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage plus 3 (1d6) Necrotic damage.
+***Укус.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Колющего урона плюс 3 (1d6) Некротического урона.
 
-***Claw.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Slashing damage. If the target is a creature that isn't an Undead or elf, it is subjected to the following effect. *Constitution Saving Throw*: DC 10. *Failure:*  The target has the Paralyzed condition until the end of its next turn.
+***Когти.*** *Рукопашная атака:* +4, досягаемость 5 футов. 4 (1d4 + 2) Рубящего урона. Если цель — существо, не являющееся нежитью или эльфом, она подвергается следующему эффекту. *Спасбросок Телосложения:* Сл 10. *Провал:* Цель получает состояние «парализован» до конца своего следующего хода.
 
-## Gibbering Mouther
+## Пожиратель разума
 
-*Medium Aberration, Chaotic Neutral*
+*Средняя аберрация, хаотично-нейтральный*
 
-- **Armor Class:** 9
-- **Hit Points:** 52 (7d8 + 21)
-- **Speed:** 20 ft., Swim 20 ft.
-- **Initiative**: -1 (9)
+- **Класс доспеха:** 9
+- **Хиты:** 52 (7d8 + 21)
+- **Скорость:** 20 футов, плавание 20 футов
+- **Инициатива:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
-
-- **Immunities**: Prone
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **CR** 2 (XP 450; PB +2)
-
-### Traits
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 6 | -2 | -2 |
 
-***Aberrant Ground.*** The ground in a 10-foot Emanation originating from the mouther is Difficult Terrain.
+- **Иммунитеты:** Лежащий
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Gibbering.*** The mouther babbles incoherently while it doesn't have the Incapacitated condition. *Wisdom Saving Throw*: DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. *Failure:*  The target rolls 1d8 to determine what it does during the current turn:
+### Особенности
 
+***Аберрантная земля.*** Земля в 10-футовой эманации, исходящей от пожирателя, является труднопроходимой местностью.
 
-- **1-4**: The target does nothing.
-- **5-6**: The target takes no action or Bonus Action and uses all its movement to move in a random direction.
-- **7-8**: The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+***Бормотание.*** Пожиратель бормочет бессвязно, пока не получает состояние «недееспособен». *Спасбросок Мудрости:* Сл 10, любое существо, начинающее свой ход в пределах 20 футов от пожирателя, пока он бормочет. *Провал:* Цель бросает 1d8, чтобы определить, что она делает в текущем ходу:
 
+- **1-4**: Цель ничего не делает.
+- **5-6**: Цель не совершает действий или бонусных действий и использует всё своё перемещение, двигаясь в случайном направлении.
+- **7-8**: Цель совершает рукопашную атаку по случайно выбранному существу в пределах досягаемости или ничего не делает, если не может совершить такую атаку.
 
-### Actions
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +2, reach 5 ft. 7 (2d6) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition. The target dies if it is reduced to 0 Hit Points by this attack. Its body is then absorbed into the mouther, leaving only equipment behind.
+***Укус.*** *Рукопашная атака:* +2, досягаемость 5 футов. 7 (2d6) Колющего урона. Если цель — Среднее или меньшее существо, она получает состояние «лежащий». Цель умирает, если её хиты снижаются до 0 от этой атаки. Затем тело поглощается пожирателем, оставляя только снаряжение.
 
-***Blinding Spittle (Recharge 5-6).*** *Dexterity Saving Throw*: DC 10, each creature in a 10-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point within 30 feet. *Failure:*  7 (2d6) Radiant damage, and the target has the Blinded condition until the end of the mouther's next turn.
+***Ослепляющая слюна (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 10, каждое существо в сфере радиусом 10 футов с центром в точке в пределах 30 футов. *Провал:* 7 (2d6) урона Излучением, и цель получает состояние «ослеплён» до конца следующего хода пожирателя.
 
-## Glabrezu
+## Глабрезу
 
-*Large Fiend (Demon), Chaotic Evil*
+*Большой исчадие (демон), хаотично-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 189 (18d10 + 90)
-- **Speed:** 40 ft.
-- **Initiative**: +6 (16)
+- **Класс доспеха:** 17
+- **Хиты:** 189 (18d10 + 90)
+- **Скорость:** 40 футов
+- **Инициатива:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 20 | +5 | +9 |
-| DEX | 15 | +2 | +2 |
-| CON | 21 | +5 | +9 |
-| INT | 19 | +4 | +4 |
-| WIS | 17 | +3 | +7 |
-| CHA | 16 | +3 | +7 |
+| СИЛ | 20 | +5 | +9 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 21 | +5 | +9 |
+| ИНТ | 19 | +4 | +4 |
+| МДР | 17 | +3 | +7 |
+| ХАР | 16 | +3 | +7 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +7, Perception +7
-- **Senses**: truesight 120 ft.; Passive Perception 17
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 9 (XP 5,000; PB +4)
+- **Сопротивления:** Холодный, Огненный, Электрический
+- **Иммунитеты:** Ядовитый; отравленный
+- **Навыки:** Обман +7, Восприятие +7
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 17
+- **Языки:** Бездонный; телепатия 120 футов
+- **ПО** 9 (ОО 5000; БМ +4)
 
-### Traits
+### Особенности
 
-***Demonic Restoration.*** If the glabrezu dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+***Демоническое восстановление.*** Если глабрезу умирает за пределами Бездны, его тело растворяется в ихоре, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Бездне.
 
-***Magic Resistance.*** The glabrezu has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Глабрезу совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Глабрезу совершает две атаки клешнями и использует Избиение или Колдовство.
 
-***Multiattack.*** The glabrezu makes two Pincer attacks and uses Pummel or Spellcasting.
+***Клешня.*** *Рукопашная атака:* +9, досягаемость 10 футов. 16 (2d10 + 5) Рубящего урона. Если цель — Среднее или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 15) одной из двух клешней.
 
-***Pincer.*** *Melee Attack Roll:* +9, reach 10 ft. 16 (2d10 + 5) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 15) from one of two pincers.
+***Избиение.*** *Спасбросок Ловкости:* Сл 17, одно существо, схваченное глабрезу. *Провал:* 15 (3d6 + 5) Дробящего урона. *Успех:* Половина урона.
 
-***Pummel.*** *Dexterity Saving Throw*: DC 17, one creature Grappled by the glabrezu. *Failure:*  15 (3d6 + 5) Bludgeoning damage. *Success:*  Half damage.
+***Колдовство.*** Глабрезу сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Интеллект в качестве заклинательной характеристики (Сл спасброска 16):
 
-***Spellcasting.*** The glabrezu casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
+- **Неограниченно:** *тьма*, *обнаружение магии*, *рассеивание магии*
+- **1/день каждое:** *смятение*, *полёт*, *властное слово — оглушение*
 
-- **At Will:** *Darkness*, *Detect Magic*, *Dispel Magic*
-- **1e/Day Each:** *Confusion*, *Fly*, *Power Word Stun*
-## Gladiator
+## Гладиатор
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 16
-- **Hit Points:** 112 (15d8 + 45)
-- **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+- **Класс доспеха:** 16
+- **Хиты:** 112 (15d8 + 45)
+- **Скорость:** 30 футов
+- **Инициатива:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +7 |
-| DEX | 15 | +2 | +5 |
-| CON | 16 | +3 | +6 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 18 | +4 | +7 |
+| ЛОВ | 15 | +2 | +5 |
+| ТЕЛ | 16 | +3 | +6 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 12 | +1 | +4 |
+| ХАР | 15 | +2 | +2 |
 
-- **Skills**: Athletics +10, Performance +5
-- **Gear** Shield, Spear x 3, Studded Leather Armor
-- **Senses**: Passive Perception 11
-- **Languages**: Common
-- **CR** 5 (XP 1,800; PB +3)
+- **Навыки:** Атлетика +10, Выступление +5
+- **Снаряжение:** Щит, копьё ×3, проклёпанный кожаный доспех
+- **Чувства:** пассивное Восприятие 11
+- **Языки:** Общий
+- **ПО** 5 (ОО 1800; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The gladiator makes three Spear attacks. It can replace one attack with a use of Shield Bash.
+***Мультиатака.*** Гладиатор совершает три атаки копьём. Он может заменить одну атаку использованием Удара щитом.
 
-***Spear.*** *Melee or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft. 11 (2d6 + 4) Piercing damage.
+***Копьё.*** *Рукопашная или дальнобойная атака:* +7, досягаемость 5 футов или дистанция 20/60 футов. 11 (2d6 + 4) Колющего урона.
 
-***Shield Bash.*** *Strength Saving Throw*: DC 15, one creature within 5 feet that the gladiator can see. *Failure:*  9 (2d4 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
+***Удар щитом.*** *Спасбросок Силы:* Сл 15, одно существо в пределах 5 футов, которое гладиатор видит. *Провал:* 9 (2d4 + 4) Дробящего урона. Если цель — Среднее или меньшее существо, она получает состояние «лежащий».
 
-## Gnoll Warrior
+## Гнолл-воин
 
-*Medium Fiend, Chaotic Evil*
+*Средний исчадие, хаотично-злой*
 
-- **Armor Class:** 15
-- **Hit Points:** 27 (6d8)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 15
+- **Хиты:** 27 (6d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 7 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Gnoll
-- **CR** 1/2 (XP 100; PB +2)
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Гнолльский
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Actions
+### Действия
 
-***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage.
+***Раздирание.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Колющего урона.
 
-***Bone Bow.*** *Ranged Attack Roll:* +3, range 150/600 ft. 6 (1d10 + 1) Piercing damage.
+***Костяной лук.*** *Дальнобойная атака:* +3, дистанция 150/600 футов. 6 (1d10 + 1) Колющего урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Буйство (1/день).*** Сразу после нанесения урона существу, которое уже окровавлено, гнолл перемещается на расстояние до половины своей скорости и совершает одну атаку раздиранием.
 
-***Rampage (1/Day).*** Immediately after dealing damage to a creature that is already Bloodied, the gnoll moves up to half its Speed, and it makes one Rend attack.
+## Гоблин-босс
 
-## Goblin Boss
+*Маленькая фея (гоблиноид), хаотично-нейтральный*
 
-*Small Fey (Goblinoid), Chaotic Neutral*
+- **Класс доспеха:** 17
+- **Хиты:** 21 (6d6)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 17
-- **Hit Points:** 21 (6d6)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 8 | -1 | -1 |
-| CHA | 10 | +0 | +0 |
-
-- **Skills**: Stealth +6
-- **Gear** Chain Shirt, Scimitar, Shield, Shortbow
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common, Goblin
-- **CR** 1 (XP 200; PB +2)
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 10 | +0 | +0 |
 
-### Actions
+- **Навыки:** Скрытность +6
+- **Снаряжение:** Кольчужная рубаха, скимитар, щит, короткий лук
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **Языки:** Общий, Гоблинский
+- **ПО** 1 (ОО 200; БМ +2)
 
-***Multiattack.*** The goblin makes two attacks, using Scimitar or Shortbow in any combination.
+### Действия
 
-***Scimitar.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
+***Мультиатака.*** Гоблин совершает две атаки, используя скимитар или короткий лук в любой комбинации.
 
-***Shortbow.*** *Ranged Attack Roll:* +4, range 80/320 ft. 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
+***Скимитар.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Рубящего урона плюс 2 (1d4) Рубящего урона, если бросок атаки был с преимуществом.
 
+***Короткий лук.*** *Дальнобойная атака:* +4, дистанция 80/320 футов. 5 (1d6 + 2) Колющего урона плюс 2 (1d4) Колющего урона, если бросок атаки был с преимуществом.
 
-### Bonus Actions
+### Бонусные действия
 
-***Nimble Escape.*** The goblin takes the Disengage or Hide action.
+***Ловкий побег.*** Гоблин совершает действие Отход или Засада.
 
-## Goblin Minion
+## Гоблин-миньон
 
-*Small Fey (Goblinoid), Chaotic Neutral*
+*Маленькая фея (гоблиноид), хаотично-нейтральный*
 
-- **Armor Class:** 12
-- **Hit Points:** 7 (2d6)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 12
+- **Хиты:** 7 (2d6)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 8 | -1 | -1 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 8 | -1 | -1 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 8 | -1 | -1 |
 
-- **Skills**: Stealth +6
-- **Gear** Dagger x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common, Goblin
-- **CR** 1/8 (XP 25; PB +2)
+- **Навыки:** Скрытность +6
+- **Снаряжение:** Кинжал ×3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **Языки:** Общий, Гоблинский
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-### Actions
+### Действия
 
-***Dagger.*** *Melee or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft. 4 (1d4 + 2) Piercing damage.
+***Кинжал.*** *Рукопашная или дальнобойная атака:* +4, досягаемость 5 футов или дистанция 20/60 футов. 4 (1d4 + 2) Колющего урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Ловкий побег.*** Гоблин совершает действие Отход или Засада.
 
-***Nimble Escape.*** The goblin takes the Disengage or Hide action.
+## Гоблин-воин
 
-## Goblin Warrior
+*Маленькая фея (гоблиноид), хаотично-нейтральный*
 
-*Small Fey (Goblinoid), Chaotic Neutral*
+- **Класс доспеха:** 15
+- **Хиты:** 10 (3d6)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 15
-- **Hit Points:** 10 (3d6)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 8 | -1 | -1 |
-| CHA | 8 | -1 | -1 |
-
-- **Skills**: Stealth +6
-- **Gear** Leather Armor, Scimitar, Shield, Shortbow
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Common, Goblin
-- **CR** 1/4 (XP 50; PB +2)
+| СИЛ | 8 | -1 | -1 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 8 | -1 | -1 |
 
-### Actions
+- **Навыки:** Скрытность +6
+- **Снаряжение:** Кожаный доспех, скимитар, щит, короткий лук
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **Языки:** Общий, Гоблинский
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-***Scimitar.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Slashing damage, plus 2 (1d4) Slashing damage if the attack roll had Advantage.
+### Действия
 
-***Shortbow.*** *Ranged Attack Roll:* +4, range 80/320 ft. 5 (1d6 + 2) Piercing damage, plus 2 (1d4) Piercing damage if the attack roll had Advantage.
+***Скимитар.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Рубящего урона плюс 2 (1d4) Рубящего урона, если бросок атаки был с преимуществом.
 
+***Короткий лук.*** *Дальнобойная атака:* +4, дистанция 80/320 футов. 5 (1d6 + 2) Колющего урона плюс 2 (1d4) Колющего урона, если бросок атаки был с преимуществом.
 
-### Bonus Actions
+### Бонусные действия
 
-***Nimble Escape.*** The goblin takes the Disengage or Hide action.
+***Ловкий побег.*** Гоблин совершает действие Отход или Засада.
 
-## Gold Dragon Wyrmling
+## Детёныш золотого дракона
 
-*Medium Dragon (Metallic), Lawful Good*
+*Средний дракон (металлический), принципиально-добрый*
 
-- **Armor Class:** 17
-- **Hit Points:** 60 (8d8 + 24)
-- **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 17
+- **Хиты:** 60 (8d8 + 24)
+- **Скорость:** 30 футов, полёт 60 футов, плавание 30 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +4 |
-| CON | 17 | +3 | +3 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 16 | +3 | +3 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 14 | +2 | +4 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 16 | +3 | +3 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +4, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 3 (XP 700; PB +2)
+- **Иммунитеты:** Огненный
+- **Навыки:** Восприятие +4, Скрытность +4
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The dragon can breathe air and water.
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дракон совершает две атаки раздиранием.
 
-***Multiattack.*** The dragon makes two Rend attacks.
+***Раздирание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 9 (1d10 + 4) Рубящего урона.
 
-***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (1d10 + 4) Slashing damage.
+***Огненное дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 13, каждое существо в 15-футовом конусе. *Провал:* 22 (4d10) Огненного урона. *Успех:* Половина урона.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:*  22 (4d10) Fire damage. *Success:*  Half damage.
+***Ослабляющее дыхание.*** *Спасбросок Силы:* Сл 13, каждое существо, не находящееся под воздействием этого дыхания, в 15-футовом конусе. *Провал:* Цель совершает с помехой проверки d20, основанные на Силе, и вычитает 2 (1d4) из своих бросков урона. Она повторяет спасбросок в конце каждого своего хода, прекращая эффект на себе при успехе. Через 1 минуту она автоматически преуспевает.
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 13, each creature that isn't currently affected by this breath in a 15-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+## Горгона
 
-## Gorgon
+*Большая конструкция, без мировоззрения*
 
-*Large Construct, Unaligned*
+- **Класс доспеха:** 19
+- **Хиты:** 114 (12d10 + 48)
+- **Скорость:** 40 футов
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 19
-- **Hit Points:** 114 (12d10 + 48)
-- **Speed:** 40 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 11 | +0 | +0 |
-| CON | 18 | +4 | +4 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
-
-- **Immunities**: Exhaustion, Petrified
-- **Skills**: Perception +7
-- **Senses**: darkvision 60 ft.; Passive Perception 17
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 20 | +5 | +5 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 7 | -2 | -2 |
 
-### Actions
+- **Иммунитеты:** Истощение, окаменевший
+- **Навыки:** Восприятие +7
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 17
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Gore.*** *Melee Attack Roll:* +8, reach 5 ft. 18 (2d12 + 5) Piercing damage. If the target is a Large or smaller creature and the gorgon moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
+### Действия
 
-***Petrifying Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 15, each creature in a 30-foot Cone. *First Failure* The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. *Second Failure* The target has the Petrified condition instead of the Restrained condition.
+***Бодание.*** *Рукопашная атака:* +8, досягаемость 5 футов. 18 (2d12 + 5) Колющего урона. Если цель — Большое или меньшее существо и горгона переместилась как минимум на 20 футов прямо к ней непосредственно перед попаданием, цель получает состояние «лежащий».
 
+***Окаменяющее дыхание (перезарядка 5-6).*** *Спасбросок Телосложения:* Сл 15, каждое существо в 30-футовом конусе. *Первый провал* Цель получает состояние «опутан» и повторяет спасбросок в конце своего следующего хода, если всё ещё опутана, прекращая эффект на себе при успехе. *Второй провал* Цель получает состояние «окаменевший» вместо состояния «опутан».
 
-### Bonus Actions
+### Бонусные действия
 
-***Trample.*** *Dexterity Saving Throw*: DC 16, one creature within 5 feet that has the Prone condition. *Failure:*  16 (2d10 + 5) Bludgeoning damage. *Success:*  Half damage.
+***Топтание.*** *Спасбросок Ловкости:* Сл 16, одно существо в пределах 5 футов, имеющее состояние «лежащий». *Провал:* 16 (2d10 + 5) Дробящего урона. *Успех:* Половина урона.
 
-## Gray Ooze
+## Серая слизь
 
-*Medium Ooze, Unaligned*
+*Средняя слизь, без мировоззрения*
 
-- **Armor Class:** 9
-- **Hit Points:** 22 (3d8 + 9)
-- **Speed:** 10 ft., Climb 10 ft.
-- **Initiative**: -2 (8)
+- **Класс доспеха:** 9
+- **Хиты:** 22 (3d8 + 9)
+- **Скорость:** 10 футов, лазание 10 футов
+- **Инициатива:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 6 | -2 | -2 |
-| CON | 16 | +3 | +3 |
-| INT | 1 | -5 | -5 |
-| WIS | 6 | -2 | -2 |
-| CHA | 2 | -4 | -4 |
+| СИЛ | 12 | +1 | +1 |
+| ЛОВ | 6 | -2 | -2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 6 | -2 | -2 |
+| ХАР | 2 | -4 | -4 |
 
-- **Resistances**: Acid, Cold, Fire
-- **Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-- **Skills**: Stealth +2
-- **Senses**: blindsight 60 ft.; Passive Perception 8
-- **CR** 1/2 (XP 100; PB +2)
+- **Сопротивления:** Кислотный, Холодный, Огненный
+- **Иммунитеты:** Ослеплённый, очарованный, оглохший, истощение, испуганный, схваченный, лежащий, опутан
+- **Навыки:** Скрытность +2
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 8
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Traits
+### Особенности
 
-***Amorphous.*** The ooze can move through a space as narrow as 1 inch without expending extra movement to do so.
+***Аморфность.*** Слизь может перемещаться через пространство шириной 1 дюйм без затраты дополнительного перемещения.
 
-***Corrosive Form.*** Nonmagical ammunition is destroyed immediately after hitting the ooze and dealing any damage. Any nonmagical weapon takes a cumulative -1 penalty to attack rolls immediately after dealing damage to the ooze and coming into contact with it. The weapon is destroyed if the penalty reaches -5. The penalty can be removed by casting the *Mending* spell on the weapon.
-The ooze can eat through 2-inch-thick, nonmagical metal or wood in 1 round.
+***Коррозийная форма.*** Немагические боеприпасы уничтожаются сразу после попадания по слизи и нанесения урона. Любое немагическое оружие получает накапливающийся штраф -1 к броскам атаки сразу после нанесения урона слизи и контакта с ней. Оружие уничтожается, если штраф достигает -5. Штраф можно снять, сотворив заклинание *починка* на оружие.
+Слизь может проесть 2 дюйма немагического металла или дерева за 1 раунд.
 
+### Действия
 
-### Actions
+***Ложноножка.*** *Рукопашная атака:* +3, досягаемость 5 футов. 10 (2d8 + 1) Кислотного урона. Немагический доспех, который носит цель, получает штраф -1 к КД, который он даёт. Доспех уничтожается, если штраф снижает его КД до 10. Штраф можно снять, сотворив заклинание *починка* на доспех.
 
-***Pseudopod.*** *Melee Attack Roll:* +3, reach 5 ft. 10 (2d8 + 1) Acid damage. Nonmagical armor worn by the target takes a -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. The penalty can be removed by casting the *Mending* spell on the armor.
+## Детёныш зелёного дракона
 
-## Green Dragon Wyrmling
+*Средний дракон (хроматический), принципиально-злой*
 
-*Medium Dragon (Chromatic), Lawful Evil*
+- **Класс доспеха:** 17
+- **Хиты:** 38 (7d8 + 7)
+- **Скорость:** 30 футов, полёт 60 футов, плавание 30 футов
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 17
-- **Hit Points:** 38 (7d8 + 7)
-- **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +2 |
-| CHA | 13 | +1 | +1 |
-
-- **Immunities**: Poison; Poisoned
-- **Skills**: Perception +4, Stealth +3
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 12 | +1 | +3 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 13 | +1 | +1 |
 
-### Traits
+- **Иммунитеты:** Ядовитый; отравленный
+- **Навыки:** Восприятие +4, Скрытность +3
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Amphibious.*** The dragon can breathe air and water.
+### Особенности
 
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes two Rend attacks.
+***Мультиатака.*** Дракон совершает две атаки раздиранием.
 
-***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage plus 3 (1d6) Poison damage.
+***Раздирание.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (1d10 + 2) Рубящего урона плюс 3 (1d6) Ядовитого урона.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  21 (6d6) Poison damage. *Success:*  Half damage.
+***Ядовитое дыхание (перезарядка 5-6).*** *Спасбросок Телосложения:* Сл 11, каждое существо в 15-футовом конусе. *Провал:* 21 (6d6) Ядовитого урона. *Успех:* Половина урона.
 
-## Green Hag
+## Зелёная карга
 
-*Medium Fey, Neutral Evil*
+*Средняя фея, нейтрально-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 82 (11d8 + 33)
-- **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 17
+- **Хиты:** 82 (11d8 + 33)
+- **Скорость:** 30 футов, плавание 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 12 | +1 | +1 |
-| CON | 16 | +3 | +3 |
-| INT | 13 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 14 | +2 | +2 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 13 | +1 | +1 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 14 | +2 | +2 |
 
-- **Skills**: Arcana +5, Deception +4, Perception +4, Stealth +3
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common, Elvish, Sylvan
-- **CR** 3 (XP 700; PB +2)
+- **Навыки:** Магия +5, Обман +4, Восприятие +4, Скрытность +3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Общий, Эльфийский, Сильванский
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The hag can breathe air and water.
+***Амфибия.*** Карга может дышать воздухом и водой.
 
-***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom (Insight) check.
+***Подражание.*** Карга может имитировать звуки животных и голоса гуманоидов. Существо, слышащее эти звуки, может понять, что это имитация, только преуспев в проверке Мудрости (Проницательность) Сл 14.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Карга совершает две атаки когтями.
 
-***Multiattack.*** The hag makes two Claw attacks.
+***Когти.*** *Рукопашная атака:* +6, досягаемость 5 футов. 8 (1d8 + 4) Рубящего урона плюс 3 (1d6) Ядовитого урона.
 
-***Claw.*** *Melee Attack Roll:* +6, reach 5 ft. 8 (1d8 + 4) Slashing damage plus 3 (1d6) Poison damage.
+***Колдовство.*** Карга сотворяет одно из следующих заклинаний, не требуя материальных компонентов и используя Мудрость в качестве заклинательной характеристики (Сл спасброска 12, +4 к броскам атаки заклинаниями):
 
-***Spellcasting.*** The hag casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit with spell attacks):
+- **Неограниченно:** *пляшущие огоньки*, *маскировка*, *невидимость*, *малая иллюзия*, *луч болезни*
 
-- **At Will:** *Dancing Lights*, *Disguise Self*, *Invisibility*, *Minor Illusion*, *Ray of Sickness*
+## Грик
 
-## Grick
+*Средняя аберрация, без мировоззрения*
 
-*Medium Aberration, Unaligned*
+- **Класс доспеха:** 14
+- **Хиты:** 54 (12d8)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 14
-- **Hit Points:** 54 (12d8)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 3 | -4 | -4 |
-| WIS | 14 | +2 | +2 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 5 | -3 | -3 |
 
-- **Skills**: Stealth +4
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **CR** 2 (XP 450; PB +2)
+- **Навыки:** Скрытность +4
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 12
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The grick makes one Beak attack and one Tentacles attack.
+***Мультиатака.*** Грик совершает одну атаку клювом и одну атаку щупальцами.
 
-***Beak.*** *Melee Attack Roll:* +4, reach 5 ft. 9 (2d6 + 2) Piercing damage.
+***Клюв.*** *Рукопашная атака:* +4, досягаемость 5 футов. 9 (2d6 + 2) Колющего урона.
 
-***Tentacles.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (1d10 + 2) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12) from all four tentacles.
+***Щупальца.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (1d10 + 2) Рубящего урона. Если цель — Среднее или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 12) всеми четырьмя щупальцами.
 
-## Griffon
+## Грифон
 
-*Large Monstrosity, Unaligned*
+*Большая чудовищность, без мировоззрения*
 
-- **Armor Class:** 12
-- **Hit Points:** 59 (7d10 + 21)
-- **Speed:** 30 ft., Fly 80 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 12
+- **Хиты:** 59 (7d10 + 21)
+- **Скорость:** 30 футов, полёт 80 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 8 | -1 | -1 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **CR** 2 (XP 450; PB +2)
+- **Навыки:** Восприятие +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The griffon makes two Rend attacks.
+***Мультиатака.*** Грифон совершает две атаки раздиранием.
 
-***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 8 (1d8 + 4) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 14) from both of the griffon's front claws.
+***Раздирание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 8 (1d8 + 4) Колющего урона. Если цель — Среднее или меньшее существо, она получает состояние «схвачен» (Сл высвобождения 14) обеими передними лапами грифона.
 
-## Grimlock
+## Гримлок
 
-*Medium Aberration, Neutral Evil*
+*Средняя аберрация, нейтрально-злой*
 
-- **Armor Class:** 11
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 11
+- **Хиты:** 11 (2d8 + 2)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 9 | -1 | -1 |
-| WIS | 8 | -1 | -1 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 9 | -1 | -1 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 6 | -2 | -2 |
 
-- **Skills**: Athletics +5, Perception +3, Stealth +5
-- **Senses**: blindsight 30 ft.; Passive Perception 13
-- **CR** 1/4 (XP 50; PB +2)
+- **Навыки:** Атлетика +5, Восприятие +3, Скрытность +5
+- **Чувства:** слепое зрение 30 футов; пассивное Восприятие 13
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-### Actions
+### Действия
 
-***Bone Cudgel.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Bludgeoning damage plus 2 (1d4) Psychic damage.
+***Костяная дубинка.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Дробящего урона плюс 2 (1d4) Психического урона.
 
-## Guard Captain
+## Капитан стражи
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 18
-- **Hit Points:** 75 (10d8 + 30)
-- **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 18
+- **Хиты:** 75 (10d8 + 30)
+- **Скорость:** 30 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 13 | +1 | +1 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 13 | +1 | +1 |
 
-- **Skills**: Athletics +6, Perception +4
-- **Gear** Breastplate, Javelin x 6, Longsword, Shield
-- **Senses**: Passive Perception 14
-- **Languages**: Common
-- **CR** 4 (XP 1,100; PB +2)
+- **Навыки:** Атлетика +6, Восприятие +4
+- **Снаряжение:** Кираса, метательное копьё ×6, длинный меч, щит
+- **Чувства:** пассивное Восприятие 14
+- **Языки:** Общий
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The guard makes two attacks, using Javelin or Longsword in any combination.
+***Мультиатака.*** Стражник совершает две атаки, используя метательное копьё или длинный меч в любой комбинации.
 
-***Javelin.*** *Melee or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft. 14 (3d6 + 4) Piercing damage.
+***Метательное копьё.*** *Рукопашная или дальнобойная атака:* +6, досягаемость 5 футов или дистанция 30/120 футов. 14 (3d6 + 4) Колющего урона.
 
-***Longsword.*** *Melee Attack Roll:* +6, reach 5 ft. 15 (2d10 + 4) Slashing damage.
+***Длинный меч.*** *Рукопашная атака:* +6, досягаемость 5 футов. 15 (2d10 + 4) Рубящего урона.
 
-## Guardian Naga
+## Нага-страж
 
-*Large Celestial, Lawful Good*
+*Большой небожитель, принципиально-добрый*
 
-- **Armor Class:** 18
-- **Hit Points:** 136 (16d10 + 48)
-- **Speed:** 40 ft., Climb 40 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 18
+- **Хиты:** 136 (16d10 + 48)
+- **Скорость:** 40 футов, лазание 40 футов, плавание 40 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 18 | +4 | +8 |
-| CON | 16 | +3 | +7 |
-| INT | 16 | +3 | +7 |
-| WIS | 19 | +4 | +8 |
-| CHA | 18 | +4 | +8 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 18 | +4 | +8 |
+| ТЕЛ | 16 | +3 | +7 |
+| ИНТ | 16 | +3 | +7 |
+| МДР | 19 | +4 | +8 |
+| ХАР | 18 | +4 | +8 |
 
-- **Immunities**: Poison; Charmed, Paralyzed, Poisoned, Restrained
-- **Skills**: Arcana +11, History +11, Religion +11
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Celestial, Common
-- **CR** 10 (XP 5,900; PB +4)
+- **Иммунитеты:** Ядовитый; очарованный, парализованный, отравленный, опутан
+- **Навыки:** Магия +11, История +11, Религия +11
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Небесный, Общий
+- **ПО** 10 (ОО 5900; БМ +4)
 
-### Traits
+### Особенности
 
-***Celestial Restoration.*** If the naga dies, it returns to life in 1d6 days and regains all its Hit Points unless *Dispel Evil and Good* is cast on its remains.
+***Небесное восстановление.*** Если нага умирает, она возвращается к жизни через 1d6 дней и восстанавливает все хиты, если на её останки не сотворено *рассеивание зла и добра*.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Нага совершает две атаки укусом. Она может заменить любую атаку использованием Ядовитого плевка.
 
-***Multiattack.*** The naga makes two Bite attacks. It can replace any attack with a use of Poisonous Spittle.
+***Укус.*** *Рукопашная атака:* +8, досягаемость 10 футов. 17 (2d12 + 4) Колющего урона плюс 22 (4d10) Ядовитого урона.
 
-***Bite.*** *Melee Attack Roll:* +8, reach 10 ft. 17 (2d12 + 4) Piercing damage plus 22 (4d10) Poison damage.
+***Ядовитый плевок.*** *Спасбросок Телосложения:* Сл 16, одно существо, которое нага видит в пределах 60 футов. *Провал:* 31 (7d8) Ядовитого урона, и цель получает состояние «ослеплён» до начала следующего хода наги. *Успех:* Только половина урона.
 
-***Poisonous Spittle.*** *Constitution Saving Throw*: DC 16, one creature the naga can see within 60 feet. *Failure:*  31 (7d8) Poison damage, and the target has the Blinded condition until the start of the naga's next turn. *Success:*  Half damage only.
+***Колдовство.*** Нага сотворяет одно из следующих заклинаний, не требуя жестовых или материальных компонентов и используя Мудрость в качестве заклинательной характеристики (Сл спасброска 16):
 
-***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Wisdom as the spellcasting ability (spell save DC 16):
+- **Неограниченно:** *чудотворство*
+- **1/день каждое:** *ясновидение*, *лечение ран*, *небесный огонь*, *обет*, *истинное зрение*
 
-- **At Will:** *Thaumaturgy*
-- **1e/Day Each:** *Clairvoyance*, *Cure Wounds*, *Flame Strike*, *Geas*, *True Seeing*
-## Guard
+## Стражник
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 16
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 16
+- **Хиты:** 11 (2d8 + 2)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+| СИЛ | 13 | +1 | +1 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-- **Skills**: Perception +2
-- **Gear** Chain Shirt, Shield, Spear
-- **Senses**: Passive Perception 12
-- **Languages**: Common
-- **CR** 1/8 (XP 25; PB +2)
+- **Навыки:** Восприятие +2
+- **Снаряжение:** Кольчужная рубаха, щит, копьё
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-### Actions
+### Действия
 
-***Spear.*** *Melee or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft. 4 (1d6 + 1) Piercing damage.
+***Копьё.*** *Рукопашная или дальнобойная атака:* +3, досягаемость 5 футов или дистанция 20/60 футов. 4 (1d6 + 1) Колющего урона.
 
-## Half-Dragon
+## Полудракон
 
-*Medium Dragon, Neutral*
+*Средний дракон, нейтральный*
 
-- **Armor Class:** 18
-- **Hit Points:** 105 (14d8 + 42)
-- **Speed:** 40 ft.
-- **Initiative**: +5 (15)
+- **Класс доспеха:** 18
+- **Хиты:** 105 (14d8 + 42)
+- **Скорость:** 40 футов
+- **Инициатива:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +5 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 15 | +2 | +5 |
-| CHA | 14 | +2 | +2 |
-
-- **Resistances**: Damage type chosen for the Draconic Origin trait below
-- **Skills**: Athletics +7, Perception +5, Stealth +5
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
-- **Languages**: Common, Draconic
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 14 | +2 | +5 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 15 | +2 | +5 |
+| ХАР | 14 | +2 | +2 |
 
-### Traits
+- **Сопротивления:** Тип урона, выбранный для особенности Драконье происхождение ниже
+- **Навыки:** Атлетика +7, Восприятие +5, Скрытность +5
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Общий, Драконий
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Draconic Origin.*** The half-dragon is related to a type of dragon associated with one of the following damage types (DM's choice): Acid, Cold, Fire, Lightning, or Poison. This choice affects other aspects of the stat block.
+### Особенности
 
+***Драконье происхождение.*** Полудракон связан с типом дракона, ассоциированным с одним из следующих типов урона (на выбор Мастера): Кислотный, Холодный, Огненный, Электрический или Ядовитый. Этот выбор влияет на другие аспекты статблока.
 
-### Actions
+### Действия
 
-***Multiattack.*** The half-dragon makes two Claw attacks.
+***Мультиатака.*** Полудракон совершает две атаки когтями.
 
-***Claw.*** *Melee Attack Roll:* +7, reach 10 ft. 6 (1d4 + 4) Slashing damage plus 7 (2d6) damage of the type chosen for the Draconic Origin trait.
+***Когти.*** *Рукопашная атака:* +7, досягаемость 10 футов. 6 (1d4 + 4) Рубящего урона плюс 7 (2d6) урона типа, выбранного для особенности Драконье происхождение.
 
-***Dragon's Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  28 (8d6) damage of the type chosen for the Draconic Origin trait. *Success:*  Half damage.
+***Дыхание дракона (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 14, каждое существо в 30-футовом конусе. *Провал:* 28 (8d6) урона типа, выбранного для особенности Драконье происхождение. *Успех:* Половина урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Прыжок.*** Полудракон прыгает на расстояние до 30 футов, потратив 10 футов перемещения.
 
-***Leap.*** The half-dragon jumps up to 30 feet by spending 10 feet of movement.
+## Гарпия
 
-## Harpy
+*Средняя чудовищность, хаотично-злой*
 
-*Medium Monstrosity, Chaotic Evil*
+- **Класс доспеха:** 11
+- **Хиты:** 38 (7d8 + 7)
+- **Скорость:** 20 футов, полёт 40 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 11
-- **Hit Points:** 38 (7d8 + 7)
-- **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 13 | +1 | +1 |
+| СИЛ | 12 | +1 | +1 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 13 | +1 | +1 |
 
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 1 (XP 200; PB +2)
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Actions
+### Действия
 
-***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 6 (2d4 + 1) Slashing damage.
+***Когти.*** *Рукопашная атака:* +3, досягаемость 5 футов. 6 (2d4 + 1) Рубящего урона.
 
-***Luring Song.*** The harpy sings a magical melody, which lasts until the harpy's  Concentration ends on it. *Wisdom Saving Throw*: DC 11, each Humanoid and Giant in a 300-foot Emanation originating from the harpy when the song starts. *Failure:*  The target has the Charmed condition until the song ends and repeats the save at the end of each of its turns. While Charmed, the target has the Incapacitated condition and ignores the Luring Song of other harpies. If the target is more than 5 feet from the harpy, the target moves on its turn toward the harpy by the most direct route, trying to get within 5 feet of the harpy. It doesn't avoid Opportunity Attacks; however, before moving into damaging terrain (such as lava or a pit) and whenever it takes damage from a source other than the harpy, the target repeats the save. *Success:*  The target is immune to this harpy's Luring Song for 24 hours.
+***Чарующая песнь.*** Гарпия поёт магическую мелодию, которая длится, пока гарпия поддерживает на ней концентрацию. *Спасбросок Мудрости:* Сл 11, каждый гуманоид и великан в 300-футовой эманации, исходящей от гарпии, когда песня начинается. *Провал:* Цель получает состояние «очарован» до окончания песни и повторяет спасбросок в конце каждого своего хода. Пока очарована, цель получает состояние «недееспособен» и игнорирует Чарующую песнь других гарпий. Если цель находится более чем в 5 футах от гарпии, цель перемещается в свой ход к гарпии наиболее прямым путём, пытаясь оказаться в пределах 5 футов от гарпии. Она не избегает атак по возможности; однако перед входом в опасную местность (такую как лава или яма) и каждый раз, когда она получает урон не от гарпии, цель повторяет спасбросок. *Успех:* Цель получает иммунитет к Чарующей песне этой гарпии на 24 часа.
 
-## Hell Hound
+## Адская гончая
 
-*Medium Fiend, Lawful Evil*
+*Средний исчадие, принципиально-злой*
 
-- **Armor Class:** 15
-- **Hit Points:** 58 (9d8 + 18)
-- **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 15
+- **Хиты:** 58 (9d8 + 18)
+- **Скорость:** 50 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
-
-- **Immunities**: Fire
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Infernal but can't speak
-- **CR** 3 (XP 700; PB +2)
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 6 | -2 | -2 |
 
-### Traits
+- **Иммунитеты:** Огненный
+- **Навыки:** Восприятие +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Понимает Инфернальный, но не может говорить
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Pack Tactics.*** The hound has Advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+### Особенности
 
+***Тактика стаи.*** Гончая совершает с преимуществом бросок атаки против существа, если хотя бы один союзник гончей находится в пределах 5 футов от существа и союзник не имеет состояния «недееспособен».
 
-### Actions
+### Действия
 
-***Multiattack.*** The hound makes two Bite attacks.
+***Мультиатака.*** Гончая совершает две атаки укусом.
 
-***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage plus 3 (1d6) Fire damage.
+***Укус.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Колющего урона плюс 3 (1d6) Огненного урона.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:*  17 (5d6) Fire damage. *Success:*  Half damage.
+***Огненное дыхание (перезарядка 5-6).*** *Спасбросок Ловкости:* Сл 12, каждое существо в 15-футовом конусе. *Провал:* 17 (5d6) Огненного урона. *Успех:* Половина урона.
 
-## Hezrou
+## Хезроу
 
-*Large Fiend (Demon), Chaotic Evil*
+*Большой исчадие (демон), хаотично-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 157 (15d10 + 75)
-- **Speed:** 30 ft.
-- **Initiative**: +6 (16)
+- **Класс доспеха:** 18
+- **Хиты:** 157 (15d10 + 75)
+- **Скорость:** 30 футов
+- **Инициатива:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +7 |
-| DEX | 17 | +3 | +3 |
-| CON | 20 | +5 | +8 |
-| INT | 5 | -3 | -3 |
-| WIS | 12 | +1 | +4 |
-| CHA | 13 | +1 | +1 |
+| СИЛ | 19 | +4 | +7 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 20 | +5 | +8 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 12 | +1 | +4 |
+| ХАР | 13 | +1 | +1 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 8 (XP 3,900; PB +3)
+- **Сопротивления:** Холодный, Огненный, Электрический
+- **Иммунитеты:** Ядовитый; отравленный
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 11
+- **Языки:** Бездонный; телепатия 120 футов
+- **ПО** 8 (ОО 3900; БМ +3)
 
-### Traits
+### Особенности
 
-***Demonic Restoration.*** If the hezrou dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+***Демоническое восстановление.*** Если хезроу умирает за пределами Бездны, его тело растворяется в ихоре, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Бездне.
 
-***Magic Resistance.*** The hezrou has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Хезроу совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Stench.*** *Constitution Saving Throw*: DC 16, any creature that starts its turn in a 10-foot Emanation originating from the hezrou. *Failure:*  The target has the Poisoned condition until the start of its next turn.
+***Смрад.*** *Спасбросок Телосложения:* Сл 16, любое существо, начинающее свой ход в 10-футовой эманации, исходящей от хезроу. *Провал:* Цель получает состояние «отравлен» до начала своего следующего хода.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Хезроу совершает три атаки раздиранием.
 
-***Multiattack.*** The hezrou makes three Rend attacks.
+***Раздирание.*** *Рукопашная атака:* +7, досягаемость 5 футов. 6 (1d4 + 4) Рубящего урона плюс 9 (2d8) Ядовитого урона.
 
-***Rend.*** *Melee Attack Roll:* +7, reach 5 ft. 6 (1d4 + 4) Slashing damage plus 9 (2d8) Poison damage.
+### Бонусные действия
 
+***Прыжок.*** Хезроу прыгает на расстояние до 30 футов, потратив 10 футов перемещения.
 
-### Bonus Actions
+## Холмовой великан
 
-***Leap.*** The hezrou jumps up to 30 feet by spending 10 feet of movement.
+*Огромный великан, хаотично-злой*
 
-## Hill Giant
+- **Класс доспеха:** 13
+- **Хиты:** 105 (10d12 + 40)
+- **Скорость:** 40 футов
+- **Инициатива:** +2 (12)
 
-*Huge Giant, Chaotic Evil*
-
-- **Armor Class:** 13
-- **Hit Points:** 105 (10d12 + 40)
-- **Speed:** 40 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 8 | -1 | -1 |
-| CON | 19 | +4 | +4 |
-| INT | 5 | -3 | -3 |
-| WIS | 9 | -1 | -1 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 19 | +4 | +4 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 9 | -1 | -1 |
+| ХАР | 6 | -2 | -2 |
 
-- **Skills**: Perception +2
-- **Senses**: Passive Perception 12
-- **Languages**: Giant
-- **CR** 5 (XP 1,800; PB +3)
+- **Навыки:** Восприятие +2
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Великаний
+- **ПО** 5 (ОО 1800; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The giant makes two attacks, using Tree Club or Trash Lob in any combination.
+***Мультиатака.*** Великан совершает две атаки, используя Дубину-дерево или Бросок мусора в любой комбинации.
 
-***Tree Club.*** *Melee Attack Roll:* +8, reach 10 ft. 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
+***Дубина-дерево.*** *Рукопашная атака:* +8, досягаемость 10 футов. 18 (3d8 + 5) Дробящего урона. Если цель — Большое или меньшее существо, она получает состояние «лежащий».
 
-***Trash Lob.*** *Ranged Attack Roll:* +8, range 60/240 ft. 16 (2d10 + 5) Bludgeoning damage, and the target has the Poisoned condition until the end of its next turn.
+***Бросок мусора.*** *Дальнобойная атака:* +8, дистанция 60/240 футов. 16 (2d10 + 5) Дробящего урона, и цель получает состояние «отравлен» до конца своего следующего хода.
 
-## Hippogriff
+## Гиппогриф
 
-*Large Monstrosity, Unaligned*
+*Большая чудовищность, без мировоззрения*
 
-- **Armor Class:** 11
-- **Hit Points:** 26 (4d10 + 4)
-- **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 11
+- **Хиты:** 26 (4d10 + 4)
+- **Скорость:** 40 футов, полёт 60 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 8 | -1 | -1 |
 
-- **Skills**: Perception +5
-- **Senses**: Passive Perception 15
-- **CR** 1 (XP 200; PB +2)
+- **Навыки:** Восприятие +5
+- **Чувства:** пассивное Восприятие 15
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Traits
+### Особенности
 
-***Flyby.*** The hippogriff doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+***Пролёт.*** Гиппогриф не провоцирует атаку по возможности, когда вылетает из досягаемости врага.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Гиппогриф совершает две атаки раздиранием.
 
-***Multiattack.*** The hippogriff makes two Rend attacks.
+***Раздирание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Рубящего урона.
 
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Slashing damage.
+## Хобгоблин-капитан
 
-## Hobgoblin Captain
+*Средняя фея (гоблиноид), принципиально-злой*
 
-*Medium Fey (Goblinoid), Lawful Evil*
+- **Класс доспеха:** 17
+- **Хиты:** 58 (9d8 + 18)
+- **Скорость:** 30 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 17
-- **Hit Points:** 58 (9d8 + 18)
-- **Speed:** 30 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 12 | +1 | +1 |
-| WIS | 10 | +0 | +0 |
-| CHA | 13 | +1 | +1 |
-
-- **Gear** Greatsword, Half Plate Armor, Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
-- **CR** 3 (XP 700; PB +2)
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 13 | +1 | +1 |
 
-### Traits
+- **Снаряжение:** Двуручный меч, полулаты, длинный лук
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Общий, Гоблинский
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Aura of Authority.*** While in a 10-foot Emanation originating from the hobgoblin, the hobgoblin and its allies have Advantage on attack rolls and saving throws, provided the hobgoblin doesn't have the Incapacitated condition.
+### Особенности
 
+***Аура власти.*** Находясь в 10-футовой эманации, исходящей от хобгоблина, хобгоблин и его союзники совершают с преимуществом броски атаки и спасброски, при условии, что хобгоблин не имеет состояния «недееспособен».
 
-### Actions
+### Действия
 
-***Multiattack.*** The hobgoblin makes two attacks, using Greatsword or Longbow in any combination.
+***Мультиатака.*** Хобгоблин совершает две атаки, используя двуручный меч или длинный лук в любой комбинации.
 
-***Greatsword.*** *Melee Attack Roll:* +4, reach 5 ft. 9 (2d6 + 2) Slashing damage plus 3 (1d6) Poison damage.
+***Двуручный меч.*** *Рукопашная атака:* +4, досягаемость 5 футов. 9 (2d6 + 2) Рубящего урона плюс 3 (1d6) Ядовитого урона.
 
-***Longbow.*** *Ranged Attack Roll:* +4, range 150/600 ft. 6 (1d8 + 2) Piercing damage plus 5 (2d4) Poison damage.
+***Длинный лук.*** *Дальнобойная атака:* +4, дистанция 150/600 футов. 6 (1d8 + 2) Колющего урона плюс 5 (2d4) Ядовитого урона.
 
-## Hobgoblin Warrior
+## Хобгоблин-воин
 
-*Medium Fey (Goblinoid), Lawful Evil*
+*Средняя фея (гоблиноид), принципиально-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 18
+- **Хиты:** 11 (2d8 + 2)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
+| СИЛ | 13 | +1 | +1 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 9 | -1 | -1 |
 
-- **Gear** Half Plate Armor, Longbow, Longsword, Shield
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Common, Goblin
-- **CR** 1/2 (XP 100; PB +2)
+- **Снаряжение:** Полулаты, длинный лук, длинный меч, щит
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Общий, Гоблинский
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Traits
+### Особенности
 
-***Pack Tactics.*** The hobgoblin has Advantage on an attack roll against a creature if at least one of the hobgoblin's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+***Тактика стаи.*** Хобгоблин совершает с преимуществом бросок атаки против существа, если хотя бы один союзник хобгоблина находится в пределах 5 футов от существа и союзник не имеет состояния «недееспособен».
 
+### Действия
 
-### Actions
+***Длинный меч.*** *Рукопашная атака:* +3, досягаемость 5 футов. 12 (2d10 + 1) Рубящего урона.
 
-***Longsword.*** *Melee Attack Roll:* +3, reach 5 ft. 12 (2d10 + 1) Slashing damage.
+***Длинный лук.*** *Дальнобойная атака:* +3, дистанция 150/600 футов. 5 (1d8 + 1) Колющего урона плюс 7 (3d4) Ядовитого урона.
 
-***Longbow.*** *Ranged Attack Roll:* +3, range 150/600 ft. 5 (1d8 + 1) Piercing damage plus 7 (3d4) Poison damage.
+## Гомункул
 
-## Homunculus
+*Маленькая конструкция, нейтральный*
 
-*Small Construct, Neutral*
+- **Класс доспеха:** 13
+- **Хиты:** 4 (1d4 + 2)
+- **Скорость:** 20 футов, полёт 40 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 13
-- **Hit Points:** 4 (1d4 + 2)
-- **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 4 | -3 | -3 |
-| DEX | 15 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +2 |
-| CHA | 7 | -2 | +0 |
-
-- **Immunities**: Poison; Charmed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands Common plus one other language but can't speak
-- **CR** 0 (XP 0 or 10; PB +2)
+| СИЛ | 4 | -3 | -3 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +2 |
+| ХАР | 7 | -2 | +0 |
 
-### Traits
+- **Иммунитеты:** Ядовитый; очарованный, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Понимает Общий плюс один другой язык, но не может говорить
+- **ПО** 0 (ОО 0 или 10; БМ +2)
 
-***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, the two of them can communicate telepathically with each other.
+### Особенности
 
+***Телепатическая связь.*** Пока гомункул находится на том же плане существования, что и его хозяин, они могут телепатически общаться друг с другом.
 
-### Actions
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 1 Piercing damage, and the target is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target has the Poisoned condition until the end of the homunculus's next turn. *Failure by 5 or More:* The target has the Poisoned condition for 1 minute. While Poisoned, the target has the Unconscious condition, which ends early if the target takes any damage.
+***Укус.*** *Рукопашная атака:* +4, досягаемость 5 футов. 1 Колющего урона, и цель подвергается следующему эффекту. *Спасбросок Телосложения:* Сл 12. *Провал:* Цель получает состояние «отравлен» до конца следующего хода гомункула. *Провал на 5 или более:* Цель получает состояние «отравлен» на 1 минуту. Пока отравлена, цель получает состояние «без сознания», которое заканчивается досрочно, если цель получает любой урон.
 
-## Horned Devil
+## Рогатый дьявол
 
-*Large Fiend (Devil), Lawful Evil*
+*Большой исчадие (дьявол), принципиально-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 199 (19d10 + 95)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +7 (17)
+- **Класс доспеха:** 18
+- **Хиты:** 199 (19d10 + 95)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 22 | +6 | +10 |
-| DEX | 17 | +3 | +7 |
-| CON | 21 | +5 | +5 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +7 |
-| CHA | 18 | +4 | +8 |
+| СИЛ | 22 | +6 | +10 |
+| ЛОВ | 17 | +3 | +7 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 16 | +3 | +7 |
+| ХАР | 18 | +4 | +8 |
 
-- **Immunities**: Fire, Poison; Poisoned
-- **Senses**: darkvision 150 ft. (unimpeded by magical darkness); Passive Perception 13
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 11 (XP 7,200; PB +4)
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Чувства:** тёмное зрение 150 футов (не ограничено магической тьмой); пассивное Восприятие 13
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 11 (ОО 7200; БМ +4)
 
-### Traits
+### Особенности
 
-***Diabolical Restoration.*** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+***Дьявольское восстановление.*** Если дьявол умирает за пределами Девяти Преисподних, его тело исчезает в серном дыму, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
-***Magic Resistance.*** The devil has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Дьявол совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дьявол совершает три атаки, используя Пылающие вилы или Бросок пламени в любой комбинации. Он может заменить одну атаку использованием Адского хвоста.
 
-***Multiattack.*** The devil makes three attacks, using Searing Fork or Hurl Flame in any combination. It can replace one attack with a use of Infernal Tail.
+***Пылающие вилы.*** *Рукопашная атака:* +10, досягаемость 10 футов. 15 (2d8 + 6) Колющего урона плюс 9 (2d8) Огненного урона.
 
-***Searing Fork.*** *Melee Attack Roll:* +10, reach 10 ft. 15 (2d8 + 6) Piercing damage plus 9 (2d8) Fire damage.
+***Бросок пламени.*** *Дальнобойная атака:* +8, дистанция 150 футов. 26 (5d8 + 4) Огненного урона. Если цель — горючий объект, который никто не носит и не несёт, он загорается.
 
-***Hurl Flame.*** *Ranged Attack Roll:* +8, range 150 ft. 26 (5d8 + 4) Fire damage. If the target is a flammable object that isn't being worn or carried, it starts burning.
+***Адский хвост.*** *Спасбросок Ловкости:* Сл 17, одно существо, которое дьявол видит в пределах 10 футов. *Провал:* 10 (1d8 + 6) Некротического урона, и цель получает адскую рану, если у неё ещё нет такой раны. Пока рана открыта, цель теряет 10 (3d6) хитов в начале каждого своего хода. Рана закрывается через 1 минуту, после того как заклинание восстановит хиты цели, или после того как цель или существо в пределах 5 футов от неё потратит действие, чтобы остановить кровотечение, преуспев в проверке Мудрости (Медицина) Сл 17.
 
-***Infernal Tail.*** *Dexterity Saving Throw*: DC 17, one creature the devil can see within 10 feet. *Failure:*  10 (1d8 + 6) Necrotic damage, and the target receives an infernal wound if it doesn't have one. While wounded, the target loses 10 (3d6) Hit Points at the start of each of its turns. The wound closes after 1 minute, after a spell restores Hit Points to the target, or after the target or a creature within 5 feet of it takes an action to stanch the wound, doing so by succeeding on a DC 17 Wisdom (Medicine) check.
+## Гидра
 
-## Hydra
+*Огромная чудовищность, без мировоззрения*
 
-*Huge Monstrosity, Unaligned*
+- **Класс доспеха:** 15
+- **Хиты:** 184 (16d12 + 80)
+- **Скорость:** 40 футов, плавание 40 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 15
-- **Hit Points:** 184 (16d12 + 80)
-- **Speed:** 40 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 12 | +1 | +1 |
-| CON | 20 | +5 | +5 |
-| INT | 2 | -4 | -4 |
-| WIS | 10 | +0 | +0 |
-| CHA | 7 | -2 | -2 |
-
-- **Immunities**: Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-- **Skills**: Perception +6
-- **Senses**: darkvision 60 ft.; Passive Perception 16
-- **CR** 8 (XP 3,900; PB +3)
+| СИЛ | 20 | +5 | +5 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 20 | +5 | +5 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 7 | -2 | -2 |
 
-### Traits
+- **Иммунитеты:** Ослеплённый, очарованный, оглохший, испуганный, оглушённый, без сознания
+- **Навыки:** Восприятие +6
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 16
+- **ПО** 8 (ОО 3900; БМ +3)
 
-***Hold Breath.*** The hydra can hold its breath for 1 hour.
+### Особенности
 
-***Multiple Heads.*** The hydra has five heads. Whenever the hydra takes 25 damage or more on a single turn, one of its heads dies. The hydra dies if all its heads are dead. At the end of each of its turns when it has at least one living head, the hydra grows two heads for each of its heads that died since its last turn, unless it has taken Fire damage since its last turn. The hydra regains 20 Hit Points when it grows new heads.
+***Задержка дыхания.*** Гидра может задерживать дыхание на 1 час.
 
-***Reactive Heads.*** For each head the hydra has beyond one, it gets an extra Reaction that can be used only for Opportunity Attacks.
+***Множество голов.*** У гидры пять голов. Каждый раз, когда гидра получает 25 или более урона за один ход, одна из её голов умирает. Гидра умирает, если все её головы мертвы. В конце каждого своего хода, когда у неё есть хотя бы одна живая голова, гидра отращивает две головы взамен каждой головы, которая умерла с её последнего хода, если только она не получила Огненный урон с последнего хода. Гидра восстанавливает 20 хитов, когда отращивает новые головы.
 
+***Реактивные головы.*** За каждую голову сверх одной гидра получает дополнительную реакцию, которую можно использовать только для атак по возможности.
 
-### Actions
+### Действия
 
-***Multiattack.*** The hydra makes as many Bite attacks as it has heads.
+***Мультиатака.*** Гидра совершает столько атак укусом, сколько у неё голов.
 
-***Bite.*** *Melee Attack Roll:* +8, reach 10 ft. 10 (1d10 + 5) Piercing damage.
+***Укус.*** *Рукопашная атака:* +8, досягаемость 10 футов. 10 (1d10 + 5) Колющего урона.
 
-## Ice Devil
+## Ледяной дьявол
 
-*Large Fiend (Devil), Lawful Evil*
+*Большой исчадие (дьявол), принципиально-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 228 (24d10 + 96)
-- **Speed:** 40 ft.
-- **Initiative**: +7 (17)
+- **Класс доспеха:** 18
+- **Хиты:** 228 (24d10 + 96)
+- **Скорость:** 40 футов
+- **Инициатива:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 14 | +2 | +7 |
-| CON | 18 | +4 | +9 |
-| INT | 18 | +4 | +4 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +9 |
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 14 | +2 | +7 |
+| ТЕЛ | 18 | +4 | +9 |
+| ИНТ | 18 | +4 | +4 |
+| МДР | 15 | +2 | +7 |
+| ХАР | 18 | +4 | +9 |
 
-- **Immunities**: Cold, Fire, Poison; Poisoned
-- **Skills**: Insight +7, Perception +7, Persuasion +9
-- **Senses**: blindsight 120 ft.; Passive Perception 17
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 14 (XP 11,500; PB +5)
+- **Иммунитеты:** Холодный, Огненный, Ядовитый; отравленный
+- **Навыки:** Проницательность +7, Восприятие +7, Убеждение +9
+- **Чувства:** слепое зрение 120 футов; пассивное Восприятие 17
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 14 (ОО 11500; БМ +5)
 
-### Traits
+### Особенности
 
-***Diabolical Restoration.*** If the devil dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+***Дьявольское восстановление.*** Если дьявол умирает за пределами Девяти Преисподних, его тело исчезает в серном дыму, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
-***Magic Resistance.*** The devil has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Дьявол совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дьявол совершает три атаки ледяным копьём. Он может заменить одну атаку атакой хвостом.
 
-***Multiattack.*** The devil makes three Ice Spear attacks. It can replace one attack with a Tail attack.
+***Ледяное копьё.*** *Рукопашная атака или атака дальнего боя:* +10, досягаемость 5 футов или дистанция 30/120 футов. 14 (2d8 + 5) Колющего урона плюс 10 (3d6) Холодного урона. До конца своего следующего хода цель не может совершать бонусные действия или реакции, её скорость уменьшается на 10 футов, и она может перемещаться или совершать одно действие в свой ход, но не то и другое одновременно. Копьё магически возвращается в руку дьявола сразу после дальнобойной атаки.
 
-***Ice Spear.*** *Melee or Ranged Attack Roll:* +10, reach 5 ft. or range 30/120 ft. 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end of its next turn, the target can't take a Bonus Action or Reaction, its Speed decreases by 10 feet, and it can move or take one action on its turn, not both. HitomThe spear magically returns to the devil's hand immediately after a ranged attack.
+***Хвост.*** *Рукопашная атака:* +10, досягаемость 10 футов. 15 (3d6 + 5) Дробящего урона плюс 18 (4d8) Холодного урона.
 
-***Tail.*** *Melee Attack Roll:* +10, reach 10 ft. 15 (3d6 + 5) Bludgeoning damage plus 18 (4d8) Cold damage.
+***Ледяная стена (Перезарядка 6).*** Дьявол творит *стену льда* (версия 8-го уровня), не требуя компонентов заклинания и используя Интеллект как заклинательную характеристику (СЛ спасброска 17).
 
-***Ice Wall (Recharge 6).*** The devil casts *Wall of Ice* (level 8 version), requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).
+## Ледяной мефит
 
-- **At Will:** 
+*Маленький элементаль, нейтрально-злой*
 
-## Ice Mephit
+- **Класс доспеха:** 11
+- **Хиты:** 21 (6d6)
+- **Скорость:** 30 футов, полёт 30 футов
+- **Инициатива:** +1 (11)
 
-*Small Elemental, Neutral Evil*
-
-- **Armor Class:** 11
-- **Hit Points:** 21 (6d6)
-- **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 13 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 9 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 12 | +1 | +1 |
+| СИЛ | 7 | -2 | -2 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 9 | -1 | -1 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Cold, Poison; Exhaustion, Poisoned
-- **Skills**: Perception +2, Stealth +3
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Primordial (Aquan, Auran)
-- **CR** 1/2 (XP 100; PB +2)
+- **Уязвимости:** Огненный
+- **Иммунитеты:** Холодный, Ядовитый; истощение, отравленный
+- **Навыки:** Восприятие +2, Скрытность +3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 12
+- **Языки:** Первичный (Аквский, Ауранский)
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Traits
+### Особенности
 
-***Death Burst.*** The mephit explodes when it dies. *Constitution Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  5 (2d4) Cold damage. *Success:*  Half damage.
+***Взрыв при смерти.*** Мефит взрывается, когда умирает. *Спасбросок Телосложения:* СЛ 10, каждое существо в 5-футовой эманации от мефита. *Провал:* 5 (2d4) Холодного урона. *Успех:* Половина урона.
 
+### Действия
 
-### Actions
+***Коготь.*** *Рукопашная атака:* +3, досягаемость 5 футов. 3 (1d4 + 1) Рубящего урона плюс 2 (1d4) Холодного урона.
 
-***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 3 (1d4 + 1) Slashing damage plus 2 (1d4) Cold damage.
+***Морозное дыхание (Перезарядка 6).*** *Спасбросок Телосложения:* СЛ 10, каждое существо в 15-футовом конусе. *Провал:* 7 (3d4) Холодного урона. *Успех:* Половина урона.
 
-***Frost Breath (Recharge 6).*** *Constitution Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:*  7 (3d4) Cold damage. *Success:*  Half damage.
+***Туманное облако (1/День).*** Мефит творит *туманное облако*, не требуя компонентов заклинания и используя Харизму как заклинательную характеристику.
 
-***Fog Cloud (1/Day).*** The mephit casts *Fog Cloud*, requiring no spell components and using Charisma as the spellcasting ability.
+## Имп
 
-- **At Will:** 
-- **1/Day Each:** *Fog Cloud*
-## Imp
+*Маленький исчадие (дьявол), принципиально-злой*
 
-*Small Fiend (Devil), Lawful Evil*
+- **Класс доспеха:** 13
+- **Хиты:** 21 (6d4 + 6)
+- **Скорость:** 20 футов, полёт 40 футов
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 13
-- **Hit Points:** 21 (6d4 + 6)
-- **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 14 | +2 | +2 |
-
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Deception +4, Insight +3, Stealth +5
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 11
-- **Languages**: Common, Infernal
-- **CR** 1 (XP 200; PB +2)
+| СИЛ | 6 | -2 | -2 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 14 | +2 | +2 |
 
-### Traits
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Навыки:** Обман +4, Проницательность +3, Скрытность +5
+- **Чувства:** тёмное зрение 120 футов (не затруднённое магической тьмой); пассивное Восприятие 11
+- **Языки:** Общий, Инфернальный
+- **ПО** 1 (ОО 200; БМ +2)
 
-***Magic Resistance.*** The imp has Advantage on saving throws against spells and other magical effects.
+### Особенности
 
+***Сопротивление магии.*** Имп совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-### Actions
+### Действия
 
-***Sting.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Piercing damage plus 7 (2d6) Poison damage.
+***Жало.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Колющего урона плюс 7 (2d6) Ядовитого урона.
 
-***Shape-Shift.*** The imp shape-shifts to resemble a rat (Speed 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn't transformed.
+***Смена облика.*** Имп принимает облик крысы (скорость 20 футов), ворона (20 футов, полёт 60 футов) или паука (20 футов, лазание 20 футов), либо возвращается в свою истинную форму. Его характеристики одинаковы в каждой форме, кроме скорости. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-***Invisibility.*** The imp casts *Invisibility* on itself, requiring no spell components and using Charisma as the spellcasting ability.
+***Невидимость.*** Имп творит *невидимость* на себя, не требуя компонентов заклинания и используя Харизму как заклинательную характеристику.
 
-- **At Will:** *Invisibility*
+## Инкуб
 
-## Incubus
+*Среднее исчадие, нейтрально-злой*
 
-*Medium Fiend, Neutral Evil*
+- **Класс доспеха:** 15
+- **Хиты:** 66 (12d8 + 12)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 15
-- **Hit Points:** 66 (12d8 + 12)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 15 | +2 | +2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 20 | +5 | +5 |
-
-- **Resistances**: Cold, Fire, Poison, Psychic
-- **Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Abyssal, Common, Infernal; telepathy 60 ft.
-- **CR** 4 (XP 1,100; PB +2)
+| СИЛ | 8 | -1 | -1 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 15 | +2 | +2 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 20 | +5 | +5 |
 
-### Traits
+- **Сопротивления:** Холодный, Огненный, Ядовитый, Психический
+- **Навыки:** Обман +9, Проницательность +5, Восприятие +5, Убеждение +9, Скрытность +7
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Бездонный, Общий, Инфернальный; телепатия 60 футов
+- **ПО** 4 (ОО 1100; БМ +2)
 
-***Succubus Form.*** When the incubus finishes a Long Rest, it can shape-shift into a Succubus, using that stat block instead of this one. Any equipment it's wearing or carrying isn't transformed.
+### Особенности
 
+***Форма суккуба.*** Когда инкуб завершает продолжительный отдых, он может принять облик суккуба, используя этот блок характеристик вместо своего. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-### Actions
+### Действия
 
-***Multiattack.*** The incubus makes two Restless Touch attacks.
+***Мультиатака.*** Инкуб совершает две атаки беспокойным касанием.
 
-***Restless Touch.*** *Melee Attack Roll:* +7, reach 5 ft. 15 (3d6 + 5) Psychic damage, and the target is cursed for 24 hours or until the incubus dies. Until the curse ends, the target gains no benefit from finishing Short Rests.
+***Беспокойное касание.*** *Рукопашная атака:* +7, досягаемость 5 футов. 15 (3d6 + 5) Психического урона, и цель проклята на 24 часа или пока инкуб не умрёт. Пока проклятие не закончится, цель не получает пользы от завершения короткого отдыха.
 
-***Spellcasting.*** The incubus casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 15):
+***Сотворение заклинаний.*** Инкуб творит одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (СЛ спасброска 15):
 
-- **At Will:** *Disguise Self*, *Etherealness*
-- **1e/Day Each:** *Dream*, *Hypnotic Pattern*
+- **По желанию:** *маскировка*, *эфирность*
+- **1/День каждое:** *мечта*, *гипнотический узор*
 
-### Bonus Actions
+### Бонусные действия
 
-***Nightmare (Recharge 6).*** *Wisdom Saving Throw*: DC 15, one creature the incubus can see within 60 feet. *Failure:*  If the target has 20 Hit Points or fewer, it has the Unconscious condition for 1 hour, until it takes damage, or until a creature within 5 feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8) Psychic damage.
+***Кошмар (Перезарядка 6).*** *Спасбросок Мудрости:* СЛ 15, одно существо, которое инкуб видит в пределах 60 футов. *Провал:* Если у цели 20 хитов или меньше, она получает состояние «без сознания» на 1 час, пока не получит урон или пока существо в пределах 5 футов от неё не потратит действие, чтобы разбудить её. В противном случае цель получает 18 (4d8) Психического урона.
 
-## Invisible Stalker
+## Невидимый охотник
 
-*Large Elemental, Neutral*
+*Большой элементаль, нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 97 (13d10 + 26)
-- **Speed:** 50 ft., Fly 50 ft. (hover)
-- **Initiative**: +7 (17)
+- **Класс доспеха:** 14
+- **Хиты:** 97 (13d10 + 26)
+- **Скорость:** 50 футов, полёт 50 футов (парение)
+- **Инициатива:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 19 | +4 | +4 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 15 | +2 | +2 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 19 | +4 | +4 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 15 | +2 | +2 |
+| ХАР | 11 | +0 | +0 |
 
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Skills**: Perception +8, Stealth +10
-- **Senses**: darkvision 60 ft.; Passive Perception 18
-- **Languages**: Common, Primordial (Auran)
-- **CR** 6 (XP 2,300; PB +3)
+- **Сопротивления:** Дробящий, Колющий, Рубящий
+- **Иммунитеты:** Ядовитый; истощение, схваченный, парализованный, окаменевший, отравленный, лежащий ничком, опутанный, без сознания
+- **Навыки:** Восприятие +8, Скрытность +10
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 18
+- **Языки:** Общий, Первичный (Ауранский)
+- **ПО** 6 (ОО 2300; БМ +3)
 
-### Traits
+### Особенности
 
-***Air Form.*** The stalker can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
+***Воздушная форма.*** Охотник может входить в пространство врага и оставаться там. Он может проходить через пространство шириной до 1 дюйма без затрат дополнительного перемещения.
 
-***Invisibility.*** The stalker has the Invisible condition.
+***Невидимость.*** Охотник имеет состояние «невидимый».
 
+### Действия
 
-### Actions
+***Мультиатака.*** Охотник совершает три атаки ветряным взмахом. Он может заменить одну атаку использованием вихря.
 
-***Multiattack.*** The stalker makes three Wind Swipe attacks. It can replace one attack with a use of Vortex.
+***Ветряной взмах.*** *Рукопашная атака:* +7, досягаемость 5 футов. 11 (2d6 + 4) Силового урона.
 
-***Wind Swipe.*** *Melee Attack Roll:* +7, reach 5 ft. 11 (2d6 + 4) Force damage.
+***Вихрь.*** *Спасбросок Телосложения:* СЛ 14, одно Большое или меньшее существо в пространстве охотника. *Провал:* 7 (1d8 + 3) Звукового урона, и цель получает состояние «схваченный» (СЛ высвобождения 13). Пока захват не закончится, цель не может творить заклинания с вербальным компонентом и получает 7 (2d6) Звукового урона в начале каждого хода охотника.
 
-***Vortex.*** *Constitution Saving Throw*: DC 14, one Large or smaller creature in the stalker's space. *Failure:*  7 (1d8 + 3) Thunder damage, and the target has the Grappled condition (escape DC 13). Until the grapple ends, the target can't cast spells with a Verbal component and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns.
+## Железный голем
 
-## Iron Golem
+*Большой конструкт, без мировоззрения*
 
-*Large Construct, Unaligned*
+- **Класс доспеха:** 20
+- **Хиты:** 252 (24d10 + 120)
+- **Скорость:** 30 футов
+- **Инициатива:** +9 (19)
 
-- **Armor Class:** 20
-- **Hit Points:** 252 (24d10 + 120)
-- **Speed:** 30 ft.
-- **Initiative**: +9 (19)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 24 | +7 | +7 |
-| DEX | 9 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 3 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 1 | -5 | -5 |
-
-- **Immunities**: Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Understands Common plus two other languages but can't speak
-- **CR** 16 (XP 15,000; PB +5)
+| СИЛ | 24 | +7 | +7 |
+| ЛОВ | 9 | -1 | -1 |
+| ТЕЛ | 20 | +5 | +5 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 1 | -5 | -5 |
 
-### Traits
+- **Иммунитеты:** Огненный, Ядовитый, Психический; очарованный, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 10
+- **Языки:** Понимает Общий и два других языка, но не может говорить
+- **ПО** 16 (ОО 15000; БМ +5)
 
-***Fire Absorption.*** Whenever the golem is subjected to Fire damage, it regains a number of Hit Points equal to the Fire damage dealt.
+### Особенности
 
-***Immutable Form.*** The golem can't shape-shift.
+***Поглощение огня.*** Каждый раз, когда голем получает Огненный урон, он восстанавливает количество хитов, равное полученному Огненному урону.
 
-***Magic Resistance.*** The golem has Advantage on saving throws against spells and other magical effects.
+***Неизменная форма.*** Голем не может менять облик.
 
+***Сопротивление магии.*** Голем совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-### Actions
+### Действия
 
-***Multiattack.*** The golem makes two attacks, using Bladed Arm or Fiery Bolt in any combination.
+***Мультиатака.*** Голем совершает две атаки, используя клинковую руку или огненный заряд в любой комбинации.
 
-***Bladed Arm.*** *Melee Attack Roll:* +12, reach 10 ft. 20 (3d8 + 7) Slashing damage plus 10 (3d6) Fire damage.
+***Клинковая рука.*** *Рукопашная атака:* +12, досягаемость 10 футов. 20 (3d8 + 7) Рубящего урона плюс 10 (3d6) Огненного урона.
 
-***Fiery Bolt.*** *Ranged Attack Roll:* +10, range 120 ft. 36 (8d8) Fire damage.
+***Огненный заряд.*** *Дальнобойная атака:* +10, дистанция 120 футов. 36 (8d8) Огненного урона.
 
-***Poison Breath (Recharge 6).*** *Constitution Saving Throw*: DC 18, each creature in a 60-foot Cone. *Failure:*  55 (10d10) Poison damage. *Success:*  Half damage.
+***Ядовитое дыхание (Перезарядка 6).*** *Спасбросок Телосложения:* СЛ 18, каждое существо в 60-футовом конусе. *Провал:* 55 (10d10) Ядовитого урона. *Успех:* Половина урона.
 
-## Knight
+## Рыцарь
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 18
-- **Hit Points:** 52 (8d8 + 16)
-- **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 18
+- **Хиты:** 52 (8d8 + 16)
+- **Скорость:** 30 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 11 | +0 | +0 |
-| CON | 14 | +2 | +4 |
-| INT | 11 | +0 | +0 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 14 | +2 | +4 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 15 | +2 | +2 |
 
-- **Immunities**: Frightened
-- **Gear** Greatsword, Heavy Crossbow, Plate Armor
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
-- **CR** 3 (XP 700; PB +2)
+- **Иммунитеты:** Испуганный
+- **Снаряжение:** Двуручный меч, тяжёлый арбалет, латный доспех
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий и один другой язык
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The knight makes two attacks, using Greatsword or Heavy Crossbow in any combination.
+***Мультиатака.*** Рыцарь совершает две атаки, используя двуручный меч или тяжёлый арбалет в любой комбинации.
 
-***Greatsword.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage plus 4 (1d8) Radiant damage.
+***Двуручный меч.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона плюс 4 (1d8) урона Излучением.
 
-***Heavy Crossbow.*** *Ranged Attack Roll:* +2, range 100/400 ft. 11 (2d10) Piercing damage plus 4 (1d8) Radiant damage.
+***Тяжёлый арбалет.*** *Дальнобойная атака:* +2, дистанция 100/400 футов. 11 (2d10) Колющего урона плюс 4 (1d8) урона Излучением.
 
-## Kobold Warrior
+## Кобольд-воин
 
-*Small Dragon, Neutral*
+*Маленький дракон, нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 7 (3d6 - 3)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 14
+- **Хиты:** 7 (3d6 - 3)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 15 | +2 | +2 |
-| CON | 9 | -1 | -1 |
-| INT | 8 | -1 | -1 |
-| WIS | 7 | -2 | -2 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 7 | -2 | -2 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 9 | -1 | -1 |
+| ИНТ | 8 | -1 | -1 |
+| МДР | 7 | -2 | -2 |
+| ХАР | 8 | -1 | -1 |
 
-- **Gear** Dagger x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Common, Draconic
-- **CR** 1/8 (XP 25; PB +2)
+- **Снаряжение:** Кинжал x 3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 8
+- **Языки:** Общий, Драконий
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-### Traits
+### Особенности
 
-***Pack Tactics.*** The kobold has Advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+***Тактика стаи.*** Кобольд совершает с преимуществом бросок атаки против существа, если хотя бы один союзник кобольда находится в пределах 5 футов от существа и союзник не имеет состояния «недееспособный».
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has Disadvantage on ability checks and attack rolls.
+***Чувствительность к солнечному свету.*** Находясь на солнечном свету, кобольд совершает с помехой проверки характеристик и броски атаки.
 
+### Действия
 
-### Actions
+***Кинжал.*** *Рукопашная атака или атака дальнего боя:* +4, досягаемость 5 футов или дистанция 20/60 футов. 4 (1d4 + 2) Колющего урона.
 
-***Dagger.*** *Melee or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft. 4 (1d4 + 2) Piercing damage.
+## Кракен
 
-## Kraken
+*Громадная чудовищность (титан), хаотично-злой*
 
-*Gargantuan Monstrosity (Titan), Chaotic Evil*
+- **Класс доспеха:** 18
+- **Хиты:** 481 (26d20 + 208)
+- **Скорость:** 30 футов, плавание 120 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 18
-- **Hit Points:** 481 (26d20 + 208)
-- **Speed:** 30 ft., Swim 120 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 30 | +10 | +17 |
-| DEX | 11 | +0 | +7 |
-| CON | 26 | +8 | +15 |
-| INT | 22 | +6 | +6 |
-| WIS | 18 | +4 | +11 |
-| CHA | 20 | +5 | +5 |
-
-- **Immunities**: Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
-- **Skills**: History +13, Perception +11
-- **Senses**: truesight 120 ft.; Passive Perception 21
-- **Languages**: Understands Abyssal, Celestial, Infernal, And Primordial but can't speak; telepathy 120 ft.
-- **CR** 23 (XP 50,000, or 62,000 in lair)
+| СИЛ | 30 | +10 | +17 |
+| ЛОВ | 11 | +0 | +7 |
+| ТЕЛ | 26 | +8 | +15 |
+| ИНТ | 22 | +6 | +6 |
+| МДР | 18 | +4 | +11 |
+| ХАР | 20 | +5 | +5 |
 
-### Traits
+- **Иммунитеты:** Холодный, Электрический; испуганный, схваченный, парализованный, опутанный
+- **Навыки:** История +13, Восприятие +11
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 21
+- **Языки:** Понимает Бездонный, Небесный, Инфернальный и Первичный, но не может говорить; телепатия 120 футов
+- **ПО** 23 (ОО 50000, или 62000 в логове)
 
-***Amphibious.*** The kraken can breathe air and water.
+### Особенности
 
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the kraken fails a saving throw, it can choose to succeed instead.
+***Амфибия.*** Кракен может дышать воздухом и водой.
 
-***Siege Monster.*** The kraken deals double damage to objects and structures.
+***Легендарное сопротивление (4/День, или 5/День в логове).*** Если кракен проваливает спасбросок, он может вместо этого преуспеть.
 
+***Осадное чудовище.*** Кракен наносит двойной урон объектам и строениям.
 
-### Actions
+### Действия
 
-***Multiattack.*** The kraken makes two Tentacle attacks and uses Fling, Lightning Strike, or Swallow.
+***Мультиатака.*** Кракен совершает две атаки щупальцем и использует отбрасывание, удар молнии или проглатывание.
 
-***Tentacle.*** *Melee Attack Roll:* +17, reach 30 ft. 24 (4d6 + 10) Bludgeoning damage. The target has the Grappled condition (escape DC 20) from one of ten tentacles, and it has the Restrained condition until the grapple ends.
+***Щупальце.*** *Рукопашная атака:* +17, досягаемость 30 футов. 24 (4d6 + 10) Дробящего урона. Цель получает состояние «схваченный» (СЛ высвобождения 20) одним из десяти щупалец, и она имеет состояние «опутанный», пока захват не закончится.
 
-***Fling.*** The kraken throws a Large or smaller creature Grappled by it to a space it can see within 60 feet of itself that isn't in the air. *Dexterity Saving Throw*: DC 25, the creature thrown and each creature in the destination space. *Failure:*  18 (4d8) Bludgeoning damage, and the target has the Prone condition. *Success:*  Half damage only.
+***Отбрасывание.*** Кракен бросает Большое или меньшее существо, схваченное им, в пространство, которое он видит в пределах 60 футов от себя и которое не находится в воздухе. *Спасбросок Ловкости:* СЛ 25, брошенное существо и каждое существо в целевом пространстве. *Провал:* 18 (4d8) Дробящего урона, и цель получает состояние «лежащий ничком». *Успех:* Только половина урона.
 
-***Lightning Strike.*** *Dexterity Saving Throw*: DC 23, one creature the kraken can see within 120 feet. *Failure:*  33 (6d10) Lightning damage. *Success:*  Half damage.
+***Удар молнии.*** *Спасбросок Ловкости:* СЛ 23, одно существо, которое кракен видит в пределах 120 футов. *Провал:* 33 (6d10) урона Электричеством. *Успех:* Половина урона.
 
-***Swallow.*** *Dexterity Saving Throw*: DC 25, one creature Grappled by the kraken (it can have up to four creatures swallowed at a time). *Failure:*  23 (3d8 + 10) Piercing damage. If the target is Large or smaller, it is swallowed and no longer Grappled. A swallowed creature has the Restrained condition, has Cover|XPHB|Total Cover against attacks and other effects outside the kraken, and takes 24 (7d6) Acid damage at the start of each of its turns.
-If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the kraken with the Prone condition. If the kraken dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 15 feet of movement, exiting Prone.
+***Проглатывание.*** *Спасбросок Ловкости:* СЛ 25, одно существо, схваченное кракеном (он может иметь до четырёх проглоченных существ одновременно). *Провал:* 23 (3d8 + 10) Колющего урона. Если цель Большая или меньше, она проглочена и более не схвачена. Проглоченное существо имеет состояние «опутанный», имеет полное укрытие от атак и других эффектов снаружи кракена и получает 24 (7d6) урона Кислотой в начале каждого своего хода.
+Если кракен получает 50 или более урона за один ход от существа внутри него, кракен должен преуспеть в спасброске Телосложения СЛ 25 в конце этого хода, иначе он изрыгает всех проглоченных существ, каждое из которых падает в пространство в пределах 10 футов от кракена с состоянием «лежащий ничком». Если кракен умирает, любое проглоченное существо более не имеет состояния «опутанный» и может покинуть труп, используя 15 футов перемещения, выходя лежащим ничком.
 
+### Легендарные действия
 
-### Legendary Actions
+***Заряд бури.*** Кракен использует удар молнии.
 
-***Storm Bolt.*** The kraken uses Lightning Strike.
+***Токсичные чернила.*** *Спасбросок Телосложения:* СЛ 23, каждое существо в 15-футовой эманации от кракена, пока он находится под водой. *Провал:* Цель получает состояния «ослеплённый» и «отравленный» до конца следующего хода кракена. Затем кракен перемещается на расстояние до своей скорости. *Провал или успех:* Кракен не может совершить это действие снова до начала своего следующего хода.
 
-***Toxic Ink.*** *Constitution Saving Throw*: DC 23, each creature in a 15-foot Emanation originating from the kraken while it is underwater. *Failure:*  The target has the Blinded and Poisoned conditions until the end of the kraken's next turn. The kraken then moves up to its Speed. *Failure or Success*:  The kraken can't take this action again until the start of its next turn.
+## Ламия
 
-## Lamia
+*Большое исчадие, хаотично-злой*
 
-*Large Fiend, Chaotic Evil*
+- **Класс доспеха:** 13
+- **Хиты:** 97 (13d10 + 26)
+- **Скорость:** 40 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 13
-- **Hit Points:** 97 (13d10 + 26)
-- **Speed:** 40 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 14 | +2 | +2 |
-| WIS | 15 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 15 | +2 | +2 |
+| ХАР | 16 | +3 | +3 |
 
-- **Skills**: Deception +7, Insight +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Abyssal, Common
-- **CR** 4 (XP 1,100; PB +2)
+- **Навыки:** Обман +7, Проницательность +4, Скрытность +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 12
+- **Языки:** Бездонный, Общий
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The lamia makes two Claw attacks. It can replace one attack with a use of Corrupting Touch.
+***Мультиатака.*** Ламия совершает две атаки когтями. Она может заменить одну атаку использованием развращающего касания.
 
-***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Slashing damage plus 7 (2d6) Psychic damage.
+***Коготь.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Рубящего урона плюс 7 (2d6) Психического урона.
 
-***Corrupting Touch.*** *Wisdom Saving Throw*: DC 13, one creature the lamia can see within 5 feet. *Failure:*  13 (3d8) Psychic damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions.
+***Развращающее касание.*** *Спасбросок Мудрости:* СЛ 13, одно существо, которое ламия видит в пределах 5 футов. *Провал:* 13 (3d8) Психического урона, и цель проклята на 1 час. Пока проклятие не закончится, цель имеет состояния «очарованный» и «отравленный».
 
-***Spellcasting.*** The lamia casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
+***Сотворение заклинаний.*** Ламия творит одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (СЛ спасброска 13):
 
-- **At Will:** *Disguise Self*, *Minor Illusion*
-- **1e/Day Each:** *Geas*, *Major Image*, *Scrying*
+- **По желанию:** *маскировка*, *малая иллюзия*
+- **1/День каждое:** *принуждение*, *образ*, *наблюдение*
 
-### Bonus Actions
+### Бонусные действия
 
-***Leap.*** The lamia jumps up to 30 feet by spending 10 feet of movement.
+***Прыжок.*** Ламия прыгает на расстояние до 30 футов, тратя 10 футов перемещения.
 
-## Lemure
+## Лемур
 
-*Medium Fiend (Devil), Lawful Evil*
+*Среднее исчадие (дьявол), принципиально-злой*
 
-- **Armor Class:** 9
-- **Hit Points:** 9 (2d8)
-- **Speed:** 20 ft.
-- **Initiative**: -3 (7)
+- **Класс доспеха:** 9
+- **Хиты:** 9 (2d8)
+- **Скорость:** 20 футов
+- **Инициатива:** -3 (7)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 5 | -3 | -3 |
-| CON | 11 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 11 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
-
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Charmed, Frightened, Poisoned
-- **Senses**: darkvision 120 ft. (unimpeded by magical darkness); Passive Perception 10
-- **Languages**: Understands Infernal but can't speak
-- **CR** 0 (XP 0 or 10; PB +2)
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 5 | -3 | -3 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 3 | -4 | -4 |
 
-### Traits
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; очарованный, испуганный, отравленный
+- **Чувства:** тёмное зрение 120 футов (не затруднённое магической тьмой); пассивное Восприятие 10
+- **Языки:** Понимает Инфернальный, но не может говорить
+- **ПО** 0 (ОО 0 или 10; БМ +2)
 
-***Hellish Restoration.*** If the lemure dies in the Nine Hells, it revives with all its Hit Points in 1d10 days unless it is killed by a creature under the effects of a *Bless* spell or its remains are sprinkled with Holy Water.
+### Особенности
 
+***Адское восстановление.*** Если лемур умирает в Девяти Преисподних, он возрождается со всеми хитами через 1d10 дней, если только он не был убит существом под действием заклинания *благословение* или его останки не были окроплены святой водой.
 
-### Actions
+### Действия
 
-***Vile Slime.*** *Melee Attack Roll:* +2, reach 5 ft. 2 (1d4) Poison damage.
+***Мерзкая слизь.*** *Рукопашная атака:* +2, досягаемость 5 футов. 2 (1d4) Ядовитого урона.
 
-## Lich
+## Лич
 
-*Medium Undead (Wizard), Neutral Evil*
+*Среднее нежить (волшебник), нейтрально-злой*
 
-- **Armor Class:** 20
-- **Hit Points:** 315 (42d8 + 126)
-- **Speed:** 30 ft.
-- **Initiative**: +7 (17)
+- **Класс доспеха:** 20
+- **Хиты:** 315 (42d8 + 126)
+- **Скорость:** 30 футов
+- **Инициатива:** +7 (17)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 16 | +3 | +10 |
-| CON | 16 | +3 | +10 |
-| INT | 21 | +5 | +12 |
-| WIS | 14 | +2 | +9 |
-| CHA | 16 | +3 | +3 |
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 16 | +3 | +10 |
+| ТЕЛ | 16 | +3 | +10 |
+| ИНТ | 21 | +5 | +12 |
+| МДР | 14 | +2 | +9 |
+| ХАР | 16 | +3 | +3 |
 
-- **Resistances**: Cold, Lightning
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-- **Skills**: Arcana +19, History +12, Insight +9, Perception +9
-- **Gear** Component Pouch
-- **Senses**: truesight 120 ft.; Passive Perception 19
-- **Languages**: All
-- **CR** 21 (XP 33,000, or 41,000 in lair)
+- **Сопротивления:** Холодный, Электрический
+- **Иммунитеты:** Некротический, Ядовитый; очарованный, истощение, испуганный, парализованный, отравленный
+- **Навыки:** Магия +19, История +12, Проницательность +9, Восприятие +9
+- **Снаряжение:** Мешочек с компонентами
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 19
+- **Языки:** Все
+- **ПО** 21 (ОО 33000, или 41000 в логове)
 
-### Traits
+### Особенности
 
-***Legendary Resistance (4/Day, or 5/Day in Lair).*** If the lich fails a saving throw, it can choose to succeed instead.
+***Легендарное сопротивление (4/День, или 5/День в логове).*** Если лич проваливает спасбросок, он может вместо этого преуспеть.
 
-***Spirit Jar.*** If destroyed, the lich reforms in 1d10 days if it has a spirit jar, reviving with all its Hit Points. The new body appears in an unoccupied space within the lich's lair.
+***Сосуд духа.*** Если лич уничтожен, он воссоздаётся через 1d10 дней, если у него есть сосуд духа, возрождаясь со всеми хитами. Новое тело появляется в свободном пространстве в логове лича.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Лич совершает три атаки, используя тайный взрыв или парализующее касание в любой комбинации.
 
-***Multiattack.*** The lich makes three attacks, using Eldritch Burst or Paralyzing Touch in any combination.
+***Тайный взрыв.*** *Рукопашная атака или атака дальнего боя:* +12, досягаемость 5 футов или дистанция 120 футов. 31 (4d12 + 5) Силового урона.
 
-***Eldritch Burst.*** *Melee or Ranged Attack Roll:* +12, reach 5 ft. or range 120 ft. 31 (4d12 + 5) Force damage.
+***Парализующее касание.*** *Рукопашная атака:* +12, досягаемость 5 футов. 15 (3d6 + 5) Холодного урона, и цель получает состояние «парализованный» до начала следующего хода лича.
 
-***Paralyzing Touch.*** *Melee Attack Roll:* +12, reach 5 ft. 15 (3d6 + 5) Cold damage, and the target has the Paralyzed condition until the start of the lich's next turn.
+***Сотворение заклинаний.*** Лич творит одно из следующих заклинаний, используя Интеллект как заклинательную характеристику (СЛ спасброска 20):
 
-***Spellcasting.*** The lich casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
+- **По желанию:** *обнаружение магии*, *обнаружение мыслей*, *рассеивание магии*, *огненный шар*, *невидимость*, *молния*, *волшебная рука*, *фокусы*
+- **2/День каждое:** *оживление мёртвых*, *пространственный скачок*, *уход в иной мир*
+- **1/День каждое:** *цепная молния*, *перст смерти*, *слово силы: смерть*, *наблюдение*
 
-- **At Will:** *Detect Magic*, *Detect Thoughts*, *Dispel Magic*, *Fireball*, *Invisibility*, *Lightning Bolt*, *Mage Hand*, *Prestidigitation*
-- **2e/Day Each:** *Animate Dead*, *Dimension Door*, *Plane Shift*
-- **1e/Day Each:** *Chain Lightning*, *Finger of Death*, *Power Word Kill*, *Scrying*
+### Реакции
 
-### Reactions
+***Защитная магия.*** Лич творит *контрзаклинание* или *щит* в ответ на триггер заклинания, используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-***Protective Magic.*** The lich casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
+### Легендарные действия
 
-### Legendary Actions
+***Смертельная телепортация.*** Лич телепортируется на расстояние до 60 футов в свободное пространство, которое он видит, и каждое существо в пределах 10 футов от покинутого пространства получает 11 (2d10) Некротического урона.
 
-***Deathly Teleport.*** The lich teleports up to 60 feet to an unoccupied space it can see, and each creature within 10 feet of the space it left takes 11 (2d10) Necrotic damage.
+***Нарушение жизни.*** *Спасбросок Телосложения:* СЛ 20, каждое существо, не являющееся нежитью, в 20-футовой эманации от лича. *Провал:* 31 (9d6) Некротического урона. *Успех:* Половина урона. *Провал или успех:* Лич не может совершить это действие снова до начала своего следующего хода.
 
-***Disrupt Life.*** *Constitution Saving Throw*: DC 20, each creature that isn't an Undead in a 20-foot Emanation originating from the lich. *Failure:*  31 (9d6) Necrotic damage. *Success:*  Half damage. *Failure or Success*:  The lich can't take this action again until the start of its next turn.
+***Устрашающий взгляд.*** Лич творит *ужас*, используя ту же заклинательную характеристику, что и для сотворения заклинаний. Лич не может совершить это действие снова до начала своего следующего хода.
 
-***Frightening Gaze.*** The lich casts *Fear*, using the same spellcasting ability as Spellcasting. The lich can't take this action again until the start of its next turn.
-## Mage
+## Маг
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 15
-- **Hit Points:** 81 (18d8)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 15
+- **Хиты:** 81 (18d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 9 | -1 | -1 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 17 | +3 | +6 |
-| WIS | 12 | +1 | +4 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 9 | -1 | -1 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 17 | +3 | +6 |
+| МДР | 12 | +1 | +4 |
+| ХАР | 11 | +0 | +0 |
 
-- **Skills**: Arcana +6, History +6, Perception +4
-- **Gear** Wand
-- **Senses**: Passive Perception 14
-- **Languages**: Common and any three languages
-- **CR** 6 (XP 2,300; PB +3)
+- **Навыки:** Магия +6, История +6, Восприятие +4
+- **Снаряжение:** Жезл
+- **Чувства:** пассивное Восприятие 14
+- **Языки:** Общий и любые три языка
+- **ПО** 6 (ОО 2300; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The mage makes three Arcane Burst attacks.
+***Мультиатака.*** Маг совершает три атаки тайным взрывом.
 
-***Arcane Burst.*** *Melee or Ranged Attack Roll:* +6, reach 5 ft. or range 120 ft. 16 (3d8 + 3) Force damage.
+***Тайный взрыв.*** *Рукопашная атака или атака дальнего боя:* +6, досягаемость 5 футов или дистанция 120 футов. 16 (3d8 + 3) Силового урона.
 
-***Spellcasting.*** The mage casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 14):
+***Сотворение заклинаний.*** Маг творит одно из следующих заклинаний, используя Интеллект как заклинательную характеристику (СЛ спасброска 14):
 
-- **At Will:** *Detect Magic*, *Light*, *Mage Armor*, *Mage Hand*, *Prestidigitation*
-- **2e/Day Each:** *Fireball*, *Invisibility*
-- **1e/Day Each:** *Cone of Cold*, *Fly*
+- **По желанию:** *обнаружение магии*, *свет*, *доспехи мага*, *волшебная рука*, *фокусы*
+- **2/День каждое:** *огненный шар*, *невидимость*
+- **1/День каждое:** *конус холода*, *полёт*
 
-### Bonus Actions
+### Бонусные действия
 
-***Misty Step (3/Day).*** The mage casts *Misty Step*, using the same spellcasting ability as Spellcasting.
+***Туманный шаг (3/День).*** Маг творит *туманный шаг*, используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-### Reactions
+### Реакции
 
-***Protective Magic (3/Day).*** The mage casts *Counterspell* or *Shield* in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
-## Magma Mephit
+***Защитная магия (3/День).*** Маг творит *контрзаклинание* или *щит* в ответ на триггер заклинания, используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-*Small Elemental, Neutral Evil*
+## Магмовый мефит
 
-- **Armor Class:** 11
-- **Hit Points:** 18 (4d6 + 4)
-- **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +1 (11)
+*Маленький элементаль, нейтрально-злой*
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 12 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+- **Класс доспеха:** 11
+- **Хиты:** 18 (4d6 + 4)
+- **Скорость:** 30 футов, полёт 30 футов
+- **Инициатива:** +1 (11)
 
-- **Vulnerabilities**: Cold
-- **Immunities**: Fire, Poison; Exhaustion, Poisoned
-- **Skills**: Stealth +3
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan, Terran)
-- **CR** 1/2 (XP 100; PB +2)
+|ХРКТ|ЗНАЧ|МОД|СПАС|
+| --- | --- | --- | ---- |
+| СИЛ | 8 | -1 | -1 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-### Traits
+- **Уязвимости:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; истощение, отравленный
+- **Навыки:** Скрытность +3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первичный (Игнанский, Терранский)
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 11, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  7 (2d6) Fire damage. *Success:*  Half damage.
+### Особенности
 
+***Взрыв при смерти.*** Мефит взрывается, когда умирает. *Спасбросок Ловкости:* СЛ 11, каждое существо в 5-футовой эманации от мефита. *Провал:* 7 (2d6) Огненного урона. *Успех:* Половина урона.
 
-### Actions
+### Действия
 
-***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 3 (1d4 + 1) Slashing damage plus 3 (1d6) Fire damage.
+***Коготь.*** *Рукопашная атака:* +3, досягаемость 5 футов. 3 (1d4 + 1) Рубящего урона плюс 3 (1d6) Огненного урона.
 
-***Fire Breath (Recharge 6).*** *Dexterity Saving Throw*: DC 11, each creature in a 15-foot Cone. *Failure:*  7 (2d6) Fire damage. *Success:*  Half damage.
+***Огненное дыхание (Перезарядка 6).*** *Спасбросок Ловкости:* СЛ 11, каждое существо в 15-футовом конусе. *Провал:* 7 (2d6) Огненного урона. *Успех:* Половина урона.
 
-## Magmin
+## Магмин
 
-*Small Elemental, Chaotic Neutral*
+*Маленький элементаль, хаотично-нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 13 (3d6 + 3)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 14
+- **Хиты:** 13 (3d6 + 3)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 7 | -2 | -2 |
-| DEX | 15 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
-
-- **Immunities**: Fire
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan)
-- **CR** 1/2 (XP 100; PB +2)
-
-### Traits
+| СИЛ | 7 | -2 | -2 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 8 | -1 | -1 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-***Death Burst.*** The magmin explodes when it dies. *Dexterity Saving Throw*: DC 11, each creature in a 10-foot Emanation originating from the magmin. *Failure:*  7 (2d6) Fire damage. *Success:*  Half damage.
+- **Иммунитеты:** Огненный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первичный (Игнанский)
+- **ПО** 1/2 (ОО 100; БМ +2)
 
+### Особенности
 
-### Actions
+***Взрыв при смерти.*** Магмин взрывается, когда умирает. *Спасбросок Ловкости:* СЛ 11, каждое существо в 10-футовой эманации от магмина. *Провал:* 7 (2d6) Огненного урона. *Успех:* Половина урона.
 
-***Touch.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (2d4 + 2) Fire damage. If the target is a creature or a flammable object that isn't being worn or carried, it starts burning.
+### Действия
 
+***Касание.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (2d4 + 2) Огненного урона. Если цель — существо или легковоспламеняющийся объект, который никто не носит и не несёт, она начинает гореть.
 
-### Bonus Actions
+### Бонусные действия
 
-***Ignited Illumination.*** The magmin sets itself ablaze or extinguishes its flames. While ablaze, the magmin sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+***Воспламенённое свечение.*** Магмин поджигает себя или гасит своё пламя. Пока горит, магмин испускает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов.
 
-## Manticore
+## Мантикора
 
-*Large Monstrosity, Lawful Evil*
+*Большая чудовищность, принципиально-злой*
 
-- **Armor Class:** 14
-- **Hit Points:** 68 (8d10 + 24)
-- **Speed:** 30 ft., Fly 50 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 14
+- **Хиты:** 68 (8d10 + 24)
+- **Скорость:** 30 футов, полёт 50 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 16 | +3 | +3 |
-| CON | 17 | +3 | +3 |
-| INT | 7 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 8 | -1 | -1 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common
-- **CR** 3 (XP 700; PB +2)
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **Языки:** Общий
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The manticore makes three attacks, using Rend or Tail Spike in any combination.
+***Мультиатака.*** Мантикора совершает три атаки, используя раздирание или хвостовой шип в любой комбинации.
 
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Slashing damage.
+***Раздирание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Рубящего урона.
 
-***Tail Spike.*** *Ranged Attack Roll:* +5, range 100/200 ft. 7 (1d8 + 3) Piercing damage.
+***Хвостовой шип.*** *Дальнобойная атака:* +5, дистанция 100/200 футов. 7 (1d8 + 3) Колющего урона.
 
-## Marilith
+## Марилит
 
-*Large Fiend (Demon), Chaotic Evil*
+*Большое исчадие (демон), хаотично-злой*
 
-- **Armor Class:** 16
-- **Hit Points:** 220 (21d10 + 105)
-- **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +10 (20)
+- **Класс доспеха:** 16
+- **Хиты:** 220 (21d10 + 105)
+- **Скорость:** 40 футов, лазание 40 футов
+- **Инициатива:** +10 (20)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +9 |
-| DEX | 20 | +5 | +5 |
-| CON | 20 | +5 | +10 |
-| INT | 18 | +4 | +4 |
-| WIS | 16 | +3 | +8 |
-| CHA | 20 | +5 | +10 |
+| СИЛ | 18 | +4 | +9 |
+| ЛОВ | 20 | +5 | +5 |
+| ТЕЛ | 20 | +5 | +10 |
+| ИНТ | 18 | +4 | +4 |
+| МДР | 16 | +3 | +8 |
+| ХАР | 20 | +5 | +10 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Perception +8
-- **Senses**: truesight 120 ft.; Passive Perception 18
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 16 (XP 15,000; PB +5)
+- **Сопротивления:** Холодный, Огненный, Электрический
+- **Иммунитеты:** Ядовитый; отравленный
+- **Навыки:** Восприятие +8
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 18
+- **Языки:** Бездонный; телепатия 120 футов
+- **ПО** 16 (ОО 15000; БМ +5)
 
-### Traits
+### Особенности
 
-***Demonic Restoration.*** If the marilith dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+***Демоническое восстановление.*** Если марилит умирает за пределами Бездны, её тело растворяется в ихоре, и она мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Бездне.
 
-***Magic Resistance.*** The marilith has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Марилит совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Reactive.*** The marilith can take one Reaction on every turn of combat.
+***Реактивность.*** Марилит может совершать одну реакцию в каждый ход боя.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Марилит совершает шесть атак клинком пакта и использует сжатие.
 
-***Multiattack.*** The marilith makes six Pact Blade attacks and uses Constrict.
+***Клинок пакта.*** *Рукопашная атака:* +10, досягаемость 5 футов. 10 (1d10 + 5) Рубящего урона плюс 7 (2d6) Некротического урона.
 
-***Pact Blade.*** *Melee Attack Roll:* +10, reach 5 ft. 10 (1d10 + 5) Slashing damage plus 7 (2d6) Necrotic damage.
+***Сжатие.*** *Спасбросок Силы:* СЛ 17, одно Среднее или меньшее существо, которое марилит видит в пределах 5 футов. *Провал:* 15 (2d10 + 4) Дробящего урона. Цель получает состояние «схваченный» (СЛ высвобождения 14), и она имеет состояние «опутанный», пока захват не закончится.
 
-***Constrict.*** *Strength Saving Throw*: DC 17, one Medium or smaller creature the marilith can see within 5 feet. *Failure:*  15 (2d10 + 4) Bludgeoning damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
+### Бонусные действия
 
+***Телепортация (Перезарядка 5-6).*** Марилит телепортируется на расстояние до 120 футов в свободное пространство, которое она видит.
 
-### Bonus Actions
+## Медуза
 
-***Teleport (Recharge 5-6).*** The marilith teleports up to 120 feet to an unoccupied space it can see.
+*Среднее чудовищность, принципиально-злой*
 
-## Medusa
+- **Класс доспеха:** 15
+- **Хиты:** 127 (17d8 + 51)
+- **Скорость:** 30 футов
+- **Инициатива:** +6 (16)
 
-*Medium Monstrosity, Lawful Evil*
-
-- **Armor Class:** 15
-- **Hit Points:** 127 (17d8 + 51)
-- **Speed:** 30 ft.
-- **Initiative**: +6 (16)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 17 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 13 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 13 | +1 | +4 |
+| ХАР | 15 | +2 | +2 |
 
-- **Skills**: Deception +5, Perception +4, Stealth +6
-- **Senses**: darkvision 150 ft.; Passive Perception 14
-- **Languages**: Common plus one other language
-- **CR** 6 (XP 2,300; PB +3)
+- **Навыки:** Обман +5, Восприятие +4, Скрытность +6
+- **Чувства:** тёмное зрение 150 футов; пассивное Восприятие 14
+- **Языки:** Общий и один другой язык
+- **ПО** 6 (ОО 2300; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The medusa makes two Claw attacks and one Snake Hair attack, or it makes three Poison Ray attacks.
+***Мультиатака.*** Медуза совершает две атаки когтями и одну атаку змеиными волосами, либо совершает три атаки ядовитым лучом.
 
-***Claw.*** *Melee Attack Roll:* +6, reach 5 ft. 10 (2d6 + 3) Slashing damage.
+***Коготь.*** *Рукопашная атака:* +6, досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона.
 
-***Snake Hair.*** *Melee Attack Roll:* +6, reach 5 ft. 5 (1d4 + 3) Piercing damage plus 14 (4d6) Poison damage.
+***Змеиные волосы.*** *Рукопашная атака:* +6, досягаемость 5 футов. 5 (1d4 + 3) Колющего урона плюс 14 (4d6) Ядовитого урона.
 
-***Poison Ray.*** *Ranged Attack Roll:* +5, range 150 ft. 11 (2d8 + 2) Poison damage.
+***Ядовитый луч.*** *Дальнобойная атака:* +5, дистанция 150 футов. 11 (2d8 + 2) Ядовитого урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Окаменяющий взгляд (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 13, каждое существо в 30-футовом конусе. Если медуза видит своё отражение в конусе, медуза сама должна совершить этот спасбросок. *Первый провал:* Цель получает состояние «опутанный» и повторяет спасбросок в конце своего следующего хода, если она всё ещё опутана, оканчивая эффект на себе при успехе. *Второй провал:* Цель получает состояние «окаменевший» вместо состояния «опутанный».
 
-***Petrifying Gaze (Recharge 5-6).*** *Constitution Saving Throw*: DC 13, each creature in a 30-foot Cone. If the medusa sees its reflection in the Cone, the medusa must make this save. *First Failure* The target has the Restrained condition and repeats the save at the end of its next turn if it is still Restrained, ending the effect on itself on a success. *Second Failure* The target has the Petrified condition instead of the Restrained condition.
+## Мерфолк-застрельщик
 
-## Merfolk Skirmisher
+*Средний элементаль, нейтральный*
 
-*Medium Elemental, Neutral*
+- **Класс доспеха:** 11
+- **Хиты:** 11 (2d8 + 2)
+- **Скорость:** 10 футов, плавание 40 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 11
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 13 | +1 | +1 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 14 | +2 | +2 |
-| CHA | 12 | +1 | +1 |
-
-- **Senses**: Passive Perception 12
-- **Languages**: Common, Primordial (Aquan)
-- **CR** 1/8 (XP 25; PB +2)
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 12 | +1 | +1 |
 
-### Traits
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий, Первичный (Аквский)
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-***Amphibious.*** The merfolk can breathe air and water.
+### Особенности
 
+***Амфибия.*** Мерфолк может дышать воздухом и водой.
 
-### Actions
+### Действия
 
-***Ocean Spear.*** *Melee or Ranged Attack Roll:* +2, reach 5 ft. or range 20/60 ft. 3 (1d6) Piercing damage plus 2 (1d4) Cold damage. If the target is a creature, its Speed decreases by 10 feet until the end of its next turn. HitomThe spear magically returns to the merfolk's hand immediately after a ranged attack.
+***Океаническое копьё.*** *Рукопашная атака или атака дальнего боя:* +2, досягаемость 5 футов или дистанция 20/60 футов. 3 (1d6) Колющего урона плюс 2 (1d4) Холодного урона. Если цель — существо, её скорость уменьшается на 10 футов до конца её следующего хода. Копьё магически возвращается в руку мерфолка сразу после дальнобойной атаки.
 
-## Merrow
+## Мерроу
 
-*Large Monstrosity, Chaotic Evil*
+*Большая чудовищность, хаотично-злой*
 
-- **Armor Class:** 13
-- **Hit Points:** 45 (6d10 + 12)
-- **Speed:** 10 ft., Swim 40 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 13
+- **Хиты:** 45 (6d10 + 12)
+- **Скорость:** 10 футов, плавание 40 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 8 | -1 | -1 |
-| WIS | 10 | +0 | +0 |
-| CHA | 9 | -1 | -1 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 8 | -1 | -1 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 9 | -1 | -1 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Abyssal, Primordial (Aquan)
-- **CR** 2 (XP 450; PB +2)
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Бездонный, Первичный (Аквский)
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The merrow can breathe air and water.
+***Амфибия.*** Мерроу может дышать воздухом и водой.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Мерроу совершает две атаки, используя укус, коготь или гарпун в любой комбинации.
 
-***Multiattack.*** The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination.
+***Укус.*** *Рукопашная атака:* +6, досягаемость 5 футов. 6 (1d4 + 4) Колющего урона, и цель получает состояние «отравленный» до конца следующего хода мерроу.
 
-***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 6 (1d4 + 4) Piercing damage, and the target has the Poisoned condition until the end of the merrow's next turn.
+***Коготь.*** *Рукопашная атака:* +6, досягаемость 5 футов. 9 (2d4 + 4) Рубящего урона.
 
-***Claw.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (2d4 + 4) Slashing damage.
+***Гарпун.*** *Рукопашная атака или атака дальнего боя:* +6, досягаемость 5 футов или дистанция 20/60 футов. 11 (2d6 + 4) Колющего урона. Если цель — Большое или меньшее существо, мерроу притягивает цель на расстояние до 15 футов прямо к себе.
 
-***Harpoon.*** *Melee or Ranged Attack Roll:* +6, reach 5 ft. or range 20/60 ft. 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, the merrow pulls the target up to 15 feet straight toward itself.
+## Мимик
 
-## Mimic
+*Среднее чудовищность, нейтральный*
 
-*Medium Monstrosity, Neutral*
+- **Класс доспеха:** 12
+- **Хиты:** 58 (9d8 + 18)
+- **Скорость:** 20 футов
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 12
-- **Hit Points:** 58 (9d8 + 18)
-- **Speed:** 20 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 12 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 5 | -3 | -3 |
-| WIS | 13 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
-
-- **Immunities**: Acid; Prone
-- **Skills**: Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 8 | -1 | -1 |
 
-### Traits
+- **Иммунитеты:** Кислотный; лежащий ничком
+- **Навыки:** Скрытность +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic has the Grappled condition (escape DC 13). Ability checks made to escape this grapple have Disadvantage.
+### Особенности
 
+***Клейкость (Только в форме объекта).*** Мимик прилипает ко всему, что его касается. Огромное или меньшее существо, прилипшее к мимику, получает состояние «схваченный» (СЛ высвобождения 13). Проверки характеристик для высвобождения из этого захвата совершаются с помехой.
 
-### Actions
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +5 (with Advantage if the target is Grappled by the mimic), reach 5 ft. 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing damage if the target is Grappled by the mimic—plus 4 (1d8) Acid damage.
+***Укус.*** *Рукопашная атака:* +5 (с преимуществом, если цель схвачена мимиком), досягаемость 5 футов. 7 (1d8 + 3) Колющего урона — или 12 (2d8 + 3) Колющего урона, если цель схвачена мимиком — плюс 4 (1d8) урона Кислотой.
 
-***Pseudopod.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Bludgeoning damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13). Ability checks made to escape this grapple have Disadvantage.
+***Ложноножка.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Дробящего урона плюс 4 (1d8) урона Кислотой. Если цель — Большое или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 13). Проверки характеристик для высвобождения из этого захвата совершаются с помехой.
 
+### Бонусные действия
 
-### Bonus Actions
+***Смена облика.*** Мимик принимает облик Среднего или Маленького объекта, сохраняя свои игровые характеристики, либо возвращается в свою истинную форму капли. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-***Shape-Shift.*** The mimic shape-shifts to resemble a Medium or Small object while retaining its game statistics, or it returns to its true blob form. Any equipment it is wearing or carrying isn't transformed.
+## Минотавр Бафомета
 
-## Minotaur of Baphomet
+*Большая чудовищность, хаотично-злой*
 
-*Large Monstrosity, Chaotic Evil*
+- **Класс доспеха:** 14
+- **Хиты:** 85 (10d10 + 30)
+- **Скорость:** 40 футов
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 14
-- **Hit Points:** 85 (10d10 + 30)
-- **Speed:** 40 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 6 | -2 | -2 |
-| WIS | 16 | +3 | +3 |
-| CHA | 9 | -1 | -1 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 16 | +3 | +3 |
+| ХАР | 9 | -1 | -1 |
 
-- **Skills**: Perception +7, Survival +7
-- **Senses**: darkvision 60 ft.; Passive Perception 17
-- **Languages**: Abyssal
-- **CR** 3 (XP 700; PB +2)
+- **Навыки:** Восприятие +7, Выживание +7
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 17
+- **Языки:** Бездонный
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Actions
+### Действия
 
-***Abyssal Glaive.*** *Melee Attack Roll:* +6, reach 10 ft. 10 (1d12 + 4) Slashing damage plus 10 (3d6) Necrotic damage.
+***Бездонная глефа.*** *Рукопашная атака:* +6, досягаемость 10 футов. 10 (1d12 + 4) Рубящего урона плюс 10 (3d6) Некротического урона.
 
-***Gore (Recharge 5-6).*** *Melee Attack Roll:* +6, reach 5 ft. 18 (4d6 + 4) Piercing damage. If the target is a Large or smaller creature and the minotaur moved 10+ feet straight toward it immediately before the hit, the target takes an extra 10 (3d6) Piercing damage and has the Prone condition.
+***Бодание (Перезарядка 5-6).*** *Рукопашная атака:* +6, досягаемость 5 футов. 18 (4d6 + 4) Колющего урона. Если цель — Большое или меньшее существо и минотавр переместился как минимум на 10 футов прямо к ней непосредственно перед попаданием, цель получает дополнительно 10 (3d6) Колющего урона и получает состояние «лежащий ничком».
 
-## Minotaur Skeleton
+## Скелет минотавра
 
-*Large Undead, Lawful Evil*
+*Большая нежить, принципиально-злой*
 
-- **Armor Class:** 12
-- **Hit Points:** 45 (6d10 + 12)
-- **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 12
+- **Хиты:** 45 (6d10 + 12)
+- **Скорость:** 40 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 11 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 8 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Understands Abyssal but can't speak
-- **CR** 2 (XP 450; PB +2)
+- **Уязвимости:** Дробящий
+- **Иммунитеты:** Ядовитый; истощение, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **Языки:** Понимает Бездонный, но не может говорить
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Actions
+### Действия
 
-***Gore.*** *Melee Attack Roll:* +6, reach 5 ft. 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
+***Бодание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 11 (2d6 + 4) Колющего урона. Если цель — Большое или меньшее существо и скелет переместился как минимум на 20 футов прямо к ней непосредственно перед попаданием, цель получает дополнительно 9 (2d8) Колющего урона и получает состояние «лежащий ничком».
 
-***Slam.*** *Melee Attack Roll:* +6, reach 5 ft. 15 (2d10 + 4) Bludgeoning damage.
+***Удар.*** *Рукопашная атака:* +6, досягаемость 5 футов. 15 (2d10 + 4) Дробящего урона.
 
-## Mummy Lord
+## Повелитель мумий
 
-*Small Undead, Lawful Evil*
+*Маленькая нежить, принципиально-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 187 (25d8 + 75)
-- **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 17
+- **Хиты:** 187 (25d8 + 75)
+- **Скорость:** 30 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 11 | +0 | +5 |
-| WIS | 19 | +4 | +9 |
-| CHA | 16 | +3 | +3 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 11 | +0 | +5 |
+| МДР | 19 | +4 | +9 |
+| ХАР | 16 | +3 | +3 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-- **Skills**: History +5, Perception +9, Religion +5
-- **Senses**: truesight 60 ft.; Passive Perception 19
-- **Languages**: Common plus three other languages
-- **CR** 15 (XP 13,000, or 15,000 in lair)
+- **Уязвимости:** Огненный
+- **Иммунитеты:** Некротический, Ядовитый; очарованный, истощение, испуганный, парализованный, отравленный
+- **Навыки:** История +5, Восприятие +9, Религия +5
+- **Чувства:** истинное зрение 60 футов; пассивное Восприятие 19
+- **Языки:** Общий и три других языка
+- **ПО** 15 (ОО 13000, или 15000 в логове)
 
-### Traits
+### Особенности
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the mummy fails a saving throw, it can choose to succeed instead.
+***Легендарное сопротивление (3/День, или 4/День в логове).*** Если мумия проваливает спасбросок, она может вместо этого преуспеть.
 
-***Magic Resistance.*** The mummy has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Мумия совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Undead Restoration.*** If destroyed, the mummy gains a new body in 24 hours if its heart is intact, reviving with all its Hit Points. The new body appears in an unoccupied space within the mummy's lair. The heart is a Tiny object that has AC 17, HP 10, and Immunity to all damage except Fire.
+***Восстановление нежити.*** Если мумия уничтожена, она получает новое тело через 24 часа, если её сердце цело, возрождаясь со всеми хитами. Новое тело появляется в свободном пространстве в логове мумии. Сердце — это Крошечный объект с КД 17, 10 хитов и иммунитетом ко всем видам урона, кроме Огненного.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Мумия совершает одну атаку гниющим кулаком или направленной негативной энергией и использует ужасающий взгляд.
 
-***Multiattack.*** The mummy makes one Rotting Fist or Channel Negative Energy attack, and it uses Dreadful Glare.
+***Гниющий кулак.*** *Рукопашная атака:* +9, досягаемость 5 футов. 15 (2d10 + 4) Дробящего урона плюс 10 (3d6) Некротического урона. Если цель — существо, она проклята. Пока проклята, цель не может восстанавливать хиты, не получает пользы от завершения продолжительного отдыха, и её максимум хитов уменьшается на 10 (3d6) каждые 24 часа. Существо умирает и превращается в прах, если его хиты опускаются до 0 от этой атаки.
 
-***Rotting Fist.*** *Melee Attack Roll:* +9, reach 5 ft. 15 (2d10 + 4) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain Hit Points, it gains no benefit from finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
+***Направленная негативная энергия.*** *Дальнобойная атака:* +9, дистанция 60 футов. 25 (6d6 + 4) Некротического урона.
 
-***Channel Negative Energy.*** *Ranged Attack Roll:* +9, range 60 ft. 25 (6d6 + 4) Necrotic damage.
+***Ужасающий взгляд.*** *Спасбросок Мудрости:* СЛ 17, одно существо, которое мумия видит в пределах 60 футов. *Провал:* 25 (6d6 + 4) Психического урона, и цель получает состояние «парализованный» до конца следующего хода мумии.
 
-***Dreadful Glare.*** *Wisdom Saving Throw*: DC 17, one creature the mummy can see within 60 feet. *Failure:*  25 (6d6 + 4) Psychic damage, and the target has the Paralyzed condition until the end of the mummy's next turn.
+***Сотворение заклинаний.*** Мумия творит одно из следующих заклинаний, не требуя материальных компонентов и используя Мудрость как заклинательную характеристику (СЛ спасброска 17, +9 к попаданию атаками заклинаниями):
 
-***Spellcasting.*** The mummy casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):
+- **По желанию:** *рассеивание магии*, *чудотворство*
+- **1/День каждое:** *оживление мёртвых*, *вред*, *нашествие насекомых*
 
-- **At Will:** *Dispel Magic*, *Thaumaturgy*
-- **1e/Day Each:** *Animate Dead*, *Harm*, *Insect Plague*
+### Легендарные действия
 
-### Legendary Actions
+***Взгляд.*** Мумия использует ужасающий взгляд. Мумия не может совершить это действие снова до начала своего следующего хода.
 
-***Glare.*** The mummy uses Dreadful Glare. The mummy can't take this action again until the start of its next turn.
+***Некротический удар.*** Мумия совершает одну атаку гниющим кулаком или направленной негативной энергией.
 
-***Necrotic Strike.*** The mummy makes one Rotting Fist or Channel Negative Energy attack.
+***Ужасный приказ.*** Мумия творит *приказ* (версия 2-го уровня), используя ту же заклинательную характеристику, что и для сотворения заклинаний. Мумия не может совершить это действие снова до начала своего следующего хода.
 
-***Dread Command.*** The mummy casts *Command* (level 2 version), using the same spellcasting ability as Spellcasting. The mummy can't take this action again until the start of its next turn.
-## Mummy
+## Мумия
 
-*Small Undead, Lawful Evil*
+*Маленькая нежить, принципиально-злой*
 
-- **Armor Class:** 11
-- **Hit Points:** 58 (9d8 + 18)
-- **Speed:** 20 ft.
-- **Initiative**: -1 (9)
+- **Класс доспеха:** 11
+- **Хиты:** 58 (9d8 + 18)
+- **Скорость:** 20 футов
+- **Инициатива:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 8 | -1 | -1 |
-| CON | 15 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 12 | +1 | +3 |
-| CHA | 12 | +1 | +1 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 12 | +1 | +3 |
+| ХАР | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Fire
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common plus two other languages
-- **CR** 3 (XP 700; PB +2)
+- **Уязвимости:** Огненный
+- **Иммунитеты:** Некротический, Ядовитый; очарованный, истощение, испуганный, парализованный, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **Языки:** Общий и два других языка
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The mummy makes two Rotting Fist attacks and uses Dreadful Glare.
+***Мультиатака.*** Мумия совершает две атаки гниющим кулаком и использует ужасающий взгляд.
 
-***Rotting Fist.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Bludgeoning damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target can't regain Hit Points, its Hit Point maximum doesn't return to normal when finishing a Long Rest, and its Hit Point maximum decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 Hit Points by this attack.
+***Гниющий кулак.*** *Рукопашная атака:* +5, досягаемость 5 футов. 8 (1d10 + 3) Дробящего урона плюс 10 (3d6) Некротического урона. Если цель — существо, она проклята. Пока проклята, цель не может восстанавливать хиты, её максимум хитов не возвращается к норме при завершении продолжительного отдыха, и её максимум хитов уменьшается на 10 (3d6) каждые 24 часа. Существо умирает и превращается в прах, если его хиты опускаются до 0 от этой атаки.
 
-***Dreadful Glare.*** *Wisdom Saving Throw*: DC 11, one creature the mummy can see within 60 feet. *Failure:*  The target has the Frightened condition until the end of the mummy's next turn. *Success:*  The target is immune to this mummy's Dreadful Glare for 24 hours.
+***Ужасающий взгляд.*** *Спасбросок Мудрости:* СЛ 11, одно существо, которое мумия видит в пределах 60 футов. *Провал:* Цель получает состояние «испуганный» до конца следующего хода мумии. *Успех:* Цель получает иммунитет к ужасающему взгляду этой мумии на 24 часа.
 
-## Nalfeshnee
+## Налфешни
 
-*Large Fiend (Demon), Chaotic Evil*
+*Большое исчадие (демон), хаотично-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 184 (16d10 + 96)
-- **Speed:** 20 ft., Fly 30 ft.
-- **Initiative**: +5 (15)
+- **Класс доспеха:** 18
+- **Хиты:** 184 (16d10 + 96)
+- **Скорость:** 20 футов, полёт 30 футов
+- **Инициатива:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 10 | +0 | +0 |
-| CON | 22 | +6 | +11 |
-| INT | 19 | +4 | +9 |
-| WIS | 12 | +1 | +6 |
-| CHA | 15 | +2 | +7 |
-
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Frightened, Poisoned
-- **Senses**: truesight 120 ft.; Passive Perception 11
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 13 (XP 10,000; PB +5)
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 22 | +6 | +11 |
+| ИНТ | 19 | +4 | +9 |
+| МДР | 12 | +1 | +6 |
+| ХАР | 15 | +2 | +7 |
 
-### Traits
+- **Сопротивления:** Холодный, Огненный, Электрический
+- **Иммунитеты:** Ядовитый; испуганный, отравленный
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 11
+- **Языки:** Бездонный; телепатия 120 футов
+- **ПО** 13 (ОО 10000; БМ +5)
 
-***Demonic Restoration.*** If the nalfeshnee dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+### Особенности
 
-***Magic Resistance.*** The nalfeshnee has Advantage on saving throws against spells and other magical effects.
+***Демоническое восстановление.*** Если налфешни умирает за пределами Бездны, его тело растворяется в ихоре, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Бездне.
 
+***Сопротивление магии.*** Налфешни совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-### Actions
+### Действия
 
-***Multiattack.*** The nalfeshnee makes three Rend attacks.
+***Мультиатака.*** Налфешни совершает три атаки раздиранием.
 
-***Rend.*** *Melee Attack Roll:* +10, reach 10 ft. 16 (2d10 + 5) Slashing damage plus 11 (2d10) Force damage.
+***Раздирание.*** *Рукопашная атака:* +10, досягаемость 10 футов. 16 (2d10 + 5) Рубящего урона плюс 11 (2d10) Силового урона.
 
-***Teleport.*** The nalfeshnee teleports up to 120 feet to an unoccupied space it can see.
+***Телепортация.*** Налфешни телепортируется на расстояние до 120 футов в свободное пространство, которое он видит.
 
+### Бонусные действия
 
-### Bonus Actions
+***Нимб ужаса (Перезарядка 5-6).*** *Спасбросок Мудрости:* СЛ 15, каждое существо в 15-футовой эманации от налфешни. *Провал:* 28 (8d6) Психического урона, и цель получает состояние «испуганный» на 1 минуту, пока не получит урон или пока не закончит свой ход, не видя налфешни. *Успех:* Цель получает иммунитет к нимбу ужаса этого налфешни на 24 часа.
 
-***Horror Nimbus (Recharge 5-6).*** *Wisdom Saving Throw*: DC 15, each creature in a 15-foot Emanation originating from the nalfeshnee. *Failure:*  28 (8d6) Psychic damage, and the target has the Frightened condition for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee out of line of sight. *Success:*  The target is immune to this nalfeshnee's Horror Nimbus for 24 hours.
+## Ночная карга
 
-## Night Hag
+*Среднее исчадие, нейтрально-злой*
 
-*Medium Fiend, Neutral Evil*
+- **Класс доспеха:** 17
+- **Хиты:** 112 (15d8 + 45)
+- **Скорость:** 30 футов
+- **Инициатива:** +5 (15)
 
-- **Armor Class:** 17
-- **Hit Points:** 112 (15d8 + 45)
-- **Speed:** 30 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| WIS | 14 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
-
-- **Resistances**: Cold, Fire
-- **Immunities**: Charmed
-- **Skills**: Deception +6, Insight +5, Perception +5, Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 15
-- **Languages**: Abyssal, Common, Infernal, Primordial
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 16 | +3 | +3 |
 
-### Traits
+- **Сопротивления:** Холодный, Огненный
+- **Иммунитеты:** Очарованный
+- **Навыки:** Обман +6, Проницательность +5, Восприятие +5, Скрытность +5
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 15
+- **Языки:** Бездонный, Общий, Инфернальный, Первичный
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Magic Resistance.*** The hag has Advantage on saving throws against spells and other magical effects.
+### Особенности
 
-***Soul Bag.*** The hag has a soul bag. While holding or carrying the bag, the hag can use its Nightmare Haunting action.
-The bag has AC 15, HP 20, and Resistance to all damage. The bag turns to dust if reduced to 0 Hit Points. If the bag is destroyed, any souls the bag is holding are released. The hag can create a new bag after 7 days.
+***Сопротивление магии.*** Карга совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+***Мешок душ.*** У карги есть мешок душ. Пока она держит или несёт мешок, карга может использовать действие «Кошмарное преследование».
+Мешок имеет КД 15, 20 хитов и сопротивление ко всем видам урона. Мешок превращается в прах, если его хиты опускаются до 0. Если мешок уничтожен, все души, которые он содержит, освобождаются. Карга может создать новый мешок через 7 дней.
 
-### Actions
+### Действия
 
-***Multiattack.*** The hag makes two Claw attacks.
+***Мультиатака.*** Карга совершает две атаки когтями.
 
-***Claw.*** *Melee Attack Roll:* +7, reach 5 ft. 13 (2d8 + 4) Slashing damage.
+***Коготь.*** *Рукопашная атака:* +7, досягаемость 5 футов. 13 (2d8 + 4) Рубящего урона.
 
-***Spellcasting.*** The hag casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14):
+***Сотворение заклинаний.*** Карга творит одно из следующих заклинаний, не требуя материальных компонентов и используя Интеллект как заклинательную характеристику (СЛ спасброска 14):
 
-- **At Will:** *Detect Magic*, *Etherealness*, *Magic Missile*
-- **2e/Day Each:** *Phantasmal Killer*, *Plane Shift*
-***Nightmare Haunting (1/Day; Requires Soul Bag).*** While on the Ethereal Plane, the hag casts *Dream*, using the same spellcasting ability as Spellcasting. Only the hag can serve as the spell's messenger, and the target must be a creature the hag can see on the Material Plane. The spell fails and is wasted if the target is under the effect of the *Protection from Evil and Good* spell or within a *Magic Circle* spell.
-If the target takes damage from the *Dream* spell, the target's Hit Point maximum decreases by an amount equal to that damage. If the spell kills the target, its soul is trapped in the hag's soul bag, and the target can't be raised from the dead until its soul is released.
+- **По желанию:** *обнаружение магии*, *эфирность*, *волшебная стрела*
+- **2/День каждое:** *фантазматический убийца*, *уход в иной мир*
 
-- **At Will:** 
-- **1/Day Each:** *Dream*, *Protection from Evil and Good*, *Magic Circle*
+***Кошмарное преследование (1/День; Требует мешок душ).*** Находясь на Эфирном Плане, карга творит *мечту*, используя ту же заклинательную характеристику, что и для сотворения заклинаний. Только карга может быть посланником заклинания, и цель должна быть существом, которое карга видит на Материальном Плане. Заклинание проваливается и тратится, если цель находится под действием заклинания *защита от добра и зла* или внутри заклинания *магический круг*.
+Если цель получает урон от заклинания *мечта*, максимум хитов цели уменьшается на величину этого урона. Если заклинание убивает цель, её душа попадает в мешок душ карги, и цель не может быть воскрешена, пока её душа не освобождена.
 
-### Bonus Actions
+### Бонусные действия
 
-***Shape-Shift.*** The hag shape-shifts into a Small or Medium Humanoid, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+***Смена облика.*** Карга принимает облик Маленького или Среднего гуманоида, либо возвращается в свою истинную форму. Кроме размера, её игровые характеристики одинаковы в каждой форме. Любое снаряжение, которое она носит или несёт, не трансформируется.
 
-## Nightmare
+## Кошмар
 
-*Large Fiend, Neutral Evil*
+*Большое исчадие, нейтрально-злой*
 
-- **Armor Class:** 13
-- **Hit Points:** 68 (8d10 + 24)
-- **Speed:** 60 ft., Fly 90 ft. (hover)
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 13
+- **Хиты:** 68 (8d10 + 24)
+- **Скорость:** 60 футов, полёт 90 футов (парение)
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 15 | +2 | +2 |
 
-- **Immunities**: Fire
-- **Senses**: Passive Perception 11
-- **Languages**: Understands Abyssal, Common, And Infernal but can't speak
-- **CR** 3 (XP 700; PB +2)
+- **Иммунитеты:** Огненный
+- **Чувства:** пассивное Восприятие 11
+- **Языки:** Понимает Бездонный, Общий и Инфернальный, но не может говорить
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Traits
+### Особенности
 
-***Confer Fire Resistance.*** The nightmare can grant Resistance to Fire damage to a rider while it is on the nightmare.
+***Дарование сопротивления огню.*** Кошмар может даровать сопротивление к Огненному урону наезднику, пока тот находится на кошмаре.
 
-***Illumination.*** The nightmare sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+***Свечение.*** Кошмар испускает яркий свет в радиусе 10 футов и тусклый свет ещё на 10 футов.
 
+### Действия
 
-### Actions
+***Копыта.*** *Рукопашная атака:* +6, досягаемость 5 футов. 13 (2d8 + 4) Дробящего урона плюс 10 (3d6) Огненного урона.
 
-***Hooves.*** *Melee Attack Roll:* +6, reach 5 ft. 13 (2d8 + 4) Bludgeoning damage plus 10 (3d6) Fire damage.
+***Эфирный шаг.*** Кошмар и до трёх согласных существ в пределах 5 футов от него телепортируются на Эфирный План с Материального Плана или наоборот.
 
-***Ethereal Stride.*** The nightmare and up to three willing creatures within 5 feet of it teleport to the Ethereal Plane from the Material Plane or vice versa.
+## Дворянин
 
-## Noble
+*Маленький гуманоид, нейтральный*
 
-*Small Humanoid, Neutral*
+- **Класс доспеха:** 15
+- **Хиты:** 9 (2d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 15
-- **Hit Points:** 9 (2d8)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 12 | +1 | +1 |
-| CON | 11 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 16 | +3 | +3 |
 
-- **Skills**: Deception +5, Insight +4, Persuasion +5
-- **Gear** Breastplate, Rapier
-- **Senses**: Passive Perception 12
-- **Languages**: Common plus two other languages
-- **CR** 1/8 (XP 25; PB +2)
+- **Навыки:** Обман +5, Проницательность +4, Убеждение +5
+- **Снаряжение:** Кираса, рапира
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий и два других языка
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-### Actions
+### Действия
 
-***Rapier.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d8 + 1) Piercing damage.
+***Рапира.*** *Рукопашная атака:* +3, досягаемость 5 футов. 5 (1d8 + 1) Колющего урона.
 
-## Ochre Jelly
+## Охровый студень
 
-*Large Ooze, Unaligned*
+*Большая слизь, без мировоззрения*
 
-- **Armor Class:** 8
-- **Hit Points:** 52 (7d10 + 14)
-- **Speed:** 20 ft., Climb 20 ft.
-- **Initiative**: -2 (8)
+- **Класс доспеха:** 8
+- **Хиты:** 52 (7d10 + 14)
+- **Скорость:** 20 футов, лазание 20 футов
+- **Инициатива:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 6 | -2 | -2 |
-| CON | 14 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 6 | -2 | -2 |
-| CHA | 1 | -5 | -5 |
-
-- **Resistances**: Acid
-- **Immunities**: Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-- **Senses**: blindsight 60 ft.; Passive Perception 8
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 6 | -2 | -2 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 6 | -2 | -2 |
+| ХАР | 1 | -5 | -5 |
 
-### Traits
+- **Сопротивления:** Кислотный
+- **Иммунитеты:** Электрический, Рубящий; очарованный, оглохший, истощение, испуганный, схваченный, лежащий ничком, опутанный
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 8
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Amorphous.*** The jelly can move through a space as narrow as 1 inch without expending extra movement to do so.
+### Особенности
 
-***Spider Climb.*** The jelly can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+***Аморфность.*** Студень может проходить через пространство шириной до 1 дюйма без затрат дополнительного перемещения.
 
+***Паучье лазание.*** Студень может лазать по сложным поверхностям, включая потолки, без необходимости совершать проверки характеристик.
 
-### Actions
+### Действия
 
-***Pseudopod.*** *Melee Attack Roll:* +4, reach 5 ft. 12 (3d6 + 2) Acid damage.
+***Ложноножка.*** *Рукопашная атака:* +4, досягаемость 5 футов. 12 (3d6 + 2) урона Кислотой.
 
-## Ogre
+## Огр
 
-*Large Giant, Chaotic Evil*
+*Большой великан, хаотично-злой*
 
-- **Armor Class:** 11
-- **Hit Points:** 68 (8d10 + 24)
-- **Speed:** 40 ft.
-- **Initiative**: -1 (9)
+- **Класс доспеха:** 11
+- **Хиты:** 68 (8d10 + 24)
+- **Скорость:** 40 футов
+- **Инициатива:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 7 | -2 | -2 |
-| CHA | 7 | -2 | -2 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 7 | -2 | -2 |
+| ХАР | 7 | -2 | -2 |
 
-- **Gear** Greatclub, Javelin x 3
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Common, Giant
-- **CR** 2 (XP 450; PB +2)
+- **Снаряжение:** Палица, метательное копьё x 3
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 8
+- **Языки:** Общий, Великаний
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Actions
+### Действия
 
-***Greatclub.*** *Melee Attack Roll:* +6, reach 5 ft. 13 (2d8 + 4) Bludgeoning damage.
+***Палица.*** *Рукопашная атака:* +6, досягаемость 5 футов. 13 (2d8 + 4) Дробящего урона.
 
-***Javelin.*** *Melee or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft. 11 (2d6 + 4) Piercing damage.
+***Метательное копьё.*** *Рукопашная атака или атака дальнего боя:* +6, досягаемость 5 футов или дистанция 30/120 футов. 11 (2d6 + 4) Колющего урона.
 
-## Ogre Zombie
+## Огр-зомби
 
-*Large Undead, Neutral Evil*
+*Большая нежить, нейтрально-злой*
 
-- **Armor Class:** 8
-- **Hit Points:** 85 (9d10 + 36)
-- **Speed:** 30 ft.
-- **Initiative**: -2 (8)
+- **Класс доспеха:** 8
+- **Хиты:** 85 (9d10 + 36)
+- **Скорость:** 30 футов
+- **Инициатива:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 6 | -2 | -2 |
-| CON | 18 | +4 | +4 |
-| INT | 3 | -4 | -4 |
-| WIS | 6 | -2 | +0 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 6 | -2 | -2 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 6 | -2 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Understands Common and Giant but can't speak
-- **CR** 2 (XP 450; PB +2)
+- **Иммунитеты:** Ядовитый; истощение, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 8
+- **Языки:** Понимает Общий и Великаний, но не может говорить
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Traits
+### Особенности
 
-***Undead Fortitude.*** If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
+***Стойкость нежити.*** Если урон опускает хиты зомби до 0, он совершает спасбросок Телосложения (СЛ 5 плюс полученный урон), если только урон не является уроном Излучением или от критического попадания. При успехе хиты зомби опускаются до 1 вместо 0.
 
+### Действия
 
-### Actions
+***Удар.*** *Рукопашная атака:* +6, досягаемость 5 футов. 13 (2d8 + 4) Дробящего урона.
 
-***Slam.*** *Melee Attack Roll:* +6, reach 5 ft. 13 (2d8 + 4) Bludgeoning damage.
+## Они
 
-## Oni
+*Большое исчадие, принципиально-злой*
 
-*Large Fiend, Lawful Evil*
+- **Класс доспеха:** 17
+- **Хиты:** 119 (14d10 + 42)
+- **Скорость:** 30 футов, полёт 30 футов (парение)
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 17
-- **Hit Points:** 119 (14d10 + 42)
-- **Speed:** 30 ft., Fly 30 ft. (hover)
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 11 | +0 | +3 |
-| CON | 16 | +3 | +6 |
-| INT | 14 | +2 | +2 |
-| WIS | 12 | +1 | +4 |
-| CHA | 15 | +2 | +5 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 11 | +0 | +3 |
+| ТЕЛ | 16 | +3 | +6 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 12 | +1 | +4 |
+| ХАР | 15 | +2 | +5 |
 
-- **Resistances**: Cold
-- **Skills**: Arcana +5, Deception +8, Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common, Giant
-- **CR** 7 (XP 2,900; PB +3)
+- **Сопротивления:** Холодный
+- **Навыки:** Магия +5, Обман +8, Восприятие +4
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Общий, Великаний
+- **ПО** 7 (ОО 2900; БМ +3)
 
-### Traits
+### Особенности
 
-***Regeneration.*** The oni regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
+***Регенерация.*** Они восстанавливает 10 хитов в начале каждого своего хода, если у него есть хотя бы 1 хит.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Они совершает две атаки когтями или кошмарным лучом. Он может заменить одну атаку использованием сотворения заклинаний.
 
-***Multiattack.*** The oni makes two Claw or Nightmare Ray attacks. It can replace one attack with a use of Spellcasting.
+***Коготь.*** *Рукопашная атака:* +7, досягаемость 10 футов. 10 (1d12 + 4) Рубящего урона плюс 9 (2d8) Некротического урона.
 
-***Claw.*** *Melee Attack Roll:* +7, reach 10 ft. 10 (1d12 + 4) Slashing damage plus 9 (2d8) Necrotic damage.
+***Кошмарный луч.*** *Дальнобойная атака:* +5, дистанция 60 футов. 9 (2d6 + 2) Психического урона, и цель получает состояние «испуганный» до начала следующего хода они.
 
-***Nightmare Ray.*** *Ranged Attack Roll:* +5, range 60 ft. 9 (2d6 + 2) Psychic damage, and the target has the Frightened condition until the start of the oni's next turn.
+***Смена облика.*** Они принимает облик Маленького или Среднего гуманоида или Большого великана, либо возвращается в свою истинную форму. Кроме размера, его игровые характеристики одинаковы в каждой форме. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-***Shape-Shift.*** The oni shape-shifts into a Small or Medium Humanoid or a Large Giant, or it returns to its true form. Other than its size, its game statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+***Сотворение заклинаний.*** Они творит одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (СЛ спасброска 13):
 
-***Spellcasting.*** The oni casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 13):
+- **1/День каждое:** *очарование личности*, *тьма*, *газообразная форма*, *сон*
 
-- **At Will:** 
-- **1e/Day Each:** *Charm Person*, *Darkness*, *Gaseous Form*, *Sleep*
+### Бонусные действия
 
-### Bonus Actions
+***Невидимость.*** Они творит *невидимость* на себя, не требуя компонентов заклинания и используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-***Invisibility.*** The oni casts *Invisibility* on itself, requiring no spell components and using the same spellcasting ability as Spellcasting.
-## Otyugh
+## Отиуг
 
-*Large Aberration, Neutral*
+*Большая аберрация, нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 104 (11d10 + 44)
-- **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 14
+- **Хиты:** 104 (11d10 + 44)
+- **Скорость:** 30 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 11 | +0 | +0 |
-| CON | 19 | +4 | +7 |
-| INT | 6 | -2 | -2 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 19 | +4 | +7 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 6 | -2 | -2 |
 
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
-- **CR** 5 (XP 1,800; PB +3)
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 11
+- **Языки:** Отиугский; телепатия 120 футов (не позволяет принимающему существу отвечать телепатически)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The otyugh makes one Bite attack and two Tentacle attacks.
+***Мультиатака.*** Отиуг совершает одну атаку укусом и две атаки щупальцами.
 
-***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 12 (2d8 + 3) Piercing damage, and the target has the Poisoned condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect. *Constitution Saving Throw*: DC 15. *Failure:*  The target's Hit Point maximum decreases by 5 (1d10) and doesn't return to normal until the Poisoned condition ends on the target. *Success:*  The Poisoned condition ends.
+***Укус.*** *Рукопашная атака:* +6, досягаемость 5 футов. 12 (2d8 + 3) Колющего урона, и цель получает состояние «отравленный». Каждый раз, когда отравленная цель завершает продолжительный отдых, она подвергается следующему эффекту. *Спасбросок Телосложения:* СЛ 15. *Провал:* Максимум хитов цели уменьшается на 5 (1d10) и не возвращается к норме, пока состояние «отравленный» не закончится. *Успех:* Состояние «отравленный» заканчивается.
 
-***Tentacle.*** *Melee Attack Roll:* +6, reach 10 ft. 12 (2d8 + 3) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two tentacles.
+***Щупальце.*** *Рукопашная атака:* +6, досягаемость 10 футов. 12 (2d8 + 3) Колющего урона. Если цель — Среднее или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 13) одним из двух щупалец.
 
-***Tentacle Slam.*** *Constitution Saving Throw*: DC 14, each creature Grappled by the otyugh. *Failure:*  16 (3d8 + 3) Bludgeoning damage, and the target has the Stunned condition until the start of the otyugh's next turn. *Success:*  Half damage only.
+***Удар щупальцами.*** *Спасбросок Телосложения:* СЛ 14, каждое существо, схваченное отиугом. *Провал:* 16 (3d8 + 3) Дробящего урона, и цель получает состояние «оглушённый» до начала следующего хода отиуга. *Успех:* Только половина урона.
 
-## Owlbear
+## Совомедведь
 
-*Large Monstrosity, Unaligned*
+*Большая чудовищность, без мировоззрения*
 
-- **Armor Class:** 13
-- **Hit Points:** 59 (7d10 + 21)
-- **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 13
+- **Хиты:** 59 (7d10 + 21)
+- **Скорость:** 40 футов, лазание 40 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 20 | +5 | +5 |
-| DEX | 12 | +1 | +1 |
-| CON | 17 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| WIS | 12 | +1 | +1 |
-| CHA | 7 | -2 | -2 |
+| СИЛ | 20 | +5 | +5 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 7 | -2 | -2 |
 
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **CR** 3 (XP 700; PB +2)
+- **Навыки:** Восприятие +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The owlbear makes two Rend attacks.
+***Мультиатака.*** Совомедведь совершает две атаки раздиранием.
 
-***Rend.*** *Melee Attack Roll:* +7, reach 5 ft. 14 (2d8 + 5) Slashing damage.
+***Раздирание.*** *Рукопашная атака:* +7, досягаемость 5 футов. 14 (2d8 + 5) Рубящего урона.
 
-## Pegasus
+## Пегас
 
-*Large Celestial, Chaotic Good*
+*Большое небожитель, хаотично-добрый*
 
-- **Armor Class:** 12
-- **Hit Points:** 59 (7d10 + 21)
-- **Speed:** 60 ft., Fly 90 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 12
+- **Хиты:** 59 (7d10 + 21)
+- **Скорость:** 60 футов, полёт 90 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +4 |
-| CON | 16 | +3 | +5 |
-| INT | 10 | +0 | +0 |
-| WIS | 15 | +2 | +4 |
-| CHA | 13 | +1 | +3 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 15 | +2 | +4 |
+| ТЕЛ | 16 | +3 | +5 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 15 | +2 | +4 |
+| ХАР | 13 | +1 | +3 |
 
-- **Skills**: Perception +6
-- **Senses**: Passive Perception 16
-- **Languages**: Understands Celestial, Common, Elvish, And Sylvan but can't speak
-- **CR** 2 (XP 450; PB +2)
+- **Навыки:** Восприятие +6
+- **Чувства:** пассивное Восприятие 16
+- **Языки:** Понимает Небесный, Общий, Эльфийский и Сильванский, но не может говорить
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Actions
+### Действия
 
-***Hooves.*** *Melee Attack Roll:* +6, reach 5 ft. 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage.
+***Копыта.*** *Рукопашная атака:* +6, досягаемость 5 футов. 7 (1d6 + 4) Дробящего урона плюс 5 (2d4) урона Излучением.
 
-## Phase Spider
+## Фазовый паук
 
-*Large Monstrosity, Unaligned*
+*Большая чудовищность, без мировоззрения*
 
-- **Armor Class:** 14
-- **Hit Points:** 45 (7d10 + 7)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 14
+- **Хиты:** 45 (7d10 + 7)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 6 | -2 | -2 |
-
-- **Skills**: Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **CR** 3 (XP 700; PB +2)
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 6 | -2 | -2 |
 
-### Traits
+- **Навыки:** Скрытность +7
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Ethereal Sight.*** The spider can see 60 feet into the Ethereal Plane while on the Material Plane and vice versa.
+### Особенности
 
-***Spider Climb.*** The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+***Эфирное зрение.*** Паук видит на 60 футов на Эфирный План, находясь на Материальном Плане, и наоборот.
 
-***Web Walker.*** The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
+***Паучье лазание.*** Паук может лазать по сложным поверхностям, включая потолки, без необходимости совершать проверки характеристик.
 
+***Хождение по паутине.*** Паук игнорирует ограничения перемещения, вызванные паутиной, и знает местоположение любого другого существа, контактирующего с той же паутиной.
 
-### Actions
+### Действия
 
-***Multiattack.*** The spider makes two Bite attacks.
+***Мультиатака.*** Паук совершает две атаки укусом.
 
-***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 8 (1d10 + 3) Piercing damage plus 9 (2d8) Poison damage. If this damage reduces the target to 0 Hit Points, the target becomes Stable, and it has the Poisoned condition for 1 hour. While Poisoned, the target also has the Paralyzed condition.
+***Укус.*** *Рукопашная атака:* +5, досягаемость 5 футов. 8 (1d10 + 3) Колющего урона плюс 9 (2d8) Ядовитого урона. Если этот урон опускает хиты цели до 0, цель становится стабильной и получает состояние «отравленный» на 1 час. Пока отравлена, цель также имеет состояние «парализованный».
 
+### Бонусные действия
 
-### Bonus Actions
+***Эфирный скачок.*** Паук телепортируется с Материального Плана на Эфирный План или наоборот.
 
-***Ethereal Jaunt.*** The spider teleports from the Material Plane to the Ethereal Plane or vice versa.
+## Капитан пиратов
 
-## Pirate Captain
+*Маленький гуманоид, нейтральный*
 
-*Small Humanoid, Neutral*
+- **Класс доспеха:** 17
+- **Хиты:** 84 (13d8 + 26)
+- **Скорость:** 30 футов
+- **Инициатива:** +7 (17)
 
-- **Armor Class:** 17
-- **Hit Points:** 84 (13d8 + 26)
-- **Speed:** 30 ft.
-- **Initiative**: +7 (17)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +3 |
-| DEX | 18 | +4 | +7 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +5 |
-| CHA | 17 | +3 | +6 |
-
-- **Skills**: Acrobatics +7, Perception +5
-- **Gear** Pistol, Rapier
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
-- **CR** 6 (XP 2,300; PB +3)
+| СИЛ | 10 | +0 | +3 |
+| ЛОВ | 18 | +4 | +7 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 14 | +2 | +5 |
+| ХАР | 17 | +3 | +6 |
 
-### Actions
+- **Навыки:** Акробатика +7, Восприятие +5
+- **Снаряжение:** Пистолет, рапира
+- **Чувства:** пассивное Восприятие 15
+- **Языки:** Общий и один другой язык
+- **ПО** 6 (ОО 2300; БМ +3)
 
-***Multiattack.*** The pirate makes three attacks, using Rapier or Pistol in any combination.
+### Действия
 
-***Rapier.*** *Melee Attack Roll:* +7, reach 5 ft. 13 (2d8 + 4) Piercing damage, and the pirate has Advantage on the next attack roll it makes before the end of this turn.
+***Мультиатака.*** Пират совершает три атаки, используя рапиру или пистолет в любой комбинации.
 
-***Pistol.*** *Ranged Attack Roll:* +7, range 30/90 ft. 15 (2d10 + 4) Piercing damage.
+***Рапира.*** *Рукопашная атака:* +7, досягаемость 5 футов. 13 (2d8 + 4) Колющего урона, и пират совершает с преимуществом следующий бросок атаки до конца этого хода.
 
+***Пистолет.*** *Дальнобойная атака:* +7, дистанция 30/90 футов. 15 (2d10 + 4) Колющего урона.
 
-### Bonus Actions
+### Бонусные действия
 
-***Captain's Charm.*** *Wisdom Saving Throw*: DC 14, one creature the pirate can see within 30 feet. *Failure:*  The target has the Charmed condition until the start of the pirate's next turn.
+***Очарование капитана.*** *Спасбросок Мудрости:* СЛ 14, одно существо, которое пират видит в пределах 30 футов. *Провал:* Цель получает состояние «очарованный» до начала следующего хода пирата.
 
-## Pirate
+## Пират
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 30 ft.
-- **Initiative**: +5 (15)
+- **Класс доспеха:** 14
+- **Хиты:** 33 (6d8 + 6)
+- **Скорость:** 30 футов
+- **Инициатива:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 16 | +3 | +5 |
-| CON | 12 | +1 | +1 |
-| INT | 8 | -1 | -1 |
-| WIS | 12 | +1 | +1 |
-| CHA | 14 | +2 | +4 |
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 16 | +3 | +5 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 8 | -1 | -1 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 14 | +2 | +4 |
 
-- **Gear** Dagger x 6, Leather Armor
-- **Senses**: Passive Perception 11
-- **Languages**: Common plus one other language
-- **CR** 1 (XP 200; PB +2)
+- **Снаряжение:** Кинжал x 6, кожаный доспех
+- **Чувства:** пассивное Восприятие 11
+- **Языки:** Общий и один другой язык
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The pirate makes two Dagger attacks. It can replace one attack with a use of Enthralling Panache.
+***Мультиатака.*** Пират совершает две атаки кинжалом. Он может заменить одну атаку использованием увлекающего шарма.
 
-***Dagger.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. 5 (1d4 + 3) Piercing damage.
+***Кинжал.*** *Рукопашная атака или атака дальнего боя:* +5, досягаемость 5 футов или дистанция 20/60 футов. 5 (1d4 + 3) Колющего урона.
 
-***Enthralling Panache.*** *Wisdom Saving Throw*: DC 12, one creature the pirate can see within 30 feet. *Failure:*  The target has the Charmed condition until the start of the pirate's next turn.
+***Увлекающий шарм.*** *Спасбросок Мудрости:* СЛ 12, одно существо, которое пират видит в пределах 30 футов. *Провал:* Цель получает состояние «очарованный» до начала следующего хода пирата.
 
-## Pit Fiend
+## Дьявол бездны
 
-*Large Fiend (Devil), Lawful Evil*
+*Большое исчадие (дьявол), принципиально-злой*
 
-- **Armor Class:** 21
-- **Hit Points:** 337 (27d10 + 189)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +14 (24)
+- **Класс доспеха:** 21
+- **Хиты:** 337 (27d10 + 189)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +14 (24)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 14 | +2 | +8 |
-| CON | 24 | +7 | +7 |
-| INT | 22 | +6 | +6 |
-| WIS | 18 | +4 | +10 |
-| CHA | 24 | +7 | +7 |
+| СИЛ | 26 | +8 | +8 |
+| ЛОВ | 14 | +2 | +8 |
+| ТЕЛ | 24 | +7 | +7 |
+| ИНТ | 22 | +6 | +6 |
+| МДР | 18 | +4 | +10 |
+| ХАР | 24 | +7 | +7 |
 
-- **Resistances**: Cold
-- **Immunities**: Fire, Poison; Poisoned
-- **Skills**: Perception +10, Persuasion +19
-- **Senses**: truesight 120 ft.; Passive Perception 20
-- **Languages**: Infernal; telepathy 120 ft.
-- **CR** 20 (XP 25,000; PB +6)
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Огненный, Ядовитый; отравленный
+- **Навыки:** Восприятие +10, Убеждение +19
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 20
+- **Языки:** Инфернальный; телепатия 120 футов
+- **ПО** 20 (ОО 25000; БМ +6)
 
-### Traits
+### Особенности
 
-***Diabolical Restoration.*** If the pit fiend dies outside the Nine Hells, its body disappears in sulfurous smoke, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+***Дьявольское восстановление.*** Если дьявол бездны умирает за пределами Девяти Преисподних, его тело исчезает в серном дыму, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
-***Fear Aura.*** The pit fiend emanates an aura in a 20-foot Emanation while it doesn't have the Incapacitated condition. *Wisdom Saving Throw*: DC 21, any enemy that starts its turn in the aura. *Failure:*  The target has the Frightened condition until the start of its next turn. *Success:*  The target is immune to this pit fiend's aura for 24 hours.
+***Аура страха.*** Дьявол бездны излучает ауру в 20-футовой эманации, пока не имеет состояния «недееспособный». *Спасбросок Мудрости:* СЛ 21, любой враг, начинающий свой ход в ауре. *Провал:* Цель получает состояние «испуганный» до начала своего следующего хода. *Успех:* Цель получает иммунитет к ауре этого дьявола бездны на 24 часа.
 
-***Legendary Resistance (4/Day).*** If the pit fiend fails a saving throw, it can choose to succeed instead.
+***Легендарное сопротивление (4/День).*** Если дьявол бездны проваливает спасбросок, он может вместо этого преуспеть.
 
-***Magic Resistance.*** The pit fiend has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Дьявол бездны совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дьявол бездны совершает одну атаку укусом, две атаки дьявольским когтем и одну атаку огненной булавой.
 
-***Multiattack.*** The pit fiend makes one Bite attack, two Devilish Claw attacks, and one Fiery Mace attack.
+***Укус.*** *Рукопашная атака:* +14, досягаемость 10 футов. 18 (3d6 + 8) Колющего урона. Если цель — существо, она должна совершить следующий спасбросок. *Спасбросок Телосложения:* СЛ 21. *Провал:* Цель получает состояние «отравленный». Пока отравлена, цель не может восстанавливать хиты и получает 21 (6d6) Ядовитого урона в начале каждого своего хода, и она повторяет спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Через 1 минуту она автоматически преуспевает.
 
-***Bite.*** *Melee Attack Roll:* +14, reach 10 ft. 18 (3d6 + 8) Piercing damage. If the target is a creature, it must make the following saving throw. *Constitution Saving Throw*: DC 21. *Failure:*  The target has the Poisoned condition. While Poisoned, the target can't regain Hit Points and takes 21 (6d6) Poison damage at the start of each of its turns, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Дьявольский коготь.*** *Рукопашная атака:* +14, досягаемость 10 футов. 26 (4d8 + 8) Некротического урона.
 
-***Devilish Claw.*** *Melee Attack Roll:* +14, reach 10 ft. 26 (4d8 + 8) Necrotic damage.
+***Огненная булава.*** *Рукопашная атака:* +14, досягаемость 10 футов. 22 (4d6 + 8) Силового урона плюс 21 (6d6) Огненного урона.
 
-***Fiery Mace.*** *Melee Attack Roll:* +14, reach 10 ft. 22 (4d6 + 8) Force damage plus 21 (6d6) Fire damage.
+***Сотворение адского пламени (Перезарядка 4-6).*** Дьявол бездны творит *огненный шар* (версия 5-го уровня) дважды, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (СЛ спасброска 21). Он может заменить один *огненный шар* на *удержание чудовища* (версия 7-го уровня) или *огненную стену*.
 
-***Hellfire Spellcasting (Recharge 4-6).*** The pit fiend casts *Fireball* (level 5 version) twice, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21). It can replace one *Fireball* with *Hold Monster* (level 7 version) or *Wall of Fire*.
+## Планетар
 
-- **At Will:** 
+*Большое небожитель (ангел), принципиально-добрый*
 
-## Planetar
+- **Класс доспеха:** 19
+- **Хиты:** 262 (21d10 + 147)
+- **Скорость:** 40 футов, полёт 120 футов (парение)
+- **Инициатива:** +10 (20)
 
-*Large Celestial (Angel), Lawful Good*
-
-- **Armor Class:** 19
-- **Hit Points:** 262 (21d10 + 147)
-- **Speed:** 40 ft., Fly 120 ft. (hover)
-- **Initiative**: +10 (20)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 24 | +7 | +12 |
-| DEX | 20 | +5 | +5 |
-| CON | 24 | +7 | +12 |
-| INT | 19 | +4 | +4 |
-| WIS | 22 | +6 | +11 |
-| CHA | 25 | +7 | +12 |
+| СИЛ | 24 | +7 | +12 |
+| ЛОВ | 20 | +5 | +5 |
+| ТЕЛ | 24 | +7 | +12 |
+| ИНТ | 19 | +4 | +4 |
+| МДР | 22 | +6 | +11 |
+| ХАР | 25 | +7 | +12 |
 
-- **Resistances**: Radiant
-- **Immunities**: Charmed, Exhaustion, Frightened
-- **Skills**: Perception +11
-- **Senses**: truesight 120 ft.; Passive Perception 21
-- **Languages**: All; telepathy 120 ft.
-- **CR** 16 (XP 15,000; PB +5)
+- **Сопротивления:** Излучение
+- **Иммунитеты:** Очарованный, истощение, испуганный
+- **Навыки:** Восприятие +11
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 21
+- **Языки:** Все; телепатия 120 футов
+- **ПО** 16 (ОО 15000; БМ +5)
 
-### Traits
+### Особенности
 
-***Divine Awareness.*** The planetar knows if it hears a lie.
+***Божественная осведомлённость.*** Планетар знает, если слышит ложь.
 
-***Exalted Restoration.*** If the planetar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
+***Возвышенное восстановление.*** Если планетар умирает за пределами горы Селестия, его тело исчезает, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то на горе Селестия.
 
-***Magic Resistance.*** The planetar has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Планетар совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Планетар совершает три атаки сияющим мечом или дважды использует святой взрыв.
 
-***Multiattack.*** The planetar makes three Radiant Sword attacks or uses Holy Burst twice.
+***Сияющий меч.*** *Рукопашная атака:* +12, досягаемость 10 футов. 14 (2d6 + 7) Рубящего урона плюс 18 (4d8) урона Излучением.
 
-***Radiant Sword.*** *Melee Attack Roll:* +12, reach 10 ft. 14 (2d6 + 7) Slashing damage plus 18 (4d8) Radiant damage.
+***Святой взрыв.*** *Спасбросок Ловкости:* СЛ 20, каждый враг в сфере радиусом 20 футов с центром в точке, которую планетар видит в пределах 120 футов. *Провал:* 24 (7d6) урона Излучением. *Успех:* Половина урона.
 
-***Holy Burst.*** *Dexterity Saving Throw*: DC 20, each enemy in a 20-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on a point the planetar can see within 120 feet. *Failure:*  24 (7d6) Radiant damage. *Success:*  Half damage.
+***Сотворение заклинаний.*** Планетар творит одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (СЛ спасброска 20):
 
-***Spellcasting.*** The planetar casts one of the following spells, requiring no Material components and using Charisma as spellcasting ability (spell save DC 20):
+- **По желанию:** *обнаружение добра и зла*
+- **1/День каждое:** *общение*, *власть над погодой*, *рассеивание добра и зла*, *воскрешение*
 
-- **At Will:** *Detect Evil and Good*
-- **1e/Day Each:** *Commune*, *Control Weather*, *Dispel Evil and Good*, *Raise Dead*
+### Бонусные действия
 
-### Bonus Actions
+***Божественная помощь (2/День).*** Планетар творит *лечение ран*, *невидимость*, *малое восстановление* или *снятие проклятия*, используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-***Divine Aid (2/Day).*** The planetar casts *Cure Wounds*, *Invisibility*, *Lesser Restoration*, or *Remove Curse*, using the same spellcasting ability as Spellcasting.
-## Priest Acolyte
+## Жрец-послушник
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 13
-- **Hit Points:** 11 (2d8 + 2)
-- **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 13
+- **Хиты:** 11 (2d8 + 2)
+- **Скорость:** 30 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 14 | +2 | +2 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 11 | +0 | +0 |
 
-- **Skills**: Medicine +4, Religion +2
-- **Gear** Chain Shirt, Holy Symbol, Mace
-- **Senses**: Passive Perception 12
-- **Languages**: Common
-- **CR** 1/4 (XP 50; PB +2)
+- **Навыки:** Медицина +4, Религия +2
+- **Снаряжение:** Кольчужная рубаха, святой символ, булава
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-### Actions
+### Действия
 
-***Mace.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Bludgeoning damage plus 2 (1d4) Radiant damage.
+***Булава.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Дробящего урона плюс 2 (1d4) урона Излучением.
 
-***Radiant Flame.*** *Ranged Attack Roll:* +4, range 60 ft. 7 (2d6) Radiant damage.
+***Сияющее пламя.*** *Дальнобойная атака:* +4, дистанция 60 футов. 7 (2d6) урона Излучением.
 
-***Spellcasting.*** The priest casts one of the following spells, using Wisdom as the spellcasting ability:
+***Сотворение заклинаний.*** Жрец творит одно из следующих заклинаний, используя Мудрость как заклинательную характеристику:
 
-- **At Will:** *Light*, *Thaumaturgy*
+- **По желанию:** *свет*, *чудотворство*
 
+### Бонусные действия
 
-### Bonus Actions
+***Божественная помощь (1/День).*** Жрец творит *благословение*, *лечащее слово* или *убежище*, используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-***Divine Aid (1/Day).*** The priest casts *Bless*, *Healing Word*, or *Sanctuary*, using the same spellcasting ability as Spellcasting.
-## Priest
+## Жрец
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 13
-- **Hit Points:** 38 (7d8 + 7)
-- **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 13
+- **Хиты:** 38 (7d8 + 7)
+- **Скорость:** 30 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 10 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 13 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 13 | +1 | +1 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 13 | +1 | +1 |
+| МДР | 16 | +3 | +3 |
+| ХАР | 13 | +1 | +1 |
 
-- **Skills**: Medicine +7, Perception +5, Religion +5
-- **Gear** Chain Shirt, Holy Symbol, Mace
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
-- **CR** 2 (XP 450; PB +2)
+- **Навыки:** Медицина +7, Восприятие +5, Религия +5
+- **Снаряжение:** Кольчужная рубаха, святой символ, булава
+- **Чувства:** пассивное Восприятие 15
+- **Языки:** Общий и один другой язык
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The priest makes two attacks, using Mace or Radiant Flame in any combination.
+***Мультиатака.*** Жрец совершает две атаки, используя булаву или сияющее пламя в любой комбинации.
 
-***Mace.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Bludgeoning damage plus 5 (2d4) Radiant damage.
+***Булава.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Дробящего урона плюс 5 (2d4) урона Излучением.
 
-***Radiant Flame.*** *Ranged Attack Roll:* +5, range 60 ft. 11 (2d10) Radiant damage.
+***Сияющее пламя.*** *Дальнобойная атака:* +5, дистанция 60 футов. 11 (2d10) урона Излучением.
 
-***Spellcasting.*** The priest casts one of the following spells, using Wisdom as the spellcasting ability:
+***Сотворение заклинаний.*** Жрец творит одно из следующих заклинаний, используя Мудрость как заклинательную характеристику:
 
-- **At Will:** *Light*, *Thaumaturgy*
-- **1/Day Each:** *Spirit Guardians*
+- **По желанию:** *свет*, *чудотворство*
+- **1/День каждое:** *духовные стражи*
 
-### Bonus Actions
+### Бонусные действия
 
-***Divine Aid (3/Day).*** The priest casts *Bless*, *Dispel Magic*, *Healing Word*, or *Lesser Restoration*, using the same spellcasting ability as Spellcasting.
-## Pseudodragon
+***Божественная помощь (3/День).*** Жрец творит *благословение*, *рассеивание магии*, *лечащее слово* или *малое восстановление*, используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-*Small Dragon, Neutral Good*
+## Псевдодракон
 
-- **Armor Class:** 14
-- **Hit Points:** 10 (3d4 + 3)
-- **Speed:** 15 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+*Маленький дракон, нейтрально-добрый*
 
-|STAT|SCORE|MOD|SAVE|
-| --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 15 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 10 | +0 | +0 |
+- **Класс доспеха:** 14
+- **Хиты:** 10 (3d4 + 3)
+- **Скорость:** 15 футов, полёт 60 футов
+- **Инициатива:** +2 (12)
 
-- **Skills**: Perception +5, Stealth +4
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 15
-- **Languages**: Understands Common and Draconic but can't speak
-- **CR** 1/4 (XP 50; PB +2)
+|ХРКТ|ЗНАЧ|МОД|СПАС|
+| --- | --- | --- | ---- |
+| СИЛ | 6 | -2 | -2 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 10 | +0 | +0 |
 
-### Traits
+- **Навыки:** Восприятие +5, Скрытность +4
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Понимает Общий и Драконий, но не может говорить
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-***Magic Resistance.*** The pseudodragon has Advantage on saving throws against spells and other magical effects.
+### Особенности
 
+***Сопротивление магии.*** Псевдодракон совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-### Actions
+### Действия
 
-***Multiattack.*** The pseudodragon makes two Bite attacks.
+***Мультиатака.*** Псевдодракон совершает две атаки укусом.
 
-***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 4 (1d4 + 2) Piercing damage.
+***Укус.*** *Рукопашная атака:* +4, досягаемость 5 футов. 4 (1d4 + 2) Колющего урона.
 
-***Sting.*** *Constitution Saving Throw*: DC 12, one creature the pseudodragon can see within 5 feet. *Failure:*  5 (2d4) Poison damage, and the target has the Poisoned condition for 1 hour. *Failure by 5 or More:* While Poisoned, the target also has the Unconscious condition, which ends early if the target takes damage or a creature within 5 feet of it takes an action to wake it.
+***Жало.*** *Спасбросок Телосложения:* СЛ 12, одно существо, которое псевдодракон видит в пределах 5 футов. *Провал:* 5 (2d4) Ядовитого урона, и цель получает состояние «отравленный» на 1 час. *Провал на 5 или более:* Пока отравлена, цель также имеет состояние «без сознания», которое заканчивается досрочно, если цель получает урон или существо в пределах 5 футов от неё совершает действие, чтобы разбудить её.
 
-## Purple Worm
+## Пурпурный червь
 
-*Gargantuan Monstrosity, Unaligned*
+*Громадная чудовищность, без мировоззрения*
 
-- **Armor Class:** 18
-- **Hit Points:** 247 (15d20 + 90)
-- **Speed:** 50 ft., Burrow 50 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 18
+- **Хиты:** 247 (15d20 + 90)
+- **Скорость:** 50 футов, копание 50 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 28 | +9 | +9 |
-| DEX | 7 | -2 | -2 |
-| CON | 22 | +6 | +11 |
-| INT | 1 | -5 | -5 |
-| WIS | 8 | -1 | +4 |
-| CHA | 4 | -3 | -3 |
+| СИЛ | 28 | +9 | +9 |
+| ЛОВ | 7 | -2 | -2 |
+| ТЕЛ | 22 | +6 | +11 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 8 | -1 | +4 |
+| ХАР | 4 | -3 | -3 |
 
-- **Senses**: blindsight 30 ft., tremorsense 60 ft.; Passive Perception 9
-- **CR** 15 (XP 13,000; PB +5)
+- **Чувства:** слепое зрение 30 футов, чувство вибрации 60 футов; пассивное Восприятие 9
+- **ПО** 15 (ОО 13000; БМ +5)
 
-### Traits
+### Особенности
 
-***Tunneler.*** The worm can burrow through solid rock at half its Burrow Speed and leaves a 10-foot-diameter tunnel in its wake.
+***Прокладчик туннелей.*** Червь может прокапывать твёрдую породу с половиной своей скорости копания и оставляет за собой туннель диаметром 10 футов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Червь совершает одну атаку укусом и одну атаку хвостовым жалом.
 
-***Multiattack.*** The worm makes one Bite attack and one Tail Stinger attack.
+***Укус.*** *Рукопашная атака:* +14, досягаемость 10 футов. 22 (3d8 + 9) Колющего урона. Если цель — Большое или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 19) и имеет состояние «опутанный», пока захват не закончится.
 
-***Bite.*** *Melee Attack Roll:* +14, reach 10 ft. 22 (3d8 + 9) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 19), and it has the Restrained condition until the grapple ends.
+***Хвостовое жало.*** *Рукопашная атака:* +14, досягаемость 10 футов. 16 (2d6 + 9) Колющего урона плюс 35 (10d6) Ядовитого урона.
 
-***Tail Stinger.*** *Melee Attack Roll:* +14, reach 10 ft. 16 (2d6 + 9) Piercing damage plus 35 (10d6) Poison damage.
+### Бонусные действия
 
+***Проглатывание.*** *Спасбросок Силы:* СЛ 19, одно Большое или меньшее существо, схваченное червём (он может иметь до трёх проглоченных существ одновременно). *Провал:* Цель проглочена червём, и состояние «схваченный» заканчивается. Проглоченное существо имеет состояния «ослеплённый» и «опутанный», имеет полное укрытие от атак и других эффектов снаружи червя и получает 17 (5d6) урона Кислотой в начале каждого хода червя.
+Если червь получает 30 или более урона за один ход от существа внутри него, червь должен преуспеть в спасброске Телосложения СЛ 21 в конце этого хода, иначе он изрыгает всех проглоченных существ, каждое из которых падает в пространство в пределах 5 футов от червя с состоянием «лежащий ничком». Если червь умирает, любое проглоченное существо более не имеет состояния «опутанный» и может покинуть труп, используя 20 футов перемещения, выходя лежащим ничком.
 
-### Bonus Actions
+## Квазит
 
-***Swallow.*** *Strength Saving Throw*: DC 19, one Large or smaller creature Grappled by the worm (it can have up to three creatures swallowed at a time). *Failure:*  The target is swallowed by the worm, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, has Cover|XPHB|Total Cover against attacks and other effects outside the worm, and takes 17 (5d6) Acid damage at the start of each of the worm's turns.
-If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the worm and has the Prone condition. If the worm dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
+*Маленький исчадие (демон), хаотично-злой*
 
-## Quasit
+- **Класс доспеха:** 13
+- **Хиты:** 25 (10d4)
+- **Скорость:** 40 футов
+- **Инициатива:** +3 (13)
 
-*Small Fiend (Demon), Chaotic Evil*
-
-- **Armor Class:** 13
-- **Hit Points:** 25 (10d4)
-- **Speed:** 40 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 17 | +3 | +3 |
-| CON | 10 | +0 | +0 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
-
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Skills**: Stealth +5
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Abyssal, Common
-- **CR** 1 (XP 200; PB +2)
-
-### Traits
+| СИЛ | 5 | -3 | -3 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-***Magic Resistance.*** The quasit has Advantage on saving throws against spells and other magical effects.
+- **Сопротивления:** Холодный, Огненный, Электрический
+- **Иммунитеты:** Ядовитый; отравленный
+- **Навыки:** Скрытность +5
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 10
+- **Языки:** Бездонный, Общий
+- **ПО** 1 (ОО 200; БМ +2)
 
+### Особенности
 
-### Actions
+***Сопротивление магии.*** Квазит совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage, and the target has the Poisoned condition until the start of the quasit's next turn.
+### Действия
 
-***Scare (1/Day).*** *Wisdom Saving Throw*: DC 10, one creature within 20 feet. *Failure:*  The target has the Frightened condition. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Раздирание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 5 (1d4 + 3) Рубящего урона, и цель получает состояние «отравленный» до начала следующего хода квазита.
 
-***Shape-Shift.*** The quasit shape-shifts to resemble a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn't transformed.
+***Испуг (1/День).*** *Спасбросок Мудрости:* СЛ 10, одно существо в пределах 20 футов. *Провал:* Цель получает состояние «испуганный». В конце каждого своего хода цель повторяет спасбросок, оканчивая эффект на себе при успехе. Через 1 минуту она автоматически преуспевает.
 
-***Invisibility.*** The quasit casts *Invisibility* on itself, requiring no spell components and using Charisma as the spellcasting ability.
+***Смена облика.*** Квазит принимает облик летучей мыши (скорость 10 футов, полёт 40 футов), многоножки (40 футов, лазание 40 футов) или жабы (40 футов, плавание 40 футов), либо возвращается в свою истинную форму. Его игровые характеристики одинаковы в каждой форме, кроме скорости. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-- **At Will:** *Invisibility*
+***Невидимость.*** Квазит творит *невидимость* на себя, не требуя компонентов заклинания и используя Харизму как заклинательную характеристику.
 
-## Rakshasa
+## Ракшас
 
-*Medium Fiend, Lawful Evil*
+*Среднее исчадие, принципиально-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 221 (26d8 + 104)
-- **Speed:** 40 ft.
-- **Initiative**: +8 (18)
+- **Класс доспеха:** 17
+- **Хиты:** 221 (26d8 + 104)
+- **Скорость:** 40 футов
+- **Инициатива:** +8 (18)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 17 | +3 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 13 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 20 | +5 | +5 |
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 13 | +1 | +1 |
+| МДР | 16 | +3 | +3 |
+| ХАР | 20 | +5 | +5 |
 
-- **Vulnerabilities**: Piercing
-- **Immunities**: Charmed, Frightened
-- **Skills**: Deception +10, Insight +8, Perception +8
-- **Senses**: truesight 60 ft.; Passive Perception 18
-- **Languages**: Common, Infernal
-- **CR** 13 (XP 10,000; PB +5)
+- **Уязвимости:** Колющий
+- **Иммунитеты:** Очарованный, испуганный
+- **Навыки:** Обман +10, Проницательность +8, Восприятие +8
+- **Чувства:** истинное зрение 60 футов; пассивное Восприятие 18
+- **Языки:** Общий, Инфернальный
+- **ПО** 13 (ОО 10000; БМ +5)
 
-### Traits
+### Особенности
 
-***Greater Magic Resistance.*** The rakshasa automatically succeeds on saving throws against spells and other magical effects, and the attack rolls of spells automatically miss it. Without the rakshasa's permission, no spell can observe the rakshasa remotely or detect its thoughts, creature type, or alignment.
+***Усиленное сопротивление магии.*** Ракшас автоматически преуспевает в спасбросках против заклинаний и других магических эффектов, и броски атаки заклинаний автоматически промахиваются по нему. Без разрешения ракшаса никакое заклинание не может наблюдать за ракшасом удалённо или определять его мысли, тип существа или мировоззрение.
 
-***Fiendish Restoration.*** If the rakshasa dies outside the Nine Hells, its body turns to ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Nine Hells.
+***Исчадное восстановление.*** Если ракшас умирает за пределами Девяти Преисподних, его тело превращается в ихор, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то в Девяти Преисподних.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Ракшас совершает три атаки проклятым касанием.
 
-***Multiattack.*** The rakshasa makes three Cursed Touch attacks.
+***Проклятое касание.*** *Рукопашная атака:* +10, досягаемость 5 футов. 12 (2d6 + 5) Рубящего урона плюс 19 (3d12) Некротического урона. Если цель — существо, она проклята. Пока проклята, цель не получает пользы от завершения короткого или продолжительного отдыха.
 
-***Cursed Touch.*** *Melee Attack Roll:* +10, reach 5 ft. 12 (2d6 + 5) Slashing damage plus 19 (3d12) Necrotic damage. If the target is a creature, it is cursed. While cursed, the target gains no benefit from finishing a Short Rest|XPHB|Short or Long Rest.
+***Губительный приказ (Перезарядка 5-6).*** *Спасбросок Мудрости:* СЛ 18, каждый враг в 30-футовой эманации от ракшаса. *Провал:* 28 (8d6) Психического урона, и цель получает состояния «испуганный» и «недееспособный» до начала следующего хода ракшаса.
 
-***Baleful Command (Recharge 5-6).*** *Wisdom Saving Throw*: DC 18, each enemy in a 30-foot Emanation originating from the rakshasa. *Failure:*  28 (8d6) Psychic damage, and the target has the Frightened and Incapacitated conditions until the start of the rakshasa's next turn.
+***Сотворение заклинаний.*** Ракшас творит одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (СЛ спасброска 18):
 
-***Spellcasting.*** The rakshasa casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 18):
+- **По желанию:** *обнаружение магии*, *обнаружение мыслей*, *маскировка*, *волшебная рука*, *малая иллюзия*
+- **1/День каждое:** *полёт*, *невидимость*, *образ*, *уход в иной мир*
 
-- **At Will:** *Detect Magic*, *Detect Thoughts*, *Disguise Self*, *Mage Hand*, *Minor Illusion*
-- **1e/Day Each:** *Fly*, *Invisibility*, *Major Image*, *Plane Shift*
-## Red Dragon Wyrmling
+## Красный дракончик
 
-*Medium Dragon (Chromatic), Chaotic Evil*
+*Средний дракон (цветной), хаотично-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 75 (10d8 + 30)
-- **Speed:** 30 ft., Climb 30 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 17
+- **Хиты:** 75 (10d8 + 30)
+- **Скорость:** 30 футов, лазание 30 футов, полёт 60 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +2 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 10 | +0 | +2 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 15 | +2 | +2 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 4 (XP 1,100; PB +2)
+- **Иммунитеты:** Огненный
+- **Навыки:** Восприятие +4, Скрытность +2
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes two Rend attacks.
+***Мультиатака.*** Дракон совершает две атаки раздиранием.
 
-***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (1d10 + 4) Slashing damage plus 3 (1d6) Fire damage.
+***Раздирание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 9 (1d10 + 4) Рубящего урона плюс 3 (1d6) Огненного урона.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:*  24 (7d6) Fire damage. *Success:*  Half damage.
+***Огненное дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 13, каждое существо в 15-футовом конусе. *Провал:* 24 (7d6) Огненного урона. *Успех:* Половина урона.
 
-## Remorhaz
+## Реморхаз
 
-*Huge Monstrosity, Unaligned*
+*Огромная чудовищность, без мировоззрения*
 
-- **Armor Class:** 17
-- **Hit Points:** 195 (17d12 + 85)
-- **Speed:** 40 ft., Burrow 30 ft.
-- **Initiative**: +5 (15)
+- **Класс доспеха:** 17
+- **Хиты:** 195 (17d12 + 85)
+- **Скорость:** 40 футов, копание 30 футов
+- **Инициатива:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 24 | +7 | +7 |
-| DEX | 13 | +1 | +1 |
-| CON | 21 | +5 | +5 |
-| INT | 4 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 24 | +7 | +7 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 4 | -3 | -3 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-- **Immunities**: Cold, Fire
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 10
-- **CR** 11 (XP 7,200; PB +4)
+- **Иммунитеты:** Холодный, Огненный
+- **Чувства:** тёмное зрение 60 футов, чувство вибрации 60 футов; пассивное Восприятие 10
+- **ПО** 11 (ОО 7200; БМ +4)
 
-### Traits
+### Особенности
 
-***Heat Aura.*** At the end of each of the remorhaz's turns, each creature in a 5-foot Emanation originating from the remorhaz takes 16 (3d10) Fire damage.
+***Аура жара.*** В конце каждого хода реморхаза каждое существо в 5-футовой эманации от реморхаза получает 16 (3d10) Огненного урона.
 
+### Действия
 
-### Actions
+***Укус.*** *Рукопашная атака:* +11, досягаемость 10 футов. 18 (2d10 + 7) Колющего урона плюс 14 (4d6) Огненного урона. Если цель — Большое или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 17) и имеет состояние «опутанный», пока захват не закончится.
 
-***Bite.*** *Melee Attack Roll:* +11, reach 10 ft. 18 (2d10 + 7) Piercing damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17), and it has the Restrained condition until the grapple ends.
+### Бонусные действия
 
+***Проглатывание.*** *Спасбросок Силы:* СЛ 19, одно Большое или меньшее существо, схваченное реморхазом (он может иметь до двух проглоченных существ одновременно). *Провал:* Цель проглочена реморхазом, и состояние «схваченный» заканчивается. Проглоченное существо имеет состояния «ослеплённый» и «опутанный», имеет полное укрытие от атак и других эффектов снаружи реморхаза и получает 10 (3d6) урона Кислотой плюс 10 (3d6) Огненного урона в начале каждого хода реморхаза.
+Если реморхаз получает 30 или более урона за один ход от существа внутри него, реморхаз должен преуспеть в спасброске Телосложения СЛ 15 в конце этого хода, иначе он изрыгает всех проглоченных существ, каждое из которых падает в пространство в пределах 5 футов от реморхаза с состоянием «лежащий ничком». Если реморхаз умирает, любое проглоченное существо более не имеет состояния «опутанный» и может покинуть труп, используя 15 футов перемещения, выходя лежащим ничком.
 
-### Bonus Actions
+## Рух
 
-***Swallow.*** *Strength Saving Throw*: DC 19, one Large or smaller creature Grappled by the remorhaz (it can have up to two creatures swallowed at a time). *Failure:*  The target is swallowed by the remorhaz, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions, it has Cover|XPHB|Total Cover against attacks and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.
-If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 5 feet of the remorhaz and has the Prone condition. If the remorhaz dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse by using 15 feet of movement, exiting Prone.
+*Громадная чудовищность, без мировоззрения*
 
-## Roc
+- **Класс доспеха:** 15
+- **Хиты:** 248 (16d20 + 80)
+- **Скорость:** 20 футов, полёт 120 футов
+- **Инициатива:** +8 (18)
 
-*Gargantuan Monstrosity, Unaligned*
-
-- **Armor Class:** 15
-- **Hit Points:** 248 (16d20 + 80)
-- **Speed:** 20 ft., Fly 120 ft.
-- **Initiative**: +8 (18)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 28 | +9 | +9 |
-| DEX | 10 | +0 | +4 |
-| CON | 20 | +5 | +5 |
-| INT | 3 | -4 | -4 |
-| WIS | 10 | +0 | +4 |
-| CHA | 9 | -1 | -1 |
+| СИЛ | 28 | +9 | +9 |
+| ЛОВ | 10 | +0 | +4 |
+| ТЕЛ | 20 | +5 | +5 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 10 | +0 | +4 |
+| ХАР | 9 | -1 | -1 |
 
-- **Skills**: Perception +8
-- **Senses**: Passive Perception 18
-- **CR** 11 (XP 7,200; PB +4)
+- **Навыки:** Восприятие +8
+- **Чувства:** пассивное Восприятие 18
+- **ПО** 11 (ОО 7200; БМ +4)
 
-### Actions
+### Действия
 
-***Multiattack.*** The roc makes two Beak attacks. It can replace one attack with a Talons attack.
+***Мультиатака.*** Рух совершает две атаки клювом. Он может заменить одну атаку атакой когтями.
 
-***Beak.*** *Melee Attack Roll:* +13, reach 10 ft. 28 (3d12 + 9) Piercing damage.
+***Клюв.*** *Рукопашная атака:* +13, досягаемость 10 футов. 28 (3d12 + 9) Колющего урона.
 
-***Talons.*** *Melee Attack Roll:* +13, reach 5 ft. 23 (4d6 + 9) Slashing damage. If the target is a Huge or smaller creature, it has the Grappled condition (escape DC 19) from both talons, and it has the Restrained condition until the grapple ends.
+***Когти.*** *Рукопашная атака:* +13, досягаемость 5 футов. 23 (4d6 + 9) Рубящего урона. Если цель — Огромное или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 19) обоими когтями и имеет состояние «опутанный», пока захват не закончится.
 
+### Бонусные действия
 
-### Bonus Actions
+***Пикирование (Перезарядка 5-6).*** Если рух схватил существо, рух летит на расстояние до половины своей скорости полёта, не провоцируя атаки по возможности, и сбрасывает это существо.
 
-***Swoop (Recharge 5-6).*** If the roc has a creature Grappled, the roc flies up to half its Fly Speed without provoking Opportunity Attacks and drops that creature.
+## Веревник
 
-## Roper
+*Большая аберрация, нейтрально-злой*
 
-*Large Aberration, Neutral Evil*
+- **Класс доспеха:** 20
+- **Хиты:** 93 (11d10 + 33)
+- **Скорость:** 10 футов, лазание 20 футов
+- **Инициатива:** +5 (15)
 
-- **Armor Class:** 20
-- **Hit Points:** 93 (11d10 + 33)
-- **Speed:** 10 ft., Climb 20 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 17 | +3 | +3 |
-| INT | 7 | -2 | -2 |
-| WIS | 16 | +3 | +3 |
-| CHA | 6 | -2 | -2 |
-
-- **Skills**: Perception +6, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 16
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 16 | +3 | +3 |
+| ХАР | 6 | -2 | -2 |
 
-### Traits
+- **Навыки:** Восприятие +6, Скрытность +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 16
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Spider Climb.*** The roper can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+### Особенности
 
+***Паучье лазание.*** Веревник может лазать по сложным поверхностям, включая потолки, без необходимости совершать проверки характеристик.
 
-### Actions
+### Действия
 
-***Multiattack.*** The roper makes two Tentacle attacks, uses Reel, and makes two Bite attacks.
+***Мультиатака.*** Веревник совершает две атаки щупальцами, использует притягивание и совершает две атаки укусом.
 
-***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 17 (3d8 + 4) Piercing damage.
+***Укус.*** *Рукопашная атака:* +7, досягаемость 5 футов. 17 (3d8 + 4) Колющего урона.
 
-***Tentacle.*** *Melee Attack Roll:* +7, reach 60 ft. The target has the Grappled condition (escape DC 14) from one of six tentacles, and the target has the Poisoned condition until the grapple ends.
-The tentacle can be damaged, freeing a creature it has Grappled when destroyed (AC 20, HP 10, Immunity to Poison and Psychic damage). Damaging the tentacle deals no damage to the roper, and a destroyed tentacle regrows at the start of the roper's next turn.
+***Щупальце.*** *Рукопашная атака:* +7, досягаемость 60 футов. Цель получает состояние «схваченный» (СЛ высвобождения 14) одним из шести щупалец, и цель получает состояние «отравленный», пока захват не закончится.
+Щупальце можно повредить, освобождая схваченное им существо при уничтожении (КД 20, 10 хитов, иммунитет к Ядовитому и Психическому урону). Повреждение щупальца не наносит урона веревнику, и уничтоженное щупальце отрастает в начале следующего хода веревника.
 
-***Reel.*** The roper pulls each creature Grappled by it up to 30 feet straight toward it.
+***Притягивание.*** Веревник притягивает каждое существо, схваченное им, на расстояние до 30 футов прямо к себе.
 
-## Rust Monster
+## Ржавник
 
-*Medium Monstrosity, Unaligned*
+*Среднее чудовищность, без мировоззрения*
 
-- **Armor Class:** 14
-- **Hit Points:** 33 (6d8 + 6)
-- **Speed:** 40 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 14
+- **Хиты:** 33 (6d8 + 6)
+- **Скорость:** 40 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 12 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 2 | -4 | -4 |
-| WIS | 13 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 13 | +1 | +1 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 6 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **CR** 1/2 (XP 100; PB +2)
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Traits
+### Особенности
 
-***Iron Scent.*** The rust monster can pinpoint the location of ferrous metal within 30 feet of itself.
+***Нюх на железо.*** Ржавник может точно определить местоположение железосодержащего металла в пределах 30 футов от себя.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Ржавник совершает одну атаку укусом и дважды использует антенны.
 
-***Multiattack.*** The rust monster makes one Bite attack and uses Antennae twice.
+***Укус.*** *Рукопашная атака:* +3, досягаемость 5 футов. 5 (1d8 + 1) Колющего урона.
 
-***Bite.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d8 + 1) Piercing damage.
+***Антенны.*** Ржавник нацеливается на один немагический металлический объект — доспех или оружие — надетый или несомый существом в пределах 5 футов от себя. *Спасбросок Ловкости:* СЛ 11, существо с объектом. *Провал:* Объект получает штраф -1 к КД, который он даёт (доспех), или к броскам атаки (оружие). Доспех уничтожается, если штраф снижает его КД до 10, а оружие уничтожается, если его штраф достигает -5. Штраф можно снять, сотворив заклинание *починка* на доспех или оружие.
 
-***Antennae.*** The rust monster targets one nonmagical metal object—armor or a weapon—worn or carried by a creature within 5 feet of itself. *Dexterity Saving Throw*: DC 11, the creature with the object. *Failure:*  The object takes a -1 penalty to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty reaches -5. The penalty can be removed by casting the *Mending* spell on the armor or weapon.
+***Уничтожение металла.*** Ржавник касается немагического металлического объекта в пределах 5 футов от себя, который никто не носит и не несёт. Касание уничтожает 1-футовый куб объекта.
 
-***Destroy Metal.*** The rust monster touches a nonmagical metal object within 5 feet of itself that isn't being worn or carried. The touch destroys a 1-foot Cube [Area of Effect]|XPHB|Cube of the object.
+## Сахуагин-воин
 
-## Sahuagin Warrior
+*Среднее исчадие, принципиально-злой*
 
-*Medium Fiend, Lawful Evil*
+- **Класс доспеха:** 12
+- **Хиты:** 22 (4d8 + 4)
+- **Скорость:** 30 футов, плавание 40 футов
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 12
-- **Hit Points:** 22 (4d8 + 4)
-- **Speed:** 30 ft., Swim 40 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 11 | +0 | +0 |
-| CON | 12 | +1 | +1 |
-| INT | 12 | +1 | +1 |
-| WIS | 13 | +1 | +1 |
-| CHA | 9 | -1 | -1 |
-
-- **Resistances**: Acid, Cold
-- **Skills**: Perception +5
-- **Senses**: darkvision 120 ft.; Passive Perception 15
-- **Languages**: Sahuagin
-- **CR** 1/2 (XP 100; PB +2)
+| СИЛ | 13 | +1 | +1 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 9 | -1 | -1 |
 
-### Traits
+- **Сопротивления:** Кислотный, Холодный
+- **Навыки:** Восприятие +5
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 15
+- **Языки:** Сахуагинский
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-***Blood Frenzy.*** The sahuagin has Advantage on attack rolls against any creature that doesn't have all its Hit Points.
+### Особенности
 
-***Limited Amphibiousness.*** The sahuagin can breathe air and water, but it must be submerged at least once every 4 hours to avoid suffocating outside water.
+***Кровавое безумие.*** Сахуагин совершает с преимуществом броски атаки против любого существа, у которого не все хиты.
 
-***Shark Telepathy.*** The sahuagin can magically control sharks within 120 feet of itself, using a special telepathy.
+***Ограниченная амфибия.*** Сахуагин может дышать воздухом и водой, но должен погружаться в воду хотя бы раз каждые 4 часа, чтобы не задохнуться вне воды.
 
+***Телепатия с акулами.*** Сахуагин может магически контролировать акул в пределах 120 футов от себя, используя особую телепатию.
 
-### Actions
+### Действия
 
-***Multiattack.*** The sahuagin makes two Claw attacks.
+***Мультиатака.*** Сахуагин совершает две атаки когтями.
 
-***Claw.*** *Melee Attack Roll:* +3, reach 5 ft. 4 (1d6 + 1) Slashing damage.
+***Коготь.*** *Рукопашная атака:* +3, досягаемость 5 футов. 4 (1d6 + 1) Рубящего урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Водный рывок.*** Сахуагин плывёт на расстояние до своей скорости плавания прямо к врагу, которого он видит.
 
-***Aquatic Charge.*** The sahuagin swims up to its Swim Speed straight toward an enemy it can see.
+## Саламандра
 
-## Salamander
+*Большой элементаль, нейтрально-злой*
 
-*Large Elemental, Neutral Evil*
+- **Класс доспеха:** 15
+- **Хиты:** 90 (12d10 + 24)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 15
-- **Hit Points:** 90 (12d10 + 24)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 12 | +1 | +1 |
-
-- **Vulnerabilities**: Cold
-- **Immunities**: Fire
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Ignan)
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 12 | +1 | +1 |
 
-### Traits
+- **Уязвимости:** Холодный
+- **Иммунитеты:** Огненный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первичный (Игнанский)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Fire Aura.*** At the end of each of the salamander's turns, each creature of the salamander's choice in a 5-foot Emanation originating from the salamander takes 7 (2d6) Fire damage.
+### Особенности
 
+***Аура огня.*** В конце каждого хода саламандры каждое существо по выбору саламандры в 5-футовой эманации от саламандры получает 7 (2d6) Огненного урона.
 
-### Actions
+### Действия
 
-***Multiattack.*** The salamander makes two Flame Spear attacks. It can replace one attack with a use of Constrict.
+***Мультиатака.*** Саламандра совершает две атаки пламенным копьём. Она может заменить одну атаку использованием сжатия.
 
-***Flame Spear.*** *Melee or Ranged Attack Roll:* +7, reach 5 ft. or range 20/60 ft. 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. HitomThe spear magically returns to the salamander's hand immediately after a ranged attack.
+***Пламенное копьё.*** *Рукопашная атака или атака дальнего боя:* +7, досягаемость 5 футов или дистанция 20/60 футов. 13 (2d8 + 4) Колющего урона плюс 7 (2d6) Огненного урона. Копьё магически возвращается в руку саламандры сразу после дальнобойной атаки.
 
-***Constrict.*** *Strength Saving Throw*: DC 15, one Large or smaller creature the salamander can see within 10 feet. *Failure:*  11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Fire damage. The target has the Grappled condition (escape DC 14), and it has the Restrained condition until the grapple ends.
+***Сжатие.*** *Спасбросок Силы:* СЛ 15, одно Большое или меньшее существо, которое саламандра видит в пределах 10 футов. *Провал:* 11 (2d6 + 4) Дробящего урона плюс 7 (2d6) Огненного урона. Цель получает состояние «схваченный» (СЛ высвобождения 14) и имеет состояние «опутанный», пока захват не закончится.
 
-## Satyr
+## Сатир
 
-*Medium Fey, Chaotic Neutral*
+*Среднее фей, хаотично-нейтральный*
 
-- **Armor Class:** 13
-- **Hit Points:** 31 (7d8)
-- **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 13
+- **Хиты:** 31 (7d8)
+- **Скорость:** 40 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 12 | +1 | +1 |
-| DEX | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| WIS | 10 | +0 | +0 |
-| CHA | 14 | +2 | +2 |
+| СИЛ | 12 | +1 | +1 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 14 | +2 | +2 |
 
-- **Skills**: Perception +2, Performance +6, Stealth +5
-- **Senses**: Passive Perception 12
-- **Languages**: Common, Elvish, Sylvan
-- **CR** 1/2 (XP 100; PB +2)
+- **Навыки:** Восприятие +2, Выступление +6, Скрытность +5
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий, Эльфийский, Сильванский
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Traits
+### Особенности
 
-***Magic Resistance.*** The satyr has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Сатир совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Копыта.*** *Рукопашная атака:* +5, досягаемость 5 футов. 5 (1d4 + 3) Дробящего урона. Если цель — Среднее или меньшее существо, сатир толкает цель на расстояние до 10 футов прямо от себя.
 
-***Hooves.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, the satyr pushes the target up to 10 feet straight away from itself.
+***Насмешка.*** *Спасбросок Мудрости:* СЛ 12, одно существо, которое сатир видит в пределах 90 футов. *Провал:* 5 (1d6 + 2) Психического урона.
 
-***Mockery.*** *Wisdom Saving Throw*: DC 12, one creature the satyr can see within 90 feet. *Failure:*  5 (1d6 + 2) Psychic damage.
+## Разведчик
 
-## Scout
+*Маленький гуманоид, нейтральный*
 
-*Small Humanoid, Neutral*
+- **Класс доспеха:** 13
+- **Хиты:** 16 (3d8 + 3)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 13
-- **Hit Points:** 16 (3d8 + 3)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 11 | +0 | +0 |
-| DEX | 14 | +2 | +2 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 11 | +0 | +0 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 11 | +0 | +0 |
 
-- **Skills**: Nature +4, Perception +5, Stealth +6, Survival +5
-- **Gear** Leather Armor, Longbow, Shortsword
-- **Senses**: Passive Perception 15
-- **Languages**: Common plus one other language
-- **CR** 1/2 (XP 100; PB +2)
+- **Навыки:** Природа +4, Восприятие +5, Скрытность +6, Выживание +5
+- **Снаряжение:** Кожаный доспех, длинный лук, короткий меч
+- **Чувства:** пассивное Восприятие 15
+- **Языки:** Общий и один другой язык
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The scout makes two attacks, using Shortsword and Longbow in any combination.
+***Мультиатака.*** Разведчик совершает две атаки, используя короткий меч и длинный лук в любой комбинации.
 
-***Shortsword.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage.
+***Короткий меч.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Колющего урона.
 
-***Longbow.*** *Ranged Attack Roll:* +4, range 150/600 ft. 6 (1d8 + 2) Piercing damage.
+***Длинный лук.*** *Дальнобойная атака:* +4, дистанция 150/600 футов. 6 (1d8 + 2) Колющего урона.
 
-## Sea Hag
+## Морская карга
 
-*Medium Fey, Chaotic Evil*
+*Среднее фей, хаотично-злой*
 
-- **Armor Class:** 14
-- **Hit Points:** 52 (7d8 + 21)
-- **Speed:** 30 ft., Swim 40 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 14
+- **Хиты:** 52 (7d8 + 21)
+- **Скорость:** 30 футов, плавание 40 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 12 | +1 | +1 |
-| CHA | 13 | +1 | +1 |
-
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Common, Giant, Primordial (Aquan)
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 13 | +1 | +1 |
 
-### Traits
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **Языки:** Общий, Великаний, Первичный (Аквский)
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Amphibious.*** The hag can breathe air and water.
+### Особенности
 
-***Vile Appearance.*** *Wisdom Saving Throw*: DC 11, any Beast or Humanoid that starts its turn within 30 feet of the hag and can see the hag's true form. *Failure:*  The target has the Frightened condition until the start of its next turn. *Success:*  The target is immune to this hag's Vile Appearance for 24 hours.
+***Амфибия.*** Карга может дышать воздухом и водой.
 
+***Мерзкий облик.*** *Спасбросок Мудрости:* СЛ 11, любой зверь или гуманоид, начинающий свой ход в пределах 30 футов от карги и способный видеть истинную форму карги. *Провал:* Цель получает состояние «испуганный» до начала своего следующего хода. *Успех:* Цель получает иммунитет к мерзкому облику этой карги на 24 часа.
 
-### Actions
+### Действия
 
-***Claw.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
+***Коготь.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона.
 
-***Death Glare (Recharge 5-6).*** *Wisdom Saving Throw*: DC 11, one Frightened creature the hag can see within 30 feet. *Failure:*  If the target has 20 Hit Points or fewer, it drops to 0 Hit Points. Otherwise, the target takes 13 (3d8) Psychic damage.
+***Смертельный взгляд (Перезарядка 5-6).*** *Спасбросок Мудрости:* СЛ 11, одно испуганное существо, которое карга видит в пределах 30 футов. *Провал:* Если у цели 20 хитов или меньше, её хиты опускаются до 0. В противном случае цель получает 13 (3d8) Психического урона.
 
-***Illusory Appearance.*** The hag casts *Disguise Self*, using Constitution as the spellcasting ability (spell save DC 13). The spell's duration is 24 hours.
+***Иллюзорный облик.*** Карга творит *маскировку*, используя Телосложение как заклинательную характеристику (СЛ спасброска 13). Продолжительность заклинания — 24 часа.
 
-- **At Will:** *Disguise Self*
+## Тень
 
-## Shadow
+*Средняя нежить, хаотично-злой*
 
-*Medium Undead, Chaotic Evil*
+- **Класс доспеха:** 12
+- **Хиты:** 27 (5d8 + 5)
+- **Скорость:** 40 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 12
-- **Hit Points:** 27 (5d8 + 5)
-- **Speed:** 40 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 14 | +2 | +2 |
-| CON | 13 | +1 | +1 |
-| INT | 6 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
-
-- **Vulnerabilities**: Radiant
-- **Resistances**: Acid, Cold, Fire, Lightning, Thunder
-- **Immunities**: Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Skills**: Stealth +6
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **CR** 1/2 (XP 100; PB +2)
+| СИЛ | 6 | -2 | -2 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 8 | -1 | -1 |
 
-### Traits
+- **Уязвимости:** Излучение
+- **Сопротивления:** Кислотный, Холодный, Огненный, Электрический, Звуковой
+- **Иммунитеты:** Некротический, Ядовитый; истощение, испуганный, схваченный, парализованный, окаменевший, отравленный, лежащий ничком, опутанный, без сознания
+- **Навыки:** Скрытность +6
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-***Amorphous.*** The shadow can move through a space as narrow as 1 inch without expending extra movement to do so.
+### Особенности
 
-***Sunlight Weakness.*** While in sunlight, the shadow has Disadvantage on D20 Test.
+***Аморфность.*** Тень может проходить через пространство шириной до 1 дюйма без затрат дополнительного перемещения.
 
+***Слабость к солнечному свету.*** Находясь на солнечном свету, тень совершает с помехой проверки d20.
 
-### Actions
+### Действия
 
-***Draining Swipe.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Necrotic damage, and the target's Strength score decreases by 1d4. The target dies if this reduces that score to 0. If a Humanoid is slain by this attack, a Shadow rises from the corpse 1d4 hours later.
+***Истощающий удар.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Некротического урона, и Сила цели уменьшается на 1d4. Цель умирает, если это снижает её Силу до 0. Если гуманоид убит этой атакой, тень поднимается из трупа через 1d4 часа.
 
+### Бонусные действия
 
-### Bonus Actions
+***Теневая скрытность.*** Находясь в тусклом свете или тьме, тень совершает действие Засада.
 
-***Shadow Stealth.*** While in Dim Light or darkness, the shadow takes the Hide action.
+## Топляк
 
-## Shambling Mound
+*Большое растение, без мировоззрения*
 
-*Large Plant, Unaligned*
+- **Класс доспеха:** 15
+- **Хиты:** 110 (13d10 + 39)
+- **Скорость:** 30 футов, плавание 20 футов
+- **Инициатива:** -1 (9)
 
-- **Armor Class:** 15
-- **Hit Points:** 110 (13d10 + 39)
-- **Speed:** 30 ft., Swim 20 ft.
-- **Initiative**: -1 (9)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 5 | -3 | -3 |
-
-- **Resistances**: Cold, Fire
-- **Immunities**: Lightning; Deafened, Exhaustion
-- **Skills**: Stealth +3
-- **Senses**: blindsight 60 ft.; Passive Perception 10
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-### Traits
+- **Сопротивления:** Холодный, Огненный
+- **Иммунитеты:** Электрический; оглохший, истощение
+- **Навыки:** Скрытность +3
+- **Чувства:** слепое зрение 60 футов; пассивное Восприятие 10
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Lightning Absorption.*** Whenever the shambling mound is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
+### Особенности
 
+***Поглощение электричества.*** Каждый раз, когда топляк получает урон Электричеством, он восстанавливает количество хитов, равное полученному урону Электричеством.
 
-### Actions
+### Действия
 
-***Multiattack.*** The shambling mound makes three Charged Tendril attacks. It can replace one attack with a use of Engulf.
+***Мультиатака.*** Топляк совершает три атаки заряженным щупальцем. Он может заменить одну атаку использованием поглощения.
 
-***Charged Tendril.*** *Melee Attack Roll:* +7, reach 10 ft. 7 (1d6 + 4) Bludgeoning damage plus 5 (2d4) Lightning damage. If the target is a Medium or smaller creature, the shambling mound pulls the target 5 feet straight toward itself.
+***Заряженное щупальце.*** *Рукопашная атака:* +7, досягаемость 10 футов. 7 (1d6 + 4) Дробящего урона плюс 5 (2d4) урона Электричеством. Если цель — Среднее или меньшее существо, топляк притягивает цель на 5 футов прямо к себе.
 
-***Engulf.*** *Strength Saving Throw*: DC 15, one Medium or smaller creature within 5 feet. *Failure:*  The target is pulled into the shambling mound's space and has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Blinded and Restrained conditions, and it takes 10 (3d6) Lightning damage at the start of each of its turns. When the shambling mound moves, the Grappled target moves with it, costing it no extra movement. The shambling mound can have only one creature Grappled by this action at a time.
+***Поглощение.*** *Спасбросок Силы:* СЛ 15, одно Среднее или меньшее существо в пределах 5 футов. *Провал:* Цель втягивается в пространство топляка и получает состояние «схваченный» (СЛ высвобождения 14). Пока захват не закончится, цель имеет состояния «ослеплённый» и «опутанный» и получает 10 (3d6) урона Электричеством в начале каждого своего хода. Когда топляк перемещается, схваченная цель перемещается вместе с ним без затрат дополнительного перемещения. Топляк может иметь только одно существо, схваченное этим действием, одновременно.
 
-## Shield Guardian
+## Страж-щит
 
-*Large Construct, Unaligned*
+*Большой конструкт, без мировоззрения*
 
-- **Armor Class:** 17
-- **Hit Points:** 142 (15d10 + 60)
-- **Speed:** 30 ft.
-- **Initiative**: -1 (9)
+- **Класс доспеха:** 17
+- **Хиты:** 142 (15d10 + 60)
+- **Скорость:** 30 футов
+- **Инициатива:** -1 (9)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 8 | -1 | -1 |
-| CON | 18 | +4 | +4 |
-| INT | 7 | -2 | -2 |
-| WIS | 10 | +0 | +0 |
-| CHA | 3 | -4 | -4 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 3 | -4 | -4 |
 
-- **Immunities**: Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands commands given in any language but can't speak
-- **CR** 7 (XP 2,900; PB +3)
+- **Иммунитеты:** Ядовитый; очарованный, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Понимает команды на любом языке, но не может говорить
+- **ПО** 7 (ОО 2900; БМ +3)
 
-### Traits
+### Особенности
 
-***Bound.*** The guardian is magically bound to an amulet. While the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (round up) is transferred to the guardian.
+***Привязанность.*** Страж магически связан с амулетом. Пока страж и его амулет находятся на одном плане существования, носитель амулета может телепатически призвать стража двигаться к нему, и страж знает расстояние и направление к амулету. Если страж находится в пределах 60 футов от носителя амулета, половина любого урона, который получает носитель (с округлением вверх), переносится на стража.
 
-***Regeneration.*** The guardian regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
+***Регенерация.*** Страж восстанавливает 10 хитов в начале каждого своего хода, если у него есть хотя бы 1 хит.
 
-***Spell Storing.*** A spellcaster who wears the guardian's amulet can cause the guardian to store one spell of level 4 or lower. To do so, the wearer must cast the spell on the guardian while within 5 feet of it. The spell has no effect but is stored within the guardian. Any previously stored spell is lost when a new spell is stored. The guardian can cast the spell stored with any parameters set by the original caster, requiring no spell components and using the caster's spellcasting ability. The stored spell is then lost.
+***Хранение заклинания.*** Заклинатель, носящий амулет стража, может заставить стража хранить одно заклинание 4-го уровня или ниже. Для этого носитель должен сотворить заклинание на стража, находясь в пределах 5 футов от него. Заклинание не производит эффекта, но сохраняется в страже. Любое ранее сохранённое заклинание теряется при сохранении нового заклинания. Страж может сотворить сохранённое заклинание с любыми параметрами, установленными первоначальным заклинателем, не требуя компонентов заклинания и используя заклинательную способность заклинателя. Затем сохранённое заклинание теряется.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Страж совершает две атаки кулаком.
 
-***Multiattack.*** The guardian makes two Fist attacks.
+***Кулак.*** *Рукопашная атака:* +7, досягаемость 10 футов. 11 (2d6 + 4) Дробящего урона плюс 7 (2d6) Силового урона.
 
-***Fist.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6) Force damage.
+## Визгун
 
-## Shrieker Fungus
+*Среднее растение, без мировоззрения*
 
-*Medium Plant, Unaligned*
+- **Класс доспеха:** 5
+- **Хиты:** 13 (3d8)
+- **Скорость:** 5 футов
+- **Инициатива:** -5 (5)
 
-- **Armor Class:** 5
-- **Hit Points:** 13 (3d8)
-- **Speed:** 5 ft.
-- **Initiative**: -5 (5)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 1 | -5 | -5 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
+| СИЛ | 1 | -5 | -5 |
+| ЛОВ | 1 | -5 | -5 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 3 | -4 | -4 |
+| ХАР | 1 | -5 | -5 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened
-- **Senses**: blindsight 30 ft.; Passive Perception 6
-- **CR** 0 (XP 0)
+- **Иммунитеты:** Ослеплённый, очарованный, оглохший, испуганный
+- **Чувства:** слепое зрение 30 футов; пассивное Восприятие 6
+- **ПО** 0 (ОО 0)
 
-## Silver Dragon Wyrmling
+## Серебряный дракончик
 
-*Medium Dragon (Metallic), Lawful Good*
+*Средний дракон (металлический), принципиально-добрый*
 
-- **Armor Class:** 17
-- **Hit Points:** 45 (6d8 + 18)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 17
+- **Хиты:** 45 (6d8 + 18)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +2 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +2 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 10 | +0 | +2 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 11 | +0 | +2 |
+| ХАР | 15 | +2 | +2 |
 
-- **Immunities**: Cold
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 2 (XP 450; PB +2)
+- **Иммунитеты:** Холодный
+- **Навыки:** Восприятие +4, Скрытность +2
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 2 (ОО 450; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes two Rend attacks.
+***Мультиатака.*** Дракон совершает две атаки раздиранием.
 
-***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (1d10 + 4) Piercing damage.
+***Раздирание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 9 (1d10 + 4) Колющего урона.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 13, each creature in a 15-foot Cone. *Failure:*  18 (4d8) Cold damage. *Success:*  Half damage.
+***Холодное дыхание (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 13, каждое существо в 15-футовом конусе. *Провал:* 18 (4d8) Холодного урона. *Успех:* Половина урона.
 
-***Paralyzing Breath.*** *Constitution Saving Throw*: DC 13, each creature in a 15-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Парализующее дыхание.*** *Спасбросок Телосложения:* СЛ 13, каждое существо в 15-футовом конусе. *Первый провал:* Цель получает состояние «недееспособный» до конца своего следующего хода, когда она повторяет спасбросок. *Второй провал:* Цель получает состояние «парализованный» и повторяет спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Через 1 минуту она автоматически преуспевает.
 
-## Skeleton
+## Скелет
 
-*Medium Undead, Lawful Evil*
+*Средняя нежить, принципиально-злой*
 
-- **Armor Class:** 14
-- **Hit Points:** 13 (2d8 + 4)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 14
+- **Хиты:** 13 (2d8 + 4)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 16 | +3 | +3 |
-| CON | 15 | +2 | +2 |
-| INT | 6 | -2 | -2 |
-| WIS | 8 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Gear** Shortbow, Shortsword
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **Languages**: Understands Common plus one other language but can't speak
-- **CR** 1/4 (XP 50; PB +2)
+- **Уязвимости:** Дробящий
+- **Иммунитеты:** Ядовитый; истощение, отравленный
+- **Снаряжение:** Короткий лук, короткий меч
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **Языки:** Понимает Общий и один другой язык, но не может говорить
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-### Actions
+### Действия
 
-***Shortsword.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Piercing damage.
+***Короткий меч.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Колющего урона.
 
-***Shortbow.*** *Ranged Attack Roll:* +5, range 80/320 ft. 6 (1d6 + 3) Piercing damage.
+***Короткий лук.*** *Дальнобойная атака:* +5, дистанция 80/320 футов. 6 (1d6 + 3) Колющего урона.
 
-## Solar
+## Солар
 
-*Large Celestial (Angel), Lawful Good*
+*Большое небожитель (ангел), принципиально-добрый*
 
-- **Armor Class:** 21
-- **Hit Points:** 297 (22d10 + 176)
-- **Speed:** 50 ft., Fly 150 ft. (hover)
-- **Initiative**: +20 (30)
+- **Класс доспеха:** 21
+- **Хиты:** 297 (22d10 + 176)
+- **Скорость:** 50 футов, полёт 150 футов (парение)
+- **Инициатива:** +20 (30)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 26 | +8 | +8 |
-| DEX | 22 | +6 | +6 |
-| CON | 26 | +8 | +8 |
-| INT | 25 | +7 | +7 |
-| WIS | 25 | +7 | +7 |
-| CHA | 30 | +10 | +10 |
-
-- **Immunities**: Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
-- **Skills**: Perception +14
-- **Senses**: truesight 120 ft.; Passive Perception 24
-- **Languages**: All; telepathy 120 ft.
-- **CR** 21 (XP 33,000; PB +7)
+| СИЛ | 26 | +8 | +8 |
+| ЛОВ | 22 | +6 | +6 |
+| ТЕЛ | 26 | +8 | +8 |
+| ИНТ | 25 | +7 | +7 |
+| МДР | 25 | +7 | +7 |
+| ХАР | 30 | +10 | +10 |
 
-### Traits
+- **Иммунитеты:** Ядовитый, Излучение; очарованный, истощение, испуганный, отравленный
+- **Навыки:** Восприятие +14
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 24
+- **Языки:** Все; телепатия 120 футов
+- **ПО** 21 (ОО 33000; БМ +7)
 
-***Divine Awareness.*** The solar knows if it hears a lie.
+### Особенности
 
-***Exalted Restoration.*** If the solar dies outside Mount Celestia, its body disappears, and it gains a new body instantly, reviving with all its Hit Points somewhere in Mount Celestia.
+***Божественная осведомлённость.*** Солар знает, если слышит ложь.
 
-***Legendary Resistance (4/Day).*** If the solar fails a saving throw, it can choose to succeed instead.
+***Возвышенное восстановление.*** Если солар умирает за пределами горы Селестия, его тело исчезает, и он мгновенно получает новое тело, возрождаясь со всеми хитами где-то на горе Селестия.
 
-***Magic Resistance.*** The solar has Advantage on saving throws against spells and other magical effects.
+***Легендарное сопротивление (4/День).*** Если солар проваливает спасбросок, он может вместо этого преуспеть.
 
+***Сопротивление магии.*** Солар совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-### Actions
+### Действия
 
-***Multiattack.*** The solar makes two Flying Sword attacks. It can replace one attack with a use of Slaying Bow.
+***Мультиатака.*** Солар совершает две атаки летающим мечом. Он может заменить одну атаку использованием убийственного лука.
 
-***Flying Sword.*** *Melee or Ranged Attack Roll:* +15, reach 10 ft. or range 120 ft. 22 (4d6 + 8) Slashing damage plus 36 (8d8) Radiant damage. HitomThe sword magically returns to the solar's hand or hovers within 5 feet of the solar immediately after a ranged attack.
+***Летающий меч.*** *Рукопашная атака или атака дальнего боя:* +15, досягаемость 10 футов или дистанция 120 футов. 22 (4d6 + 8) Рубящего урона плюс 36 (8d8) урона Излучением. Меч магически возвращается в руку солара или парит в пределах 5 футов от солара сразу после дальнобойной атаки.
 
-***Slaying Bow.*** *Dexterity Saving Throw*: DC 21, one creature the solar can see within 600 feet. *Failure:*  If the creature has 100 Hit Points or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36 (8d8) Radiant damage.
+***Убийственный лук.*** *Спасбросок Ловкости:* СЛ 21, одно существо, которое солар видит в пределах 600 футов. *Провал:* Если у существа 100 хитов или меньше, оно умирает. В противном случае оно получает 24 (4d8 + 6) Колющего урона плюс 36 (8d8) урона Излучением.
 
-***Spellcasting.*** The solar casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 25):
+***Сотворение заклинаний.*** Солар творит одно из следующих заклинаний, не требуя материальных компонентов и используя Харизму как заклинательную характеристику (СЛ спасброска 25):
 
-- **At Will:** *Detect Evil and Good*
-- **1e/Day Each:** *Commune*, *Control Weather*, *Dispel Evil and Good*, *Resurrection*
+- **По желанию:** *обнаружение добра и зла*
+- **1/День каждое:** *общение*, *власть над погодой*, *рассеивание добра и зла*, *воскрешение*
 
-### Bonus Actions
+### Бонусные действия
 
-***Divine Aid (3/Day).*** The solar casts *Cure Wounds* (level 2 version), *Lesser Restoration*, or *Remove Curse*, using the same spellcasting ability as Spellcasting.
+***Божественная помощь (3/День).*** Солар творит *лечение ран* (версия 2-го уровня), *малое восстановление* или *снятие проклятия*, используя ту же заклинательную характеристику, что и для сотворения заклинаний.
 
-### Legendary Actions
+### Легендарные действия
 
-***Blinding Gaze.*** *Constitution Saving Throw*: DC 25, one creature the solar can see within 120 feet. *Failure:*  The target has the Blinded condition for 1 minute. *Failure or Success*:  The solar can't take this action again until the start of its next turn.
+***Ослепляющий взгляд.*** *Спасбросок Телосложения:* СЛ 25, одно существо, которое солар видит в пределах 120 футов. *Провал:* Цель получает состояние «ослеплённый» на 1 минуту. *Провал или успех:* Солар не может совершить это действие снова до начала своего следующего хода.
 
-***Radiant Teleport.*** The solar teleports up to 60 feet to an unoccupied space it can see. *Dexterity Saving Throw*: DC 25, each creature in a 10-foot Emanation originating from the solar at its destination space. *Failure:*  11 (2d10) Radiant damage. *Success:*  Half damage.
+***Сияющая телепортация.*** Солар телепортируется на расстояние до 60 футов в свободное пространство, которое он видит. *Спасбросок Ловкости:* СЛ 25, каждое существо в 10-футовой эманации от солара в месте назначения. *Провал:* 11 (2d10) урона Излучением. *Успех:* Половина урона.
 
-## Specter
+## Призрак
 
-*Medium Undead, Chaotic Evil*
+*Средняя нежить, хаотично-злой*
 
-- **Armor Class:** 12
-- **Hit Points:** 22 (5d8)
-- **Speed:** 30 ft., Fly 50 ft. (hover)
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 12
+- **Хиты:** 22 (5d8)
+- **Скорость:** 30 футов, полёт 50 футов (парение)
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 1 | -5 | -5 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 11 | +0 | +0 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Understands Common plus one other language but can't speak
-- **CR** 1 (XP 200; PB +2)
+- **Сопротивления:** Кислотный, Дробящий, Холодный, Огненный, Электрический, Колющий, Рубящий, Звуковой
+- **Иммунитеты:** Некротический, Ядовитый; очарованный, истощение, схваченный, парализованный, окаменевший, отравленный, лежащий ничком, опутанный, без сознания
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Понимает Общий и один другой язык, но не может говорить
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Traits
+### Особенности
 
-***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+***Бестелесное перемещение.*** Призрак может проходить сквозь других существ и объекты, как будто это труднопроходимая местность. Он получает 5 (1d10) Силового урона, если заканчивает свой ход внутри объекта.
 
-***Sunlight Sensitivity.*** While in sunlight, the specter has Disadvantage on ability checks and attack rolls.
+***Чувствительность к солнечному свету.*** Находясь на солнечном свету, призрак совершает с помехой проверки характеристик и броски атаки.
 
+### Действия
 
-### Actions
+***Высасывание жизни.*** *Рукопашная атака:* +4, досягаемость 5 футов. 7 (2d6) Некротического урона. Если цель — существо, её максимум хитов уменьшается на величину полученного урона.
 
-***Life Drain.*** *Melee Attack Roll:* +4, reach 5 ft. 7 (2d6) Necrotic damage. If the target is a creature, its Hit Point maximum decreases by an amount equal to the damage taken.
+## Сфинкс знаний
 
-## Sphinx of Lore
+*Большое небожитель, принципиально-нейтральный*
 
-*Large Celestial, Lawful Neutral*
+- **Класс доспеха:** 17
+- **Хиты:** 170 (20d10 + 60)
+- **Скорость:** 40 футов, полёт 60 футов
+- **Инициатива:** +6 (16)
 
-- **Armor Class:** 17
-- **Hit Points:** 170 (20d10 + 60)
-- **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +6 (16)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 18 | +4 | +4 |
-| WIS | 18 | +4 | +4 |
-| CHA | 18 | +4 | +4 |
-
-- **Resistances**: Necrotic, Radiant
-- **Immunities**: Psychic; Charmed, Frightened
-- **Skills**: Arcana +12, History +12, Perception +8, Religion +12
-- **Senses**: truesight 120 ft.; Passive Perception 18
-- **Languages**: Celestial, Common
-- **CR** 11 (XP 7,200, or 8,400 in lair)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 18 | +4 | +4 |
+| МДР | 18 | +4 | +4 |
+| ХАР | 18 | +4 | +4 |
 
-### Traits
+- **Сопротивления:** Некротический, Излучение
+- **Иммунитеты:** Психический; очарованный, испуганный
+- **Навыки:** Магия +12, История +12, Восприятие +8, Религия +12
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 18
+- **Языки:** Небесный, Общий
+- **ПО** 11 (ОО 7200, или 8400 в логове)
 
-***Inscrutable.*** No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage.
+### Особенности
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the sphinx fails a saving throw, it can choose to succeed instead.
+***Непостижимость.*** Никакая магия не может наблюдать за сфинксом удалённо или определять его мысли без его разрешения. Проверки Мудрости (Проницательность) для определения его намерений или искренности совершаются с помехой.
 
+***Легендарное сопротивление (3/День, или 4/День в логове).*** Если сфинкс проваливает спасбросок, он может вместо этого преуспеть.
 
-### Actions
+### Действия
 
-***Multiattack.*** The sphinx makes three Claw attacks.
+***Мультиатака.*** Сфинкс совершает три атаки когтями.
 
-***Claw.*** *Melee Attack Roll:* +8, reach 5 ft. 14 (3d6 + 4) Slashing damage.
+***Коготь.*** *Рукопашная атака:* +8, досягаемость 5 футов. 14 (3d6 + 4) Рубящего урона.
 
-***Mind-Rending Roar (Recharge 5-6).*** *Wisdom Saving Throw*: DC 16, each enemy in a 300-foot Emanation originating from the sphinx. *Failure:*  35 (10d6) Psychic damage, and the target has the Incapacitated condition until the start of the sphinx's next turn.
+***Разрушающий разум рёв (Перезарядка 5-6).*** *Спасбросок Мудрости:* СЛ 16, каждый враг в 300-футовой эманации от сфинкса. *Провал:* 35 (10d6) Психического урона, и цель получает состояние «недееспособный» до начала следующего хода сфинкса.
 
-***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 16):
+***Сотворение заклинаний.*** Сфинкс творит одно из следующих заклинаний, не требуя материальных компонентов и используя Интеллект как заклинательную характеристику (СЛ спасброска 16):
 
-- **At Will:** *Detect Magic*, *Identify*, *Mage Hand*, *Minor Illusion*, *Prestidigitation*
-- **1e/Day Each:** *Dispel Magic*, *Legend Lore*, *Locate Object*, *Plane Shift*, *Remove Curse*, *Tongues*
+- **По желанию:** *обнаружение магии*, *опознание*, *волшебная рука*, *малая иллюзия*, *фокусы*
+- **1/День каждое:** *рассеивание магии*, *легенда*, *поиск объекта*, *уход в иной мир*, *снятие проклятия*, *языки*
 
-### Legendary Actions
+### Легендарные действия
 
-***Arcane Prowl.*** The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
+***Тайное рыскание.*** Сфинкс может телепортироваться на расстояние до 30 футов в свободное пространство, которое он видит, и совершить одну атаку когтями.
 
-***Weight of Years.*** *Constitution Saving Throw*: DC 16, one creature the sphinx can see within 120 feet. *Failure:*  The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. *Failure or Success*:  The sphinx can't take this action again until the start of its next turn.
+***Бремя лет.*** *Спасбросок Телосложения:* СЛ 16, одно существо, которое сфинкс видит в пределах 120 футов. *Провал:* Цель получает 1 уровень истощения. Пока у цели есть любые уровни истощения, она выглядит на 3d10 лет старше. *Провал или успех:* Сфинкс не может совершить это действие снова до начала своего следующего хода.
 
-## Sphinx of Valor
+## Сфинкс доблести
 
-*Large Celestial, Lawful Neutral*
+*Большое небожитель, принципиально-нейтральный*
 
-- **Armor Class:** 17
-- **Hit Points:** 199 (19d10 + 95)
-- **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 17
+- **Хиты:** 199 (19d10 + 95)
+- **Скорость:** 40 футов, полёт 60 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 10 | +0 | +6 |
-| CON | 20 | +5 | +11 |
-| INT | 16 | +3 | +9 |
-| WIS | 23 | +6 | +12 |
-| CHA | 18 | +4 | +4 |
-
-- **Resistances**: Necrotic, Radiant
-- **Immunities**: Psychic; Charmed, Frightened
-- **Skills**: Arcana +9, Perception +12, Religion +15
-- **Senses**: truesight 120 ft.; Passive Perception 22
-- **Languages**: Celestial, Common
-- **CR** 17 (XP 18,000, or 20,000 in lair)
-
-### Traits
+| СИЛ | 22 | +6 | +6 |
+| ЛОВ | 10 | +0 | +6 |
+| ТЕЛ | 20 | +5 | +11 |
+| ИНТ | 16 | +3 | +9 |
+| МДР | 23 | +6 | +12 |
+| ХАР | 18 | +4 | +4 |
 
-***Inscrutable.*** No magic can observe the sphinx remotely or detect its thoughts without its permission. Wisdom (Insight) checks made to ascertain its intentions or sincerity are made with Disadvantage.
+- **Сопротивления:** Некротический, Излучение
+- **Иммунитеты:** Психический; очарованный, испуганный
+- **Навыки:** Магия +9, Восприятие +12, Религия +15
+- **Чувства:** истинное зрение 120 футов; пассивное Восприятие 22
+- **Языки:** Небесный, Общий
+- **ПО** 17 (ОО 18000, или 20000 в логове)
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the sphinx fails a saving throw, it can choose to succeed instead.
+### Особенности
 
+***Непостижимость.*** Никакая магия не может наблюдать за сфинксом удалённо или определять его мысли без его разрешения. Проверки Мудрости (Проницательность) для определения его намерений или искренности совершаются с помехой.
 
-### Actions
+***Легендарное сопротивление (3/День, или 4/День в логове).*** Если сфинкс проваливает спасбросок, он может вместо этого преуспеть.
 
-***Multiattack.*** The sphinx makes two Claw attacks and uses Roar.
+### Действия
 
-***Claw.*** *Melee Attack Roll:* +12, reach 5 ft. 20 (4d6 + 6) Slashing damage.
+***Мультиатака.*** Сфинкс совершает две атаки когтями и использует рёв.
 
-***Roar (3/Day).*** The sphinx emits a magical roar. Whenever it roars, the roar has a different effect, as detailed below (the sequence resets when it takes a Long Rest):
+***Коготь.*** *Рукопашная атака:* +12, досягаемость 5 футов. 20 (4d6 + 6) Рубящего урона.
 
+***Рёв (3/День).*** Сфинкс издаёт магический рёв. Каждый раз, когда он ревёт, рёв имеет разный эффект, как описано ниже (последовательность сбрасывается после продолжительного отдыха):
 
-- **First Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  The target has the Frightened condition for 1 minute.
-- **Second Roar**: *Wisdom Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
-- **Third Roar**: *Constitution Saving Throw*: DC 20, each enemy in a 500-foot Emanation originating from the sphinx. *Failure:*  44 (8d10) Thunder damage, and the target has the Prone condition. *Success:*  Half damage only.
+- **Первый рёв:** *Спасбросок Мудрости:* СЛ 20, каждый враг в 500-футовой эманации от сфинкса. *Провал:* Цель получает состояние «испуганный» на 1 минуту.
+- **Второй рёв:** *Спасбросок Мудрости:* СЛ 20, каждый враг в 500-футовой эманации от сфинкса. *Провал:* Цель получает состояние «парализованный» и повторяет спасбросок в конце каждого своего хода, оканчивая эффект на себе при успехе. Через 1 минуту она автоматически преуспевает.
+- **Третий рёв:** *Спасбросок Телосложения:* СЛ 20, каждый враг в 500-футовой эманации от сфинкса. *Провал:* 44 (8d10) Звукового урона, и цель получает состояние «лежащий ничком». *Успех:* Только половина урона.
 
-***Spellcasting.*** The sphinx casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 20):
+***Сотворение заклинаний.*** Сфинкс творит одно из следующих заклинаний, не требуя материальных компонентов и используя Мудрость как заклинательную характеристику (СЛ спасброска 20):
 
-- **At Will:** *Detect Evil and Good*, *Thaumaturgy*
-- **1e/Day Each:** *Detect Magic*, *Dispel Magic*, *Greater Restoration*, *Heroes' Feast*, *Zone of Truth*
+- **По желанию:** *обнаружение добра и зла*, *чудотворство*
+- **1/День каждое:** *обнаружение магии*, *рассеивание магии*, *высшее восстановление*, *пир героев*, *область истины*
 
-### Legendary Actions
+### Легендарные действия
 
-***Arcane Prowl.*** The sphinx can teleport up to 30 feet to an unoccupied space it can see, and it makes one Claw attack.
+***Тайное рыскание.*** Сфинкс может телепортироваться на расстояние до 30 футов в свободное пространство, которое он видит, и совершить одну атаку когтями.
 
-***Weight of Years.*** *Constitution Saving Throw*: DC 16, one creature the sphinx can see within 120 feet. *Failure:*  The target gains 1 Exhaustion level. While the target has any Exhaustion levels, it appears 3d10 years older. *Failure or Success*:  The sphinx can't take this action again until the start of its next turn.
+***Бремя лет.*** *Спасбросок Телосложения:* СЛ 16, одно существо, которое сфинкс видит в пределах 120 футов. *Провал:* Цель получает 1 уровень истощения. Пока у цели есть любые уровни истощения, она выглядит на 3d10 лет старше. *Провал или успех:* Сфинкс не может совершить это действие снова до начала своего следующего хода.
 
-## Sphinx of Wonder
+## Сфинкс чудес
 
-*Small Celestial, Lawful Good*
+*Маленькое небожитель, принципиально-добрый*
 
-- **Armor Class:** 13
-- **Hit Points:** 24 (7d4 + 7)
-- **Speed:** 20 ft., Fly 40 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 13
+- **Хиты:** 24 (7d4 + 7)
+- **Скорость:** 20 футов, полёт 40 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 15 | +2 | +2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 6 | -2 | -2 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 15 | +2 | +2 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 11 | +0 | +0 |
 
-- **Resistances**: Necrotic, Psychic, Radiant
-- **Skills**: Arcana +4, Religion +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 11
-- **Languages**: Celestial, Common
-- **CR** 1 (XP 200; PB +2)
+- **Сопротивления:** Некротический, Психический, Излучение
+- **Навыки:** Магия +4, Религия +4, Скрытность +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 11
+- **Языки:** Небесный, Общий
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Traits
+### Особенности
 
-***Magic Resistance.*** The sphinx has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Сфинкс совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Раздирание.*** *Рукопашная атака:* +5, досягаемость 5 футов. 5 (1d4 + 3) Рубящего урона плюс 7 (2d6) урона Излучением.
 
-***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 5 (1d4 + 3) Slashing damage plus 7 (2d6) Radiant damage.
+## Духовная нага
 
-## Spirit Naga
+*Большое исчадие, хаотично-злой*
 
-*Large Fiend, Chaotic Evil*
+- **Класс доспеха:** 17
+- **Хиты:** 135 (18d10 + 36)
+- **Скорость:** 40 футов
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 17
-- **Hit Points:** 135 (18d10 + 36)
-- **Speed:** 40 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 17 | +3 | +6 |
-| CON | 14 | +2 | +5 |
-| INT | 16 | +3 | +3 |
-| WIS | 15 | +2 | +5 |
-| CHA | 16 | +3 | +6 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 17 | +3 | +6 |
+| ТЕЛ | 14 | +2 | +5 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 15 | +2 | +5 |
+| ХАР | 16 | +3 | +6 |
 
-- **Immunities**: Poison; Charmed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Abyssal, Common
-- **CR** 8 (XP 3,900; PB +3)
+- **Иммунитеты:** Ядовитый; очарованный, отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 12
+- **Языки:** Бездонный, Общий
+- **ПО** 8 (ОО 3900; БМ +3)
 
-### Traits
+### Особенности
 
-***Fiendish Restoration.*** If it dies, the naga returns to life in 1d6 days and regains all its Hit Points. Only a *Wish* spell can prevent this trait from functioning.
+***Исчадное восстановление.*** Если нага умирает, она возвращается к жизни через 1d6 дней и восстанавливает все хиты. Только заклинание *исполнение желаний* может предотвратить работу этой особенности.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Нага совершает три атаки, используя укус или некротический луч в любой комбинации.
 
-***Multiattack.*** The naga makes three attacks, using Bite or Necrotic Ray in any combination.
+***Укус.*** *Рукопашная атака:* +7, досягаемость 10 футов. 7 (1d6 + 4) Колющего урона плюс 14 (4d6) Ядовитого урона.
 
-***Bite.*** *Melee Attack Roll:* +7, reach 10 ft. 7 (1d6 + 4) Piercing damage plus 14 (4d6) Poison damage.
+***Некротический луч.*** *Дальнобойная атака:* +6, дистанция 60 футов. 21 (6d6) Некротического урона.
 
-***Necrotic Ray.*** *Ranged Attack Roll:* +6, range 60 ft. 21 (6d6) Necrotic damage.
+***Сотворение заклинаний.*** Нага творит одно из следующих заклинаний, не требуя соматических или материальных компонентов и используя Интеллект как заклинательную характеристику (СЛ спасброска 14):
 
-***Spellcasting.*** The naga casts one of the following spells, requiring no Somatic or Material components and using Intelligence as the spellcasting ability (spell save DC 14):
+- **По желанию:** *обнаружение магии*, *волшебная рука*, *малая иллюзия*, *подводное дыхание*
+- **2/День каждое:** *обнаружение мыслей*, *пространственный скачок*, *удержание личности*, *молния*
 
-- **At Will:** *Detect Magic*, *Mage Hand*, *Minor Illusion*, *Water Breathing*
-- **2e/Day Each:** *Detect Thoughts*, *Dimension Door*, *Hold Person*, *Lightning Bolt*
-## Sprite
+## Спрайт
 
-*Small Fey, Neutral Good*
+*Маленькое фей, нейтрально-добрый*
 
-- **Armor Class:** 15
-- **Hit Points:** 10 (4d4)
-- **Speed:** 10 ft., Fly 40 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 15
+- **Хиты:** 10 (4d4)
+- **Скорость:** 10 футов, полёт 40 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 18 | +4 | +4 |
-| CON | 10 | +0 | +0 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
-
-- **Skills**: Perception +3, Stealth +8
-- **Senses**: Passive Perception 13
-- **Languages**: Common, Elvish, Sylvan
-- **CR** 1/4 (XP 50; PB +2)
+| СИЛ | 3 | -4 | -4 |
+| ЛОВ | 18 | +4 | +4 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 11 | +0 | +0 |
 
-### Actions
+- **Навыки:** Восприятие +3, Скрытность +8
+- **Чувства:** пассивное Восприятие 13
+- **Языки:** Общий, Эльфийский, Сильванский
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-***Needle Sword.*** *Melee Attack Roll:* +6, reach 5 ft. 6 (1d4 + 4) Piercing damage.
+### Действия
 
-***Enchanting Bow.*** *Ranged Attack Roll:* +6, range 40/160 ft. 1 Piercing damage, and the target has the Charmed condition until the start of the sprite's next turn.
+***Игольчатый меч.*** *Рукопашная атака:* +6, досягаемость 5 футов. 6 (1d4 + 4) Колющего урона.
 
-***Heart Sight.*** *Charisma Saving Throw*: DC 10, one creature within 5 feet the sprite can see (Celestials, Fiends, and Undead automatically fail the save). *Failure:*  The sprite knows the target's emotions and alignment.
+***Очаровывающий лук.*** *Дальнобойная атака:* +6, дистанция 40/160 футов. 1 Колющего урона, и цель получает состояние «очарованный» до начала следующего хода спрайта.
 
-***Invisibility.*** The sprite casts *Invisibility* on itself, requiring no spell components and using Charisma as the spellcasting ability.
+***Зрение сердца.*** *Спасбросок Харизмы:* СЛ 10, одно существо в пределах 5 футов, которое спрайт видит (небожители, исчадия и нежить автоматически проваливают спасбросок). *Провал:* Спрайт узнаёт эмоции и мировоззрение цели.
 
-- **At Will:** *Invisibility*
+***Невидимость.*** Спрайт творит *невидимость* на себя, не требуя компонентов заклинания и используя Харизму как заклинательную характеристику.
 
-## Spy
+## Шпион
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 12
-- **Hit Points:** 27 (6d8)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 12
+- **Хиты:** 27 (6d8)
+- **Скорость:** 30 футов, лазание 30 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 15 | +2 | +2 |
-| CON | 10 | +0 | +0 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 16 | +3 | +3 |
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 16 | +3 | +3 |
 
-- **Skills**: Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of hand +4, Stealth +6
-- **Gear** Hand Crossbow, Shortsword, Thieves' Tools
-- **Senses**: Passive Perception 16
-- **Languages**: Common plus one other language
-- **CR** 1 (XP 200; PB +2)
+- **Навыки:** Обман +5, Проницательность +4, Расследование +5, Восприятие +6, Ловкость рук +4, Скрытность +6
+- **Снаряжение:** Ручной арбалет, короткий меч, воровские инструменты
+- **Чувства:** пассивное Восприятие 16
+- **Языки:** Общий и один другой язык
+- **ПО** 1 (ОО 200; БМ +2)
 
-### Actions
+### Действия
 
-***Shortsword.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+***Короткий меч.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Колющего урона плюс 7 (2d6) Ядовитого урона.
 
-***Hand Crossbow.*** *Ranged Attack Roll:* +4, range 30/120 ft. 5 (1d6 + 2) Piercing damage plus 7 (2d6) Poison damage.
+***Ручной арбалет.*** *Дальнобойная атака:* +4, дистанция 30/120 футов. 5 (1d6 + 2) Колющего урона плюс 7 (2d6) Ядовитого урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Хитрое действие.*** Шпион совершает действие Рывок, Отход или Засада.
 
-***Cunning Action.*** The spy takes the Dash, Disengage, or Hide action.
+## Паровой мефит
 
-## Steam Mephit
+*Маленький элементаль, нейтрально-злой*
 
-*Small Elemental, Neutral Evil*
+- **Класс доспеха:** 10
+- **Хиты:** 17 (5d6)
+- **Скорость:** 30 футов, полёт 30 футов
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 10
-- **Hit Points:** 17 (5d6)
-- **Speed:** 30 ft., Fly 30 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 5 | -3 | -3 |
-| DEX | 11 | +0 | +0 |
-| CON | 10 | +0 | +0 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 12 | +1 | +1 |
-
-- **Immunities**: Fire, Poison; Exhaustion, Poisoned
-- **Skills**: Stealth +2
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Aquan, Ignan)
-- **CR** 1/4 (XP 50; PB +2)
+| СИЛ | 5 | -3 | -3 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 12 | +1 | +1 |
 
-### Traits
+- **Иммунитеты:** Огненный, Ядовитый; истощение, отравленный
+- **Навыки:** Скрытность +2
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первичный (Аквский, Игнанский)
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-***Blurred Form.*** Attack rolls against the mephit are made with Disadvantage unless the mephit has the Incapacitated condition.
+### Особенности
 
-***Death Burst.*** The mephit explodes when it dies. *Dexterity Saving Throw*: DC 10, each creature in a 5-foot Emanation originating from the mephit. *Failure:*  5 (2d4) Fire damage. *Success:*  Half damage.
+***Размытая форма.*** Броски атаки против мефита совершаются с помехой, если только мефит не имеет состояния «недееспособный».
 
+***Взрыв при смерти.*** Мефит взрывается, когда умирает. *Спасбросок Ловкости:* СЛ 10, каждое существо в 5-футовой эманации от мефита. *Провал:* 5 (2d4) Огненного урона. *Успех:* Половина урона.
 
-### Actions
+### Действия
 
-***Claw.*** *Melee Attack Roll:* +2, reach 5 ft. 2 (1d4) Slashing damage plus 2 (1d4) Fire damage.
+***Коготь.*** *Рукопашная атака:* +2, досягаемость 5 футов. 2 (1d4) Рубящего урона плюс 2 (1d4) Огненного урона.
 
-***Steam Breath (Recharge 6).*** *Constitution Saving Throw*: DC 10, each creature in a 15-foot Cone. *Failure:*  5 (2d4) Fire damage, and the target's Speed decreases by 10 feet until the end of the mephit's next turn. *Success:*  Half damage only. *Failure or Success*:  Being underwater doesn't grant Resistance to this Fire damage.
+***Паровое дыхание (Перезарядка 6).*** *Спасбросок Телосложения:* СЛ 10, каждое существо в 15-футовом конусе. *Провал:* 5 (2d4) Огненного урона, и скорость цели уменьшается на 10 футов до конца следующего хода мефита. *Успех:* Только половина урона. *Провал или успех:* Нахождение под водой не даёт сопротивления к этому Огненному урону.
 
-## Stirge
+## Стирж
 
-*Small Monstrosity, Unaligned*
+*Маленькая чудовищность, без мировоззрения*
 
-- **Armor Class:** 13
-- **Hit Points:** 5 (2d4)
-- **Speed:** 10 ft., Fly 40 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 13
+- **Хиты:** 5 (2d4)
+- **Скорость:** 10 футов, полёт 40 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 4 | -3 | -3 |
-| DEX | 16 | +3 | +3 |
-| CON | 11 | +0 | +0 |
-| INT | 2 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 4 | -3 | -3 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 6 | -2 | -2 |
 
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **CR** 1/8 (XP 25; PB +2)
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-### Actions
+### Действия
 
-***Proboscis.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Piercing damage, and the stirge attaches to the target. While attached, the stirge can't make Proboscis attacks, and the target takes 5 (2d4) Necrotic damage at the start of each of the stirge's turns.
-The stirge can detach itself by spending 5 feet of its movement. The target or a creature within 5 feet of it can detach the stirge as an action.
+***Хоботок.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Колющего урона, и стирж прикрепляется к цели. Пока прикреплён, стирж не может совершать атаки хоботком, и цель получает 5 (2d4) Некротического урона в начале каждого хода стиржа.
+Стирж может отсоединиться, потратив 5 футов перемещения. Цель или существо в пределах 5 футов от неё может отсоединить стиржа действием.
 
-## Stone Giant
+## Каменный великан
 
-*Huge Giant, Neutral*
+*Огромный великан, нейтральный*
 
-- **Armor Class:** 17
-- **Hit Points:** 126 (11d12 + 55)
-- **Speed:** 40 ft.
-- **Initiative**: +5 (15)
+- **Класс доспеха:** 17
+- **Хиты:** 126 (11d12 + 55)
+- **Скорость:** 40 футов
+- **Инициатива:** +5 (15)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 15 | +2 | +5 |
-| CON | 20 | +5 | +8 |
-| INT | 10 | +0 | +0 |
-| WIS | 12 | +1 | +4 |
-| CHA | 9 | -1 | -1 |
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 15 | +2 | +5 |
+| ТЕЛ | 20 | +5 | +8 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 12 | +1 | +4 |
+| ХАР | 9 | -1 | -1 |
 
-- **Skills**: Athletics +12, Perception +4, Stealth +5
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Giant
-- **CR** 7 (XP 2,900; PB +3)
+- **Навыки:** Атлетика +12, Восприятие +4, Скрытность +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Великаний
+- **ПО** 7 (ОО 2900; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The giant makes two attacks, using Stone Club or Boulder in any combination.
+***Мультиатака.*** Великан совершает две атаки, используя каменную дубину или валун в любой комбинации.
 
-***Stone Club.*** *Melee Attack Roll:* +9, reach 15 ft. 22 (3d10 + 6) Bludgeoning damage.
+***Каменная дубина.*** *Рукопашная атака:* +9, досягаемость 15 футов. 22 (3d10 + 6) Дробящего урона.
 
-***Boulder.*** *Ranged Attack Roll:* +9, range 60/240 ft. 15 (2d8 + 6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
+***Валун.*** *Дальнобойная атака:* +9, дистанция 60/240 футов. 15 (2d8 + 6) Дробящего урона. Если цель — Большое или меньшее существо, она получает состояние «лежащий ничком».
 
-## Stone Golem
+## Каменный голем
 
-*Large Construct, Unaligned*
+*Большой конструкт, без мировоззрения*
 
-- **Armor Class:** 18
-- **Hit Points:** 220 (21d10 + 105)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 18
+- **Хиты:** 220 (21d10 + 105)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 22 | +6 | +6 |
-| DEX | 9 | -1 | -1 |
-| CON | 20 | +5 | +5 |
-| INT | 3 | -4 | -4 |
-| WIS | 11 | +0 | +0 |
-| CHA | 1 | -5 | -5 |
+| СИЛ | 22 | +6 | +6 |
+| ЛОВ | 9 | -1 | -1 |
+| ТЕЛ | 20 | +5 | +5 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 1 | -5 | -5 |
 
-- **Immunities**: Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 10
-- **Languages**: Understands Common plus two other languages but can't speak
-- **CR** 10 (XP 5,900; PB +4)
+- **Иммунитеты:** Ядовитый, Психический; очарованный, истощение, испуганный, парализованный, окаменевший, отравленный
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 10
+- **Языки:** Понимает Общий и два других языка, но не может говорить
+- **ПО** 10 (ОО 5900; БМ +4)
 
-### Traits
+### Особенности
 
-***Immutable Form.*** The golem can't shape-shift.
+***Неизменная форма.*** Голем не может менять облик.
 
-***Magic Resistance.*** The golem has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Голем совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Голем совершает две атаки, используя удар или силовой заряд в любой комбинации.
 
-***Multiattack.*** The golem makes two attacks, using Slam or Force Bolt in any combination.
+***Удар.*** *Рукопашная атака:* +10, досягаемость 5 футов. 15 (2d8 + 6) Дробящего урона плюс 9 (2d8) Силового урона.
 
-***Slam.*** *Melee Attack Roll:* +10, reach 5 ft. 15 (2d8 + 6) Bludgeoning damage plus 9 (2d8) Force damage.
+***Силовой заряд.*** *Дальнобойная атака:* +9, дистанция 120 футов. 22 (4d10) Силового урона.
 
-***Force Bolt.*** *Ranged Attack Roll:* +9, range 120 ft. 22 (4d10) Force damage.
+### Бонусные действия
 
+***Замедление (Перезарядка 5-6).*** Голем творит заклинание *замедление*, не требуя компонентов заклинания и используя Телосложение как заклинательную характеристику (СЛ спасброска 17).
 
-### Bonus Actions
+## Штормовой великан
 
-***Slow (Recharge 5-6).*** The golem casts the *Slow* spell, requiring no spell components and using Constitution as the spellcasting ability (spell save DC 17).
-## Storm Giant
+*Огромный великан, хаотично-добрый*
 
-*Huge Giant, Chaotic Good*
+- **Класс доспеха:** 16
+- **Хиты:** 230 (20d12 + 100)
+- **Скорость:** 50 футов, полёт 25 футов (парение), плавание 50 футов
+- **Инициатива:** +7 (17)
 
-- **Armor Class:** 16
-- **Hit Points:** 230 (20d12 + 100)
-- **Speed:** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
-- **Initiative**: +7 (17)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 29 | +9 | +14 |
-| DEX | 14 | +2 | +2 |
-| CON | 20 | +5 | +10 |
-| INT | 16 | +3 | +3 |
-| WIS | 20 | +5 | +10 |
-| CHA | 18 | +4 | +9 |
+| СИЛ | 29 | +9 | +14 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 20 | +5 | +10 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 20 | +5 | +10 |
+| ХАР | 18 | +4 | +9 |
 
-- **Resistances**: Cold
-- **Immunities**: Lightning, Thunder
-- **Skills**: Arcana +8, Athletics +14, History +8, Perception +10
-- **Senses**: darkvision 120 ft., truesight 30 ft.; Passive Perception 20
-- **Languages**: Common, Giant
-- **CR** 13 (XP 10,000; PB +5)
+- **Сопротивления:** Холодный
+- **Иммунитеты:** Электрический, Звуковой
+- **Навыки:** Магия +8, Атлетика +14, История +8, Восприятие +10
+- **Чувства:** тёмное зрение 120 футов, истинное зрение 30 футов; пассивное Восприятие 20
+- **Языки:** Общий, Великаний
+- **ПО** 13 (ОО 10000; БМ +5)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The giant can breathe air and water.
+***Амфибия.*** Великан может дышать воздухом и водой.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Великан совершает две атаки, используя штормовой меч или громовой заряд в любой комбинации.
 
-***Multiattack.*** The giant makes two attacks, using Storm Sword or Thunderbolt in any combination.
+***Штормовой меч.*** *Рукопашная атака:* +14, досягаемость 10 футов. 23 (4d6 + 9) Рубящего урона плюс 13 (3d8) урона Электричеством.
 
-***Storm Sword.*** *Melee Attack Roll:* +14, reach 10 ft. 23 (4d6 + 9) Slashing damage plus 13 (3d8) Lightning damage.
+***Громовой заряд.*** *Дальнобойная атака:* +14, дистанция 500 футов. 22 (2d12 + 9) урона Электричеством, и цель получает состояния «ослеплённый» и «оглохший» до начала следующего хода великана.
 
-***Thunderbolt.*** *Ranged Attack Roll:* +14, range 500 ft. 22 (2d12 + 9) Lightning damage, and the target has the Blinded and Deafened conditions until the start of the giant's next turn.
+***Грозовой шторм (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 18, каждое существо в цилиндре радиусом 10 футов и высотой 40 футов с центром в точке, которую великан видит в пределах 500 футов. *Провал:* 55 (10d10) урона Электричеством. *Успех:* Половина урона.
 
-***Lightning Storm (Recharge 5-6).*** *Dexterity Saving Throw*: DC 18, each creature in a 10-foot-radius, 40-foot-high Cylinder [Area of Effect]|XPHB|Cylinder originating from a point the giant can see within 500 feet. *Failure:*  55 (10d10) Lightning damage. *Success:*  Half damage.
+***Сотворение заклинаний.*** Великан творит одно из следующих заклинаний, не требуя материальных компонентов и используя Мудрость как заклинательную характеристику (СЛ спасброска 18):
 
-***Spellcasting.*** The giant casts one of the following spells, requiring no Material components and using Wisdom as the spellcasting ability (spell save DC 18):
+- **По желанию:** *обнаружение магии*, *свет*
+- **1/День каждое:** *власть над погодой*
 
-- **At Will:** *Detect Magic*, *Light*
-- **1/Day Each:** *Control Weather*
-## Succubus
+## Суккуб
 
-*Medium Fiend, Neutral Evil*
+*Среднее исчадие, нейтрально-злой*
 
-- **Armor Class:** 15
-- **Hit Points:** 71 (13d8 + 13)
-- **Speed:** 30 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 15
+- **Хиты:** 71 (13d8 + 13)
+- **Скорость:** 30 футов, полёт 60 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 8 | -1 | -1 |
-| DEX | 17 | +3 | +3 |
-| CON | 13 | +1 | +1 |
-| INT | 15 | +2 | +2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 20 | +5 | +5 |
-
-- **Resistances**: Cold, Fire, Poison, Psychic
-- **Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Abyssal, Common, Infernal; telepathy 60 ft.
-- **CR** 4 (XP 1,100; PB +2)
+| СИЛ | 8 | -1 | -1 |
+| ЛОВ | 17 | +3 | +3 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 15 | +2 | +2 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 20 | +5 | +5 |
 
-### Traits
+- **Сопротивления:** Холодный, Огненный, Ядовитый, Психический
+- **Навыки:** Обман +9, Проницательность +5, Восприятие +5, Убеждение +9, Скрытность +7
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Бездонный, Общий, Инфернальный; телепатия 60 футов
+- **ПО** 4 (ОО 1100; БМ +2)
 
-***Incubus Form.*** When the succubus finishes a Long Rest, it can shape-shift into an Incubus, using that stat block instead of this one.
+### Особенности
 
+***Форма инкуба.*** Когда суккуб завершает продолжительный отдых, она может принять облик инкуба, используя этот блок характеристик вместо своего.
 
-### Actions
+### Действия
 
-***Multiattack.*** The succubus makes one Fiendish Touch attack and uses Charm or Draining Kiss.
+***Мультиатака.*** Суккуб совершает одну атаку исчадным касанием и использует очарование или истощающий поцелуй.
 
-***Fiendish Touch.*** *Melee Attack Roll:* +7, reach 5 ft. 16 (2d10 + 5) Psychic damage.
+***Исчадное касание.*** *Рукопашная атака:* +7, досягаемость 5 футов. 16 (2d10 + 5) Психического урона.
 
-***Charm.*** The succubus casts *Dominate Person* (level 8 version), requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15).
+***Очарование.*** Суккуб творит *подчинение личности* (версия 8-го уровня), не требуя компонентов заклинания и используя Харизму как заклинательную характеристику (СЛ спасброска 15).
 
-***Draining Kiss.*** *Constitution Saving Throw*: DC 15, one creature Charmed by the succubus within 5 feet. *Failure:*  13 (3d8) Psychic damage. *Success:*  Half damage. *Failure or Success*:  The target's Hit Point maximum decreases by an amount equal to the damage taken.
+***Истощающий поцелуй.*** *Спасбросок Телосложения:* СЛ 15, одно существо, очарованное суккубом, в пределах 5 футов. *Провал:* 13 (3d8) Психического урона. *Успех:* Половина урона. *Провал или успех:* Максимум хитов цели уменьшается на величину полученного урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Смена облика.*** Суккуб принимает облик Среднего или Маленького гуманоида или возвращается в свою истинную форму. Её игровые характеристики одинаковы в каждой форме, кроме того, что скорость полёта доступна только в истинной форме. Любое снаряжение, которое она носит или несёт, не трансформируется.
 
-***Shape-Shift.*** The succubus shape-shifts to resemble a Medium or Small Humanoid or back into its true form. Its game statistics are the same in each form, except its Fly Speed is available only in its true form. Any equipment it's wearing or carrying isn't transformed.
+## Тарраска
 
-## Tarrasque
+*Громадное чудовище (титан), без мировоззрения*
 
-*Gargantuan Monstrosity (Titan), Unaligned*
+- **Класс доспеха:** 25
+- **Хиты:** 697 (34d20 + 340)
+- **Скорость:** 60 футов, рытьё 40 футов, лазанье 60 футов
+- **Инициатива:** +18 (28)
 
-- **Armor Class:** 25
-- **Hit Points:** 697 (34d20 + 340)
-- **Speed:** 60 ft., Burrow 40 ft., Climb 60 ft.
-- **Initiative**: +18 (28)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 30 | +10 | +10 |
-| DEX | 11 | +0 | +9 |
-| CON | 30 | +10 | +10 |
-| INT | 3 | -4 | +5 |
-| WIS | 11 | +0 | +9 |
-| CHA | 11 | +0 | +9 |
-
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
-- **Skills**: Perception +9
-- **Senses**: blindsight 120 ft.; Passive Perception 19
-- **CR** 30 (XP 155,000; PB +9)
+| СИЛ | 30 | +10 | +10 |
+| ЛОВ | 11 | +0 | +9 |
+| ТЕЛ | 30 | +10 | +10 |
+| ИНТ | 3 | -4 | +5 |
+| МДР | 11 | +0 | +9 |
+| ХАР | 11 | +0 | +9 |
 
-### Traits
+- **Сопротивления:** Дробящий, Колющий, Рубящий
+- **Иммунитеты:** Огонь, Яд; Очарованный, Оглохший, Испуганный, Парализованный, Отравленный
+- **Навыки:** Восприятие +9
+- **Чувства:** слепое зрение 120 футов; пассивное Восприятие 19
+- **ПО** 30 (ОО 155000; БМ +9)
 
-***Legendary Resistance (6/Day).*** If the tarrasque fails a saving throw, it can choose to succeed instead.
+### Особенности
 
-***Magic Resistance.*** The tarrasque has Advantage on saving throws against spells and other magical effects.
+***Легендарное сопротивление (6/День).*** Если тарраска проваливает спасбросок, она может вместо этого преуспеть.
 
-***Reflective Carapace.*** If the tarrasque is targeted by a *Magic Missile* spell or a spell that requires a ranged attack roll, roll 1d6. On a 1-5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected and reflects the spell, turning the caster into the target.
+***Сопротивление магии.*** Тарраска совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
-***Siege Monster.*** The tarrasque deals double damage to objects and structures.
+***Отражающий панцирь.*** Если тарраска является целью заклинания *волшебная стрела* или заклинания, требующего дальнобойного броска атаки, бросьте 1d6. При результате 1-5 тарраска не получает эффекта. При результате 6 тарраска не получает эффекта и отражает заклинание, делая заклинателя целью.
 
+***Осадное чудовище.*** Тарраска наносит двойной урон предметам и строениям.
 
-### Actions
+### Действия
 
-***Multiattack.*** The tarrasque makes one Bite attack and three other attacks, using Claw or Tail in any combination.
+***Мультиатака.*** Тарраска совершает одну атаку укусом и три других атаки, используя когти или хвост в любой комбинации.
 
-***Bite.*** *Melee Attack Roll:* +19, reach 15 ft. 36 (4d12 + 10) Piercing damage, and the target has the Grappled condition (escape DC 20). Until the grapple ends, the target has the Restrained condition and can't teleport.
+***Укус.*** *Рукопашная атака:* +19, досягаемость 15 футов. 36 (4d12 + 10) Колющего урона, и цель получает состояние «схваченный» (СЛ высвобождения 20). Пока захват не завершён, цель находится в состоянии «обездвиженный» и не может телепортироваться.
 
-***Claw.*** *Melee Attack Roll:* +19, reach 15 ft. 28 (4d8 + 10) Slashing damage.
+***Когти.*** *Рукопашная атака:* +19, досягаемость 15 футов. 28 (4d8 + 10) Рубящего урона.
 
-***Tail.*** *Melee Attack Roll:* +19, reach 30 ft. 23 (3d8 + 10) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+***Хвост.*** *Рукопашная атака:* +19, досягаемость 30 футов. 23 (3d8 + 10) Дробящего урона. Если цель — Огромное или меньшее существо, она получает состояние «лежащий».
 
-***Thunderous Bellow (Recharge 5-6).*** *Constitution Saving Throw*: DC 27, each creature and each object that isn't being worn or carried in a 150-foot Cone. *Failure:*  78 (12d12) Thunder damage, and the target has the Deafened and Frightened conditions until the end of its next turn. *Success:*  Half damage only.
+***Громовой рёв (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 27, каждое существо и каждый предмет, который не носят и не несут, в 150-футовом конусе. *Провал:* 78 (12d12) урона Звуком, и цель получает состояния «оглохший» и «испуганный» до конца своего следующего хода. *Успех:* Только половина урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Проглатывание.*** *Спасбросок Силы:* СЛ 27, одно Большое или меньшее существо, схваченное тарраской (она может иметь до шести проглоченных существ одновременно). *Провал:* Цель проглочена, и состояние «схваченный» завершается. Проглоченное существо получает состояния «ослеплённый» и «обездвиженный», не может телепортироваться, имеет полное укрытие от атак и других эффектов вне тарраски, и получает 56 (16d6) урона Кислотой в начале каждого хода тарраски.
+Если тарраска получает 60 или более урона за один ход от существа внутри неё, тарраска должна преуспеть в спасброске Телосложения СЛ 20 в конце этого хода, иначе она извергает всех проглоченных существ, каждое из которых падает в пространство в пределах 10 футов от тарраски и получает состояние «лежащий». Если тарраска умирает, проглоченные существа больше не имеют состояния «обездвиженный» и могут выбраться из трупа, используя 20 футов перемещения, выходя лежащими.
 
-***Swallow.*** *Strength Saving Throw*: DC 27, one Large or smaller creature Grappled by the tarrasque (it can have up to six creatures swallowed at a time). *Failure:*  The target is swallowed, and the Grappled condition ends. A swallowed creature has the Blinded and Restrained conditions and can't teleport, it has Cover|XPHB|Total Cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) Acid damage at the start of each of the tarrasque's turns.
-If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls in a space within 10 feet of the tarrasque and has the Prone condition. If the tarrasque dies, any swallowed creature no longer has the Restrained condition and can escape from the corpse using 20 feet of movement, exiting Prone.
+### Легендарные действия
 
+***Натиск.*** Тарраска перемещается на расстояние до половины своей скорости и совершает одну атаку когтями или хвостом.
 
-### Legendary Actions
+***Сотрясающее движение.*** Тарраска перемещается на расстояние до своей скорости. В конце этого перемещения тарраска создаёт мгновенную ударную волну в 60-футовой эманации, исходящей от неё. Существа в этой области теряют концентрацию и, если они Среднего или меньшего размера, получают состояние «лежащий». Тарраска не может совершить это действие снова до начала своего следующего хода.
 
-***Onslaught.*** The tarrasque moves up to half its Speed, and it makes one Claw or Tail attack.
+## Главарь головорезов
 
-***World-Shaking Movement.*** The tarrasque moves up to its Speed. At the end of this movement, the tarrasque creates an instantaneous shock wave in a 60-foot Emanation originating from itself. Creatures in that area lose  Concentration and, if Medium or smaller, have the Prone condition. The tarrasque can't take this action again until the start of its next turn.
+*Маленький гуманоид, нейтральный*
 
-## Tough Boss
+- **Класс доспеха:** 16
+- **Хиты:** 82 (11d8 + 33)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-*Small Humanoid, Neutral*
-
-- **Armor Class:** 16
-- **Hit Points:** 82 (11d8 + 33)
-- **Speed:** 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +5 |
-| DEX | 14 | +2 | +2 |
-| CON | 16 | +3 | +5 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +2 |
+| СИЛ | 17 | +3 | +5 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +5 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 11 | +0 | +2 |
 
-- **Gear** Chain Mail, Heavy Crossbow, Warhammer
-- **Senses**: Passive Perception 10
-- **Languages**: Common plus one other language
-- **CR** 4 (XP 1,100; PB +2)
+- **Снаряжение** Кольчуга, тяжёлый арбалет, боевой молот
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий плюс один другой язык
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Traits
+### Особенности
 
-***Pack Tactics.*** The tough has Advantage on an attack roll against a creature if at least one of the tough's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+***Тактика стаи.*** Головорез совершает с преимуществом бросок атаки против существа, если как минимум один из союзников головореза находится в пределах 5 футов от существа и союзник не находится в состоянии «недееспособный».
 
+### Действия
 
-### Actions
+***Мультиатака.*** Головорез совершает две атаки, используя боевой молот или тяжёлый арбалет в любой комбинации.
 
-***Multiattack.*** The tough makes two attacks, using Warhammer or Heavy Crossbow in any combination.
+***Боевой молот.*** *Рукопашная атака:* +5, досягаемость 5 футов. 12 (2d8 + 3) Дробящего урона. Если цель — Большое или меньшее существо, головорез толкает цель на расстояние до 10 футов по прямой от себя.
 
-***Warhammer.*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Bludgeoning damage. If the target is a Large or smaller creature, the tough pushes the target up to 10 feet straight away from itself.
+***Тяжёлый арбалет.*** *Дальнобойная атака:* +4, дистанция 100/400 футов. 13 (2d10 + 2) Колющего урона.
 
-***Heavy Crossbow.*** *Ranged Attack Roll:* +4, range 100/400 ft. 13 (2d10 + 2) Piercing damage.
+## Головорез
 
-## Tough
+*Маленький гуманоид, нейтральный*
 
-*Small Humanoid, Neutral*
+- **Класс доспеха:** 12
+- **Хиты:** 32 (5d8 + 10)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 12
-- **Hit Points:** 32 (5d8 + 10)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 12 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +0 |
-
-- **Gear** Heavy Crossbow, Leather Armor, Mace
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 1/2 (XP 100; PB +2)
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 11 | +0 | +0 |
 
-### Traits
+- **Снаряжение** Тяжёлый арбалет, кожаный доспех, булава
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-***Pack Tactics.*** The tough has Advantage on an attack roll against a creature if at least one of the tough's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+### Особенности
 
+***Тактика стаи.*** Головорез совершает с преимуществом бросок атаки против существа, если как минимум один из союзников головореза находится в пределах 5 футов от существа и союзник не находится в состоянии «недееспособный».
 
-### Actions
+### Действия
 
-***Mace.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Bludgeoning damage.
+***Булава.*** *Рукопашная атака:* +4, досягаемость 5 футов. 5 (1d6 + 2) Дробящего урона.
 
-***Heavy Crossbow.*** *Ranged Attack Roll:* +3, range 100/400 ft. 6 (1d10 + 1) Piercing damage.
+***Тяжёлый арбалет.*** *Дальнобойная атака:* +3, дистанция 100/400 футов. 6 (1d10 + 1) Колющего урона.
 
-## Treant
+## Древень
 
-*Huge Plant, Chaotic Good*
+*Огромное растение, хаотично-доброе*
 
-- **Armor Class:** 16
-- **Hit Points:** 138 (12d12 + 60)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 16
+- **Хиты:** 138 (12d12 + 60)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 8 | -1 | -1 |
-| CON | 21 | +5 | +5 |
-| INT | 12 | +1 | +1 |
-| WIS | 16 | +3 | +3 |
-| CHA | 12 | +1 | +1 |
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 8 | -1 | -1 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 16 | +3 | +3 |
+| ХАР | 12 | +1 | +1 |
 
-- **Vulnerabilities**: Fire
-- **Resistances**: Bludgeoning, Piercing
-- **Senses**: Passive Perception 13
-- **Languages**: Common, Druidic, Elvish, Sylvan
-- **CR** 9 (XP 5,000; PB +4)
+- **Уязвимости:** Огонь
+- **Сопротивления:** Дробящий, Колющий
+- **Чувства:** пассивное Восприятие 13
+- **Языки:** Общий, Друидический, Эльфийский, Сильван
+- **ПО** 9 (ОО 5000; БМ +4)
 
-### Traits
+### Особенности
 
-***Siege Monster.*** The treant deals double damage to objects and structures.
+***Осадное чудовище.*** Древень наносит двойной урон предметам и строениям.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Древень совершает две атаки ударом.
 
-***Multiattack.*** The treant makes two Slam attacks.
+***Удар.*** *Рукопашная атака:* +10, досягаемость 5 футов. 16 (3d6 + 6) Дробящего урона.
 
-***Slam.*** *Melee Attack Roll:* +10, reach 5 ft. 16 (3d6 + 6) Bludgeoning damage.
+***Град коры.*** *Дальнобойная атака:* +10, дистанция 180 футов. 28 (4d10 + 6) Колющего урона.
 
-***Hail of Bark.*** *Ranged Attack Roll:* +10, range 180 ft. 28 (4d10 + 6) Piercing damage.
+***Оживление деревьев (1/День).*** Древень магически оживляет до двух деревьев, которые он видит в пределах 60 футов от себя. Каждое дерево использует блок характеристик древня, за исключением того, что его значения Интеллекта и Харизмы равны 1, оно не может говорить и у него нет этого действия. Дерево действует сразу после древня при том же значении инициативы и подчиняется древню. Дерево остаётся оживлённым 1 день или пока не умрёт, пока не умрёт древень, или пока не окажется на расстоянии более 120 футов от древня. После этого дерево пускает корни, если возможно.
 
-***Animate Trees (1/Day).*** The treant magically animates up to two trees it can see within 60 feet of itself. Each tree uses the Treant stat block, except it has Intelligence and Charisma scores of 1, it can't speak, and it lacks this action. The tree takes its turn immediately after the treant on the same Initiative count, and it obeys the treant. A tree remains animate for 1 day or until it dies, the treant dies, or it is more than 120 feet from the treant. The tree then takes root if possible.
+## Конечность тролля
 
-## Troll Limb
+*Маленький великан, хаотично-злой*
 
-*Small Giant, Chaotic Evil*
+- **Класс доспеха:** 13
+- **Хиты:** 14 (4d6)
+- **Скорость:** 20 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 13
-- **Hit Points:** 14 (4d6)
-- **Speed:** 20 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 12 | +1 | +1 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 9 | -1 | -1 |
-| CHA | 1 | -5 | -5 |
-
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **CR** 1/2 (XP 100; PB +2)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 9 | -1 | -1 |
+| ХАР | 1 | -5 | -5 |
 
-### Traits
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-***Regeneration.*** The limb regains 5 Hit Points at the start of each of its turns. If the limb takes Acid or Fire damage, this trait doesn't function on the limb's next turn. The limb dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
+### Особенности
 
-***Troll Spawn.*** The limb uncannily has the same senses as a whole troll. If the limb isn't destroyed within 24 hours, roll 1d12. On a 12, the limb turns into a Troll. Otherwise, the limb withers away.
+***Регенерация.*** Конечность восстанавливает 5 хитов в начале каждого своего хода. Если конечность получает урон Кислотой или Огнём, эта особенность не работает в её следующий ход. Конечность умирает только если начинает свой ход с 0 хитов и не регенерирует.
 
+***Порождение тролля.*** Конечность сверхъестественным образом обладает теми же чувствами, что и целый тролль. Если конечность не уничтожена в течение 24 часов, бросьте 1d12. При результате 12 конечность превращается в тролля. Иначе конечность увядает.
 
-### Actions
+### Действия
 
-***Rend.*** *Melee Attack Roll:* +6, reach 5 ft. 9 (2d4 + 4) Slashing damage.
+***Разрывание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 9 (2d4 + 4) Рубящего урона.
 
-## Troll
+## Тролль
 
-*Large Giant, Chaotic Evil*
+*Большой великан, хаотично-злой*
 
-- **Armor Class:** 15
-- **Hit Points:** 94 (9d10 + 45)
-- **Speed:** 30 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 15
+- **Хиты:** 94 (9d10 + 45)
+- **Скорость:** 30 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 13 | +1 | +1 |
-| CON | 20 | +5 | +5 |
-| INT | 7 | -2 | -2 |
-| WIS | 9 | -1 | -1 |
-| CHA | 7 | -2 | -2 |
-
-- **Skills**: Perception +5
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Giant
-- **CR** 5 (XP 1,800; PB +3)
-
-### Traits
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 20 | +5 | +5 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 9 | -1 | -1 |
+| ХАР | 7 | -2 | -2 |
 
-***Loathsome Limbs (4/Day).*** If the troll ends any turn Bloodied and took 15+ Slashing damage during that turn, one of the troll's limbs is severed, falls into the troll's space, and becomes a Troll Limb. The limb acts immediately after the troll's turn. The troll has 1 Exhaustion level for each missing limb, and it grows replacement limbs the next time it regains Hit Points.
+- **Навыки:** Восприятие +5
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Великанский
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Regeneration.*** The troll regains 15 Hit Points at the start of each of its turns. If the troll takes Acid or Fire damage, this trait doesn't function on the troll's next turn. The troll dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
+### Особенности
 
+***Отвратительные конечности (4/День).*** Если тролль заканчивает любой ход окровавленным и получил 15+ рубящего урона в течение этого хода, одна из конечностей тролля отсекается, падает в его пространство и становится конечностью тролля. Конечность действует сразу после хода тролля. Тролль получает 1 уровень истощения за каждую отсутствующую конечность и отращивает новые конечности в следующий раз, когда восстанавливает хиты.
 
-### Actions
+***Регенерация.*** Тролль восстанавливает 15 хитов в начале каждого своего хода. Если тролль получает урон Кислотой или Огнём, эта особенность не работает в его следующий ход. Тролль умирает только если начинает свой ход с 0 хитов и не регенерирует.
 
-***Multiattack.*** The troll makes three Rend attacks.
+### Действия
 
-***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Slashing damage.
+***Мультиатака.*** Тролль совершает три атаки разрыванием.
 
+***Разрывание.*** *Рукопашная атака:* +7, досягаемость 10 футов. 11 (2d6 + 4) Рубящего урона.
 
-### Bonus Actions
+### Бонусные действия
 
-***Charge.*** The troll moves up to half its Speed straight toward an enemy it can see.
+***Рывок.*** Тролль перемещается на расстояние до половины своей скорости прямо к врагу, которого видит.
 
-## Unicorn
+## Единорог
 
-*Large Celestial, Lawful Good*
+*Большое небожитель, принципиально-доброе*
 
-- **Armor Class:** 12
-- **Hit Points:** 97 (13d10 + 26)
-- **Speed:** 50 ft.
-- **Initiative**: +8 (18)
+- **Класс доспеха:** 12
+- **Хиты:** 97 (13d10 + 26)
+- **Скорость:** 50 футов
+- **Инициатива:** +8 (18)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 15 | +2 | +2 |
-| INT | 11 | +0 | +0 |
-| WIS | 17 | +3 | +3 |
-| CHA | 16 | +3 | +3 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 17 | +3 | +3 |
+| ХАР | 16 | +3 | +3 |
 
-- **Immunities**: Poison; Charmed, Paralyzed, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Celestial, Elvish, Sylvan; telepathy 120 ft.
-- **CR** 5 (XP 1,800; PB +3)
+- **Иммунитеты:** Яд; Очарованный, Парализованный, Отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 13
+- **Языки:** Небесный, Эльфийский, Сильван; телепатия 120 футов
+- **ПО** 5 (ОО 1800; БМ +3)
 
-### Traits
+### Особенности
 
-***Legendary Resistance (3/Day).*** If the unicorn fails a saving throw, it can choose to succeed instead.
+***Легендарное сопротивление (3/День).*** Если единорог проваливает спасбросок, он может вместо этого преуспеть.
 
-***Magic Resistance.*** The unicorn has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Единорог совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Единорог совершает одну атаку копытами и одну атаку сияющим рогом.
 
-***Multiattack.*** The unicorn makes one Hooves attack and one Radiant Horn attack.
+***Копыта.*** *Рукопашная атака:* +7, досягаемость 5 футов. 11 (2d6 + 4) Дробящего урона.
 
-***Hooves.*** *Melee Attack Roll:* +7, reach 5 ft. 11 (2d6 + 4) Bludgeoning damage.
+***Сияющий рог.*** *Рукопашная атака:* +7, досягаемость 5 футов. 9 (1d10 + 4) урона Излучением.
 
-***Radiant Horn.*** *Melee Attack Roll:* +7, reach 5 ft. 9 (1d10 + 4) Radiant damage.
+***Сотворение заклинаний.*** Единорог творит одно из следующих заклинаний, не требуя компонентов заклинания и используя Харизму как заклинательную характеристику (СЛ спасброска 14):
 
-***Spellcasting.*** The unicorn casts one of the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 14):
+- **По желанию:** *обнаружение добра и зла*, *искусство друидов*
+- **1/День каждое:** *успокоение эмоций*, *рассеивание добра и зла*, *опутывание*, *бесследное передвижение*, *слово возврата*
 
-- **At Will:** *Detect Evil and Good*, *Druidcraft*
-- **1e/Day Each:** *Calm Emotions*, *Dispel Evil and Good*, *Entangle*, *Pass without Trace*, *Word of Recall*
+### Бонусные действия
 
-### Bonus Actions
+***Благословение единорога (3/День).*** Единорог касается другого существа своим рогом и творит *лечение ран* или *малое восстановление* на это существо, используя ту же заклинательную способность, что и для сотворения заклинаний.
 
-***Unicorn's Blessing (3/Day).*** The unicorn touches another creature with its horn and casts *Cure Wounds* or *Lesser Restoration* on that creature, using the same spellcasting ability as Spellcasting.
+### Легендарные действия
 
-### Legendary Actions
+***Атакующий рог.*** Единорог перемещается на расстояние до половины своей скорости без провоцирования внеочередных атак и совершает одну атаку сияющим рогом.
 
-***Charging Horn.*** The unicorn moves up to half its Speed without provoking Opportunity Attacks, and it makes one Radiant Horn attack.
+***Мерцающий щит.*** Единорог выбирает целью себя или одно существо, которое видит в пределах 60 футов от себя. Цель получает 10 (3d6) временных хитов, и её КД увеличивается на 2 до конца следующего хода единорога. Единорог не может совершить это действие снова до начала своего следующего хода.
 
-***Shimmering Shield.*** The unicorn targets itself or one creature it can see within 60 feet of itself. The target gains 10 (3d6) Temporary Hit Points, and its AC increases by 2 until the end of the unicorn's next turn. The unicorn can't take this action again until the start of its next turn.
+## Фамильяр вампира
 
-## Vampire Familiar
+*Маленький гуманоид, нейтрально-злой*
 
-*Small Humanoid, Neutral Evil*
+- **Класс доспеха:** 15
+- **Хиты:** 65 (10d8 + 20)
+- **Скорость:** 30 футов, лазанье 30 футов
+- **Инициатива:** +5 (15)
 
-- **Armor Class:** 15
-- **Hit Points:** 65 (10d8 + 20)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 16 | +3 | +5 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 10 | +0 | +2 |
-| CHA | 14 | +2 | +2 |
-
-- **Resistances**: Necrotic
-- **Immunities**: Charmed ((except from its vampire master))
-- **Skills**: Perception +4, Persuasion +4, Stealth +7
-- **Gear** Dagger x 10
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common plus one other language
-- **CR** 3 (XP 700; PB +2)
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 16 | +3 | +5 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 10 | +0 | +2 |
+| ХАР | 14 | +2 | +2 |
 
-### Traits
+- **Сопротивления:** Некротический
+- **Иммунитеты:** Очарованный (кроме хозяина-вампира)
+- **Навыки:** Восприятие +4, Убеждение +4, Скрытность +7
+- **Снаряжение** Кинжал x 10
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Общий плюс один другой язык
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Vampiric Connection.*** While the familiar and its vampire master are on the same plane of existence, the vampire can communicate with the familiar telepathically, and the vampire can perceive through the familiar's senses.
+### Особенности
 
+***Вампирская связь.*** Пока фамильяр и его хозяин-вампир находятся на одном плане существования, вампир может телепатически общаться с фамильяром и может воспринимать через органы чувств фамильяра.
 
-### Actions
+### Действия
 
-***Multiattack.*** The familiar makes two Umbral Dagger attacks.
+***Мультиатака.*** Фамильяр совершает две атаки теневым кинжалом.
 
-***Umbral Dagger.*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. 5 (1d4 + 3) Piercing damage plus 7 (3d4) Necrotic damage. If the target is reduced to 0 Hit Points by this attack, the target becomes Stable but has the Poisoned condition for 1 hour. While it has the Poisoned condition, the target has the Paralyzed condition.
+***Теневой кинжал.*** *Рукопашная или дальнобойная атака:* +5, досягаемость 5 футов или дистанция 20/60 футов. 5 (1d4 + 3) Колющего урона плюс 7 (3d4) Некротического урона. Если цель получает от этой атаки 0 хитов, она становится стабильной, но получает состояние «отравленный» на 1 час. Пока она имеет состояние «отравленный», цель находится в состоянии «парализованный».
 
+### Бонусные действия
 
-### Bonus Actions
+***Бессмертная ловкость.*** Фамильяр совершает действие Рывок или Отход.
 
-***Deathless Agility.*** The familiar takes the Dash or Disengage action.
+## Вампир
 
-## Vampire
+*Маленькая нежить, принципиально-злой*
 
-*Small Undead, Lawful Evil*
+- **Класс доспеха:** 16
+- **Хиты:** 195 (23d8 + 92)
+- **Скорость:** 40 футов, лазанье 40 футов
+- **Инициатива:** +8 (18)
 
-- **Armor Class:** 16
-- **Hit Points:** 195 (23d8 + 92)
-- **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +8 (18)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 18 | +4 | +9 |
-| CON | 18 | +4 | +9 |
-| INT | 17 | +3 | +3 |
-| WIS | 15 | +2 | +7 |
-| CHA | 18 | +4 | +9 |
-
-- **Resistances**: Necrotic
-- **Skills**: Perception +7, Stealth +9
-- **Senses**: darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common plus two other languages
-- **CR** 13 (XP 10,000, or 11,500 in lair)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 18 | +4 | +9 |
+| ТЕЛ | 18 | +4 | +9 |
+| ИНТ | 17 | +3 | +3 |
+| МДР | 15 | +2 | +7 |
+| ХАР | 18 | +4 | +9 |
 
-### Traits
+- **Сопротивления:** Некротический
+- **Навыки:** Восприятие +7, Скрытность +9
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 17
+- **Языки:** Общий плюс два других языка
+- **ПО** 13 (ОО 10000, или 11500 в логове)
 
-***Legendary Resistance (3/Day, or 4/Day in Lair).*** If the vampire fails a saving throw, it can choose to succeed instead.
+### Особенности
 
-***Misty Escape.*** If the vampire drops to 0 Hit Points outside its resting place, the vampire uses Shape-Shift to become mist (no action required). If it can't use Shape-Shift, it is destroyed.
-While it has 0 Hit Points in mist form, it can't return to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it returns to its vampire form and has the Paralyzed condition until it regains any Hit Points, and it regains 1 Hit Point after spending 1 hour there.
+***Легендарное сопротивление (3/День, или 4/День в логове).*** Если вампир проваливает спасбросок, он может вместо этого преуспеть.
 
-***Spider Climb.*** The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+***Туманный побег.*** Если вампир опускается до 0 хитов вне своего места отдыха, вампир использует смену облика, чтобы стать туманом (без действия). Если он не может использовать смену облика, он уничтожается.
+Пока он имеет 0 хитов в форме тумана, он не может вернуться в форму вампира, и должен достичь своего места отдыха в течение 2 часов или быть уничтоженным. Оказавшись в своём месте отдыха, он возвращается в форму вампира и получает состояние «парализованный», пока не восстановит хоть какие-то хиты, и он восстанавливает 1 хит после проведения там 1 часа.
 
-***Vampire Weakness.*** The vampire has these weaknesses:
+***Паучье лазанье.*** Вампир может лазать по сложным поверхностям, включая потолки, не совершая проверок способностей.
 
+***Слабость вампира.*** Вампир имеет следующие слабости:
 
-- **Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
-- **Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
-- **Stake to the Heart**: If a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition in its resting place, the vampire has the Paralyzed condition until the weapon is removed.
-- **Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+- **Запрет:** Вампир не может войти в жилище без приглашения от жильца.
+- **Проточная вода:** Вампир получает 20 урона Кислотой, если заканчивает свой ход в проточной воде.
+- **Кол в сердце:** Если оружие, наносящее колющий урон, вонзено в сердце вампира, пока вампир находится в состоянии «недееспособный» в своём месте отдыха, вампир получает состояние «парализованный» до тех пор, пока оружие не будет извлечено.
+- **Солнечный свет:** Вампир получает 20 урона Излучением, если начинает свой ход на солнечном свету. Находясь на солнечном свету, он совершает с помехой броски атаки и проверки способностей.
 
+### Действия
 
-### Actions
+***Мультиатака (только в форме вампира).*** Вампир совершает две атаки могильным ударом и использует укус.
 
-***Multiattack (Vampire Form Only).*** The vampire makes two Grave Strike attacks and uses Bite.
+***Могильный удар (только в форме вампира).*** *Рукопашная атака:* +9, досягаемость 5 футов. 8 (1d8 + 4) Дробящего урона плюс 7 (2d6) Некротического урона. Если цель — Большое или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 14) одной из двух рук.
 
-***Grave Strike (Vampire Form Only).*** *Melee Attack Roll:* +9, reach 5 ft. 8 (1d8 + 4) Bludgeoning damage plus 7 (2d6) Necrotic damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14) from one of two hands.
+***Укус (только в форме летучей мыши или вампира).*** *Спасбросок Телосложения:* СЛ 17, одно существо в пределах 5 футов, которое является согласным или находится в состояниях «схваченный», «недееспособный» или «обездвиженный». *Провал:* 6 (1d4 + 4) Колющего урона плюс 13 (3d8) Некротического урона. Максимум хитов цели уменьшается на величину полученного некротического урона, и вампир восстанавливает хиты в этом же количестве. Гуманоид, получивший от этого урона 0 хитов и затем похороненный, встаёт на следующий закат как порождение вампира под контролем вампира.
 
-***Bite (Bat or Vampire Form Only).*** *Constitution Saving Throw*: DC 17, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:*  6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount. A Humanoid reduced to 0 Hit Points by this damage and then buried rises the following sunset as a Vampire Spawn under the vampire's control.
+### Бонусные действия
 
+***Смена облика.*** Если вампир не на солнечном свету или в проточной воде, он принимает облик Крошечной летучей мыши (Скорость 5 футов, Скорость полёта 30 футов) или Среднего облака тумана (Скорость 5 футов, Скорость полёта 20 футов [парение]), или возвращается в форму вампира. Всё, что он носит, трансформируется вместе с ним.
+В форме летучей мыши вампир не может говорить. Его игровые характеристики, кроме размера и скорости, не меняются.
+В форме тумана вампир не может совершать никаких действий, говорить или манипулировать предметами. Он невесом и может входить в пространство врага и останавливаться там. Если воздух может проходить через пространство, туман тоже может, но он не может проходить через жидкость. Он имеет сопротивление ко всему урону, кроме урона, который получает от солнечного света.
 
-### Bonus Actions
+***Очарование (Перезарядка 5-6).*** Вампир творит *очарование личности*, не требуя компонентов заклинания и используя Харизму как заклинательную характеристику (СЛ спасброска 17), и продолжительность составляет 24 часа. Очарованная цель является согласным получателем укуса вампира, урон которого не завершает заклинание. Когда заклинание заканчивается, цель не осознаёт, что была очарована вампиром.
 
-***Shape-Shift.*** If the vampire isn't in sunlight or running water, it shape-shifts into a Tiny bat (Speed 5 ft., Fly Speed 30 ft.) or a Medium cloud of mist (Speed 5 ft., Fly Speed 20 ft. [hover]), or it returns to its vampire form. Anything it is wearing transforms with it.
-While in bat form, the vampire can't speak. Its game statistics, other than its size and Speed, are unchanged.
-While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless and can enter an enemy's space and stop there. If air can pass through a space, the mist can do so, but it can't pass through liquid. It has Resistance to all damage, except the damage it takes from sunlight.
+### Легендарные действия
 
-***Charm (Recharge 5-6).*** The vampire casts *Charm Person*, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17), and the duration is 24 hours. The Charmed target is a willing recipient of the vampire's Bite, the damage of which doesn't end the spell. When the spell ends, the target is unaware it was Charmed by the vampire.
+***Смертоносный удар.*** Вампир перемещается на расстояние до половины своей скорости и совершает одну атаку могильным ударом.
 
-### Legendary Actions
+***Соблазн.*** Вампир творит *приказ*, не требуя компонентов заклинания и используя Харизму как заклинательную характеристику (СЛ спасброска 17). Вампир не может совершить это действие снова до начала своего следующего хода.
 
-***Deathless Strike.*** The vampire moves up to half its Speed, and it makes one Grave Strike attack.
+## Порождение вампира
 
-***Beguile.*** The vampire casts *Command*, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 17). The vampire can't take this action again until the start of its next turn.
-## Vampire Spawn
+*Маленькая нежить, нейтрально-злой*
 
-*Small Undead, Neutral Evil*
+- **Класс доспеха:** 16
+- **Хиты:** 90 (12d8 + 36)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 16
-- **Hit Points:** 90 (12d8 + 36)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 16 | +3 | +6 |
-| CON | 16 | +3 | +3 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +3 |
-| CHA | 12 | +1 | +1 |
-
-- **Resistances**: Necrotic
-- **Skills**: Perception +3, Stealth +6
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Common plus one other language
-- **CR** 5 (XP 1,800; PB +3)
-
-### Traits
-
-***Spider Climb.*** The vampire can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 16 | +3 | +6 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 10 | +0 | +3 |
+| ХАР | 12 | +1 | +1 |
 
-***Vampire Weakness.*** The vampire has these weaknesses:
+- **Сопротивления:** Некротический
+- **Навыки:** Восприятие +3, Скрытность +6
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 13
+- **Языки:** Общий плюс один другой язык
+- **ПО** 5 (ОО 1800; БМ +3)
 
+### Особенности
 
-- **Forbiddance**: The vampire can't enter a residence without an invitation from an occupant.
-- **Running Water**: The vampire takes 20 Acid damage if it ends its turn in running water.
-- **Stake to the Heart**: The vampire is destroyed if a weapon that deals Piercing damage is driven into the vampire's heart while the vampire has the Incapacitated condition.
-- **Sunlight**: The vampire takes 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it has Disadvantage on attack rolls and ability checks.
+***Паучье лазанье.*** Вампир может лазать по сложным поверхностям, включая потолки, не совершая проверок способностей.
 
+***Слабость вампира.*** Вампир имеет следующие слабости:
 
-### Actions
+- **Запрет:** Вампир не может войти в жилище без приглашения от жильца.
+- **Проточная вода:** Вампир получает 20 урона Кислотой, если заканчивает свой ход в проточной воде.
+- **Кол в сердце:** Вампир уничтожается, если оружие, наносящее колющий урон, вонзено в сердце вампира, пока вампир находится в состоянии «недееспособный».
+- **Солнечный свет:** Вампир получает 20 урона Излучением, если начинает свой ход на солнечном свету. Находясь на солнечном свету, он совершает с помехой броски атаки и проверки способностей.
 
-***Multiattack.*** The vampire makes two Claw attacks and uses Bite.
+### Действия
 
-***Claw.*** *Melee Attack Roll:* +6, reach 5 ft. 8 (2d4 + 3) Slashing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
+***Мультиатака.*** Вампир совершает две атаки когтями и использует укус.
 
-***Bite.*** *Constitution Saving Throw*: DC 14, one creature within 5 feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. *Failure:*  5 (1d4 + 3) Piercing damage plus 10 (3d6) Necrotic damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.
+***Когти.*** *Рукопашная атака:* +6, досягаемость 5 футов. 8 (2d4 + 3) Рубящего урона. Если цель — Среднее или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 13) одним из двух когтей.
 
+***Укус.*** *Спасбросок Телосложения:* СЛ 14, одно существо в пределах 5 футов, которое является согласным или находится в состояниях «схваченный», «недееспособный» или «обездвиженный». *Провал:* 5 (1d4 + 3) Колющего урона плюс 10 (3d6) Некротического урона. Максимум хитов цели уменьшается на величину полученного некротического урона, и вампир восстанавливает хиты в этом же количестве.
 
-### Bonus Actions
+### Бонусные действия
 
-***Deathless Agility.*** The vampire takes the Dash or Disengage action.
+***Бессмертная ловкость.*** Вампир совершает действие Рывок или Отход.
 
-## Violet Fungus
+## Фиолетовый гриб
 
-*Medium Plant, Unaligned*
+*Среднее растение, без мировоззрения*
 
-- **Armor Class:** 5
-- **Hit Points:** 18 (4d8)
-- **Speed:** 5 ft.
-- **Initiative**: -5 (5)
+- **Класс доспеха:** 5
+- **Хиты:** 18 (4d8)
+- **Скорость:** 5 футов
+- **Инициатива:** -5 (5)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 3 | -4 | -4 |
-| DEX | 1 | -5 | -5 |
-| CON | 10 | +0 | +0 |
-| INT | 1 | -5 | -5 |
-| WIS | 3 | -4 | -4 |
-| CHA | 1 | -5 | -5 |
+| СИЛ | 3 | -4 | -4 |
+| ЛОВ | 1 | -5 | -5 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 1 | -5 | -5 |
+| МДР | 3 | -4 | -4 |
+| ХАР | 1 | -5 | -5 |
 
-- **Immunities**: Blinded, Charmed, Deafened, Frightened
-- **Senses**: blindsight 30 ft.; Passive Perception 6
-- **CR** 1/4 (XP 50; PB +2)
+- **Иммунитеты:** Ослеплённый, Очарованный, Оглохший, Испуганный
+- **Чувства:** слепое зрение 30 футов; пассивное Восприятие 6
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The fungus makes two Rotting Touch attacks.
+***Мультиатака.*** Гриб совершает две атаки гнилостным касанием.
 
-***Rotting Touch.*** *Melee Attack Roll:* +2, reach 10 ft. 4 (1d8) Necrotic damage.
+***Гнилостное касание.*** *Рукопашная атака:* +2, досягаемость 10 футов. 4 (1d8) Некротического урона.
 
-## Vrock
+## Врок
 
-*Large Fiend (Demon), Chaotic Evil*
+*Большое исчадие (демон), хаотично-злой*
 
-- **Armor Class:** 15
-- **Hit Points:** 152 (16d10 + 64)
-- **Speed:** 40 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 15
+- **Хиты:** 152 (16d10 + 64)
+- **Скорость:** 40 футов, полёт 60 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +5 |
-| CON | 18 | +4 | +4 |
-| INT | 8 | -1 | -1 |
-| WIS | 13 | +1 | +4 |
-| CHA | 8 | -1 | +2 |
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 15 | +2 | +5 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 8 | -1 | -1 |
+| МДР | 13 | +1 | +4 |
+| ХАР | 8 | -1 | +2 |
 
-- **Resistances**: Cold, Fire, Lightning
-- **Immunities**: Poison; Poisoned
-- **Senses**: darkvision 120 ft.; Passive Perception 11
-- **Languages**: Abyssal; telepathy 120 ft.
-- **CR** 6 (XP 2,300; PB +3)
+- **Сопротивления:** Холодный, Огненный, Электричество
+- **Иммунитеты:** Яд; Отравленный
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 11
+- **Языки:** Бездонный; телепатия 120 футов
+- **ПО** 6 (ОО 2300; БМ +3)
 
-### Traits
+### Особенности
 
-***Demonic Restoration.*** If the vrock dies outside the Abyss, its body dissolves into ichor, and it gains a new body instantly, reviving with all its Hit Points somewhere in the Abyss.
+***Демоническое восстановление.*** Если врок умирает вне Бездны, его тело растворяется в ихор, и он мгновенно получает новое тело, возрождаясь со всеми своими хитами где-то в Бездне.
 
-***Magic Resistance.*** The vrock has Advantage on saving throws against spells and other magical effects.
+***Сопротивление магии.*** Врок совершает с преимуществом спасброски против заклинаний и других магических эффектов.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Врок совершает две атаки разрыванием.
 
-***Multiattack.*** The vrock makes two Shred attacks.
+***Разрывание.*** *Рукопашная атака:* +6, досягаемость 5 футов. 10 (2d6 + 3) Колющего урона плюс 10 (3d6) урона Ядом.
 
-***Shred.*** *Melee Attack Roll:* +6, reach 5 ft. 10 (2d6 + 3) Piercing damage plus 10 (3d6) Poison damage.
+***Споры (Перезарядка 6).*** *Спасбросок Телосложения:* СЛ 15, каждое существо в 20-футовой эманации, исходящей от врока. *Провал:* Цель получает состояние «отравленный» и повторяет спасбросок в конце каждого своего хода, завершая эффект при успехе. Пока отравлена, цель получает 5 (1d10) урона Ядом в начале каждого своего хода. Выливание фляги святой воды на цель завершает эффект досрочно.
 
-***Spores (Recharge 6).*** *Constitution Saving Throw*: DC 15, each creature in a 20-foot Emanation originating from the vrock. *Failure:*  The target has the Poisoned condition and repeats the save at the end of each of its turns, ending the effect on itself on a success. While Poisoned, the target takes 5 (1d10) Poison damage at the start of each of its turns. Emptying a flask of Holy Water on the target ends the effect early.
+***Оглушающий визг (1/День).*** *Спасбросок Телосложения:* СЛ 15, каждое существо в 20-футовой эманации, исходящей от врока (демоны автоматически преуспевают). *Провал:* 10 (3d6) урона Звуком, и цель получает состояние «ошеломлённый» до конца следующего хода врока.
 
-***Stunning Screech (1/Day).*** *Constitution Saving Throw*: DC 15, each creature in a 20-foot Emanation originating from the vrock (demons succeed automatically). *Failure:*  10 (3d6) Thunder damage, and the target has the Stunned condition until the end of the vrock's next turn.
+## Скелет боевого коня
 
-## Warhorse Skeleton
+*Большая нежить, принципиально-злой*
 
-*Large Undead, Lawful Evil*
+- **Класс доспеха:** 13
+- **Хиты:** 22 (3d10 + 6)
+- **Скорость:** 60 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 13
-- **Hit Points:** 22 (3d10 + 6)
-- **Speed:** 60 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 12 | +1 | +1 |
-| CON | 15 | +2 | +2 |
-| INT | 2 | -4 | -4 |
-| WIS | 8 | -1 | -1 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 12 | +1 | +1 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 2 | -4 | -4 |
+| МДР | 8 | -1 | -1 |
+| ХАР | 5 | -3 | -3 |
 
-- **Vulnerabilities**: Bludgeoning
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 9
-- **CR** 1/2 (XP 100; PB +2)
+- **Уязвимости:** Дробящий
+- **Иммунитеты:** Яд; Истощение, Отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 9
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Actions
+### Действия
 
-***Hooves.*** *Melee Attack Roll:* +6, reach 5 ft. 7 (1d6 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the skeleton moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
+***Копыта.*** *Рукопашная атака:* +6, досягаемость 5 футов. 7 (1d6 + 4) Дробящего урона. Если цель — Большое или меньшее существо и скелет переместился на 20+ футов прямо к ней непосредственно перед попаданием, цель получает состояние «лежащий».
 
-## Warrior Infantry
+## Пехотинец-воин
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 13
-- **Hit Points:** 9 (2d8)
-- **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 13
+- **Хиты:** 9 (2d8)
+- **Скорость:** 30 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 11 | +0 | +0 |
-| CON | 11 | +0 | +0 |
-| INT | 8 | -1 | -1 |
-| WIS | 11 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
-
-- **Gear** Chain Shirt, Spear
-- **Senses**: Passive Perception 10
-- **Languages**: Common
-- **CR** 1/8 (XP 25; PB +2)
+| СИЛ | 13 | +1 | +1 |
+| ЛОВ | 11 | +0 | +0 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 8 | -1 | -1 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 8 | -1 | -1 |
 
-### Traits
+- **Снаряжение** Кольчужная рубаха, копьё
+- **Чувства:** пассивное Восприятие 10
+- **Языки:** Общий
+- **ПО** 1/8 (ОО 25; БМ +2)
 
-***Pack Tactics.*** The warrior has Advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+### Особенности
 
+***Тактика стаи.*** Воин совершает с преимуществом бросок атаки против существа, если как минимум один из союзников воина находится в пределах 5 футов от существа и союзник не находится в состоянии «недееспособный».
 
-### Actions
+### Действия
 
-***Spear.*** *Melee or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft. 4 (1d6 + 1) Piercing damage.
+***Копьё.*** *Рукопашная или дальнобойная атака:* +3, досягаемость 5 футов или дистанция 20/60 футов. 4 (1d6 + 1) Колющего урона.
 
-## Warrior Veteran
+## Ветеран-воин
 
-*Small Humanoid, Neutral*
+*Маленький гуманоид, нейтральный*
 
-- **Armor Class:** 17
-- **Hit Points:** 65 (10d8 + 20)
-- **Speed:** 30 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 17
+- **Хиты:** 65 (10d8 + 20)
+- **Скорость:** 30 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-- **Skills**: Athletics +5, Perception +2
-- **Gear** Greatsword, Heavy Crossbow, Splint Armor
-- **Senses**: Passive Perception 12
-- **Languages**: Common plus one other language
-- **CR** 3 (XP 700; PB +2)
+- **Навыки:** Атлетика +5, Восприятие +2
+- **Снаряжение** Двуручный меч, тяжёлый арбалет, наборный доспех
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий плюс один другой язык
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The warrior makes two Greatsword or Heavy Crossbow attacks.
+***Мультиатака.*** Воин совершает две атаки двуручным мечом или тяжёлым арбалетом.
 
-***Greatsword.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
+***Двуручный меч.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона.
 
-***Heavy Crossbow.*** *Ranged Attack Roll:* +3, range 100/400 ft. 12 (2d10 + 1) Piercing damage.
+***Тяжёлый арбалет.*** *Дальнобойная атака:* +3, дистанция 100/400 футов. 12 (2d10 + 1) Колющего урона.
 
-## Water Elemental
+## Водяной элементаль
 
-*Large Elemental, Neutral*
+*Большой элементаль, нейтральный*
 
-- **Armor Class:** 14
-- **Hit Points:** 114 (12d10 + 48)
-- **Speed:** 30 ft., Swim 90 ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 14
+- **Хиты:** 114 (12d10 + 48)
+- **Скорость:** 30 футов, плавание 90 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 14 | +2 | +2 |
-| CON | 18 | +4 | +4 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 8 | -1 | -1 |
 
-- **Resistances**: Acid, Fire
-- **Immunities**: Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 10
-- **Languages**: Primordial (Aquan)
-- **CR** 5 (XP 1,800; PB +3)
+- **Сопротивления:** Кислотный, Огненный
+- **Иммунитеты:** Яд; Истощение, Схваченный, Парализованный, Окаменевший, Отравленный, Лежащий, Обездвиженный, Бессознательный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 10
+- **Языки:** Первородный (Аквианский)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-### Traits
+### Особенности
 
-***Freeze.*** If the elemental takes Cold damage, its Speed decreases by 20 feet until the end of its next turn.
+***Замерзание.*** Если элементаль получает урон Холодом, его скорость уменьшается на 20 футов до конца его следующего хода.
 
-***Water Form.*** The elemental can enter an enemy's space and stop there. It can move through a space as narrow as 1 inch without expending extra movement to do so.
+***Водяная форма.*** Элементаль может входить в пространство врага и останавливаться там. Он может проходить через пространство шириной до 1 дюйма, не тратя дополнительное перемещение.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Элементаль совершает две атаки ударом.
 
-***Multiattack.*** The elemental makes two Slam attacks.
+***Удар.*** *Рукопашная атака:* +7, досягаемость 5 футов. 13 (2d8 + 4) Дробящего урона. Если цель — Среднее или меньшее существо, она получает состояние «лежащий».
 
-***Slam.*** *Melee Attack Roll:* +7, reach 5 ft. 13 (2d8 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Prone condition.
+***Захлёстывание (Перезарядка 4-6).*** *Спасбросок Силы:* СЛ 15, каждое существо в пространстве элементаля. *Провал:* 22 (4d8 + 4) Дробящего урона. Если цель — Большое или меньшее существо, она получает состояние «схваченный» (СЛ высвобождения 14). Пока захват не завершён, цель находится в состоянии «обездвиженный», задыхается, если не может дышать водой, и получает 9 (2d8) Дробящего урона в начале каждого хода элементаля. Элементаль может схватить захлёстыванием одно Большое существо или до двух Средних или меньших существ одновременно. Действием существо в пределах 5 футов от элементаля может вытащить существо из него, преуспев в проверке Силы (Атлетика) СЛ 14. *Успех:* Только половина урона.
 
-***Whelm (Recharge 4-6).*** *Strength Saving Throw*: DC 15, each creature in the elemental's space. *Failure:*  22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 14). Until the grapple ends, the target has the Restrained condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning damage at the start of each of the elemental's turns. The elemental can grapple one Large creature or up to two Medium or smaller creatures at a time with Whelm. As an action, a creature within 5 feet of the elemental can pull a creature out of it by succeeding on a DC 14 Strength (Athletics) check. *Success:*  Half damage only.
+## Вермедведь
 
-## Werebear
+*Маленькое чудовище, нейтрально-доброе*
 
-*Small Monstrosity, Neutral Good*
+- **Класс доспеха:** 15
+- **Хиты:** 135 (18d8 + 54)
+- **Скорость:** 30 футов, лазанье 30 футов (только в форме медведя)
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 15
-- **Hit Points:** 135 (18d8 + 54)
-- **Speed:** 30 ft., Alternate ? ft., Climb 30 ft. (bear form only)
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 17 | +3 | +3 |
-| INT | 11 | +0 | +0 |
-| WIS | 12 | +1 | +1 |
-| CHA | 12 | +1 | +1 |
-
-- **Skills**: Perception +7
-- **Gear** Handaxe x 4
-- **Senses**: darkvision 60 ft.; Passive Perception 17
-- **Languages**: Common (can't speak in bear form)
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 12 | +1 | +1 |
 
-### Actions
+- **Навыки:** Восприятие +7
+- **Снаряжение** Ручной топор x 4
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 17
+- **Языки:** Общий (не может говорить в форме медведя)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Multiattack.*** The werebear makes two attacks, using Handaxe or Rend in any combination. It can replace one attack with a Bite attack.
+### Действия
 
-***Bite (Bear or Hybrid Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. 17 (2d12 + 4) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 14. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werebear under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this werebear's curse for 24 hours.
+***Мультиатака.*** Вермедведь совершает две атаки, используя ручной топор или разрывание в любой комбинации. Он может заменить одну атаку атакой укусом.
 
-***Handaxe (Humanoid or Hybrid Form Only).*** *Melee or Ranged Attack Roll:* +7, reach 5 ft or range 20/60 ft. 14 (3d6 + 4) Slashing damage.
+***Укус (только в форме медведя или гибрида).*** *Рукопашная атака:* +7, досягаемость 5 футов. 17 (2d12 + 4) Колющего урона. Если цель — гуманоид, она подвергается следующему эффекту. *Спасбросок Телосложения:* СЛ 14. *Провал:* Цель проклята. Если проклятая цель опускается до 0 хитов, она вместо этого становится вермедведем под контролем Мастера с 10 хитами. *Успех:* Цель получает иммунитет к проклятию этого вермедведя на 24 часа.
 
-***Rend (Bear or Hybrid Form Only).*** *Melee Attack Roll:* +7, reach 5 ft. 13 (2d8 + 4) Slashing damage.
+***Ручной топор (только в форме гуманоида или гибрида).*** *Рукопашная или дальнобойная атака:* +7, досягаемость 5 футов или дистанция 20/60 футов. 14 (3d6 + 4) Рубящего урона.
 
+***Разрывание (только в форме медведя или гибрида).*** *Рукопашная атака:* +7, досягаемость 5 футов. 13 (2d8 + 4) Рубящего урона.
 
-### Bonus Actions
+### Бонусные действия
 
-***Shape-Shift.*** The werebear shape-shifts into a Large bear-humanoid hybrid form or a Large bear, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+***Смена облика.*** Вермедведь принимает облик Большого гибрида медведя-гуманоида или Большого медведя, или возвращается в свою истинную гуманоидную форму. Его игровые характеристики, кроме размера, одинаковы в каждой форме. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-## Wereboar
+## Вервепрь
 
-*Small Monstrosity, Neutral Evil*
+*Маленькое чудовище, нейтрально-злой*
 
-- **Armor Class:** 15
-- **Hit Points:** 97 (15d8 + 30)
-- **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 15
+- **Хиты:** 97 (15d8 + 30)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +0 |
-| CON | 15 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 15 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 8 | -1 | -1 |
 
-- **Skills**: Perception +2
-- **Gear** Javelin x 6
-- **Senses**: Passive Perception 12
-- **Languages**: Common (can't speak in boar form)
-- **CR** 4 (XP 1,100; PB +2)
+- **Навыки:** Восприятие +2
+- **Снаряжение** Метательное копьё x 6
+- **Чувства:** пассивное Восприятие 12
+- **Языки:** Общий (не может говорить в форме вепря)
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The wereboar makes two attacks, using Javelin or Tusk in any combination. It can replace one attack with a Gore attack.
+***Мультиатака.*** Вервепрь совершает две атаки, используя метательное копьё или клык в любой комбинации. Он может заменить одну атаку атакой бивнем.
 
-***Gore (Boar or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wereboar under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this wereboar's curse for 24 hours.
+***Бивень (только в форме вепря или гибрида).*** *Рукопашная атака:* +5, досягаемость 5 футов. 12 (2d8 + 3) Колющего урона. Если цель — гуманоид, она подвергается следующему эффекту. *Спасбросок Телосложения:* СЛ 12. *Провал:* Цель проклята. Если проклятая цель опускается до 0 хитов, она вместо этого становится вервепрем под контролем Мастера с 10 хитами. *Успех:* Цель получает иммунитет к проклятию этого вервепря на 24 часа.
 
-***Javelin (Humanoid or Hybrid Form Only).*** *Melee or Ranged Attack Roll:* +5, reach 5 ft. or range 30/120 ft. 13 (3d6 + 3) Piercing damage.
+***Метательное копьё (только в форме гуманоида или гибрида).*** *Рукопашная или дальнобойная атака:* +5, досягаемость 5 футов или дистанция 30/120 футов. 13 (3d6 + 3) Колющего урона.
 
-***Tusk (Boar or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Piercing damage. If the target is a Medium or smaller creature and the wereboar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
+***Клык (только в форме вепря или гибрида).*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Колющего урона. Если цель — Среднее или меньшее существо и вервепрь переместился на 20+ футов прямо к ней непосредственно перед попаданием, цель получает дополнительно 7 (2d6) Колющего урона и получает состояние «лежащий».
 
+### Бонусные действия
 
-### Bonus Actions
+***Смена облика.*** Вервепрь принимает облик Среднего гибрида вепря-гуманоида или Маленького вепря, или возвращается в свою истинную гуманоидную форму. Его игровые характеристики, кроме размера, одинаковы в каждой форме. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-***Shape-Shift.*** The wereboar shape-shifts into a Medium boar-humanoid hybrid or a Small boar, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+## Веркрыса
 
-## Wererat
+*Маленькое чудовище, принципиально-злой*
 
-*Small Monstrosity, Lawful Evil*
+- **Класс доспеха:** 13
+- **Хиты:** 60 (11d8 + 11)
+- **Скорость:** 30 футов, лазанье 30 футов
+- **Инициатива:** +3 (13)
 
-- **Armor Class:** 13
-- **Hit Points:** 60 (11d8 + 11)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 10 | +0 | +0 |
-| DEX | 16 | +3 | +3 |
-| CON | 12 | +1 | +1 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
-
-- **Skills**: Perception +4, Stealth +5
-- **Gear** Hand Crossbow
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common (can't speak in rat form)
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 10 | +0 | +0 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 12 | +1 | +1 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 8 | -1 | -1 |
 
-### Actions
+- **Навыки:** Восприятие +4, Скрытность +5
+- **Снаряжение** Ручной арбалет
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Общий (не может говорить в форме крысы)
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Multiattack.*** The wererat makes two attacks, using Scratch or Hand Crossbow in any combination. It can replace one attack with a Bite attack.
+### Действия
 
-***Bite (Rat or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 8 (2d4 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 11. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Wererat under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this wererat's curse for 24 hours.
+***Мультиатака.*** Веркрыса совершает две атаки, используя царапанье или ручной арбалет в любой комбинации. Она может заменить одну атаку атакой укусом.
 
-***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. 6 (1d6 + 3) Slashing damage.
+***Укус (только в форме крысы или гибрида).*** *Рукопашная атака:* +5, досягаемость 5 футов. 8 (2d4 + 3) Колющего урона. Если цель — гуманоид, она подвергается следующему эффекту. *Спасбросок Телосложения:* СЛ 11. *Провал:* Цель проклята. Если проклятая цель опускается до 0 хитов, она вместо этого становится веркрысой под контролем Мастера с 10 хитами. *Успех:* Цель получает иммунитет к проклятию этой веркрысы на 24 часа.
 
-***Hand Crossbow (Humanoid or Hybrid Form Only).*** *Ranged Attack Roll:* +5, range 30/120 ft. 6 (1d6 + 3) Piercing damage.
+***Царапанье.*** *Рукопашная атака:* +5, досягаемость 5 футов. 6 (1d6 + 3) Рубящего урона.
 
+***Ручной арбалет (только в форме гуманоида или гибрида).*** *Дальнобойная атака:* +5, дистанция 30/120 футов. 6 (1d6 + 3) Колющего урона.
 
-### Bonus Actions
+### Бонусные действия
 
-***Shape-Shift.*** The wererat shape-shifts into a Medium rat-humanoid hybrid or a Small rat, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+***Смена облика.*** Веркрыса принимает облик Среднего гибрида крысы-гуманоида или Маленькой крысы, или возвращается в свою истинную гуманоидную форму. Её игровые характеристики, кроме размера, одинаковы в каждой форме. Любое снаряжение, которое она носит или несёт, не трансформируется.
 
-## Weretiger
+## Вертигр
 
-*Small Monstrosity, Neutral*
+*Маленькое чудовище, нейтральный*
 
-- **Armor Class:** 12
-- **Hit Points:** 120 (16d8 + 48)
-- **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +2 (12)
+- **Класс доспеха:** 12
+- **Хиты:** 120 (16d8 + 48)
+- **Скорость:** 30 футов
+- **Инициатива:** +2 (12)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 15 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 11 | +0 | +0 |
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 15 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 11 | +0 | +0 |
 
-- **Skills**: Perception +5, Stealth +4
-- **Gear** Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 15
-- **Languages**: Common (can't speak in tiger form)
-- **CR** 4 (XP 1,100; PB +2)
+- **Навыки:** Восприятие +5, Скрытность +4
+- **Снаряжение** Длинный лук
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 15
+- **Языки:** Общий (не может говорить в форме тигра)
+- **ПО** 4 (ОО 1100; БМ +2)
 
-### Actions
+### Действия
 
-***Multiattack.*** The weretiger makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
+***Мультиатака.*** Вертигр совершает две атаки, используя царапанье или длинный лук в любой комбинации. Он может заменить одну атаку атакой укусом.
 
-***Bite (Tiger or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 13. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Weretiger under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this weretiger's curse for 24 hours.
+***Укус (только в форме тигра или гибрида).*** *Рукопашная атака:* +5, досягаемость 5 футов. 12 (2d8 + 3) Колющего урона. Если цель — гуманоид, она подвергается следующему эффекту. *Спасбросок Телосложения:* СЛ 13. *Провал:* Цель проклята. Если проклятая цель опускается до 0 хитов, она вместо этого становится вертигром под контролем Мастера с 10 хитами. *Успех:* Цель получает иммунитет к проклятию этого вертигра на 24 часа.
 
-***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
+***Царапанье.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона.
 
-***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Attack Roll:* +4, range 150/600 ft. 11 (2d8 + 2) Piercing damage.
+***Длинный лук (только в форме гуманоида или гибрида).*** *Дальнобойная атака:* +4, дистанция 150/600 футов. 11 (2d8 + 2) Колющего урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Крадущийся хищник (только в форме тигра или гибрида).*** Вертигр перемещается на расстояние до своей скорости без провоцирования внеочередных атак. В конце этого перемещения вертигр может совершить действие Прятаться.
 
-***Prowl (Tiger or Hybrid Form Only).*** The weretiger moves up to its Speed without provoking Opportunity Attacks. At the end of this movement, the weretiger can take the Hide action.
+***Смена облика.*** Вертигр принимает облик Большого гибрида тигра-гуманоида или Большого тигра, или возвращается в свою истинную гуманоидную форму. Его игровые характеристики, кроме размера, одинаковы в каждой форме. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-***Shape-Shift.*** The weretiger shape-shifts into a Large tiger-humanoid hybrid or a Large tiger, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+## Вервольф
 
-## Werewolf
+*Маленькое чудовище, хаотично-злой*
 
-*Small Monstrosity, Chaotic Evil*
+- **Класс доспеха:** 15
+- **Хиты:** 71 (11d8 + 22)
+- **Скорость:** 30 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 15
-- **Hit Points:** 71 (11d8 + 22)
-- **Speed:** 30 ft., Alternate ? ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 14 | +2 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 10 | +0 | +0 |
-| WIS | 11 | +0 | +0 |
-| CHA | 10 | +0 | +0 |
-
-- **Skills**: Perception +4, Stealth +4
-- **Gear** Longbow
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Common (can't speak in wolf form)
-- **CR** 3 (XP 700; PB +2)
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 10 | +0 | +0 |
 
-### Traits
+- **Навыки:** Восприятие +4, Скрытность +4
+- **Снаряжение** Длинный лук
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Общий (не может говорить в форме волка)
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Pack Tactics.*** The werewolf has Advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+### Особенности
 
+***Тактика стаи.*** Вервольф совершает с преимуществом бросок атаки против существа, если как минимум один из союзников вервольфа находится в пределах 5 футов от существа и союзник не находится в состоянии «недееспособный».
 
-### Actions
+### Действия
 
-***Multiattack.*** The werewolf makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
+***Мультиатака.*** Вервольф совершает две атаки, используя царапанье или длинный лук в любой комбинации. Он может заменить одну атаку атакой укусом.
 
-***Bite (Wolf or Hybrid Form Only).*** *Melee Attack Roll:* +5, reach 5 ft. 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. *Constitution Saving Throw*: DC 12. *Failure:*  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Werewolf under the DM's control and has 10 Hit Points. *Success:*  The target is immune to this werewolf's curse for 24 hours.
+***Укус (только в форме волка или гибрида).*** *Рукопашная атака:* +5, досягаемость 5 футов. 12 (2d8 + 3) Колющего урона. Если цель — гуманоид, она подвергается следующему эффекту. *Спасбросок Телосложения:* СЛ 12. *Провал:* Цель проклята. Если проклятая цель опускается до 0 хитов, она вместо этого становится вервольфом под контролем Мастера с 10 хитами. *Успех:* Цель получает иммунитет к проклятию этого вервольфа на 24 часа.
 
-***Scratch.*** *Melee Attack Roll:* +5, reach 5 ft. 10 (2d6 + 3) Slashing damage.
+***Царапанье.*** *Рукопашная атака:* +5, досягаемость 5 футов. 10 (2d6 + 3) Рубящего урона.
 
-***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Attack Roll:* +4, range 150/600 ft. 11 (2d8 + 2) Piercing damage.
+***Длинный лук (только в форме гуманоида или гибрида).*** *Дальнобойная атака:* +4, дистанция 150/600 футов. 11 (2d8 + 2) Колющего урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Смена облика.*** Вервольф принимает облик Большого гибрида волка-гуманоида или Среднего волка, или возвращается в свою истинную гуманоидную форму. Его игровые характеристики, кроме размера, одинаковы в каждой форме. Любое снаряжение, которое он носит или несёт, не трансформируется.
 
-***Shape-Shift.*** The werewolf shape-shifts into a Large wolf-humanoid hybrid or a Medium wolf, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+## Вирмлинг белого дракона
 
-## White Dragon Wyrmling
+*Средний дракон (хроматический), хаотично-злой*
 
-*Medium Dragon (Chromatic), Chaotic Evil*
+- **Класс доспеха:** 16
+- **Хиты:** 32 (5d8 + 10)
+- **Скорость:** 30 футов, рытьё 15 футов, полёт 60 футов, плавание 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 16
-- **Hit Points:** 32 (5d8 + 10)
-- **Speed:** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 10 | +0 | +2 |
-| CON | 14 | +2 | +2 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +2 |
-| CHA | 11 | +0 | +0 |
-
-- **Immunities**: Cold
-- **Skills**: Perception +4, Stealth +2
-- **Senses**: blindsight 10 ft., darkvision 60 ft.; Passive Perception 14
-- **Languages**: Draconic
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 10 | +0 | +2 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 10 | +0 | +2 |
+| ХАР | 11 | +0 | +0 |
 
-### Traits
+- **Иммунитеты:** Холод
+- **Навыки:** Восприятие +4, Скрытность +2
+- **Чувства:** слепое зрение 10 футов, тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Драконий
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
+### Особенности
 
+***Хождение по льду.*** Дракон может перемещаться и лазать по ледяным поверхностям без проверок способностей. Кроме того, труднопроходимая местность из льда или снега не требует дополнительного перемещения.
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes two Rend attacks.
+***Мультиатака.*** Дракон совершает две атаки разрыванием.
 
-***Rend.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Slashing damage plus 2 (1d4) Cold damage.
+***Разрывание.*** *Рукопашная атака:* +4, досягаемость 5 футов. 6 (1d8 + 2) Рубящего урона плюс 2 (1d4) урона Холодом.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:*  22 (5d8) Cold damage. *Success:*  Half damage.
+***Ледяное дыхание (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 12, каждое существо в 15-футовом конусе. *Провал:* 22 (5d8) урона Холодом. *Успех:* Половина урона.
 
-## Wight
+## Умертвие
 
-*Medium Undead, Neutral Evil*
+*Средняя нежить, нейтрально-злой*
 
-- **Armor Class:** 14
-- **Hit Points:** 82 (11d8 + 33)
-- **Speed:** 30 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 14
+- **Хиты:** 82 (11d8 + 33)
+- **Скорость:** 30 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 15 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 16 | +3 | +3 |
-| INT | 10 | +0 | +0 |
-| WIS | 13 | +1 | +1 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 15 | +2 | +2 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 10 | +0 | +0 |
+| МДР | 13 | +1 | +1 |
+| ХАР | 15 | +2 | +2 |
 
-- **Resistances**: Necrotic
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Skills**: Perception +3, Stealth +4
-- **Gear** Studded Leather Armor
-- **Senses**: darkvision 60 ft.; Passive Perception 13
-- **Languages**: Common plus one other language
-- **CR** 3 (XP 700; PB +2)
+- **Сопротивления:** Некротический
+- **Иммунитеты:** Яд; Истощение, Отравленный
+- **Навыки:** Восприятие +3, Скрытность +4
+- **Снаряжение** Проклёпанный кожаный доспех
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 13
+- **Языки:** Общий плюс один другой язык
+- **ПО** 3 (ОО 700; БМ +2)
 
-### Traits
+### Особенности
 
-***Sunlight Sensitivity.*** While in sunlight, the wight has Disadvantage on ability checks and attack rolls.
+***Чувствительность к солнечному свету.*** Находясь на солнечном свету, умертвие совершает с помехой проверки способностей и броски атаки.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Умертвие совершает две атаки, используя некротический меч или некротический лук в любой комбинации. Оно может заменить одну атаку использованием высасывания жизни.
 
-***Multiattack.*** The wight makes two attacks, using Necrotic Sword or Necrotic Bow in any combination. It can replace one attack with a use of Life Drain.
+***Некротический меч.*** *Рукопашная атака:* +4, досягаемость 5 футов. 6 (1d8 + 2) Рубящего урона плюс 4 (1d8) Некротического урона.
 
-***Necrotic Sword.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Slashing damage plus 4 (1d8) Necrotic damage.
+***Некротический лук.*** *Дальнобойная атака:* +4, дистанция 150/600 футов. 6 (1d8 + 2) Колющего урона плюс 4 (1d8) Некротического урона.
 
-***Necrotic Bow.*** *Ranged Attack Roll:* +4, range 150/600 ft. 6 (1d8 + 2) Piercing damage plus 4 (1d8) Necrotic damage.
+***Высасывание жизни.*** *Спасбросок Телосложения:* СЛ 13, одно существо в пределах 5 футов. *Провал:* 6 (1d8 + 2) Некротического урона, и максимум хитов цели уменьшается на величину полученного урона.
+Гуманоид, убитый этой атакой, встаёт через 24 часа как зомби под контролем умертвия, если гуманоид не был возвращён к жизни или его тело не было уничтожено. Умертвие может иметь не более двенадцати зомби под своим контролем одновременно.
 
-***Life Drain.*** *Constitution Saving Throw*: DC 13, one creature within 5 feet. *Failure:*  6 (1d8 + 2) Necrotic damage, and the target's Hit Point maximum decreases by an amount equal to the damage taken.
-A Humanoid slain by this attack rises 24 hours later as a Zombie under the wight's control, unless the Humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at a time.
+## Блуждающий огонёк
 
-## Will-o'-Wisp
+*Маленькая нежить, хаотично-злой*
 
-*Small Undead, Chaotic Evil*
+- **Класс доспеха:** 19
+- **Хиты:** 27 (11d4)
+- **Скорость:** 5 футов, полёт 50 футов (парение)
+- **Инициатива:** +9 (19)
 
-- **Armor Class:** 19
-- **Hit Points:** 27 (11d4)
-- **Speed:** 5 ft., Fly 50 ft. (hover)
-- **Initiative**: +9 (19)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 1 | -5 | -5 |
-| DEX | 28 | +9 | +9 |
-| CON | 10 | +0 | +0 |
-| INT | 13 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 11 | +0 | +0 |
-
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
-- **Immunities**: Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 120 ft.; Passive Perception 12
-- **Languages**: Common plus one other language
-- **CR** 2 (XP 450; PB +2)
+| СИЛ | 1 | -5 | -5 |
+| ЛОВ | 28 | +9 | +9 |
+| ТЕЛ | 10 | +0 | +0 |
+| ИНТ | 13 | +1 | +1 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 11 | +0 | +0 |
 
-### Traits
+- **Сопротивления:** Кислотный, Дробящий, Холодный, Огненный, Некротический, Колющий, Рубящий
+- **Иммунитеты:** Электричество, Яд; Истощение, Схваченный, Парализованный, Окаменевший, Отравленный, Лежащий, Обездвиженный, Бессознательный
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 12
+- **Языки:** Общий плюс один другой язык
+- **ПО** 2 (ОО 450; БМ +2)
 
-***Ephemeral.*** The wisp can't wear or carry anything.
+### Особенности
 
-***Illumination.*** The wisp sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
+***Эфемерность.*** Огонёк не может носить или нести что-либо.
 
-***Incorporeal Movement.*** The wisp can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+***Освещение.*** Огонёк излучает яркий свет в радиусе 20 футов и тусклый свет в радиусе дополнительных 20 футов.
 
+***Бестелесное перемещение.*** Огонёк может проходить сквозь других существ и предметы, как если бы они были труднопроходимой местностью. Он получает 5 (1d10) урона Силой, если заканчивает свой ход внутри предмета.
 
-### Actions
+### Действия
 
-***Shock.*** *Melee Attack Roll:* +4, reach 5 ft. 11 (2d8 + 2) Lightning damage.
+***Удар током.*** *Рукопашная атака:* +4, досягаемость 5 футов. 11 (2d8 + 2) урона Электричеством.
 
+### Бонусные действия
 
-### Bonus Actions
+***Поглощение жизни.*** *Спасбросок Телосложения:* СЛ 10, одно живое существо, которое огонёк видит в пределах 5 футов, имеющее 0 хитов. *Провал:* Цель умирает, и огонёк восстанавливает 10 (3d6) хитов.
 
-***Consume Life.*** *Constitution Saving Throw*: DC 10, one living creature the wisp can see within 5 feet that has 0 Hit Points. *Failure:*  The target dies, and the wisp regains 10 (3d6) Hit Points.
+***Исчезновение.*** Огонёк и его свет получают состояние «невидимый», пока огонёк поддерживает концентрацию на этом эффекте. Эффект завершается досрочно сразу после того, как огонёк совершает бросок атаки или использует поглощение жизни.
 
-***Vanish.*** The wisp and its light have the Invisible condition until the wisp's  Concentration ends on this effect, which ends early immediately after the wisp makes an attack roll or uses Consume Life.
+## Зимний волк
 
-## Winter Wolf
+*Большое чудовище, нейтрально-злой*
 
-*Large Monstrosity, Neutral Evil*
+- **Класс доспеха:** 13
+- **Хиты:** 75 (10d10 + 20)
+- **Скорость:** 50 футов
+- **Инициатива:** +1 (11)
 
-- **Armor Class:** 13
-- **Hit Points:** 75 (10d10 + 20)
-- **Speed:** 50 ft.
-- **Initiative**: +1 (11)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 13 | +1 | +1 |
-| CON | 14 | +2 | +2 |
-| INT | 7 | -2 | -2 |
-| WIS | 12 | +1 | +1 |
-| CHA | 8 | -1 | -1 |
-
-- **Immunities**: Cold
-- **Skills**: Perception +5, Stealth +5
-- **Senses**: Passive Perception 15
-- **Languages**: Common, Giant
-- **CR** 3 (XP 700; PB +2)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 14 | +2 | +2 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 8 | -1 | -1 |
 
-### Traits
+- **Иммунитеты:** Холод
+- **Навыки:** Восприятие +5, Скрытность +5
+- **Чувства:** пассивное Восприятие 15
+- **Языки:** Общий, Великанский
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Pack Tactics.*** The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+### Особенности
 
+***Тактика стаи.*** Волк совершает с преимуществом бросок атаки против существа, если как минимум один из союзников волка находится в пределах 5 футов от существа и союзник не находится в состоянии «недееспособный».
 
-### Actions
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
+***Укус.*** *Рукопашная атака:* +6, досягаемость 5 футов. 11 (2d6 + 4) Колющего урона. Если цель — Большое или меньшее существо, она получает состояние «лежащий».
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 12, each creature in a 15-foot Cone. *Failure:*  18 (4d8) Cold damage. *Success:*  Half damage.
+***Ледяное дыхание (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 12, каждое существо в 15-футовом конусе. *Провал:* 18 (4d8) урона Холодом. *Успех:* Половина урона.
 
-## Worg
+## Ворг
 
-*Large Fey, Neutral Evil*
+*Большое фея, нейтрально-злой*
 
-- **Armor Class:** 13
-- **Hit Points:** 26 (4d10 + 4)
-- **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+- **Класс доспеха:** 13
+- **Хиты:** 26 (4d10 + 4)
+- **Скорость:** 50 футов
+- **Инициатива:** +1 (11)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 16 | +3 | +3 |
-| DEX | 13 | +1 | +1 |
-| CON | 13 | +1 | +1 |
-| INT | 7 | -2 | -2 |
-| WIS | 11 | +0 | +0 |
-| CHA | 8 | -1 | -1 |
+| СИЛ | 16 | +3 | +3 |
+| ЛОВ | 13 | +1 | +1 |
+| ТЕЛ | 13 | +1 | +1 |
+| ИНТ | 7 | -2 | -2 |
+| МДР | 11 | +0 | +0 |
+| ХАР | 8 | -1 | -1 |
 
-- **Skills**: Perception +4
-- **Senses**: darkvision 60 ft.; Passive Perception 14
-- **Languages**: Goblin, Worg
-- **CR** 1/2 (XP 100; PB +2)
+- **Навыки:** Восприятие +4
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 14
+- **Языки:** Гоблинский, Воргский
+- **ПО** 1/2 (ОО 100; БМ +2)
 
-### Actions
+### Действия
 
-***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage, and the next attack roll made against the target before the start of the worg's next turn has Advantage.
+***Укус.*** *Рукопашная атака:* +5, досягаемость 5 футов. 7 (1d8 + 3) Колющего урона, и следующий бросок атаки по цели до начала следующего хода ворга совершается с преимуществом.
 
-## Wraith
+## Призрак
 
-*Small Undead, Neutral Evil*
+*Маленькая нежить, нейтрально-злой*
 
-- **Armor Class:** 13
-- **Hit Points:** 67 (9d8 + 27)
-- **Speed:** 5 ft., Fly 60 ft. (hover)
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 13
+- **Хиты:** 67 (9d8 + 27)
+- **Скорость:** 5 футов, полёт 60 футов (парение)
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 6 | -2 | -2 |
-| DEX | 16 | +3 | +3 |
-| CON | 16 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 14 | +2 | +2 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 6 | -2 | -2 |
+| ЛОВ | 16 | +3 | +3 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 14 | +2 | +2 |
+| ХАР | 15 | +2 | +2 |
 
-- **Resistances**: Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-- **Senses**: darkvision 60 ft.; Passive Perception 12
-- **Languages**: Common plus two other languages
-- **CR** 5 (XP 1,800; PB +3)
+- **Сопротивления:** Кислотный, Дробящий, Холодный, Огненный, Колющий, Рубящий
+- **Иммунитеты:** Некротический, Яд; Очарованный, Истощение, Схваченный, Парализованный, Окаменевший, Отравленный, Лежащий, Обездвиженный, Бессознательный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 12
+- **Языки:** Общий плюс два других языка
+- **ПО** 5 (ОО 1800; БМ +3)
 
-### Traits
+### Особенности
 
-***Incorporeal Movement.*** The wraith can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.
+***Бестелесное перемещение.*** Призрак может проходить сквозь других существ и предметы, как если бы они были труднопроходимой местностью. Он получает 5 (1d10) урона Силой, если заканчивает свой ход внутри предмета.
 
-***Sunlight Sensitivity.*** While in sunlight, the wraith has Disadvantage on ability checks and attack rolls.
+***Чувствительность к солнечному свету.*** Находясь на солнечном свету, призрак совершает с помехой проверки способностей и броски атаки.
 
+### Действия
 
-### Actions
+***Высасывание жизни.*** *Рукопашная атака:* +6, досягаемость 5 футов. 21 (4d8 + 3) Некротического урона. Если цель — существо, её максимум хитов уменьшается на величину полученного урона.
 
-***Life Drain.*** *Melee Attack Roll:* +6, reach 5 ft. 21 (4d8 + 3) Necrotic damage. If the target is a creature, its Hit Point maximum decreases by an amount equal to the damage taken.
+***Создание спектра.*** Призрак выбирает целью труп гуманоида в пределах 10 футов от себя, который мёртв не более 1 минуты. Дух цели встаёт как спектр в пространстве трупа или в ближайшем незанятом пространстве. Спектр находится под контролем призрака. Призрак может иметь не более семи спектров под своим контролем одновременно.
 
-***Create Specter.*** The wraith targets a Humanoid corpse within 10 feet of itself that has been dead for no longer than 1 minute. The target's spirit rises as a Specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at a time.
+## Виверна
 
-## Wyvern
+*Большой дракон, без мировоззрения*
 
-*Large Dragon, Unaligned*
+- **Класс доспеха:** 14
+- **Хиты:** 127 (15d10 + 45)
+- **Скорость:** 30 футов, полёт 80 футов
+- **Инициатива:** +0 (10)
 
-- **Armor Class:** 14
-- **Hit Points:** 127 (15d10 + 45)
-- **Speed:** 30 ft., Fly 80 ft.
-- **Initiative**: +0 (10)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +0 |
-| CON | 16 | +3 | +3 |
-| INT | 5 | -3 | -3 |
-| WIS | 12 | +1 | +1 |
-| CHA | 6 | -2 | -2 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 12 | +1 | +1 |
+| ХАР | 6 | -2 | -2 |
 
-- **Skills**: Perception +4
-- **Senses**: darkvision 120 ft.; Passive Perception 14
-- **CR** 6 (XP 2,300; PB +3)
+- **Навыки:** Восприятие +4
+- **Чувства:** тёмное зрение 120 футов; пассивное Восприятие 14
+- **ПО** 6 (ОО 2300; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The wyvern makes one Bite attack and one Sting attack.
+***Мультиатака.*** Виверна совершает одну атаку укусом и одну атаку жалом.
 
-***Bite.*** *Melee Attack Roll:* +7, reach 5 ft. 13 (2d8 + 4) Piercing damage.
+***Укус.*** *Рукопашная атака:* +7, досягаемость 5 футов. 13 (2d8 + 4) Колющего урона.
 
-***Sting.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Piercing damage plus 24 (7d6) Poison damage, and the target has the Poisoned condition until the start of the wyvern's next turn.
+***Жало.*** *Рукопашная атака:* +7, досягаемость 10 футов. 11 (2d6 + 4) Колющего урона плюс 24 (7d6) урона Ядом, и цель получает состояние «отравленный» до начала следующего хода виверны.
 
-## Xorn
+## Зорн
 
-*Medium Elemental, Neutral*
+*Средний элементаль, нейтральный*
 
-- **Armor Class:** 19
-- **Hit Points:** 84 (8d8 + 48)
-- **Speed:** 20 ft., Burrow 20 ft.
-- **Initiative**: +0 (10)
+- **Класс доспеха:** 19
+- **Хиты:** 84 (8d8 + 48)
+- **Скорость:** 20 футов, рытьё 20 футов
+- **Инициатива:** +0 (10)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 17 | +3 | +3 |
-| DEX | 10 | +0 | +0 |
-| CON | 22 | +6 | +6 |
-| INT | 11 | +0 | +0 |
-| WIS | 10 | +0 | +0 |
-| CHA | 11 | +0 | +0 |
-
-- **Immunities**: Poison; Paralyzed, Petrified, Poisoned
-- **Skills**: Perception +6, Stealth +6
-- **Senses**: darkvision 60 ft., tremorsense 60 ft.; Passive Perception 16
-- **Languages**: Primordial (Terran)
-- **CR** 5 (XP 1,800; PB +3)
+| СИЛ | 17 | +3 | +3 |
+| ЛОВ | 10 | +0 | +0 |
+| ТЕЛ | 22 | +6 | +6 |
+| ИНТ | 11 | +0 | +0 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 11 | +0 | +0 |
 
-### Traits
+- **Иммунитеты:** Яд; Парализованный, Окаменевший, Отравленный
+- **Навыки:** Восприятие +6, Скрытность +6
+- **Чувства:** тёмное зрение 60 футов, чувство вибрации 60 футов; пассивное Восприятие 16
+- **Языки:** Первородный (Терранский)
+- **ПО** 5 (ОО 1800; БМ +3)
 
-***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
+### Особенности
 
-***Treasure Sense.*** The xorn can pinpoint the location of precious metals and stones within 60 feet of itself.
+***Скольжение сквозь землю.*** Зорн может рыть сквозь немагическую необработанную землю и камень. При этом зорн не тревожит материал, через который проходит.
 
+***Чувство сокровищ.*** Зорн может точно определить местоположение драгоценных металлов и камней в пределах 60 футов от себя.
 
-### Actions
+### Действия
 
-***Multiattack.*** The xorn makes one Bite attack and three Claw attacks.
+***Мультиатака.*** Зорн совершает одну атаку укусом и три атаки когтями.
 
-***Bite.*** *Melee Attack Roll:* +6, reach 5 ft. 17 (4d6 + 3) Piercing damage.
+***Укус.*** *Рукопашная атака:* +6, досягаемость 5 футов. 17 (4d6 + 3) Колющего урона.
 
-***Claw.*** *Melee Attack Roll:* +6, reach 5 ft. 8 (1d10 + 3) Slashing damage.
+***Когти.*** *Рукопашная атака:* +6, досягаемость 5 футов. 8 (1d10 + 3) Рубящего урона.
 
+### Бонусные действия
 
-### Bonus Actions
+***Рывок.*** Зорн перемещается на расстояние до своей скорости или скорости рытья прямо к врагу, которого чувствует.
 
-***Charge.*** The xorn moves up to its Speed or Burrow Speed straight toward an enemy it can sense.
+## Молодой чёрный дракон
 
-## Young Black Dragon
+*Большой дракон (хроматический), хаотично-злой*
 
-*Large Dragon (Chromatic), Chaotic Evil*
+- **Класс доспеха:** 18
+- **Хиты:** 127 (15d10 + 45)
+- **Скорость:** 40 футов, полёт 80 футов, плавание 40 футов
+- **Инициатива:** +5 (15)
 
-- **Armor Class:** 18
-- **Hit Points:** 127 (15d10 + 45)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +5 (15)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 14 | +2 | +5 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +3 |
-| CHA | 15 | +2 | +2 |
-
-- **Immunities**: Acid
-- **Skills**: Perception +6, Stealth +5
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
-- **Languages**: Common, Draconic
-- **CR** 7 (XP 2,900; PB +3)
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 14 | +2 | +5 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 11 | +0 | +3 |
+| ХАР | 15 | +2 | +2 |
 
-### Traits
+- **Иммунитеты:** Кислота
+- **Навыки:** Восприятие +6, Скрытность +5
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 16
+- **Языки:** Общий, Драконий
+- **ПО** 7 (ОО 2900; БМ +3)
 
-***Amphibious.*** The dragon can breathe air and water.
+### Особенности
 
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks.
+***Мультиатака.*** Дракон совершает три атаки разрыванием.
 
-***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 9 (2d4 + 4) Slashing damage plus 3 (1d6) Acid damage.
+***Разрывание.*** *Рукопашная атака:* +7, досягаемость 10 футов. 9 (2d4 + 4) Рубящего урона плюс 3 (1d6) урона Кислотой.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 30-foot-long, 5-foot-wide Line. *Failure:*  49 (14d6) Acid damage. *Success:*  Half damage.
+***Кислотное дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 14, каждое существо в линии длиной 30 футов и шириной 5 футов. *Провал:* 49 (14d6) урона Кислотой. *Успех:* Половина урона.
 
-## Young Blue Dragon
+## Молодой синий дракон
 
-*Large Dragon (Chromatic), Lawful Evil*
+*Большой дракон (хроматический), принципиально-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 152 (16d10 + 64)
-- **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 18
+- **Хиты:** 152 (16d10 + 64)
+- **Скорость:** 40 футов, рытьё 20 футов, полёт 80 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 10 | +0 | +4 |
-| CON | 19 | +4 | +4 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +5 |
-| CHA | 17 | +3 | +3 |
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 10 | +0 | +4 |
+| ТЕЛ | 19 | +4 | +4 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 13 | +1 | +5 |
+| ХАР | 17 | +3 | +3 |
 
-- **Immunities**: Lightning
-- **Skills**: Perception +9, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 19
-- **Languages**: Common, Draconic
-- **CR** 9 (XP 5,000; PB +4)
+- **Иммунитеты:** Электричество
+- **Навыки:** Восприятие +9, Скрытность +4
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 19
+- **Языки:** Общий, Драконий
+- **ПО** 9 (ОО 5000; БМ +4)
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks.
+***Мультиатака.*** Дракон совершает три атаки разрыванием.
 
-***Rend.*** *Melee Attack Roll:* +9, reach 10 ft. 12 (2d6 + 5) Slashing damage plus 5 (1d10) Lightning damage.
+***Разрывание.*** *Рукопашная атака:* +9, досягаемость 10 футов. 12 (2d6 + 5) Рубящего урона плюс 5 (1d10) урона Электричеством.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 16, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  55 (10d10) Lightning damage. *Success:*  Half damage.
+***Электрическое дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 16, каждое существо в линии длиной 60 футов и шириной 5 футов. *Провал:* 55 (10d10) урона Электричеством. *Успех:* Половина урона.
 
-## Young Brass Dragon
+## Молодой латунный дракон
 
-*Large Dragon (Metallic), Chaotic Good*
+*Большой дракон (металлический), хаотично-доброе*
 
-- **Armor Class:** 17
-- **Hit Points:** 110 (13d10 + 39)
-- **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 17
+- **Хиты:** 110 (13d10 + 39)
+- **Скорость:** 40 футов, рытьё 20 футов, полёт 80 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 10 | +0 | +3 |
-| CON | 17 | +3 | +3 |
-| INT | 12 | +1 | +1 |
-| WIS | 11 | +0 | +3 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 10 | +0 | +3 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 12 | +1 | +1 |
+| МДР | 11 | +0 | +3 |
+| ХАР | 15 | +2 | +2 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +6, Persuasion +5, Stealth +3
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
-- **Languages**: Common, Draconic
-- **CR** 6 (XP 2,300; PB +3)
+- **Иммунитеты:** Огонь
+- **Навыки:** Восприятие +6, Убеждение +5, Скрытность +3
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 16
+- **Языки:** Общий, Драконий
+- **ПО** 6 (ОО 2300; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace two attacks with a use of Sleep Breath.
+***Мультиатака.*** Дракон совершает три атаки разрыванием. Он может заменить две атаки использованием усыпляющего дыхания.
 
-***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 15 (2d10 + 4) Slashing damage.
+***Разрывание.*** *Рукопашная атака:* +7, досягаемость 10 футов. 15 (2d10 + 4) Рубящего урона.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:*  38 (11d6) Fire damage. *Success:*  Half damage.
+***Огненное дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 14, каждое существо в линии длиной 40 футов и шириной 5 футов. *Провал:* 38 (11d6) урона Огнём. *Успех:* Половина урона.
 
-***Sleep Breath.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  The target has the Incapacitated condition until the end of its next turn, at which point it repeats the save. *Second Failure* The target has the Unconscious condition for 1 minute. This effect ends for the target if it takes damage or a creature within 5 feet of it takes an action to wake it.
+***Усыпляющее дыхание.*** *Спасбросок Телосложения:* СЛ 14, каждое существо в 30-футовом конусе. *Провал:* Цель получает состояние «недееспособный» до конца своего следующего хода, после чего повторяет спасбросок. *Второй провал:* Цель получает состояние «бессознательный» на 1 минуту. Этот эффект заканчивается для цели, если она получает урон или существо в пределах 5 футов от неё совершает действие, чтобы разбудить её.
 
-## Young Bronze Dragon
+## Молодой бронзовый дракон
 
-*Large Dragon (Metallic), Lawful Good*
+*Большой дракон (металлический), принципиально-доброе*
 
-- **Armor Class:** 17
-- **Hit Points:** 142 (15d10 + 60)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 17
+- **Хиты:** 142 (15d10 + 60)
+- **Скорость:** 40 футов, полёт 80 футов, плавание 40 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 21 | +5 | +5 |
-| DEX | 10 | +0 | +3 |
-| CON | 19 | +4 | +4 |
-| INT | 14 | +2 | +2 |
-| WIS | 13 | +1 | +4 |
-| CHA | 17 | +3 | +3 |
+| СИЛ | 21 | +5 | +5 |
+| ЛОВ | 10 | +0 | +3 |
+| ТЕЛ | 19 | +4 | +4 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 13 | +1 | +4 |
+| ХАР | 17 | +3 | +3 |
 
-- **Immunities**: Lightning
-- **Skills**: Insight +4, Perception +7, Stealth +3
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common, Draconic
-- **CR** 8 (XP 3,900; PB +3)
+- **Иммунитеты:** Электричество
+- **Навыки:** Проницательность +4, Восприятие +7, Скрытность +3
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 17
+- **Языки:** Общий, Драконий
+- **ПО** 8 (ОО 3900; БМ +3)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The dragon can breathe air and water.
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дракон совершает три атаки разрыванием. Он может заменить одну атаку использованием отталкивающего дыхания.
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Repulsion Breath.
+***Разрывание.*** *Рукопашная атака:* +8, досягаемость 10 футов. 16 (2d10 + 5) Рубящего урона.
 
-***Rend.*** *Melee Attack Roll:* +8, reach 10 ft. 16 (2d10 + 5) Slashing damage.
+***Электрическое дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 15, каждое существо в линии длиной 60 футов и шириной 5 футов. *Провал:* 49 (9d10) урона Электричеством. *Успех:* Половина урона.
 
-***Lightning Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 15, each creature in a 60-foot-long, 5-foot-wide Line. *Failure:*  49 (9d10) Lightning damage. *Success:*  Half damage.
+***Отталкивающее дыхание.*** *Спасбросок Силы:* СЛ 15, каждое существо в 30-футовом конусе. *Провал:* Цель отталкивается на расстояние до 40 футов по прямой от дракона и получает состояние «лежащий».
 
-***Repulsion Breath.*** *Strength Saving Throw*: DC 15, each creature in a 30-foot Cone. *Failure:*  The target is pushed up to 40 feet straight away from the dragon and has the Prone condition.
+## Молодой медный дракон
 
-## Young Copper Dragon
+*Большой дракон (металлический), хаотично-доброе*
 
-*Large Dragon (Metallic), Chaotic Good*
+- **Класс доспеха:** 17
+- **Хиты:** 119 (14d10 + 42)
+- **Скорость:** 40 футов, лазанье 40 футов, полёт 80 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 17
-- **Hit Points:** 119 (14d10 + 42)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 12 | +1 | +4 |
-| CON | 17 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 12 | +1 | +4 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 13 | +1 | +4 |
+| ХАР | 15 | +2 | +2 |
 
-- **Immunities**: Acid
-- **Skills**: Deception +5, Perception +7, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common, Draconic
-- **CR** 7 (XP 2,900; PB +3)
+- **Иммунитеты:** Кислота
+- **Навыки:** Обман +5, Восприятие +7, Скрытность +4
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 17
+- **Языки:** Общий, Драконий
+- **ПО** 7 (ОО 2900; БМ +3)
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Slowing Breath.
+***Мультиатака.*** Дракон совершает три атаки разрыванием. Он может заменить одну атаку использованием замедляющего дыхания.
 
-***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 15 (2d10 + 4) Slashing damage.
+***Разрывание.*** *Рукопашная атака:* +7, досягаемость 10 футов. 15 (2d10 + 4) Рубящего урона.
 
-***Acid Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 14, each creature in a 40-foot-long, 5-foot-wide Line. *Failure:*  40 (9d8) Acid damage. *Success:*  Half damage.
+***Кислотное дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 14, каждое существо в линии длиной 40 футов и шириной 5 футов. *Провал:* 40 (9d8) урона Кислотой. *Успех:* Половина урона.
 
-***Slowing Breath.*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  The target can't take Reactions; its Speed is halved; and it can take either an action or a Bonus Action on its turn, not both. This effect lasts until the end of its next turn.
+***Замедляющее дыхание.*** *Спасбросок Телосложения:* СЛ 14, каждое существо в 30-футовом конусе. *Провал:* Цель не может совершать реакции; её скорость уменьшается вдвое; и она может совершить либо действие, либо бонусное действие в свой ход, но не оба. Этот эффект длится до конца её следующего хода.
 
-## Young Gold Dragon
+## Молодой золотой дракон
 
-*Large Dragon (Metallic), Lawful Good*
+*Большой дракон (металлический), принципиально-доброе*
 
-- **Armor Class:** 18
-- **Hit Points:** 178 (17d10 + 85)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +6 (16)
+- **Класс доспеха:** 18
+- **Хиты:** 178 (17d10 + 85)
+- **Скорость:** 40 футов, полёт 80 футов, плавание 40 футов
+- **Инициатива:** +6 (16)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 14 | +2 | +6 |
-| CON | 21 | +5 | +5 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +5 |
-| CHA | 20 | +5 | +5 |
-
-- **Immunities**: Fire
-- **Skills**: Insight +5, Perception +9, Persuasion +9, Stealth +6
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 19
-- **Languages**: Common, Draconic
-- **CR** 10 (XP 5,900; PB +4)
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 14 | +2 | +6 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 13 | +1 | +5 |
+| ХАР | 20 | +5 | +5 |
 
-### Traits
+- **Иммунитеты:** Огонь
+- **Навыки:** Проницательность +5, Восприятие +9, Убеждение +9, Скрытность +6
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 19
+- **Языки:** Общий, Драконий
+- **ПО** 10 (ОО 5900; БМ +4)
 
-***Amphibious.*** The dragon can breathe air and water.
+### Особенности
 
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Weakening Breath.
+***Мультиатака.*** Дракон совершает три атаки разрыванием. Он может заменить одну атаку использованием ослабляющего дыхания.
 
-***Rend.*** *Melee Attack Roll:* +10, reach 10 ft. 17 (2d10 + 6) Slashing damage.
+***Разрывание.*** *Рукопашная атака:* +10, досягаемость 10 футов. 17 (2d10 + 6) Рубящего урона.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:*  55 (10d10) Fire damage. *Success:*  Half damage.
+***Огненное дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 17, каждое существо в 30-футовом конусе. *Провал:* 55 (10d10) урона Огнём. *Успех:* Половина урона.
 
-***Weakening Breath.*** *Strength Saving Throw*: DC 17, each creature that isn't currently affected by this breath in a 30-foot Cone. *Failure:*  The target has Disadvantage on Strength-based D20 Test and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Ослабляющее дыхание.*** *Спасбросок Силы:* СЛ 17, каждое существо, в данный момент не находящееся под действием этого дыхания, в 30-футовом конусе. *Провал:* Цель совершает с помехой проверки d20, основанные на Силе, и вычитает 3 (1d6) из своих бросков урона. Она повторяет спасбросок в конце каждого своего хода, завершая эффект для себя при успехе. Через 1 минуту она автоматически преуспевает.
 
-## Young Green Dragon
+## Молодой зелёный дракон
 
-*Large Dragon (Chromatic), Lawful Evil*
+*Большой дракон (хроматический), принципиально-злой*
 
-- **Armor Class:** 18
-- **Hit Points:** 136 (16d10 + 48)
-- **Speed:** 40 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 18
+- **Хиты:** 136 (16d10 + 48)
+- **Скорость:** 40 футов, полёт 80 футов, плавание 40 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 19 | +4 | +4 |
-| DEX | 12 | +1 | +4 |
-| CON | 17 | +3 | +3 |
-| INT | 16 | +3 | +3 |
-| WIS | 13 | +1 | +4 |
-| CHA | 15 | +2 | +2 |
+| СИЛ | 19 | +4 | +4 |
+| ЛОВ | 12 | +1 | +4 |
+| ТЕЛ | 17 | +3 | +3 |
+| ИНТ | 16 | +3 | +3 |
+| МДР | 13 | +1 | +4 |
+| ХАР | 15 | +2 | +2 |
 
-- **Immunities**: Poison; Poisoned
-- **Skills**: Deception +5, Perception +7, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 17
-- **Languages**: Common, Draconic
-- **CR** 8 (XP 3,900; PB +3)
+- **Иммунитеты:** Яд; Отравленный
+- **Навыки:** Обман +5, Восприятие +7, Скрытность +4
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 17
+- **Языки:** Общий, Драконий
+- **ПО** 8 (ОО 3900; БМ +3)
 
-### Traits
+### Особенности
 
-***Amphibious.*** The dragon can breathe air and water.
+***Амфибия.*** Дракон может дышать воздухом и водой.
 
+### Действия
 
-### Actions
+***Мультиатака.*** Дракон совершает три атаки разрыванием.
 
-***Multiattack.*** The dragon makes three Rend attacks.
+***Разрывание.*** *Рукопашная атака:* +7, досягаемость 10 футов. 11 (2d6 + 4) Рубящего урона плюс 7 (2d6) урона Ядом.
 
-***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 11 (2d6 + 4) Slashing damage plus 7 (2d6) Poison damage.
+***Ядовитое дыхание (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 14, каждое существо в 30-футовом конусе. *Провал:* 42 (12d6) урона Ядом. *Успех:* Половина урона.
 
-***Poison Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 14, each creature in a 30-foot Cone. *Failure:*  42 (12d6) Poison damage. *Success:*  Half damage.
+## Молодой красный дракон
 
-## Young Red Dragon
+*Большой дракон (хроматический), хаотично-злой*
 
-*Large Dragon (Chromatic), Chaotic Evil*
+- **Класс доспеха:** 18
+- **Хиты:** 178 (17d10 + 85)
+- **Скорость:** 40 футов, лазанье 40 футов, полёт 80 футов
+- **Инициатива:** +4 (14)
 
-- **Armor Class:** 18
-- **Hit Points:** 178 (17d10 + 85)
-- **Speed:** 40 ft., Climb 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 10 | +0 | +4 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +4 |
-| CHA | 19 | +4 | +4 |
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 10 | +0 | +4 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 11 | +0 | +4 |
+| ХАР | 19 | +4 | +4 |
 
-- **Immunities**: Fire
-- **Skills**: Perception +8, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
-- **Languages**: Common, Draconic
-- **CR** 10 (XP 5,900; PB +4)
+- **Иммунитеты:** Огонь
+- **Навыки:** Восприятие +8, Скрытность +4
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 18
+- **Языки:** Общий, Драконий
+- **ПО** 10 (ОО 5900; БМ +4)
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks.
+***Мультиатака.*** Дракон совершает три атаки разрыванием.
 
-***Rend.*** *Melee Attack Roll:* +10, reach 10 ft. 13 (2d6 + 6) Slashing damage plus 3 (1d6) Fire damage.
+***Разрывание.*** *Рукопашная атака:* +10, досягаемость 10 футов. 13 (2d6 + 6) Рубящего урона плюс 3 (1d6) урона Огнём.
 
-***Fire Breath (Recharge 5-6).*** *Dexterity Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:*  56 (16d6) Fire damage. *Success:*  Half damage.
+***Огненное дыхание (Перезарядка 5-6).*** *Спасбросок Ловкости:* СЛ 17, каждое существо в 30-футовом конусе. *Провал:* 56 (16d6) урона Огнём. *Успех:* Половина урона.
 
-## Young Silver Dragon
+## Молодой серебряный дракон
 
-*Large Dragon (Metallic), Lawful Good*
+*Большой дракон (металлический), принципиально-доброе*
 
-- **Armor Class:** 18
-- **Hit Points:** 168 (16d10 + 80)
-- **Speed:** 40 ft., Fly 80 ft.
-- **Initiative**: +4 (14)
+- **Класс доспеха:** 18
+- **Хиты:** 168 (16d10 + 80)
+- **Скорость:** 40 футов, полёт 80 футов
+- **Инициатива:** +4 (14)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 23 | +6 | +6 |
-| DEX | 10 | +0 | +4 |
-| CON | 21 | +5 | +5 |
-| INT | 14 | +2 | +2 |
-| WIS | 11 | +0 | +4 |
-| CHA | 19 | +4 | +4 |
+| СИЛ | 23 | +6 | +6 |
+| ЛОВ | 10 | +0 | +4 |
+| ТЕЛ | 21 | +5 | +5 |
+| ИНТ | 14 | +2 | +2 |
+| МДР | 11 | +0 | +4 |
+| ХАР | 19 | +4 | +4 |
 
-- **Immunities**: Cold
-- **Skills**: History +6, Perception +8, Stealth +4
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 18
-- **Languages**: Common, Draconic
-- **CR** 9 (XP 5,000; PB +4)
+- **Иммунитеты:** Холод
+- **Навыки:** История +6, Восприятие +8, Скрытность +4
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 18
+- **Языки:** Общий, Драконий
+- **ПО** 9 (ОО 5000; БМ +4)
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks. It can replace one attack with a use of Paralyzing Breath.
+***Мультиатака.*** Дракон совершает три атаки разрыванием. Он может заменить одну атаку использованием парализующего дыхания.
 
-***Rend.*** *Melee Attack Roll:* +10, reach 10 ft. 15 (2d8 + 6) Slashing damage.
+***Разрывание.*** *Рукопашная атака:* +10, досягаемость 10 футов. 15 (2d8 + 6) Рубящего урона.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 17, each creature in a 30-foot Cone. *Failure:*  49 (11d8) Cold damage. *Success:*  Half damage.
+***Ледяное дыхание (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 17, каждое существо в 30-футовом конусе. *Провал:* 49 (11d8) урона Холодом. *Успех:* Половина урона.
 
-***Paralyzing Breath.*** *Constitution Saving Throw*: DC 17, each creature in a 30-foot Cone. *First Failure* The target has the Incapacitated condition until the end of its next turn, when it repeats the save. *Second Failure* The target has the Paralyzed condition, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+***Парализующее дыхание.*** *Спасбросок Телосложения:* СЛ 17, каждое существо в 30-футовом конусе. *Первый провал:* Цель получает состояние «недееспособный» до конца своего следующего хода, когда она повторяет спасбросок. *Второй провал:* Цель получает состояние «парализованный» и повторяет спасбросок в конце каждого своего хода, завершая эффект для себя при успехе. Через 1 минуту она автоматически преуспевает.
 
-## Young White Dragon
+## Молодой белый дракон
 
-*Large Dragon (Chromatic), Chaotic Evil*
+*Большой дракон (хроматический), хаотично-злой*
 
-- **Armor Class:** 17
-- **Hit Points:** 123 (13d10 + 52)
-- **Speed:** 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Класс доспеха:** 17
+- **Хиты:** 123 (13d10 + 52)
+- **Скорость:** 40 футов, рытьё 20 футов, полёт 80 футов, плавание 40 футов
+- **Инициатива:** +3 (13)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 18 | +4 | +4 |
-| DEX | 10 | +0 | +3 |
-| CON | 18 | +4 | +4 |
-| INT | 6 | -2 | -2 |
-| WIS | 11 | +0 | +3 |
-| CHA | 12 | +1 | +1 |
-
-- **Immunities**: Cold
-- **Skills**: Perception +6, Stealth +3
-- **Senses**: blindsight 30 ft., darkvision 120 ft.; Passive Perception 16
-- **Languages**: Common, Draconic
-- **CR** 6 (XP 2,300; PB +3)
+| СИЛ | 18 | +4 | +4 |
+| ЛОВ | 10 | +0 | +3 |
+| ТЕЛ | 18 | +4 | +4 |
+| ИНТ | 6 | -2 | -2 |
+| МДР | 11 | +0 | +3 |
+| ХАР | 12 | +1 | +1 |
 
-### Traits
+- **Иммунитеты:** Холод
+- **Навыки:** Восприятие +6, Скрытность +3
+- **Чувства:** слепое зрение 30 футов, тёмное зрение 120 футов; пассивное Восприятие 16
+- **Языки:** Общий, Драконий
+- **ПО** 6 (ОО 2300; БМ +3)
 
-***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, Difficult Terrain composed of ice or snow doesn't cost it extra movement.
+### Особенности
 
+***Хождение по льду.*** Дракон может перемещаться и лазать по ледяным поверхностям без проверок способностей. Кроме того, труднопроходимая местность из льда или снега не требует дополнительного перемещения.
 
-### Actions
+### Действия
 
-***Multiattack.*** The dragon makes three Rend attacks.
+***Мультиатака.*** Дракон совершает три атаки разрыванием.
 
-***Rend.*** *Melee Attack Roll:* +7, reach 10 ft. 9 (2d4 + 4) Slashing damage plus 2 (1d4) Cold damage.
+***Разрывание.*** *Рукопашная атака:* +7, досягаемость 10 футов. 9 (2d4 + 4) Рубящего урона плюс 2 (1d4) урона Холодом.
 
-***Cold Breath (Recharge 5-6).*** *Constitution Saving Throw*: DC 15, each creature in a 30-foot Cone. *Failure:*  40 (9d8) Cold damage. *Success:*  Half damage.
+***Ледяное дыхание (Перезарядка 5-6).*** *Спасбросок Телосложения:* СЛ 15, каждое существо в 30-футовом конусе. *Провал:* 40 (9d8) урона Холодом. *Успех:* Половина урона.
 
-## Zombie
+## Зомби
 
-*Medium Undead, Neutral Evil*
+*Средняя нежить, нейтрально-злой*
 
-- **Armor Class:** 8
-- **Hit Points:** 15 (2d8 + 6)
-- **Speed:** 20 ft.
-- **Initiative**: -2 (8)
+- **Класс доспеха:** 8
+- **Хиты:** 15 (2d8 + 6)
+- **Скорость:** 20 футов
+- **Инициатива:** -2 (8)
 
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 13 | +1 | +1 |
-| DEX | 6 | -2 | -2 |
-| CON | 16 | +3 | +3 |
-| INT | 3 | -4 | -4 |
-| WIS | 6 | -2 | +0 |
-| CHA | 5 | -3 | -3 |
+| СИЛ | 13 | +1 | +1 |
+| ЛОВ | 6 | -2 | -2 |
+| ТЕЛ | 16 | +3 | +3 |
+| ИНТ | 3 | -4 | -4 |
+| МДР | 6 | -2 | +0 |
+| ХАР | 5 | -3 | -3 |
 
-- **Immunities**: Poison; Exhaustion, Poisoned
-- **Senses**: darkvision 60 ft.; Passive Perception 8
-- **Languages**: Understands Common plus one other language but can't speak
-- **CR** 1/4 (XP 50; PB +2)
+- **Иммунитеты:** Яд; Истощение, Отравленный
+- **Чувства:** тёмное зрение 60 футов; пассивное Восприятие 8
+- **Языки:** Понимает Общий плюс один другой язык, но не может говорить
+- **ПО** 1/4 (ОО 50; БМ +2)
 
-### Traits
+### Особенности
 
-***Undead Fortitude.*** If damage reduces the zombie to 0 Hit Points, it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit. On a successful save, the zombie drops to 1 Hit Point instead.
+***Стойкость нежити.*** Если урон уменьшает хиты зомби до 0, он совершает спасбросок Телосложения (СЛ 5 плюс полученный урон), если урон не является уроном Излучением или от критического попадания. При успешном спасброске зомби вместо этого опускается до 1 хита.
 
+### Действия
 
-### Actions
+***Удар.*** *Рукопашная атака:* +3, досягаемость 5 футов. 5 (1d8 + 1) Дробящего урона.
 
-***Slam.*** *Melee Attack Roll:* +3, reach 5 ft. 5 (1d8 + 1) Bludgeoning damage.
+## Рой ползучих когтей
 
-## Swarm of Crawling Claws
+*Средняя нежить, нейтрально-злой*
 
-*Medium Undead, Neutral Evil*
+- **Класс доспеха:** 12
+- **Хиты:** 49 (11d8)
+- **Скорость:** 30 футов, лазанье 30 футов
+- **Инициатива:** +2 (12)
 
-- **Armor Class:** 12
-- **Hit Points:** 49 (11d8)
-- **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
-
-|STAT|SCORE|MOD|SAVE|
+|ХРКТ|ЗНАЧ|МОД|СПАС|
 | --- | --- | --- | ---- |
-| STR | 14 | +2 | +2 |
-| DEX | 14 | +2 | +2 |
-| CON | 11 | +0 | +0 |
-| INT | 5 | -3 | -3 |
-| WIS | 10 | +0 | +0 |
-| CHA | 4 | -3 | -3 |
-
-- **Resistances**: Bludgeoning, Piercing, Slashing
-- **Immunities**: Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
-- **Senses**: blindsight 30 ft.; Passive Perception 10
-- **Languages**: Understands Common but can't speak
-- **CR** 3 (XP 700; PB +2)
+| СИЛ | 14 | +2 | +2 |
+| ЛОВ | 14 | +2 | +2 |
+| ТЕЛ | 11 | +0 | +0 |
+| ИНТ | 5 | -3 | -3 |
+| МДР | 10 | +0 | +0 |
+| ХАР | 4 | -3 | -3 |
 
-### Traits
+- **Сопротивления:** Дробящий, Колющий, Рубящий
+- **Иммунитеты:** Некротический, Яд; Очарованный, Истощение, Испуганный, Схваченный, Недееспособный, Парализованный, Окаменевший, Отравленный, Лежащий, Обездвиженный, Ошеломлённый
+- **Чувства:** слепое зрение 30 футов; пассивное Восприятие 10
+- **Языки:** Понимает Общий, но не может говорить
+- **ПО** 3 (ОО 700; БМ +2)
 
-***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny creature. The swarm can't regain Hit Points or gain Temporary Hit Points.
+### Особенности
 
+***Рой.*** Рой может занимать пространство другого существа и наоборот, и рой может проходить через любое отверстие, достаточно большое для Крошечного существа. Рой не может восстанавливать хиты или получать временные хиты.
 
-### Actions
+### Действия
 
-***Swarm of Grasping Hands.*** *Melee Attack Roll:* +4, reach 5 ft. 20 (4d8 + 2) Necrotic damage, or 11 (2d8 + 2) Necrotic damage if the swarm is Bloodied. If the target is a Medium or smaller creature, it has the Prone condition.
+***Рой хватающих рук.*** *Рукопашная атака:* +4, досягаемость 5 футов. 20 (4d8 + 2) Некротического урона, или 11 (2d8 + 2) Некротического урона, если рой окровавлен. Если цель — Среднее или меньшее существо, она получает состояние «лежащий».

@@ -1,214 +1,214 @@
-## Monk
+## Монах
 
-Table: Core Monk Traits
+Таблица: Основные черты монаха
 
-|                               |                                                                                              |
-|-------------------------------|----------------------------------------------------------------------------------------------|
-| Primary Ability               | Dexterity and Wisdom                                                                         |
-| Hit Point Die                 | D8 per Monk level                                                                            |
-| Saving Throw Proficiencies    | Strength and Dexterity                                                                       |
-| Skill Proficiencies           | Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth                      |
-| Weapon Proficiencies          | Simple weapons and Martial weapons that have the Light property                              |
-| Tool Proficiencies            | Choose one type of Artisan's Tools or Musical Instrument (see "Equipment")                   |
-| Armor Training                | None                                                                                         |
-| Starting Equipment            | Choose A or B: (A) Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 11 GP; or (B) 50 GP |
+|                            |                                                                                              |
+|----------------------------|----------------------------------------------------------------------------------------------|
+| Основная характеристика    | Ловкость и Мудрость                                                                          |
+| Кость Хитов                | d8 за каждый уровень монаха                                                                  |
+| Владение спасбросками      | Сила и Ловкость                                                                              |
+| Владение навыками          | Выберите 2: Акробатика, Атлетика, История, Проницательность, Религия или Скрытность          |
+| Владение оружием           | Простое оружие и воинское оружие со свойством Лёгкое                                         |
+| Владение инструментами     | Выберите один вид инструментов ремесленника или музыкальный инструмент (смотрите «Снаряжение») |
+| Владение доспехами         | Нет                                                                                          |
+| Начальное снаряжение       | Выберите А или Б: (А) Копьё, 5 кинжалов, инструменты ремесленника или музыкальный инструмент, выбранные выше, набор путешественника и 11 зм; или (Б) 50 зм |
 
-### Becoming a Monk …
+### Как стать монахом…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Monk Traits table.
-- Gain the Monk's level 1 features, which are listed in the Monk Features table.
+- Получите все черты из таблицы Основные черты монаха.
+- Получите умения монаха 1-го уровня, перечисленные в таблице Умения монаха.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the Hit Point Die trait from the Core Monk Traits table.
-- Gain the Monk's level 1 features, which are listed in the Monk Features table.
+- Получите черту Кость Хитов из таблицы Основные черты монаха.
+- Получите умения монаха 1-го уровня, перечисленные в таблице Умения монаха.
 
-### Monk Class Features
+### Умения монаха
 
-As a Monk, you gain the following class features when you reach the specified Monk levels. These features are listed in the Monk Features table.
+Как монах, вы получаете следующие классовые умения, когда достигаете указанных уровней монаха. Эти умения перечислены в таблице Умения монаха.
 
-Table: Monk Features
+Таблица: Умения монаха
 
-| Level | Proficiency Bonus    | Class Features                                          | Martial Arts    | Focus Points    | Unarmored Movement    |
-|-------|----------------------|---------------------------------------------------------|-----------------|-----------------|-----------------------|
-| 1     | +2                   | Martial Arts, Unarmored Defense                         | 1d6             | —               | —                     |
-| 2     | +2                   | Monk's Focus, Unarmored Movement, Uncanny Metabolism    | 1d6             | 2               | +10 ft.               |
-| 3     | +2                   | Deflect Attacks, Monk Subclass                          | 1d6             | 3               | +10 ft.               |
-| 4     | +2                   | Ability Score Improvement, Slow Fall                    | 1d6             | 4               | +10 ft.               |
-| 5     | +3                   | Extra Attack, Stunning Strike                           | 1d8             | 5               | +10 ft.               |
-| 6     | +3                   | Empowered Strikes, Subclass feature                     | 1d8             | 6               | +15 ft.               |
-| 7     | +3                   | Evasion                                                 | 1d8             | 7               | +15 ft.               |
-| 8     | +3                   | Ability Score Improvement                               | 1d8             | 8               | +15 ft.               |
-| 9     | +4                   | Acrobatic Movement                                      | 1d8             | 9               | +15 ft.               |
-| 10    | +4                   | Heightened Focus, Self-Restoration                      | 1d8             | 10              | +20 ft.               |
-| 11    | +4                   | Subclass feature                                        | 1d10            | 11              | +20 ft.               |
-| 12    | +4                   | Ability Score Improvement                               | 1d10            | 12              | +20 ft.               |
-| 13    | +5                   | Deflect Energy                                          | 1d10            | 13              | +20 ft.               |
-| 14    | +5                   | Disciplined Survivor                                    | 1d10            | 14              | +25 ft.               |
-| 15    | +5                   | Perfect Focus                                           | 1d10            | 15              | +25 ft.               |
-| 16    | +5                   | Ability Score Improvement                               | 1d10            | 16              | +25 ft.               |
-| 17    | +6                   | Subclass feature                                        | 1d12            | 17              | +25 ft.               |
-| 18    | +6                   | Superior Defense                                        | 1d12            | 18              | +30 ft.               |
-| 19    | +6                   | Epic Boon                                               | 1d12            | 19              | +30 ft.               |
-| 20    | +6                   | Body and Mind                                           | 1d12            | 20              | +30 ft.               |
+| Уровень | Бонус мастерства | Классовые умения                                        | Боевые искусства | Очки сосредоточения | Движение без доспехов |
+|---------|------------------|---------------------------------------------------------|------------------|---------------------|----------------------|
+| 1       | +2               | Боевые искусства, Защита без доспехов                   | 1d6              | —                   | —                    |
+| 2       | +2               | Сосредоточение монаха, Движение без доспехов, Необычный метаболизм | 1d6    | 2                   | +10 фт.              |
+| 3       | +2               | Отражение атак, Подкласс монаха                         | 1d6              | 3                   | +10 фт.              |
+| 4       | +2               | Увеличение характеристик, Замедление падения            | 1d6              | 4                   | +10 фт.              |
+| 5       | +3               | Дополнительная атака, Оглушающий удар                   | 1d8              | 5                   | +10 фт.              |
+| 6       | +3               | Усиленные удары, Умение подкласса                       | 1d8              | 6                   | +15 фт.              |
+| 7       | +3               | Уклонение                                               | 1d8              | 7                   | +15 фт.              |
+| 8       | +3               | Увеличение характеристик                                | 1d8              | 8                   | +15 фт.              |
+| 9       | +4               | Акробатическое движение                                 | 1d8              | 9                   | +15 фт.              |
+| 10      | +4               | Усиленное сосредоточение, Самовосстановление            | 1d8              | 10                  | +20 фт.              |
+| 11      | +4               | Умение подкласса                                        | 1d10             | 11                  | +20 фт.              |
+| 12      | +4               | Увеличение характеристик                                | 1d10             | 12                  | +20 фт.              |
+| 13      | +5               | Отражение энергии                                       | 1d10             | 13                  | +20 фт.              |
+| 14      | +5               | Закалённый выживший                                     | 1d10             | 14                  | +25 фт.              |
+| 15      | +5               | Совершенное сосредоточение                              | 1d10             | 15                  | +25 фт.              |
+| 16      | +5               | Увеличение характеристик                                | 1d10             | 16                  | +25 фт.              |
+| 17      | +6               | Умение подкласса                                        | 1d12             | 17                  | +25 фт.              |
+| 18      | +6               | Превосходная защита                                     | 1d12             | 18                  | +30 фт.              |
+| 19      | +6               | Эпический дар                                           | 1d12             | 19                  | +30 фт.              |
+| 20      | +6               | Тело и разум                                            | 1d12             | 20                  | +30 фт.              |
 
-#### Level 1: Martial Arts
+#### Уровень 1: Боевые искусства
 
-Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following:
+Ваша практика боевых искусств даёт вам мастерство в боевых стилях, использующих безоружный удар и оружие монаха, а именно:
 
-- Simple Melee weapons
-- Martial Melee weapons that have the Light property
+- Простое оружие ближнего боя
+- Воинское оружие ближнего боя со свойством Лёгкое
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a Shield.
+Вы получаете следующие преимущества, пока вы безоружны или держите только оружие монаха и не носите доспехи и не используете щит.
 
-**Bonus Unarmed Strike.** You can make an Unarmed Strike as a Bonus Action.
+**Бонусный безоружный удар.** Вы можете совершить безоружный удар как Бонусное действие.
 
-**Martial Arts Die.** You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
+**Кость боевых искусств.** Вы можете бросить 1d6 вместо обычного урона вашего безоружного удара или оружия монаха. Эта кость меняется по мере получения уровней монаха, как показано в столбце Боевые искусства таблицы Умения монаха.
 
-**Dexterous Attacks.** You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+**Ловкие атаки.** Вы можете использовать модификатор Ловкости вместо модификатора Силы для бросков атаки и урона ваших безоружных ударов и оружия монаха. Кроме того, когда вы используете опцию Захват или Толчок вашего безоружного удара, вы можете использовать модификатор Ловкости вместо модификатора Силы для определения СЛ спасброска.
 
-#### Level 1: Unarmored Defense
+#### Уровень 1: Защита без доспехов
 
-While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
+Пока вы не носите доспехи и не используете щит, ваш базовый Класс Доспеха равен 10 + ваш модификатор Ловкости + ваш модификатор Мудрости.
 
-#### Level 2: Monk's Focus
+#### Уровень 2: Сосредоточение монаха
 
-Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.
+Ваше сосредоточение и боевые тренировки позволяют вам использовать источник необычайной энергии внутри себя. Эта энергия представлена очками сосредоточения. Ваш уровень монаха определяет количество очков, которое у вас есть, как показано в столбце Очки сосредоточения таблицы Умения монаха.
 
-You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
+Вы можете тратить эти очки, чтобы усиливать или активировать определённые умения монаха. Изначально вы знаете три таких умения: Шквал ударов, Терпеливая защита и Шаг ветра, каждое из которых описано ниже.
 
-When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points.
+Когда вы тратите очко сосредоточения, оно недоступно, пока вы не закончите короткий или продолжительный отдых, в конце которого вы восстанавливаете все потраченные очки.
 
-Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
+Некоторые умения, использующие очки сосредоточения, требуют от цели совершить спасбросок. СЛ спасброска равна 8 + ваш модификатор Мудрости + ваш бонус мастерства.
 
-**Flurry of Blows.** You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
+**Шквал ударов.** Вы можете потратить 1 очко сосредоточения, чтобы совершить два безоружных удара как Бонусное действие.
 
-**Patient Defense.** You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
+**Терпеливая защита.** Вы можете совершить действие Отход как Бонусное действие. Либо вы можете потратить 1 очко сосредоточения, чтобы совершить и действие Отход, и действие Уклонение как Бонусное действие.
 
-**Step of the Wind.** You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
+**Шаг ветра.** Вы можете совершить действие Рывок как Бонусное действие. Либо вы можете потратить 1 очко сосредоточения, чтобы совершить и действие Отход, и действие Рывок как Бонусное действие, и ваша дистанция прыжка удваивается на этот ход.
 
-#### Level 2: Unarmored Movement
+#### Уровень 2: Движение без доспехов
 
-Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Ваша скорость увеличивается на 10 футов, пока вы не носите доспехи и не используете щит. Этот бонус увеличивается, когда вы достигаете определённых уровней монаха, как показано в таблице Умения монаха.
 
-#### Level 2: Uncanny Metabolism
+#### Уровень 2: Необычный метаболизм
 
-When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
+Когда вы бросаете инициативу, вы можете восстановить все потраченные очки сосредоточения. Когда вы это делаете, бросьте кость боевых искусств и восстановите количество хитов, равное вашему уровню монаха + выпавшее число.
 
-Once you use this feature, you can't use it again until you finish a Long Rest.
+После использования этого умения вы не можете использовать его снова, пока не закончите продолжительный отдых.
 
-#### Level 3: Deflect Attacks
+#### Уровень 3: Отражение атак
 
-When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
+Когда бросок атаки попадает по вам и его урон включает дробящий, колющий или рубящий урон, вы можете использовать Реакцию, чтобы уменьшить общий урон атаки по вам. Уменьшение равно 1d10 + ваш модификатор Ловкости + ваш уровень монаха.
 
-If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
+Если вы уменьшаете урон до 0, вы можете потратить 1 очко сосредоточения, чтобы перенаправить часть силы атаки. Если вы это делаете, выберите существо, которое вы видите в пределах 5 футов от себя, если атака была рукопашной, или существо, которое вы видите в пределах 60 футов от себя, которое не за полным укрытием, если атака была дальнобойной. Это существо должно преуспеть в спасброске Ловкости или получить урон, равный двум броскам вашей кости боевых искусств + ваш модификатор Ловкости. Урон того же типа, что и урон атаки.
 
-#### Level 3: Monk Subclass
+#### Уровень 3: Подкласс монаха
 
-You gain a Monk subclass of your choice. The Warrior of the Open Hand subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
+Вы получаете подкласс монаха на свой выбор. Подкласс Воин открытой ладони описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях монаха. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню монаха или ниже.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях монаха.
 
-#### Level 4: Slow Fall
+#### Уровень 4: Замедление падения
 
-You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
+Вы можете использовать Реакцию при падении, чтобы уменьшить любой урон от падения на величину, равную пятикратному вашему уровню монаха.
 
-#### Level 5: Extra Attack
+#### Уровень 5: Дополнительная атака
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+Вы можете атаковать дважды вместо одного раза, каждый раз, когда совершаете действие Атака в свой ход.
 
-#### Level 5: Stunning Strike
+#### Уровень 5: Оглушающий удар
 
-Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target's Speed is halved until the start of your next turn, and the next attack roll made against the target before then has Advantage.
+Один раз в ход, когда вы попадаете по существу оружием монаха или безоружным ударом, вы можете потратить 1 очко сосредоточения, чтобы попытаться нанести оглушающий удар. Цель должна совершить спасбросок Телосложения. При провале цель получает состояние Ошеломлённый до начала вашего следующего хода. При успехе скорость цели уменьшается вдвое до начала вашего следующего хода, и следующий бросок атаки по цели до этого момента совершается с преимуществом.
 
-#### Level 6: Empowered Strikes
+#### Уровень 6: Усиленные удары
 
-Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.
+Каждый раз, когда вы наносите урон безоружным ударом, он может наносить урон силовым полем на ваш выбор или свой обычный тип урона.
 
-#### Level 7: Evasion
+#### Уровень 7: Уклонение
 
-When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
+Когда вы подвергаетесь эффекту, позволяющему совершить спасбросок Ловкости, чтобы получить только половину урона, вы вместо этого не получаете урона при успешном спасброске и получаете только половину урона при провале.
 
-You don't benefit from this feature if you have the Incapacitated condition.
+Вы не получаете преимуществ от этого умения, если находитесь в состоянии Недееспособный.
 
-#### Level 9: Acrobatic Movement
+#### Уровень 9: Акробатическое движение
 
-While you aren't wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+Пока вы не носите доспехи и не используете щит, вы получаете способность перемещаться по вертикальным поверхностям и по жидкостям в свой ход, не падая во время движения.
 
-#### Level 10: Heightened Focus
+#### Уровень 10: Усиленное сосредоточение
 
-Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
+Ваши Шквал ударов, Терпеливая защита и Шаг ветра получают следующие преимущества.
 
-**Flurry of Blows.** You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
+**Шквал ударов.** Вы можете потратить 1 очко сосредоточения, чтобы использовать Шквал ударов и совершить три безоружных удара вместо двух.
 
-**Patient Defense.** When you expend a Focus Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
+**Терпеливая защита.** Когда вы тратите очко сосредоточения, чтобы использовать Терпеливую защиту, вы получаете количество временных хитов, равное двум броскам вашей кости боевых искусств.
 
-**Step of the Wind.** When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
+**Шаг ветра.** Когда вы тратите очко сосредоточения, чтобы использовать Шаг ветра, вы можете выбрать согласное существо в пределах 5 футов от себя, которое имеет размер Большой или меньше. Вы перемещаете существо с собой до конца вашего хода. Перемещение существа не провоцирует провоцированных атак.
 
-#### Level 10: Self-Restoration
+#### Уровень 10: Самовосстановление
 
-Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
+Силой воли вы можете снять с себя одно из следующих состояний в конце каждого своего хода: Очарованный, Испуганный или Отравленный.
 
-In addition, forgoing food and drink doesn't give you levels of Exhaustion.
+Кроме того, отказ от еды и питья не даёт вам уровней истощения.
 
-#### Level 13: Deflect Energy
+#### Уровень 13: Отражение энергии
 
-You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
+Теперь вы можете использовать умение Отражение атак против атак, наносящих любой тип урона, а не только дробящий, колющий или рубящий.
 
-#### Level 14: Disciplined Survivor
+#### Уровень 14: Закалённый выживший
 
-Your physical and mental discipline grant you proficiency in all saving throws.
+Ваша физическая и ментальная дисциплина дают вам владение всеми спасбросками.
 
-Additionally, whenever you make a saving throw and fail, you can expend 1 Focus Point to reroll it, and you must use the new roll.
+Кроме того, каждый раз, когда вы совершаете спасбросок и проваливаете его, вы можете потратить 1 очко сосредоточения, чтобы перебросить его, и вы должны использовать новый результат.
 
-#### Level 15: Perfect Focus
+#### Уровень 15: Совершенное сосредоточение
 
-When you roll Initiative and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
+Когда вы бросаете инициативу и не используете Необычный метаболизм, вы восстанавливаете потраченные очки сосредоточения до 4, если у вас 3 или меньше.
 
-#### Level 18: Superior Defense
+#### Уровень 18: Превосходная защита
 
-At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
+В начале своего хода вы можете потратить 3 очка сосредоточения, чтобы укрепить себя против вреда на 1 минуту или пока вы не получите состояние Недееспособный. В течение этого времени вы получаете сопротивление ко всем типам урона, кроме урона силовым полем.
 
-#### Level 19: Epic Boon
+#### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар неодолимого натиска.
 
-#### Level 20: Body and Mind
+#### Уровень 20: Тело и разум
 
-You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
+Вы развили своё тело и разум до новых высот. Ваши значения Ловкости и Мудрости увеличиваются на 4, до максимума 25.
 
-### Monk Subclass: Warrior of the Open Hand
+### Подкласс монаха: Воин открытой ладони
 
-*Master Unarmed Combat Techniques*
+*Мастер техник безоружного боя*
 
-Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.
+Воины открытой ладони — мастера безоружного боя. Они изучают техники толкания и опрокидывания противников и манипулирования собственной энергией для защиты от вреда.
 
-#### Level 3: Open Hand Technique
+#### Уровень 3: Техника открытой ладони
 
-Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.
+Каждый раз, когда вы попадаете по существу атакой, предоставленной Шквалом ударов, вы можете наложить на цель один из следующих эффектов.
 
-**Addle.** The target can't make Opportunity Attacks until the start of its next turn.
+**Сбить с толку.** Цель не может совершать провоцированные атаки до начала своего следующего хода.
 
-**Push.** The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
+**Толчок.** Цель должна преуспеть в спасброске Силы или быть оттолкнута на расстояние до 15 футов от вас.
 
-**Topple.** The target must succeed on a Dexterity saving throw or have the Prone condition.
+**Опрокинуть.** Цель должна преуспеть в спасброске Ловкости или получить состояние Лежащий.
 
-#### Level 6: Wholeness of Body
+#### Уровень 6: Целостность тела
 
-You gain the ability to heal yourself. As a Bonus Action, you can roll your Martial Arts die. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier (minimum of 1 Hit Point regained).
+Вы получаете способность исцелять себя. Как Бонусное действие вы можете бросить кость боевых искусств. Вы восстанавливаете количество хитов, равное выпавшему числу + ваш модификатор Мудрости (минимум 1 восстановленный хит).
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+Вы можете использовать это умение количество раз, равное вашему модификатору Мудрости (минимум один раз), и восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых.
 
-#### Level 11: Fleet Step
+#### Уровень 11: Стремительный шаг
 
-When you take a Bonus Action other than Step of the Wind, you can also use Step of the Wind immediately after that Bonus Action.
+Когда вы совершаете Бонусное действие, отличное от Шага ветра, вы также можете использовать Шаг ветра сразу после этого Бонусного действия.
 
-#### Level 17: Quivering Palm
+#### Уровень 17: Длань дрожи
 
-You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an Unarmed Strike, you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the Attack action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking 10d12 Force damage on a failed save or half as much damage on a successful one.
+Вы получаете способность создавать смертельные вибрации в теле противника. Когда вы попадаете по существу безоружным ударом, вы можете потратить 4 очка сосредоточения, чтобы начать эти незаметные вибрации, которые длятся количество дней, равное вашему уровню монаха. Вибрации безвредны, пока вы не совершите действие, чтобы прекратить их. Также, когда вы совершаете действие Атака в свой ход, вы можете отказаться от одной из атак, чтобы прекратить вибрации. Чтобы прекратить их, вы и цель должны находиться на одном плане существования. Когда вы прекращаете их, цель должна совершить спасбросок Телосложения, получая 10d12 урона силовым полем при провале или половину этого урона при успехе.
 
-You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).
+Только одно существо одновременно может находиться под действием этого умения. Вы можете прекратить вибрации безвредно (действие не требуется).

@@ -1,286 +1,285 @@
-## Paladin
+## Паладин
 
-Table: Core Paladin Traits**
+Таблица: Основные черты паладина
 
-|                               |                                                                                             |
-|-------------------------------|---------------------------------------------------------------------------------------------|
-| Primary Ability               | Strength and Charisma                                                                       |
-| Hit Point Die                 | D10 per Paladin level                                                                       |
-| Saving Throw Proficiencies    | Wisdom and Charisma                                                                         |
-| Skill Proficiencies           | Choose 2: Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion               |
-| Weapon Proficiencies          | Simple and Martial weapons                                                                  |
-| Armor Training                | Light, Medium, and Heavy armor and Shields                                                  |
-| Starting Equipment            | Choose A or B: (A) Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 9 GP; or (B) 150 GP |
+|                            |                                                                                             |
+|----------------------------|---------------------------------------------------------------------------------------------|
+| Основная характеристика    | Сила и Харизма                                                                              |
+| Кость Хитов                | d10 за каждый уровень паладина                                                              |
+| Владение спасбросками      | Мудрость и Харизма                                                                          |
+| Владение навыками          | Выберите 2: Атлетика, Проницательность, Запугивание, Медицина, Убеждение или Религия        |
+| Владение оружием           | Простое и воинское оружие                                                                   |
+| Владение доспехами         | Лёгкие, средние и тяжёлые доспехи, щиты                                                     |
+| Начальное снаряжение       | Выберите А или Б: (А) Кольчуга, щит, длинный меч, 6 дротиков, священный символ, набор священника и 9 зм; или (Б) 150 зм |
 
-### **Becoming a Paladin …**
+### Как стать паладином…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-• Gain all the traits in the Core Paladin Traits table.
+- Получите все черты из таблицы Основные черты паладина.
+- Получите умения паладина 1-го уровня, перечисленные в таблице Умения паладина.
 
-• Gain the Paladin's level 1 features, which are listed in the Paladin Features table.
+### Как мультиклассовый персонаж
 
-## **As a Multiclass Character**
+- Получите следующие черты из таблицы Основные черты паладина: Кость Хитов, владение воинским оружием и владение лёгкими и средними доспехами, а также щитами.
+- Получите умения паладина 1-го уровня, перечисленные в таблице Умения паладина. Смотрите правила мультиклассирования в разделе «Создание персонажа», чтобы определить доступные ячейки заклинаний.
 
-- Gain the following traits from the Core Paladin Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
-- Gain the Paladin's level 1 features, which are listed in the Paladin Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
+### Умения паладина
 
-### Paladin Class Features
+Как паладин, вы получаете следующие классовые умения, когда достигаете указанных уровней паладина. Эти умения перечислены в таблице Умения паладина.
 
-As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table.
+Таблица: Умения паладина: —Ячейки заклинаний по уровням—
 
-Table: Paladin Features: —Spell Slots per Spell Level— 
+| Уровень | Бонус мастерства | Классовые умения                                       | Божественный канал | Подготовленные заклинания | 1 | 2 | 3 | 4 | 5 |
+|---------|------------------|--------------------------------------------------------|--------------------|---------------------------|---|---|---|---|---|
+| 1       | +2               | Возложение рук, Использование заклинаний, Мастерство оружия | —              | 2                         | 2 | — | — | — | — |
+| 2       | +2               | Боевой стиль, Кара паладина                            | —                  | 3                         | 2 | — | — | — | — |
+| 3       | +2               | Божественный канал, Подкласс паладина                  | 2                  | 4                         | 3 | — | — | — | — |
+| 4       | +2               | Увеличение характеристик                               | 2                  | 5                         | 3 | — | — | — | — |
+| 5       | +3               | Дополнительная атака, Верный скакун                    | 2                  | 6                         | 4 | 2 | — | — | — |
+| 6       | +3               | Аура защиты                                            | 2                  | 6                         | 4 | 2 | — | — | — |
+| 7       | +3               | Умение подкласса                                       | 2                  | 7                         | 4 | 3 | — | — | — |
+| 8       | +3               | Увеличение характеристик                               | 2                  | 7                         | 4 | 3 | — | — | — |
+| 9       | +4               | Отречение врагов                                       | 2                  | 9                         | 4 | 3 | 2 | — | — |
+| 10      | +4               | Аура храбрости                                         | 2                  | 9                         | 4 | 3 | 2 | — | — |
+| 11      | +4               | Сияющие удары                                          | 3                  | 10                        | 4 | 3 | 3 | — | — |
+| 12      | +4               | Увеличение характеристик                               | 3                  | 10                        | 4 | 3 | 3 | — | — |
+| 13      | +5               | —                                                      | 3                  | 11                        | 4 | 3 | 3 | 1 | — |
+| 14      | +5               | Восстанавливающее касание                              | 3                  | 11                        | 4 | 3 | 3 | 1 | — |
+| 15      | +5               | Умение подкласса                                       | 3                  | 12                        | 4 | 3 | 3 | 2 | — |
+| 16      | +5               | Увеличение характеристик                               | 3                  | 12                        | 4 | 3 | 3 | 2 | — |
+| 17      | +6               | —                                                      | 3                  | 14                        | 4 | 3 | 3 | 3 | 1 |
+| 18      | +6               | Расширение ауры                                        | 3                  | 14                        | 4 | 3 | 3 | 3 | 1 |
+| 19      | +6               | Эпический дар                                          | 3                  | 15                        | 4 | 3 | 3 | 3 | 2 |
+| 20      | +6               | Умение подкласса                                       | 3                  | 15                        | 4 | 3 | 3 | 3 | 2 |
 
-| Level | Proficiency Bonus | Class Features                                | Channel Divinity | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
-|-------|-------------------|-----------------------------------------------|------------------|-----------------|---|---|---|---|---|
-| 1     | +2                | Lay On Hands, Spellcasting, Weapon Mastery    | —                | 2               | 2 | — | — | — | — |
-| 2     | +2                | Fighting Style, Paladin's Smite               | —                | 3               | 2 | — | — | — | — |
-| 3     | +2                | Channel Divinity, Paladin Subclass            | 2                | 4               | 3 | — | — | — | — |
-| 4     | +2                | Ability Score Improvement                     | 2                | 5               | 3 | — | — | — | — |
-| 5     | +3                | Extra Attack, Faithful Steed                  | 2                | 6               | 4 | 2 | — | — | — |
-| 6     | +3                | Aura of Protection                            | 2                | 6               | 4 | 2 | — | — | — |
-| 7     | +3                | Subclass feature                              | 2                | 7               | 4 | 3 | — | — | — |
-| 8     | +3                | Ability Score Improvement                     | 2                | 7               | 4 | 3 | — | — | — |
-| 9     | +4                | Abjure Foes                                   | 2                | 9               | 4 | 3 | 2 | — | — |
-| 10    | +4                | Aura of Courage                               | 2                | 9               | 4 | 3 | 2 | — | — |
-| 11    | +4                | Radiant Strikes                               | 3                | 10              | 4 | 3 | 3 | — | — |
-| 12    | +4                | Ability Score Improvement                     | 3                | 10              | 4 | 3 | 3 | — | — |
-| 13    | +5                | —                                             | 3                | 11              | 4 | 3 | 3 | 1 | — |
-| 14    | +5                | Restoring Touch                               | 3                | 11              | 4 | 3 | 3 | 1 | — |
-| 15    | +5                | Subclass feature                              | 3                | 12              | 4 | 3 | 3 | 2 | — |
-| 16    | +5                | Ability Score Improvement                     | 3                | 12              | 4 | 3 | 3 | 2 | — |
-| 17    | +6                | —                                             | 3                | 14              | 4 | 3 | 3 | 3 | 1 |
-| 18    | +6                | Aura Expansion                                | 3                | 14              | 4 | 3 | 3 | 3 | 1 |
-| 19    | +6                | Epic Boon                                     | 3                | 15              | 4 | 3 | 3 | 3 | 2 |
-| 20    | +6                | Subclass feature                              | 3                | 15              | 4 | 3 | 3 | 3 | 2 |
+#### Уровень 1: Возложение рук
 
-#### Level 1: Lay On Hands
+Ваше благословенное касание может исцелять раны. У вас есть запас целительной силы, который восполняется, когда вы заканчиваете продолжительный отдых. С помощью этого запаса вы можете восстановить общее количество хитов, равное пятикратному вашему уровню паладина.
 
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
+Как Бонусное действие, вы можете коснуться существа (включая себя) и использовать силу из запаса исцеления, чтобы восстановить этому существу количество хитов до максимального оставшегося в запасе.
 
-As a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
+Вы также можете потратить 5 хитов из запаса целительной силы, чтобы снять с существа состояние Отравленный; эти очки не восстанавливают хиты существу.
 
-You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.
+#### Уровень 1: Использование заклинаний
 
-#### Level 1: Spellcasting
+Вы научились творить заклинания через молитву и медитацию. Смотрите раздел «Заклинания» для правил использования заклинаний. Информация ниже описывает, как вы используете эти правила с заклинаниями паладина, которые приведены в списке заклинаний паладина далее в описании класса.
 
-You have learned to cast spells through prayer and meditation. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Paladin spells, which appear in the Paladin spell list later in the class's description.
+**Ячейки заклинаний.** Таблица Умения паладина показывает, сколько у вас есть ячеек заклинаний для сотворения заклинаний 1-го уровня и выше. Вы восстанавливаете все потраченные ячейки, когда заканчиваете продолжительный отдых.
 
-**Spell Slots.** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Подготовленные заклинания 1-го уровня и выше.** Вы подготавливаете список заклинаний 1-го уровня и выше, которые доступны вам для сотворения с помощью этого умения. Для начала выберите два заклинания паладина 1-го уровня. Рекомендуются *Героизм* и *Опаляющая кара*.
 
-**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. *Heroism* and *Searing Smite* are recommended.
+Количество заклинаний в вашем списке увеличивается по мере получения уровней паладина, как показано в столбце Подготовленные заклинания таблицы Умения паладина. Каждый раз, когда это число увеличивается, выбирайте дополнительные заклинания паладина, пока количество заклинаний в вашем списке не сравняется с числом в таблице Умения паладина. Выбранные заклинания должны быть того уровня, для которого у вас есть ячейки заклинаний. Например, если вы паладин 5-го уровня, ваш список подготовленных заклинаний может включать шесть заклинаний паладина 1-го или 2-го уровня в любой комбинации.
 
-The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
+Если другое умение паладина даёт вам заклинания, которые вы всегда держите подготовленными, эти заклинания не учитываются в количестве заклинаний, которые вы можете подготовить с помощью этого умения, но в остальном считаются заклинаниями паладина для вас.
 
-If another Paladin feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
+**Изменение подготовленных заклинаний.** Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете заменить одно заклинание в своём списке другим заклинанием паладина, для которого у вас есть ячейки заклинаний.
 
-**Changing Your Prepared Spells.** Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
+**Базовая характеристика заклинаний.** Харизма является вашей базовой характеристикой для заклинаний паладина.
 
-**Spellcasting Ability.** Charisma is your spellcasting ability for your Paladin spells.
+**Фокусировка заклинаний.** Вы можете использовать священный символ в качестве фокусировки для заклинаний паладина.
 
-**Spellcasting Focus.** You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
+#### Уровень 1: Мастерство оружия
 
-#### Level 1: Weapon Mastery
+Ваша тренировка с оружием позволяет вам использовать свойства мастерства двух видов оружия на ваш выбор, которым вы владеете, например длинных мечей и дротиков.
 
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
+Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете изменить выбор видов оружия. Например, вы можете переключиться на использование свойств мастерства алебард и цепов.
 
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Halberds and Flails.
+#### Уровень 2: Боевой стиль
 
-#### Level 2: Fighting Style
+Вы получаете черту Боевой стиль на свой выбор (смотрите раздел «Черты»). Вместо выбора одной из этих черт вы можете выбрать опцию ниже.
 
-You gain a Fighting Style feat of your choice (see "Feats" for feats). Instead of choosing one of those feats, you can choose the option below.
+**Благословенный воин.** Вы узнаёте два заговора жреца на свой выбор (смотрите раздел класса Жрец для списка заклинаний жреца). Рекомендуются *Указание* и *Священное пламя*. Выбранные заговоры считаются заклинаниями паладина для вас, и Харизма является вашей базовой характеристикой для них. Каждый раз, когда вы получаете уровень паладина, вы можете заменить один из этих заговоров другим заговором жреца.
 
-**Blessed Warrior.** You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). *Guidance* and *Sacred Flame* are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+#### Уровень 2: Кара паладина
 
-#### Level 2: Paladin's Smite
+У вас всегда подготовлено заклинание *Божественная кара*. Кроме того, вы можете сотворить его без траты ячейки заклинания, но должны закончить продолжительный отдых, прежде чем сможете сотворить его таким образом снова.
 
-You always have the *Divine Smite* spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
+#### Уровень 3: Божественный канал
 
-#### Level 3: Channel Divinity
+Вы можете направлять божественную энергию непосредственно из Внешних Планов, используя её для создания магических эффектов. Изначально у вас есть один такой эффект: Божественное чувство, описанный ниже. Другие умения паладина дают дополнительные варианты эффектов Божественного канала. Каждый раз, когда вы используете Божественный канал этого класса, вы выбираете, какой эффект этого класса создать.
 
-You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class's Channel Divinity, you choose which effect from this class to create.
+Вы можете использовать Божественный канал этого класса дважды. Вы восстанавливаете одно потраченное использование, когда заканчиваете короткий отдых, и восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых. Вы получаете дополнительное использование, когда достигаете 11-го уровня паладина.
 
-You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain an additional use when you reach Paladin level 11.
+Если эффект Божественного канала требует спасброска, СЛ равна СЛ спасброска заклинаний из умения Использование заклинаний этого класса.
 
-If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.
+**Божественное чувство.** Как Бонусное действие, вы можете открыть своё сознание для обнаружения небожителей, исчадий и нежити. В течение следующих 10 минут или пока вы не получите состояние Недееспособный, вы знаете местоположение любого существа этих типов в пределах 60 футов от себя и знаете его тип существа. В том же радиусе вы также обнаруживаете присутствие любого места или предмета, который был освящён или осквернён, как заклинанием *Освящение*.
 
-**Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *Hallow* spell.
-
-> ### Breaking Your Oath
+> ### Нарушение клятвы
 >
-> A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
+> Паладин старается придерживаться высочайших стандартов поведения, но даже самые преданные способны ошибаться. Иногда паладин нарушает свою клятву.
 >
-> A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
+> Паладин, нарушивший обет, обычно ищет отпущения грехов, проводя ночное бдение в знак покаяния или постясь. После обряда прощения паладин начинает с чистого листа.
 >
-> If your Paladin unrepentantly violates their oath, talk to your GM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
+> Если ваш паладин нераскаянно нарушает клятву, поговорите с Мастером. Вашему паладину, вероятно, следует выбрать более подходящий подкласс или даже отказаться от класса и перейти в другой.
 
-#### Level 3: Paladin Subclass
+#### Уровень 3: Подкласс паладина
 
-You gain a Paladin subclass of your choice. The Oath of Devotion subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
+Вы получаете подкласс паладина на свой выбор. Подкласс Клятва преданности описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях паладина. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню паладина или ниже.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях паладина.
 
-#### Level 5: Extra Attack
+#### Уровень 5: Дополнительная атака
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+Вы можете атаковать дважды вместо одного раза, каждый раз, когда совершаете действие Атака в свой ход.
 
-#### Level 5: Faithful Steed
+#### Уровень 5: Верный скакун
 
-You can call on the aid of an otherworldly steed. You always have the *Find Steed* spell prepared.
+Вы можете призвать потустороннего скакуна на помощь. У вас всегда подготовлено заклинание *Поиск скакуна*.
 
-You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest.
+Вы также можете сотворить это заклинание один раз без траты ячейки заклинания и восстанавливаете способность сделать это, когда заканчиваете продолжительный отдых.
 
-#### Level 6: Aura of Protection
+#### Уровень 6: Аура защиты
 
-You radiate a protective, unseeable aura in a 10-foot Emanation that originates from you. The aura is inactive while you have the Incapacitated condition.
+От вас исходит защитная, невидимая аура в излучении радиусом 10 футов. Аура неактивна, пока вы находитесь в состоянии Недееспособный.
 
-You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1).
+Вы и ваши союзники в ауре получаете бонус к спасброскам, равный вашему модификатору Харизмы (минимум +1).
 
-If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them.
+Если присутствует другой паладин, существо может получать выгоду только от одной Ауры защиты одновременно; существо выбирает, какую ауру использовать, находясь в них.
 
-#### Level 9: Abjure Foes
+#### Уровень 9: Отречение врагов
 
-As a Magic action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a Bonus Action.
+Как Магическое действие, вы можете потратить одно использование Божественного канала этого класса, чтобы подавить врагов благоговением. Представляя священный символ или оружие, вы можете выбрать целями количество существ, равное вашему модификатору Харизмы (минимум одно существо), которых вы видите в пределах 60 футов от себя. Каждая цель должна преуспеть в спасброске Мудрости или получить состояние Испуганный на 1 минуту или пока не получит какой-либо урон. Будучи испуганной таким образом, цель может делать только одно из следующего в свой ход: перемещаться, совершать действие или совершать Бонусное действие.
 
-#### Level 10: Aura of Courage
+#### Уровень 10: Аура храбрости
 
-You and your allies have Immunity to the Frightened condition while in your Aura of Protection. If a Frightened ally enters the aura, that condition has no effect on that ally while there.
+Вы и ваши союзники получаете иммунитет к состоянию Испуганный, пока находитесь в вашей Ауре защиты. Если испуганный союзник входит в ауру, это состояние не действует на союзника, пока он там находится.
 
-#### Level 11: Radiant Strikes
+#### Уровень 11: Сияющие удары
 
-Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an Unarmed Strike, the target takes an extra 1d8 Radiant damage.
+Ваши удары теперь несут сверхъестественную силу. Когда вы попадаете по цели броском атаки с использованием оружия ближнего боя или безоружным ударом, цель получает дополнительно 1d8 урона излучением.
 
-#### Level 14: Restoring Touch
+#### Уровень 14: Восстанавливающее касание
 
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
+Когда вы используете Возложение рук на существо, вы также можете снять с него одно или несколько из следующих состояний: Ослеплённый, Очарованный, Оглохший, Испуганный, Парализованный или Ошеломлённый. Вы должны потратить 5 хитов из запаса исцеления Возложения рук за каждое из этих состояний, которое вы снимаете; эти очки не восстанавливают хиты существу.
 
-#### Level 18: Aura Expansion
+#### Уровень 18: Расширение ауры
 
-Your Aura of Protection is now a 30-foot Emanation.
+Ваша Аура защиты теперь представляет собой излучение радиусом 30 футов.
 
-#### Level 19: Epic Boon
+#### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Truesight is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар истинного зрения.
 
-### Paladin Spell List
+### Список заклинаний паладина
 
-This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
+В этом разделе представлен список заклинаний паладина. Заклинания организованы по уровню заклинания, а затем в алфавитном порядке, и для каждого заклинания указана школа магии. В столбце Особое: *К* означает, что заклинание требует концентрации, *Р* — что это ритуал, *М* — что требуется особый материальный компонент.
 
-Table: Level 1 Paladin Spells
+Таблица: Заклинания паладина 1-го уровня
 
-| Spell                         | School        | Special |
-|-------------------------------|---------------|---------|
-| Bless                         | Enchantment   | C, M    |
-| Command                       | Enchantment   | —       |
-| Cure Wounds                   | Abjuration    | —       |
-| Detect Evil and Good          | Divination    | C       |
-| Detect Magic                  | Divination    | C, R    |
-| Detect Poison and Disease     | Divination    | C, R    |
-| Divine Favor                  | Transmutation | —       |
-| Divine Smite                  | Evocation     | —       |
-| Heroism                       | Enchantment   | C       |
-| Protection from Evil and Good | Abjuration    | C, M    |
-| Purify Food and Drink         | Transmutation | R       |
-| Searing Smite                 | Evocation     | —       |
-| Shield of Faith               | Abjuration    | C       |
+| Заклинание                  | Школа         | Особое |
+|-----------------------------|---------------|--------|
+| Благословение               | Очарование    | К, М   |
+| Божественная кара           | Воплощение    | —      |
+| Божественное благоволение   | Преобразование | —     |
+| Героизм                     | Очарование    | К      |
+| Защита от добра и зла       | Ограждение    | К, М   |
+| Лечение ран                 | Ограждение    | —      |
+| Обнаружение добра и зла     | Прорицание    | К      |
+| Обнаружение магии           | Прорицание    | К, Р   |
+| Обнаружение яда и болезни   | Прорицание    | К, Р   |
+| Опаляющая кара              | Воплощение    | —      |
+| Очищение пищи и воды        | Преобразование | Р     |
+| Приказ                      | Очарование    | —      |
+| Щит веры                    | Ограждение    | К      |
 
-Table: Level 2 Paladin Spells
+Таблица: Заклинания паладина 2-го уровня
 
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Aid                    | Abjuration    | —       |
-| Find Steed             | Conjuration   | —       |
-| Gentle Repose          | Necromancy    | R, M    |
-| Lesser Restoration     | Abjuration    | —       |
-| Locate Object          | Divination    | C       |
-| Magic Weapon           | Transmutation | —       |
-| Prayer of Healing      | Abjuration    | —       |
-| Protection from Poison | Abjuration    | —       |
-| Shining Smite          | Transmutation | C       |
-| Warding Bond           | Abjuration    | M       |
-| Zone of Truth          | Enchantment   | —       |
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Бережный покой          | Некромантия   | Р, М   |
+| Защита от яда           | Ограждение    | —      |
+| Магическое оружие       | Преобразование | —     |
+| Малое восстановление    | Ограждение    | —      |
+| Молитва лечения         | Ограждение    | —      |
+| Обнаружение предмета    | Прорицание    | К      |
+| Область истины          | Очарование    | —      |
+| Охранные узы            | Ограждение    | М      |
+| Подмога                 | Ограждение    | —      |
+| Поиск скакуна           | Вызов         | —      |
+| Сияющая кара            | Преобразование | К     |
 
-Table: Level 3 Paladin Spells
+Таблица: Заклинания паладина 3-го уровня
 
-| Spell                 | School      | Special |
-|-----------------------|-------------|---------|
-| Create Food and Water | Conjuration | —       |
-| Daylight              | Evocation   | —       |
-| Dispel Magic          | Abjuration  | —       |
-| Magic Circle          | Abjuration  | M       |
-| Remove Curse          | Abjuration  | —       |
-| Revivify              | Necromancy  | M       |
+| Заклинание            | Школа       | Особое |
+|-----------------------|-------------|--------|
+| Воскрешение           | Некромантия | М      |
+| Дневной свет          | Воплощение  | —      |
+| Круг защиты           | Ограждение  | М      |
+| Рассеивание магии     | Ограждение  | —      |
+| Снятие проклятия      | Ограждение  | —      |
+| Сотворение пищи и воды | Вызов      | —      |
 
-Table: Level 4 Paladin Spells
+Таблица: Заклинания паладина 4-го уровня
 
-| Spell           | School     | Special |
-|-----------------|------------|---------|
-| Aura of Life    | Abjuration | C       |
-| Banishment      | Abjuration | C       |
-| Death Ward      | Abjuration | —       |
-| Locate Creature | Divination | C       |
+| Заклинание            | Школа       | Особое |
+|-----------------------|-------------|--------|
+| Аура жизни            | Ограждение  | К      |
+| Изгнание              | Ограждение  | К      |
+| Обнаружение существа  | Прорицание  | К      |
+| Смертельная защита    | Ограждение  | —      |
 
-Table: Level 5 Paladin Spells
+Таблица: Заклинания паладина 5-го уровня
 
-| Spell                | School      | Special |
-|----------------------|-------------|---------|
-| Dispel Evil and Good | Abjuration  | C       |
-| Geas                 | Enchantment | —       |
-| Greater Restoration  | Abjuration  | M       |
-| Raise Dead           | Necromancy  | M       |
+| Заклинание              | Школа       | Особое |
+|-------------------------|-------------|--------|
+| Великое восстановление  | Ограждение  | М      |
+| Кара                    | Очарование  | —      |
+| Поднятие мёртвого       | Некромантия | М      |
+| Рассеивание добра и зла | Ограждение  | К      |
 
-### Paladin Subclass: Oath of Devotion
+### Подкласс паладина: Клятва преданности
 
-*Uphold the Ideals of Justice and Order*
+*Защита идеалов справедливости и порядка*
 
-The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some—for better or worse—hold the rest of the world to the same standards.
+Клятва преданности связывает паладинов с идеалами справедливости и порядка. Эти паладины воплощают архетип рыцаря в сияющих доспехах. Они придерживаются высочайших стандартов поведения, и некоторые — к лучшему или худшему — требуют того же от остального мира.
 
-Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
+Многие, кто даёт эту клятву, преданы богам закона и добра и используют заповеди своих богов как мерило личной преданности. Другие считают ангелов своими идеалами и включают изображения ангельских крыльев в свои шлемы или гербы.
 
-These paladins share the following tenets:
+Эти паладины разделяют следующие принципы:
 
-- Let your word be your promise.
-- Protect the weak and never fear to act.
-- Let your honorable deeds be an example.
+- Пусть твоё слово будет твоим обещанием.
+- Защищай слабых и никогда не бойся действовать.
+- Пусть твои благородные деяния служат примером.
 
-#### Level 3: Oath of Devotion Spells
+#### Уровень 3: Заклинания Клятвы преданности
 
-The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Devotion Spells table, you thereafter always have the listed spells prepared.
+Магия вашей клятвы гарантирует, что у вас всегда готовы определённые заклинания; когда вы достигаете уровня паладина, указанного в таблице Заклинания Клятвы преданности, у вас с этого момента всегда подготовлены перечисленные заклинания.
 
-Table: Oath of Devotion Spells
+Таблица: Заклинания Клятвы преданности
 
-| Paladin Level | Spells                                            |
-|---------------|---------------------------------------------------|
-| 3             | Protection from Evil and Good, Shield of Faith    |
-| 5             | Aid, Zone of Truth                                |
-| 9             | Beacon of Hope, Dispel Magic                      |
-| 13            | Freedom of Movement, Guardian of Faith            |
-| 17            | Commune, Flame Strike                             |
+| Уровень паладина | Заклинания                                      |
+|------------------|-------------------------------------------------|
+| 3                | Защита от добра и зла, Щит веры                 |
+| 5                | Подмога, Область истины                         |
+| 9                | Свет надежды, Рассеивание магии                 |
+| 13               | Свобода перемещения, Страж веры                 |
+| 17               | Связь, Огненный столп                           |
 
-#### Level 3: Sacred Weapon
+#### Уровень 3: Священное оружие
 
-When you take the Attack action, you can expend one use of your Channel Divinity to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
+Когда вы совершаете действие Атака, вы можете потратить одно использование Божественного канала, чтобы наполнить оружие ближнего боя, которое держите, позитивной энергией. На 10 минут или пока вы не используете это умение снова, вы добавляете свой модификатор Харизмы к броскам атаки этим оружием (минимум +1), и каждый раз, когда вы попадаете им, вы заставляете его наносить свой обычный тип урона или урон излучением.
 
-The weapon also emits Bright Light in a 20-foot radius and Dim Light 20 feet beyond that.
+Оружие также излучает яркий свет в радиусе 20 футов и тусклый свет ещё на 20 футов.
 
-You can end this effect early (no action required). This effect also ends if you aren't carrying the weapon.
+Вы можете досрочно прекратить этот эффект (действие не требуется). Этот эффект также заканчивается, если вы не несёте оружие.
 
-#### Level 7: Aura of Devotion
+#### Уровень 7: Аура преданности
 
-You and your allies have Immunity to the Charmed condition while in your Aura of Protection. If a Charmed ally enters the aura, that condition has no effect on that ally while there.
+Вы и ваши союзники получаете иммунитет к состоянию Очарованный, пока находитесь в вашей Ауре защиты. Если очарованный союзник входит в ауру, это состояние не действует на союзника, пока он там находится.
 
-#### Level 15: Smite of Protection
+#### Уровень 15: Кара защиты
 
-Your magical smite now radiates protective energy. Whenever you cast *Divine Smite*, you and your allies have Half Cover while in your Aura of Protection. The aura has this benefit until the start of your next turn.
+Ваша магическая кара теперь излучает защитную энергию. Каждый раз, когда вы творите *Божественную кару*, вы и ваши союзники получаете укрытие наполовину, находясь в вашей Ауре защиты. Аура обладает этим преимуществом до начала вашего следующего хода.
 
-#### Level 20: Holy Nimbus
+#### Уровень 20: Святой нимб
 
-As a Bonus Action, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it by expending a level 5 spell slot (no action required).
+Как Бонусное действие, вы можете наполнить свою Ауру защиты святой силой, даруя преимущества ниже на 10 минут или пока вы не прекратите их (действие не требуется). После использования этого умения вы не можете использовать его снова, пока не закончите продолжительный отдых. Вы также можете восстановить использование, потратив ячейку заклинания 5-го уровня (действие не требуется).
 
-**Holy Ward.** You have Advantage on any saving throw you are forced to make by a Fiend or an Undead.
+**Святая защита.** Вы получаете преимущество на любой спасбросок, который вы вынуждены совершить из-за исчадия или нежити.
 
-**Radiant Damage.** Whenever an enemy starts its turn in the aura, that creature takes Radiant damage equal to your Charisma modifier plus your Proficiency Bonus.
+**Урон излучением.** Каждый раз, когда враг начинает свой ход в ауре, это существо получает урон излучением, равный вашему модификатору Харизмы + ваш бонус мастерства.
 
-**Sunlight.** The aura is filled with Bright Light that is sunlight.
+**Солнечный свет.** Аура заполнена ярким светом, который является солнечным светом.

@@ -1,597 +1,595 @@
-# Character Creation
+# Создание персонажа
 
-## Choose a Character Sheet
+## Выберите лист персонажа
 
-You'll record the main details of your character on a character sheet. Throughout this chapter, we use the term "character sheet" to mean whatever you use to track your character's details, whether it's a printed character sheet, a digital character sheet, or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
+Вы будете записывать основные сведения о персонаже на листе персонажа. В этой главе мы используем термин «лист персонажа» для обозначения того, что вы используете для отслеживания данных персонажа, будь то печатный лист персонажа, цифровой лист или обычная бумага. Выберите тот стиль листа, который подходит вам, и приступайте к созданию персонажа!
 
-## Create Your Character
+## Создайте своего персонажа
 
-Here are the steps to make a character; each step is explored in detail:
+Вот шаги для создания персонажа; каждый шаг подробно рассмотрен далее:
 
-1. **Choose a Class.** Every adventurer is a member of a class. A class broadly describes a character's vocation, special talents, and favored tactics.
-2. **Determine Origin.** A character's origin includes two elements: background and species. How did the character spend the years leading up to a life of adventure? Who are the character's ancestors? You can also choose your character's languages.
-3. **Determine Ability Scores.** Much of what your character does in the game depends on the character's six abilities.
-4. **Choose an Alignment.** Alignment is a shorthand for your character's moral compass.
-5. **Fill in Details.** Using the choices you've made, fill in the remaining details on your character sheet.
+1. **Выберите класс.** Каждый искатель приключений принадлежит к классу. Класс в общих чертах описывает призвание персонажа, особые таланты и предпочитаемую тактику.
+2. **Определите происхождение.** Происхождение персонажа включает два элемента: предысторию и вид. Как персонаж провёл годы до начала жизни искателя приключений? Кто были его предки? Вы также можете выбрать языки персонажа.
+3. **Определите значения характеристик.** Многое из того, что ваш персонаж делает в игре, зависит от его шести характеристик.
+4. **Выберите мировоззрение.** Мировоззрение — это краткое описание моральных принципов вашего персонажа.
+5. **Заполните детали.** Используя сделанные выборы, заполните оставшиеся детали на листе персонажа.
 
-### Step 1: Choose Class
+### Шаг 1: Выберите класс
 
-Choose a class, and write it on your character sheet. The Class Overview table summarizes the classes. See "Classes" for the classes' details.
+Выберите класс и запишите его на листе персонажа. Таблица Обзор классов обобщает классы. См. «Классы» для подробностей.
 
-Table: Class Overview
+Таблица: Обзор классов
 
-| Class     | Likes             | Primary Ability          | Complexity |
-|-----------|-------------------|--------------------------|------------|
-| Barbarian | Battle            | Strength                 | Average    |
-| Bard      | Performing        | Charisma                 | High       |
-| Cleric    | Gods              | Wisdom                   | Average    |
-| Druid     | Nature            | Wisdom                   | High       |
-| Fighter   | Weapons           | Strength or Dexterity    | Low        |
-| Monk      | Unarmed combat    | Dexterity and Wisdom     | High       |
-| Paladin   | Defense           | Strength and Charisma    | Average    |
-| Ranger    | Survival          | Dexterity and Wisdom     | Average    |
-| Rogue     | Stealth           | Dexterity                | Low        |
-| Sorcerer  | Power             | Charisma                 | High       |
-| Warlock   | Occult lore       | Charisma                 | High       |
-| Wizard    | Spellbooks        | Intelligence             | Average    |
+| Класс     | Предпочитает       | Основная характеристика   | Сложность |
+|-----------|--------------------|---------------------------|-----------|
+| Варвар    | Битвы              | Сила                      | Средняя   |
+| Бард      | Выступления        | Харизма                   | Высокая   |
+| Жрец      | Богов              | Мудрость                  | Средняя   |
+| Друид     | Природу            | Мудрость                  | Высокая   |
+| Воин      | Оружие             | Сила или Ловкость         | Низкая    |
+| Монах     | Безоружный бой     | Ловкость и Мудрость       | Высокая   |
+| Паладин   | Защиту             | Сила и Харизма            | Средняя   |
+| Следопыт  | Выживание          | Ловкость и Мудрость       | Средняя   |
+| Плут      | Скрытность         | Ловкость                  | Низкая    |
+| Чародей   | Силу               | Харизма                   | Высокая   |
+| Колдун    | Оккультные знания  | Харизма                   | Высокая   |
+| Волшебник | Книги заклинаний   | Интеллект                 | Средняя   |
 
-#### Write Your Level
+#### Запишите уровень
 
-Write your character's level on your character sheet. Typically, a character starts at level 1 and advances in level by adventuring and gaining Experience Points (XP).
+Запишите уровень персонажа на листе персонажа. Обычно персонаж начинает с 1-го уровня и продвигается в уровне, совершая приключения и получая очки опыта (ОО).
 
-**Write Your XP.** Also record your Experience Points. A level 1 character has 0 XP.
+**Запишите ОО.** Также запишите очки опыта. Персонаж 1-го уровня имеет 0 ОО.
 
-**Starting at a Higher Level.** Your GM might start you at a higher level. If you start at level 3 or higher, write your chosen subclass on your character sheet. See the "Starting at Higher Levels" section later in "Character Creation" for more information.
+**Начало на высоком уровне.** Ваш Мастер может начать вас на более высоком уровне. Если вы начинаете на 3-м уровне или выше, запишите выбранный подкласс на листе персонажа. См. раздел «Начало на высоких уровнях» далее в «Создании персонажа» для подробностей.
 
-#### Note Armor Training
+#### Отметьте владение доспехами
 
-Your class might give you training with certain categories of armor. Note your armor training on your character sheet. Armor training with a kind of armor means you can wear that armor effectively, gaining defensive bonuses from it. The categories of armor are described in "Equipment."
+Ваш класс может давать вам владение определёнными категориями доспехов. Отметьте владение доспехами на листе персонажа. Владение категорией доспехов означает, что вы можете эффективно носить эти доспехи, получая от них защитные бонусы. Категории доспехов описаны в «Снаряжении».
 
-### Step 2: Character Origin
+### Шаг 2: Происхождение персонажа
 
-Determining your character's origin involves choosing a background, a species, and two languages.
+Определение происхождения персонажа включает выбор предыстории, вида и двух языков.
 
-A character's background represents the place and occupation that were most formative for the character. The combination of background, species, and languages provides fertile soil for your imagination as you ponder your character's earliest days.
+Предыстория персонажа представляет место и занятие, которые были наиболее определяющими для персонажа. Сочетание предыстории, вида и языков создаёт плодородную почву для вашего воображения, когда вы обдумываете ранние дни персонажа.
 
-#### Choose a Background
+#### Выберите предысторию
 
-Choose your character's background, and write it on your character sheet. You can choose any of the backgrounds detailed in "Character Origins," and your GM might offer additional backgrounds as options.
+Выберите предысторию персонажа и запишите её на листе персонажа. Вы можете выбрать любую из предысторий, описанных в «Происхождение персонажей», и ваш Мастер может предложить дополнительные предыстории.
 
-The background you choose influences step 3, when you determine your character's ability scores. If you're having trouble choosing, the Ability Scores and Backgrounds table shows which backgrounds benefit which ability scores. Look for your class's primary ability there.
+Выбранная предыстория влияет на шаг 3, когда вы определяете значения характеристик. Если вы затрудняетесь с выбором, таблица Значения характеристик и предыстории показывает, какие предыстории выгодны для каких характеристик. Найдите там основную характеристику вашего класса.
 
-Table: Ability Scores and Backgrounds
+Таблица: Значения характеристик и предыстории
 
-| Ability      | Background |
-|--------------|------------|
-| Strength     | Soldier    |
-| Dexterity    | Soldier    |
-| Constitution | Soldier    |
-| Intelligence | Acolyte    |
-| Wisdom       | Acolyte    |
-| Charisma     | Acolyte    |
+| Характеристика | Предыстория |
+|----------------|-------------|
+| Сила           | Солдат      |
+| Ловкость       | Солдат      |
+| Телосложение   | Солдат      |
+| Интеллект      | Прислужник  |
+| Мудрость       | Прислужник  |
+| Харизма        | Прислужник  |
 
-**Record Your Feat.** A background gives you a feat, which grants your character particular capabilities. Feats are detailed in "Feats." Write the feat on your character sheet.
+**Запишите черту.** Предыстория даёт вам черту, которая даёт персонажу особые возможности. Черты подробно описаны в «Чертах». Запишите черту на листе персонажа.
 
-**Note Proficiencies.** Your background gives proficiency in two skills and with one tool. Record this information on your character sheet.
+**Отметьте владения.** Предыстория даёт владение двумя навыками и одними инструментами. Запишите эту информацию на листе персонажа.
 
-Your class also gives proficiencies. Check your class description in "Classes" and note the proficiencies on your character sheet.
+Класс также даёт владения. Проверьте описание класса в «Классах» и отметьте владения на листе персонажа.
 
-The features table in your class description shows your Proficiency Bonus (described in "Playing the Game"), which is +2 for a level 1 character. Note this number on your character sheet. You'll fill in other numbers connected to these proficiencies in step 5.
+Таблица умений вашего класса показывает бонус мастерства (описанный в «Как играть»), который равен +2 для персонажа 1-го уровня. Отметьте это число на листе персонажа. Вы заполните другие числа, связанные с этими владениями, на шаге 5.
 
-#### Choose Starting Equipment
+#### Выберите начальное снаряжение
 
-Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from "Equipment."
+И предыстория, и класс дают начальное снаряжение. Любые монеты, полученные на этом шаге, можно немедленно потратить на снаряжение из раздела «Снаряжение».
 
-Record your chosen equipment on your character sheet. Equipment is described in "Equipment," but for now you can just write it all down and look up the specifics in "Equipment" later. Note any coins you have left after purchasing your equipment.
+Запишите выбранное снаряжение на листе персонажа. Снаряжение описано в «Снаряжении», но пока вы можете просто записать всё и посмотреть подробности позже. Отметьте оставшиеся монеты после покупки снаряжения.
 
-#### Choose a Species
+#### Выберите вид
 
-Choose a species for your character. The following species options are detailed in "Character Origins": Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, and Tiefling. Once you've chosen a species, write it on your character sheet. Then record your species' traits.
+Выберите вид для персонажа. Следующие варианты видов подробно описаны в «Происхождение персонажей»: драконорождённый, дварф, эльф, гном, голиаф, полурослик, человек, орк и тифлинг. Выбрав вид, запишите его на листе персонажа. Затем запишите особенности вида.
 
-Your character's size and Speed are determined by the character's species; record these in the appropriate places on your character sheet as well (you may write just the first letter of your size).
+Размер и скорость персонажа определяются его видом; запишите их в соответствующих местах на листе персонажа (можно записать только первую букву размера).
 
-#### Imagine Your Past and Present
+#### Представьте прошлое и настоящее
 
-Let your character's background and species inspire how you imagine their past. That past fed into the character's present. With that in mind, consider answers to the following questions as your character:
+Пусть предыстория и вид персонажа вдохновят вас на то, как представить его прошлое. Это прошлое привело к настоящему персонажа. С учётом этого обдумайте ответы на следующие вопросы от лица персонажа:
 
-- Who raised you?
-- Who was your dearest childhood friend?
-- Did you grow up with a pet?
-- Have you fallen in love? If so, with whom?
-- Did you join an organization, such as a guild or religion? If so, are you still a member of it?
-- What elements of your past inspire you to go on adventures now?
+- Кто вас воспитывал?
+- Кто был вашим самым дорогим другом в детстве?
+- Был ли у вас в детстве питомец?
+- Влюблялись ли вы? Если да, то в кого?
+- Вступали ли вы в организацию, такую как гильдия или религия? Если да, остаётесь ли вы её членом?
+- Какие элементы вашего прошлого вдохновляют вас на приключения сейчас?
 
-#### Choose Languages
+#### Выберите языки
 
-Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
+Ваш персонаж знает как минимум три языка: Общий плюс два языка, которые вы выбрасываете или выбираете из таблицы Стандартные языки. Знание языка означает, что ваш персонаж может общаться на нём, читать и писать. Класс и другие умения также могут давать вам языки.
 
-The Standard Languages table lists languages that are widespread in the setting. Every player character knows Common. The other standard languages originated with the first members of the most prominent species in the setting and have since spread widely.
+Таблица Стандартные языки перечисляет языки, распространённые в игровом мире. Каждый игровой персонаж знает Общий. Другие стандартные языки произошли от первых представителей наиболее заметных видов в мире и с тех пор широко распространились.
 
-Table: Standard Languages
+Таблица: Стандартные языки
 
-| 1d12  | Language             |
-|-------|----------------------|
-| —     | Common               |
-| 1     | Common Sign Language |
-| 2     | Draconic             |
-| 3–4   | Dwarvish             |
-| 5–6   | Elvish               |
-| 7     | Giant                |
-| 8     | Gnomish              |
-| 9     | Goblin               |
-| 10–11 | Halfling             |
-| 12    | Orc                  |
+| 1d12  | Язык                  |
+|-------|-----------------------|
+| —     | Общий                 |
+| 1     | Общий язык жестов     |
+| 2     | Драконий              |
+| 3–4   | Дварфский             |
+| 5–6   | Эльфийский            |
+| 7     | Великаний             |
+| 8     | Гномий                |
+| 9     | Гоблинский            |
+| 10–11 | Полуросликов          |
+| 12    | Оркский               |
 
-The Rare Languages table lists languages that are either secret or derived from other planes of existence and thus less widespread in the worlds of the Material Plane. Some features let a character learn a rare language.
+Таблица Редкие языки перечисляет языки, которые являются либо тайными, либо происходят из других планов бытия и потому менее распространены в мирах Материального плана. Некоторые умения позволяют персонажу выучить редкий язык.
 
-Table: Rare Languages
+Таблица: Редкие языки
 
-| Language    | Language      |
+| Язык        | Язык          |
 |-------------|---------------|
-| Abyssal     | Primordial*   |
-| Celestial   | Sylvan        |
-| Deep Speech | Thieves' Cant |
-| Druidic     | Undercommon   |
-| Infernal    |               |
+| Бездны      | Первичный*    |
+| Небесный    | Сильван       |
+| Глубинная речь | Воровской жаргон |
+| Друидический | Подземный    |
+| Инфернальный |              |
 
-\*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
+\*Первичный включает диалекты Аквана, Ауран, Игнан и Терран. Существа, знающие один из этих диалектов, могут общаться с теми, кто знает другой.
 
-### Step 3: Ability Scores
+### Шаг 3: Значения характеристик
 
-To determine your character's ability scores, you first generate a set of six numbers using the instructions below and then assign them to your six abilities. "Playing the Game" explains what each ability means.
+Чтобы определить значения характеристик персонажа, вы сначала генерируете набор из шести чисел по инструкциям ниже, а затем распределяете их между шестью характеристиками. «Как играть» объясняет, что означает каждая характеристика.
 
-#### Generate Your Scores
+#### Сгенерируйте значения
 
-Determine your ability scores by using one of the following three methods. Your GM might prefer you to use a particular one.
+Определите значения характеристик одним из следующих трёх методов. Ваш Мастер может предпочесть определённый метод.
 
-**Standard Array.** Use the following six scores for your abilities: 15, 14, 13, 12, 10, 8.
+**Стандартный набор.** Используйте следующие шесть значений для характеристик: 15, 14, 13, 12, 10, 8.
 
-**Random Generation.** Roll four d6s and record the total of the highest three dice. Do this five more times, so you have six numbers.
+**Случайная генерация.** Бросьте четыре d6 и запишите сумму трёх наибольших. Сделайте это ещё пять раз, чтобы получить шесть чисел.
 
-**Point Cost.** You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Costs table. For example, a score of 14 costs 7 of your 27 points.
+**Стоимость в очках.** У вас есть 27 очков для распределения по характеристикам. Стоимость каждого значения показана в таблице Стоимость значений характеристик. Например, значение 14 стоит 7 из ваших 27 очков.
 
-Table: Ability Score Point Costs
+Таблица: Стоимость значений характеристик
 
-| Score | Cost | Score | Cost |
-|-------|------|-------|------|
-| 8     | 0    | 12    | 4    |
-| 9     | 1    | 13    | 5    |
-| 10    | 2    | 14    | 7    |
-| 11    | 3    | 15    | 9    |
+| Значение | Стоимость | Значение | Стоимость |
+|----------|-----------|----------|-----------|
+| 8        | 0         | 12       | 4         |
+| 9        | 1         | 13       | 5         |
+| 10       | 2         | 14       | 7         |
+| 11       | 3         | 15       | 9         |
 
-#### Assign Ability Scores
+#### Распределите значения характеристик
 
-Once you've generated six scores, assign them to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, keeping in mind your class's primary ability. Fill in the ability modifiers as well.
+Сгенерировав шесть значений, распределите их между Силой, Ловкостью, Телосложением, Интеллектом, Мудростью и Харизмой, учитывая основную характеристику вашего класса. Заполните также модификаторы характеристик.
 
-If you're using the Standard Array option, consult the Standard Array by Class table for suggestions on where to assign scores for your character's class. The table puts the highest scores in a class's main abilities. If you used a different method to generate the scores, you may still use this table to guide where you place your highest and lowest scores.
+Если вы используете Стандартный набор, обратитесь к таблице Стандартный набор по классам для рекомендаций по распределению значений для вашего класса. Таблица размещает наивысшие значения в основных характеристиках класса. Если вы использовали другой метод генерации, вы всё равно можете использовать эту таблицу для определения, куда поместить высшие и низшие значения.
 
-Table: Standard Array by Class
+Таблица: Стандартный набор по классам
 
-| Class     | Str. | Dex. | Con. | Int. | Wis. | Cha. |
+| Класс     | Сил. | Лов. | Тел. | Инт. | Мдр. | Хар. |
 |-----------|------|------|------|------|------|------|
-| Barbarian | 15   | 13   | 14   | 10   | 12   | 8    |
-| Bard      | 8    | 14   | 12   | 13   | 10   | 15   |
-| Cleric    | 14   | 8    | 13   | 10   | 15   | 12   |
-| Druid     | 8    | 12   | 14   | 13   | 15   | 10   |
-| Fighter   | 15   | 14   | 13   | 8    | 10   | 12   |
-| Monk      | 12   | 15   | 13   | 10   | 14   | 8    |
-| Paladin   | 15   | 10   | 13   | 8    | 12   | 14   |
-| Ranger    | 12   | 15   | 13   | 8    | 14   | 10   |
-| Rogue     | 12   | 15   | 13   | 14   | 10   | 8    |
-| Sorcerer  | 10   | 13   | 14   | 8    | 12   | 15   |
-| Warlock   | 8    | 14   | 13   | 12   | 10   | 15   |
-| Wizard    | 8    | 12   | 13   | 15   | 14   | 10   |
+| Варвар    | 15   | 13   | 14   | 10   | 12   | 8    |
+| Бард      | 8    | 14   | 12   | 13   | 10   | 15   |
+| Жрец      | 14   | 8    | 13   | 10   | 15   | 12   |
+| Друид     | 8    | 12   | 14   | 13   | 15   | 10   |
+| Воин      | 15   | 14   | 13   | 8    | 10   | 12   |
+| Монах     | 12   | 15   | 13   | 10   | 14   | 8    |
+| Паладин   | 15   | 10   | 13   | 8    | 12   | 14   |
+| Следопыт  | 12   | 15   | 13   | 8    | 14   | 10   |
+| Плут      | 12   | 15   | 13   | 14   | 10   | 8    |
+| Чародей   | 10   | 13   | 14   | 8    | 12   | 15   |
+| Колдун    | 8    | 14   | 13   | 12   | 10   | 15   |
+| Волшебник | 8    | 12   | 13   | 15   | 14   | 10   |
 
-#### Adjust Ability Scores
+#### Скорректируйте значения характеристик
 
-After assigning your ability scores, adjust them according to your background. Your background lists three abilities; increase one of those scores by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20.
+После распределения значений характеристик скорректируйте их согласно предыстории. Предыстория перечисляет три характеристики; увеличьте одну из них на 2, а другую на 1, или увеличьте все три на 1. Ни одно из этих увеличений не может поднять значение выше 20.
 
-Some players like to increase their class's primary ability, while others prefer to increase a low score.
+Некоторые игроки предпочитают увеличивать основную характеристику класса, другие предпочитают повысить низкое значение.
 
-#### Determine Ability Modifiers
+#### Определите модификаторы характеристик
 
-Finally, determine your ability modifiers using the Ability Scores and Modifiers table. Write the modifier next to each of your scores.
+Наконец, определите модификаторы характеристик по таблице Значения характеристик и модификаторы. Запишите модификатор рядом с каждым значением.
 
-Table: Ability Scores and Modifiers
+Таблица: Значения характеристик и модификаторы
 
-| Score | Modifier | Score | Modifier |
-|-------|----------|-------|----------|
-| 3     | −4       | 12–13 | +1       |
-| 4–5   | −3       | 14–15 | +2       |
-| 6–7   | −2       | 16–17 | +3       |
-| 8–9   | −1       | 18–19 | +4       |
-| 10–11 | +0       | 20    | +5       |
+| Значение | Модификатор | Значение | Модификатор |
+|----------|-------------|----------|-------------|
+| 3        | −4          | 12–13    | +1          |
+| 4–5      | −3          | 14–15    | +2          |
+| 6–7      | −2          | 16–17    | +3          |
+| 8–9      | −1          | 18–19    | +4          |
+| 10–11    | +0          | 20       | +5          |
 
-### Step 4: Alignment
+### Шаг 4: Мировоззрение
 
-Choose your character's alignment from the options below, and note it on your character sheet.
+Выберите мировоззрение персонажа из вариантов ниже и отметьте его на листе персонажа.
 
-The game assumes that player characters aren't of an evil alignment. Check with your GM before making an evil character.
+Игра предполагает, что игровые персонажи не имеют злого мировоззрения. Уточните у Мастера, прежде чем создавать злого персонажа.
 
-#### The Nine Alignments
+#### Девять мировоззрений
 
-A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral).
+Мировоззрение существа в общих чертах описывает его этические позиции и идеалы. Мировоззрение — это сочетание двух факторов: один определяет мораль (добро, зло или нейтральность), другой описывает отношение к порядку (принципиальность, хаотичность или нейтральность).
 
-The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
+Описания мировоззрений ниже описывают типичное поведение существа с этим мировоззрением; отдельные особи могут отклоняться от этого поведения.
 
-**Lawful Good (LG).** Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
+**Принципиально-добрый (ПД).** Принципиально-добрые существа стремятся поступать правильно так, как ожидает общество. Тот, кто без колебаний борется с несправедливостью и защищает невинных, вероятно, принципиально-добрый.
 
-**Neutral Good (NG).** Neutral Good creatures do the best they can, working within rules but not feeling bound by them. A kindly person who helps others according to their needs is probably Neutral Good.
+**Нейтрально-добрый (НД).** Нейтрально-добрые существа делают всё возможное, работая в рамках правил, но не чувствуя себя связанными ими. Добрый человек, помогающий другим по мере их нужд, вероятно, нейтрально-добрый.
 
-**Chaotic Good (CG).** Chaotic Good creatures act as their conscience directs with little regard for what others expect. A rebel who waylays a cruel baron's tax collectors and uses the stolen money to help the poor is probably Chaotic Good.
+**Хаотично-добрый (ХД).** Хаотично-добрые существа действуют по велению совести, мало заботясь о том, чего ожидают другие. Бунтарь, грабящий сборщиков налогов жестокого барона и раздающий украденные деньги бедным, вероятно, хаотично-добрый.
 
-**Lawful Neutral (LN).** Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
+**Принципиально-нейтральный (ПН).** Принципиально-нейтральные личности действуют в соответствии с законом, традицией или личным кодексом. Тот, кто следует дисциплинированному образу жизни — и не поддаётся ни требованиям нуждающихся, ни искушениям зла — вероятно, принципиально-нейтральный.
 
-**Neutral (N).** Neutral is the alignment of those who prefer to avoid moral questions and don't take sides, doing what seems best at the time. Someone who's bored by moral debate is probably Neutral.
+**Нейтральный (Н).** Нейтральный — мировоззрение тех, кто предпочитает избегать моральных вопросов и не принимать сторон, делая то, что кажется лучшим в данный момент. Тот, кому скучны моральные дебаты, вероятно, нейтральный.
 
-**Chaotic Neutral (CN).** Chaotic Neutral creatures follow their whims, valuing their personal freedom above all else. A scoundrel who wanders the land living by their wits is probably Chaotic Neutral.
+**Хаотично-нейтральный (ХН).** Хаотично-нейтральные существа следуют своим прихотям, ценя личную свободу превыше всего. Негодяй, странствующий по земле и живущий своим умом, вероятно, хаотично-нейтральный.
 
-**Lawful Evil (LE).** Lawful Evil creatures methodically take what they want within the limits of a code of tradition, loyalty, or order. An aristocrat exploiting citizens while scheming for power is probably Lawful Evil.
+**Принципиально-злой (ПЗ).** Принципиально-злые существа методично берут то, что хотят, в рамках кодекса традиции, преданности или порядка. Аристократ, эксплуатирующий граждан и плетущий интриги ради власти, вероятно, принципиально-злой.
 
-**Neutral Evil (NE).** Neutral Evil is the alignment of those who are untroubled by the harm they cause as they pursue their desires. A criminal who robs and murders as they please is probably Neutral Evil.
+**Нейтрально-злой (НЗ).** Нейтрально-злой — мировоззрение тех, кого не беспокоит вред, причиняемый в погоне за желаниями. Преступник, грабящий и убивающий по своему желанию, вероятно, нейтрально-злой.
 
-**Chaotic Evil (CE).** Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
+**Хаотично-злой (ХЗ).** Хаотично-злые существа действуют с произвольным насилием, движимые ненавистью или жаждой крови. Злодей, преследующий планы мести и хаоса, вероятно, хаотично-злой.
 
-> ### Unaligned Creatures
+> ### Существа без мировоззрения
 >
->Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. Sharks are savage predators, for example, but they aren't evil; they are unaligned.
+> Большинство существ, лишённых способности к рациональному мышлению, не имеют мировоззрения; они без мировоззрения. Акулы, например, — дикие хищники, но они не злые; они без мировоззрения.
 
+### Шаг 5: Детали создания персонажа
 
-### Step 5: Character Creation Details
+Теперь заполните остальную часть листа персонажа.
 
-Now fill in the rest of your character sheet.
+#### Запишите классовые умения
 
-#### Record Class Features
+Посмотрите таблицу умений класса в «Классах» и запишите умения 1-го уровня. Классовые умения там же подробно описаны.
 
-Look at your class's feature table in "Classes," and write down the level 1 features. The class features are detailed there too.
+Некоторые классовые умения предлагают выбор. Обязательно прочитайте все умения и сделайте предложенные выборы.
 
-Some class features offer choices. Make sure to read all your features and make any offered choices.
+#### Заполните числа
 
-#### Fill In Numbers
+Отметьте эти числа на листе персонажа.
 
-Note these numbers on your character sheet.
+**Спасброски.** Для спасбросков, которыми вы владеете, добавьте бонус мастерства к соответствующему модификатору характеристики и запишите итог. Некоторые игроки также записывают модификатор для спасбросков, которыми не владеют, — это просто соответствующий модификатор характеристики.
 
-**Saving Throws.** For the saving throws you have proficiency in, add your Proficiency Bonus to the appropriate ability modifier and note the total. Some players also like to note the modifier for saving throws they're not proficient in, which is just the relevant ability modifier.
+**Навыки.** Для навыков, которыми вы владеете, добавьте бонус мастерства к модификатору характеристики, связанной с этим навыком, и запишите итог. Вы также можете записать модификатор для навыков, которыми не владеете, — это просто соответствующий модификатор характеристики.
 
-**Skills.** For skills you have proficiency in, add your Proficiency Bonus to the ability modifier associated with that skill, and note the total. You might also wish to note the modifier for skills you're not proficient in, which is just the relevant ability modifier.
+**Пассивная Внимательность.** Иногда Мастер определяет, заметил ли ваш персонаж что-то, не прося вас сделать проверку Мудрости (Внимательность); Мастер использует вашу пассивную Внимательность. Пассивная Внимательность — это значение, отражающее общую осведомлённость об окружении, когда вы активно ничего не ищете. Используйте эту формулу для определения пассивной Внимательности:
 
-**Passive Perception.** Sometimes your GM will determine whether your character notices something without asking you to make a Wisdom (Perception) check; the GM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
+*Пассивная Внимательность* = 10 + модификатор проверки Мудрости (Внимательность)
 
-*Passive Perception* = 10 + Wisdom (Perception) check modifier
+Включите все модификаторы, применяемые к проверкам Мудрости (Внимательность). Например, если у персонажа Мудрость 15 и владение навыком Внимательность, пассивная Внимательность равна 14 (10 + 2 за модификатор Мудрости + 2 за владение).
 
-Include all modifiers that apply to your Wisdom (Perception) checks. For example, if your character has a Wisdom of 15 and proficiency in the Perception skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
+**Хиты.** Класс и модификатор Телосложения определяют максимум хитов на 1-м уровне, как показано в таблице Хиты на 1-м уровне по классам.
 
-**Hit Points.** Your class and Constitution modifier determine your Hit Point maximum at level 1, as shown on the Level 1 Hit Points by Class table.
+Таблица: Хиты на 1-м уровне по классам
 
-Table: Level 1 Hit Points by Class
+| Класс                                           | Максимум хитов          |
+|-------------------------------------------------|-------------------------|
+| Варвар                                          | 12 + мод. Телосложения  |
+| Воин, Паладин или Следопыт                      | 10 + мод. Телосложения  |
+| Бард, Жрец, Друид, Монах, Плут или Колдун       | 8 + мод. Телосложения   |
+| Чародей или Волшебник                           | 6 + мод. Телосложения   |
 
-| Class                                           | Hit Point Maximum  |
-|-------------------------------------------------|--------------------|
-| Barbarian                                       | 12 + Con. modifier |
-| Fighter, Paladin, or Ranger                     | 10 + Con. modifier |
-| Bard, Cleric, Druid, Monk, Rogue, or Warlock    | 8 + Con. modifier  |
-| Sorcerer or Wizard                              | 6 + Con. modifier  |
+На листе персонажа есть место для записи текущих хитов при получении урона, а также временных хитов. Также есть место для отслеживания спасбросков от смерти.
 
-The character sheet includes room to note your current Hit Points when you take damage, as well as any Temporary Hit Points you might gain. There's also space to track Death Saving Throws.
+**Кости Хитов.** Описание класса указывает тип кости Хитов персонажа (или Кости Хитов); запишите это на листе персонажа. На 1-м уровне у персонажа 1 Кость Хитов. Вы можете тратить Кости Хитов во время короткого отдыха для восстановления хитов. На листе персонажа также есть место для записи потраченных Костей Хитов.
 
-**Hit Point Dice.** Your class's description tells you the die type of your character's Hit Point Dice (or Hit Dice for short); write this on your character sheet. At level 1, your character has 1 Hit Die. You can spend Hit Dice during a Short Rest to recover Hit Points. Your character sheet also includes space to note how many Hit Dice you've spent.
+**Инициатива.** Запишите модификатор Ловкости в графу инициативы на листе персонажа.
 
-**Initiative.** Write your Dexterity modifier in the space for Initiative on your character sheet.
+**Класс Доспеха.** Без доспехов и щита ваш базовый Класс Доспеха равен 10 + модификатор Ловкости. Если начальное снаряжение включает доспехи или щит (или оба), рассчитайте КД по правилам в «Снаряжении». Классовое умение может дать другой способ расчёта КД.
 
-**Armor Class.** Without armor or a shield, your base Armor Class is 10 plus your Dexterity modifier. If your starting equipment includes armor or a Shield (or both), calculate your AC using the rules in "Equipment." A class feature might give you a different way to calculate your AC.
+**Атаки.** В разделе Оружие и боевые заговоры листа персонажа запишите начальное оружие. Бонус броска атаки для оружия, которым вы владеете, равен одному из следующих, если свойство оружия не говорит иначе:
 
-**Attacks.** In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
+*Бонус рукопашной атаки* = модификатор Силы + бонус мастерства
 
-*Melee attack bonus* = Strength modifier + Proficiency Bonus 
+*Бонус дальнобойной атаки* = модификатор Ловкости + бонус мастерства
 
-*Ranged attack bonus* = Dexterity modifier + Proficiency Bonus
+Найдите урон и свойства оружия в «Снаряжении». Вы добавляете тот же модификатор характеристики, который используете для атак оружием, к броскам урона этим оружием.
 
-Look up the damage and properties of your weapons in "Equipment." You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
+**Использование заклинаний.** Отметьте и СЛ спасброска от ваших заклинаний, и бонус атаки для атак заклинаниями, используя эти формулы:
 
-**Spellcasting.** Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
+*СЛ спасброска от заклинаний* = 8 + модификатор заклинательной характеристики + бонус мастерства
 
-*Spell save DC* = 8 + spellcasting ability modifier + Proficiency Bonus
+*Бонус атаки заклинанием* = модификатор заклинательной характеристики + бонус мастерства
 
-*Spell attack bonus* = spellcasting ability modifier + Proficiency Bonus
+Модификатор заклинательной характеристики для заклинания определяется умением, дающим способность творить заклинание.
 
-Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
+**Ячейки заклинаний, заговоры и подготовленные заклинания.** Если класс даёт умение Использование заклинаний или Магия договора, таблица классовых умений показывает количество ячеек заклинаний, известных заговоров и заклинаний, которые можно подготовить. Выберите заговоры и подготовленные заклинания и запишите их — вместе с количеством ячеек — на листе персонажа.
 
-**Spell Slots, Cantrips, and Prepared Spells.** If your class gives you the Spellcasting or Pact Magic feature, your class features table shows the number of spell slots you have available, how many cantrips you know, and how many spells you can prepare. Choose your cantrips and prepared spells, and note them—along with your number of spell slots—on your character sheet.
+## Повышение уровня
 
-## Level Advancement
+Во время приключений персонаж получает опыт, представленный очками опыта (ОО). Персонаж, достигший определённого количества очков опыта, продвигается в способностях. Это продвижение называется повышением уровня.
 
-While going on adventures, your character gains experience, represented by Experience Points (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
+Таблица Развитие персонажа показывает ОО, необходимые для достижения уровня, и бонус мастерства персонажа этого уровня. Когда ваше общее количество ОО достигает или превышает число в столбце Очки опыта, вы достигаете соответствующего уровня.
 
-The Character Advancement table lists the XP you need to advance to a level and the Proficiency Bonus for a character of that level. When your XP total equals or exceeds a number in the Experience Points column, you reach the corresponding level.
+Таблица: Развитие персонажа
 
-Table: Character Advancement
+| Уровень | Очки опыта | Бонус мастерства |
+|---------|------------|------------------|
+| 1       | 0          | +2               |
+| 2       | 300        | +2               |
+| 3       | 900        | +2               |
+| 4       | 2 700      | +2               |
+| 5       | 6 500      | +3               |
+| 6       | 14 000     | +3               |
+| 7       | 23 000     | +3               |
+| 8       | 34 000     | +3               |
+| 9       | 48 000     | +4               |
+| 10      | 64 000     | +4               |
+| 11      | 85 000     | +4               |
+| 12      | 100 000    | +4               |
+| 13      | 120 000    | +5               |
+| 14      | 140 000    | +5               |
+| 15      | 165 000    | +5               |
+| 16      | 195 000    | +5               |
+| 17      | 225 000    | +6               |
+| 18      | 265 000    | +6               |
+| 19      | 305 000    | +6               |
+| 20      | 355 000    | +6               |
 
-| Level | Experience Points | Proficiency Bonus |
-|-------|-------------------|-------------------|
-| 1     | 0                 | +2                |
-| 2     | 300               | +2                |
-| 3     | 900               | +2                |
-| 4     | 2,700             | +2                |
-| 5     | 6,500             | +3                |
-| 6     | 14,000            | +3                |
-| 7     | 23,000            | +3                |
-| 8     | 34,000            | +3                |
-| 9     | 48,000            | +4                |
-| 10    | 64,000            | +4                |
-| 11    | 85,000            | +4                |
-| 12    | 100,000           | +4                |
-| 13    | 120,000           | +5                |
-| 14    | 140,000           | +5                |
-| 15    | 165,000           | +5                |
-| 16    | 195,000           | +5                |
-| 17    | 225,000           | +6                |
-| 18    | 265,000           | +6                |
-| 19    | 305,000           | +6                |
-| 20    | 355,000           | +6                |
+### Получение уровня
 
-### Gaining a Level
+При получении уровня следуйте этим шагам:
 
-When you gain a level, follow these steps:
+1. **Выберите класс.** Большинство персонажей повышаются в том же классе. Однако вы можете решить получить уровень в другом классе, используя правила в разделе «Мультиклассирование».
+2. **Скорректируйте хиты и Кости Хитов.** Каждый раз, получая уровень, вы получаете дополнительную Кость Хитов. Бросьте эту кость, добавьте модификатор Телосложения и прибавьте итог (минимум 1) к максимуму хитов. Вместо броска можно использовать фиксированное значение из таблицы Фиксированные хиты по классам.
 
-1. **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the "Multiclassing" section.
-2. **Adjust Hit Points and Hit Point Dice.** Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.
+Таблица: Фиксированные хиты по классам
 
-Table: Fixed Hit Points by Class
+| Класс                                           | Хитов за уровень        |
+|-------------------------------------------------|-------------------------|
+| Варвар                                          | 7 + мод. Телосложения   |
+| Воин, Паладин или Следопыт                      | 6 + мод. Телосложения   |
+| Бард, Жрец, Друид, Монах, Плут или Колдун       | 5 + мод. Телосложения   |
+| Чародей или Волшебник                           | 4 + мод. Телосложения   |
 
-| Class                                           | Hit Points per Level |
-|-------------------------------------------------|----------------------|
-| Barbarian                                       | 7 + Con. modifier    |
-| Fighter, Paladin, or Ranger                     | 6 + Con. modifier    |
-| Bard, Cleric, Druid, Monk, Rogue, or Warlock    | 5 + Con. modifier    |
-| Sorcerer or Wizard                              | 4 + Con. modifier    |
+3. **Запишите новые классовые умения.** Посмотрите таблицу классовых умений в «Классах» и отметьте умения, получаемые на новом уровне в этом классе. Сделайте выборы, предлагаемые новыми умениями.
+4. **Скорректируйте бонус мастерства.** Бонус мастерства персонажа увеличивается на определённых уровнях, как показано в таблице Развитие персонажа и таблице классовых умений в «Классах». Когда бонус мастерства увеличивается, увеличьте все числа на листе персонажа, включающие бонус мастерства.
+5. **Скорректируйте модификаторы характеристик.** Если вы выбираете черту, увеличивающую одну или несколько характеристик, модификатор характеристики также меняется, если новое значение чётное. Когда это происходит, скорректируйте все числа на листе персонажа, использующие этот модификатор характеристики. Когда модификатор Телосложения увеличивается на 1, максимум хитов увеличивается на 1 за каждый достигнутый уровень. Например, если персонаж достигает 8-го уровня и увеличивает Телосложение с 17 до 18, модификатор Телосложения становится +4. Максимум хитов персонажа увеличивается на 8, в дополнение к хитам, полученным за достижение 8-го уровня.
 
-3. **Record New Class Features.** Look at your class features table in "Classes," and note the features you gain at your new level in that class. Make any choices offered by a new feature.
-4. **Adjust Proficiency Bonus.** A character's Proficiency Bonus increases at certain levels, as shown in the Character Advancement table and your class features table in "Classes." When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.
-5. **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character's Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.
+### Этапы игры
 
-### Tiers of Play
+С каждым новым уровнем персонажи приобретают новые способности, позволяющие справляться с большими испытаниями. По мере продвижения персонажей меняется тон игры, и ставки кампании повышаются. Полезно думать о пути персонажа (и кампании) в терминах четырёх этапов игры, описывающих путь от персонажа 1-го уровня, только начинающего карьеру искателя приключений, до эпических высот 20-го уровня. Эти этапы не имеют связанных с ними правил; они указывают на то, что игровой опыт меняется по мере роста уровней.
 
-With each new level, characters acquire new capabilities that equip them to handle greater challenges. As characters advance in level, the tone of the game also changes, and the stakes of the campaign get higher. It's helpful to think of a character's (and a campaign's) arc in terms of four tiers of play, describing the journey from a level 1 character just beginning an adventuring career to the epic heights of level 20. These tiers don't have any rules associated with them; they point to the fact that the play experience evolves as characters gain levels.
+#### Этап 1 (Уровни 1–4)
 
-#### Tier 1 (Levels 1–4)
+На этапе 1 персонажи — начинающие искатели приключений, хотя уже отличаются от обычных людей благодаря своим необычным способностям. Они изучают начальные классовые умения и выбирают подкласс. Угрозы, с которыми они сталкиваются, обычно опасны для местных ферм или деревень.
 
-In tier 1, characters are apprentice adventurers, though they are already set apart from the broader populace by virtue of their extraordinary abilities. They learn their starting class features and choose a subclass. The threats they face usually pose a danger to local farmsteads or villages.
+#### Этап 2 (Уровни 5–10)
 
-#### Tier 2 (Levels 5–10)
+На этапе 2 персонажи — полноценные искатели приключений. Заклинатели получают культовые заклинания, такие как *огненный шар*, *молния* и *оживление*. Большинство классов, ориентированных на оружие, получают возможность совершать несколько атак за раунд. Персонажи теперь противостоят угрозам городам и королевствам.
 
-In tier 2, characters are full-fledged adventurers. Spellcasters gain iconic spells such as *Fireball*, *Lightning Bolt*, and *Raise Dead*. Most weapon-focused classes gain the ability to make multiple attacks in a round. The characters now face dangers that threaten cities and kingdoms.
+#### Этап 3 (Уровни 11–16)
 
-#### Tier 3 (Levels 11–16)
+На этапе 3 персонажи достигли уровня силы, делающего их особенными среди искателей приключений. На 11-м уровне многие заклинатели изучают заклинания, изменяющие реальность. Другие персонажи получают умения, позволяющие совершать больше атак или делать их более впечатляющими. Эти искатели приключений часто противостоят угрозам целым регионам.
 
-In tier 3, characters have reached a level of power that makes them special among adventurers. At level 11, many spellcasters learn reality-altering spells. Other characters gain features that allow them to make more attacks or to do more impressive things with those attacks. These adventurers often confront threats to whole regions.
+#### Этап 4 (Уровни 17–20)
 
-#### Tier 4 (Levels 17–20)
+На этапе 4 персонажи достигают вершины классовых умений, становясь героическими архетипами. Судьба мира или даже порядок мультивселенной могут висеть на волоске во время их приключений.
 
-At tier 4, characters achieve the pinnacle of their class features, becoming heroic archetypes. The fate of the world or even the order of the multiverse might hang in the balance during their adventures.
+## Начало на высоких уровнях
 
-## Starting at Higher Levels
+Ваш Мастер может начать персонажей группы на уровне выше 1-го. Особенно рекомендуется начинать с 3-го уровня, если группа состоит из опытных игроков D&D.
 
-Your GM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
+### Создание персонажа
 
-### Creating Your Character
+Создание персонажа высокого уровня использует те же шаги создания персонажа, описанные в этой главе, и правила повышения выше 1-го уровня из раздела «Повышение уровня». Вы начинаете с минимальным количеством ОО, необходимым для достижения начального уровня. Например, если Мастер начинает вас на 10-м уровне, у вас 64 000 ОО.
 
-Creating a higher-level character uses the same character-creation steps outlined in this chapter and the rules for advancing beyond level 1 provided in the "Level Advancement" section. You begin with the minimum amount of XP required to reach your starting level. For example, if the GM starts you at level 10, you have 64,000 XP.
-
-> ### **Bonus Feats at Level 20**
+> ### Бонусные черты на 20-м уровне
 >
-> A GM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. Epic Boon feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
+> Мастер может использовать черты как форму развития после того, как персонажи достигнут 20-го уровня, чтобы дать большую силу персонажам, которым больше некуда расти в уровнях. При таком подходе каждый персонаж получает одну черту по выбору за каждые 30 000 ОО, заработанные сверх 355 000 ОО. Черты эпических благ особенно подходят для этих бонусных черт, но игрок может выбрать любую черту, для которой его персонаж 20-го уровня подходит.
 
-### **Starting Equipment**
+### Начальное снаряжение
 
-The GM decides whether your character starts with more than the standard equipment for a level 1 character, possibly even one or more magic items. The Starting Equipment at Higher Levels table is a guide for the GM.
+Мастер решает, начинает ли персонаж с большим количеством снаряжения, чем стандартное для персонажа 1-го уровня, возможно даже с одним или несколькими магическими предметами. Таблица Начальное снаряжение на высоких уровнях служит руководством для Мастера.
 
-Also, check with your GM about what equipment is available for you to buy with your starting money. For example, the firearms described in "Equipment" are too expensive for level 1 characters, but they might be available for purchase if your GM allows them.
+Также уточните у Мастера, какое снаряжение доступно для покупки за начальные деньги. Например, огнестрельное оружие из «Снаряжения» слишком дорого для персонажей 1-го уровня, но может быть доступно для покупки, если Мастер разрешает его.
 
-Table: Starting Equipment at Higher Levels
+Таблица: Начальное снаряжение на высоких уровнях
 
-| Starting Level | Equipment and Money                                            | Magic Items                               |
-|----------------|----------------------------------------------------------------|-------------------------------------------|
-| 2–4            | Normal starting equipment                                      | 1 Common                                  |
-| 5–10           | 500 GP plus 1d10 × 25 GP plus normal starting equipment        | 1 Common, 1 Uncommon                      |
-| 11–16          | 5,000 gp plus 1d10 × 250 GP plus normal starting equipment     | 2 Common, 3 Uncommon, 1 Rare              |
-| 17–20          | 20,000 GP plus 1d10 × 250 GP plus normal starting equipment    | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
+| Начальный уровень | Снаряжение и деньги                                            | Магические предметы                           |
+|-------------------|----------------------------------------------------------------|-----------------------------------------------|
+| 2–4               | Обычное начальное снаряжение                                   | 1 обычный                                     |
+| 5–10              | 500 зм + 1d10 × 25 зм + обычное начальное снаряжение           | 1 обычный, 1 необычный                        |
+| 11–16             | 5 000 зм + 1d10 × 250 зм + обычное начальное снаряжение        | 2 обычных, 3 необычных, 1 редкий              |
+| 17–20             | 20 000 зм + 1d10 × 250 зм + обычное начальное снаряжение       | 2 обычных, 4 необычных, 3 редких, 1 очень редкий |
 
-## Multiclassing
+## Мультиклассирование
 
-Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.
+Мультиклассирование позволяет получать уровни в нескольких классах. С этим правилом у вас есть возможность получить уровень в новом классе всякий раз, когда вы повышаете уровень, вместо получения уровня в текущем классе. Это позволяет смешивать способности разных классов для реализации концепции персонажа, которая может не отражаться в одном классе.
 
-### Prerequisites
+### Требования
 
-To qualify for a new class, you must have a score of at least 13 in the primary ability of the new class and your current classes. For example, a Barbarian who decides to multiclass into the Druid class must have Strength and Wisdom scores of 13 or higher, since Strength is the primary ability for Barbarians and Wisdom is the primary ability for Druids.
+Чтобы получить право на новый класс, у вас должно быть значение не менее 13 в основной характеристике нового класса и ваших текущих классов. Например, Варвар, решивший мультиклассировать в Друида, должен иметь значения Силы и Мудрости 13 или выше, поскольку Сила — основная характеристика Варваров, а Мудрость — Друидов.
 
-### Experience Points
+### Очки опыта
 
-The Experience Point cost to gain a level is based on your total character level, not your level in a particular class, as shown in the Character Advancement table in "Character Creation." For example, if you are a level 6 Cleric / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric.
+Стоимость в очках опыта для получения уровня основана на вашем общем уровне персонажа, а не на уровне в конкретном классе, как показано в таблице Развитие персонажа в «Создании персонажа». Например, если вы Жрец 6-го уровня / Воин 1-го уровня, вы должны набрать достаточно ОО для достижения 8-го уровня, прежде чем сможете взять второй уровень Воина или седьмой уровень Жреца.
 
-### Hit Points and Hit Point Dice
+### Хиты и Кости Хитов
 
-You gain the Hit Points from your new class as described for levels after 1. You gain the level 1 Hit Points for a class only when your total character level is 1.
+Вы получаете хиты от нового класса, как описано для уровней после 1-го. Вы получаете хиты 1-го уровня для класса только когда ваш общий уровень персонажа равен 1.
 
-Add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If these dice are the same die type, you can pool them together. For example, both the Fighter and the Paladin have a d10 Hit Die, so if you are a level 5 Fighter / level 5 Paladin, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, track them separately. If you are a level 5 Cleric / level 5 Paladin, for example, you have five d8 Hit Dice and five d10 Hit Dice.
+Сложите Кости Хитов, даваемые всеми вашими классами, чтобы сформировать запас Костей Хитов. Если эти кости одного типа, вы можете объединить их. Например, и Воин, и Паладин имеют d10 как Кость Хитов, так что если вы Воин 5-го уровня / Паладин 5-го уровня, у вас десять d10 Костей Хитов. Если классы дают Кости Хитов разных типов, отслеживайте их отдельно. Если вы Жрец 5-го уровня / Паладин 5-го уровня, например, у вас пять d8 Костей Хитов и пять d10 Костей Хитов.
 
-### Proficiency Bonus
+### Бонус мастерства
 
-Your Proficiency Bonus is based on your total character level, not your level in a particular class, as shown in the Character Advancement table. For example, if you are a level 3 Fighter / level 2 Rogue, you have the Proficiency Bonus of a level 5 character, which is +3.
+Ваш бонус мастерства основан на общем уровне персонажа, а не на уровне в конкретном классе, как показано в таблице Развитие персонажа. Например, если вы Воин 3-го уровня / Плут 2-го уровня, у вас бонус мастерства персонажа 5-го уровня, то есть +3.
 
-### Proficiencies
+### Владения
 
-When you gain your first level in a class other than your initial class, you gain only some of the new class's starting proficiencies, as detailed in each class's description in "Classes."
+Когда вы получаете первый уровень в классе, отличном от начального, вы получаете только некоторые начальные владения нового класса, как указано в описании каждого класса в «Классах».
 
-### Class Features
+### Классовые умения
 
-When you gain a new level in a class, you get its features for that level. A few features have additional rules when you're multiclassing. Check the information about multiclassing included in each of your classes' descriptions.
+Когда вы получаете новый уровень в классе, вы получаете его умения для этого уровня. Некоторые умения имеют дополнительные правила при мультиклассировании. Проверьте информацию о мультиклассировании в описании каждого из ваших классов.
 
-Special rules apply to Extra Attack, Spellcasting, and features (such as Unarmored Defense) that give you alternative ways to calculate your Armor Class.
+Особые правила применяются к Дополнительной атаке, Использованию заклинаний и умениям (таким как Защита без доспехов), дающим альтернативные способы расчёта Класса Доспеха.
 
-#### Armor Class
+#### Класс Доспеха
 
-If you have multiple ways to calculate your Armor Class, you can benefit from only one at a time. For example, a Monk/Sorcerer with a Monk's Unarmored Defense feature and a Sorcerer's Draconic Resilience feature must choose only one of those features as a way to calculate Armor Class.
+Если у вас несколько способов расчёта Класса Доспеха, вы можете получить выгоду только от одного за раз. Например, Монах/Чародей с умением Защита без доспехов Монаха и умением Стойкость дракона Чародея должен выбрать только одно из этих умений для расчёта Класса Доспеха.
 
-#### Extra Attack
+#### Дополнительная атака
 
-If you gain the Extra Attack feature from more than one class, the features don't stack. You can't make more than two attacks with this feature unless you have a feature that says you can (such as the Fighter's Two Extra Attacks feature).
+Если вы получаете умение Дополнительная атака от более чем одного класса, умения не складываются. Вы не можете совершить более двух атак с этим умением, если у вас нет умения, говорящего иначе (такого как умение Воина Две дополнительных атаки).
 
-Similarly, the Warlock's Thirsting Blade invocation, which grants you the Extra Attack feature with your pact weapon, doesn't give you additional attacks if you also have Extra Attack.
+Аналогично, воззвание Колдуна Клинок жажды, дающее умение Дополнительная атака с оружием договора, не даёт дополнительных атак, если у вас также есть Дополнительная атака.
 
-#### Spellcasting
+#### Использование заклинаний
 
-Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, follow the rules for that class.
+Ваша способность к использованию заклинаний частично зависит от суммарных уровней во всех ваших классах заклинателей и частично от индивидуальных уровней в этих классах. Если у вас есть умение Использование заклинаний от более чем одного класса, используйте правила ниже. Если вы мультиклассируете, но имеете Использование заклинаний только от одного класса, следуйте правилам этого класса.
 
-**Spells Prepared.** You determine what spells you can prepare for each class individually, as if you were a single-classed member of that class. If you are a level 4 Ranger / level 3 Sorcerer, for example, you can prepare five level 1 Ranger spells, and you can prepare six Sorcerer spells of level 1 or 2 (as well as four Sorcerer cantrips).
+**Подготовленные заклинания.** Вы определяете, какие заклинания можете подготовить для каждого класса отдельно, как если бы вы были одноклассовым представителем этого класса. Например, если вы Следопыт 4-го уровня / Чародей 3-го уровня, вы можете подготовить пять заклинаний Следопыта 1-го уровня, и можете подготовить шесть заклинаний Чародея 1-го или 2-го уровня (а также четыре заговора Чародея).
 
-Each spell you prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell.
+Каждое подготовленное заклинание связано с одним из ваших классов, и вы используете заклинательную характеристику этого класса при сотворении заклинания.
 
-**Cantrips.** If a cantrip of yours increases in power at higher levels, the increase is based on your total character level, not your level in a particular class, unless the spell says otherwise.
+**Заговоры.** Если заговор увеличивает силу на высоких уровнях, увеличение основано на общем уровне персонажа, а не на уровне в конкретном классе, если заклинание не говорит иначе.
 
-**Spell Slots.** You determine your available spell slots by adding together the following:
+**Ячейки заклинаний.** Вы определяете доступные ячейки заклинаний, сложив следующее:
 
-- All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes
-- Half your levels (round up) in the Paladin and Ranger classes
+- Все ваши уровни в классах Бард, Жрец, Друид, Чародей и Волшебник
+- Половину ваших уровней (округляя вверх) в классах Паладин и Следопыт
 
-Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
+Затем найдите этот суммарный уровень в столбце Уровень таблицы Мультиклассовый заклинатель. Вы используете ячейки этого уровня для сотворения заклинаний соответствующего уровня от любого класса, чьим умением Использование заклинаний вы обладаете.
 
-This table might give you spell slots of a higher level than the spells you prepare. You can use those slots but only to cast your lower-level spells. If a lower-level spell that you cast, like *Burning Hands*, has an enhanced effect when cast at a higher level, you can use the enhanced effect as normal.
+Эта таблица может дать вам ячейки заклинаний более высокого уровня, чем заклинания, которые вы подготовили. Вы можете использовать эти ячейки, но только для сотворения заклинаний более низкого уровня. Если заклинание более низкого уровня, которое вы творите, например *огненные ладони*, имеет усиленный эффект при сотворении на более высоком уровне, вы можете использовать усиленный эффект как обычно.
 
-For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a level 5 character when determining your spell slots, counting all your levels as a Sorcerer and half your Ranger levels. As shown in the Multiclass Spellcaster table, you have four level 1 spell slots, three level 2 slots, and two level 3 slots. However, you can't prepare any level 3 spells, nor can you prepare any level 2 Ranger spells. You can use the spell slots of those levels to cast the spells you do prepare—and potentially enhance their effects.
+Например, если вы Следопыт 4-го уровня / Чародей 3-го уровня, вы считаетесь персонажем 5-го уровня при определении ячеек заклинаний, учитывая все ваши уровни Чародея и половину уровней Следопыта. Как показано в таблице Мультиклассовый заклинатель, у вас четыре ячейки 1-го уровня, три ячейки 2-го уровня и две ячейки 3-го уровня. Однако вы не можете подготовить заклинания 3-го уровня, как и заклинания Следопыта 2-го уровня. Вы можете использовать ячейки этих уровней для сотворения подготовленных заклинаний — и потенциально усилить их эффекты.
 
-**Pact Magic.** If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
+**Магия договора.** Если у вас есть умение Магия договора от класса Колдун и умение Использование заклинаний, вы можете использовать ячейки заклинаний от Магии договора для сотворения подготовленных заклинаний от классов с умением Использование заклинаний, и можете использовать ячейки от Использования заклинаний для сотворения подготовленных заклинаний Колдуна.
 
-Table: Multiclass Spellcaster: Spell Slots per Spell Level
+Таблица: Мультиклассовый заклинатель: Ячейки заклинаний по уровням заклинаний
 
-| Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|---|---|---|---|---|---|---|---|---|
-| 1     | 2 | — | — | — | — | — | — | — | — |
-| 2     | 3 | — | — | — | — | — | — | — | — |
-| 3     | 4 | 2 | — | — | — | — | — | — | — |
-| 4     | 4 | 3 | — | — | — | — | — | — | — |
-| 5     | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6     | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7     | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8     | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9     | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10    | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11    | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12    | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13    | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14    | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15    | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16    | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17    | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18    | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20    | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Уровень | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---------|---|---|---|---|---|---|---|---|---|
+| 1       | 2 | — | — | — | — | — | — | — | — |
+| 2       | 3 | — | — | — | — | — | — | — | — |
+| 3       | 4 | 2 | — | — | — | — | — | — | — |
+| 4       | 4 | 3 | — | — | — | — | — | — | — |
+| 5       | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6       | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7       | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8       | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9       | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10      | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11      | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12      | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13      | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14      | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15      | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16      | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17      | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18      | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19      | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20      | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-## Trinkets
+## Безделушки
 
-When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The GM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+При создании персонажа вы можете один раз бросить по таблице Безделушки, чтобы получить крошечную безделушку — простой предмет, слегка затронутый тайной. Мастер также может использовать эту таблицу. Она может помочь заполнить комнату в подземелье или карманы существа.
 
-Table: Trinkets
+Таблица: Безделушки
 
-| 1d100 | Trinket                                                                                                     |
-|-------|-------------------------------------------------------------------------------------------------------------|
-| 01    | A mummified goblin hand                                                                                     |
-| 02    | A crystal that faintly glows in moonlight                                                                   |
-| 03    | A gold coin minted in an unknown land                                                                       |
-| 04    | A diary written in a language you don't know                                                                |
-| 05    | A brass ring that never tarnishes                                                                           |
-| 06    | An old chess piece made from glass                                                                          |
-| 07    | A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips          |
-| 08    | A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it       |
-| 09    | A lock of someone's hair                                                                                    |
-| 10    | The deed for a parcel of land in a realm un known to you                                                    |
-| 11    | A 1-ounce block made from an unknown material                                                               |
-| 12    | A small cloth doll skewered with needles                                                                    |
-| 13    | A tooth from an unknown beast                                                                               |
-| 14    | An enormous scale, perhaps from a dragon                                                                    |
-| 15    | A bright-green feather                                                                                      |
-| 16    | An old divination card bearing your likeness                                                                |
-| 17    | A glass orb filled with moving smoke                                                                        |
-| 18    | A 1-pound egg with a bright-red shell                                                                       |
-| 19    | A pipe that blows bubbles                                                                                   |
-| 20    | A glass jar containing a bit of flesh floating in pickling fluid                                            |
-| 21    | A gnome-crafted music box that plays a song you dimly remember from your childhood                          |
-| 22    | A wooden statuette of a smug halfling                                                                       |
-| 23    | A brass orb etched with strange runes                                                                       |
-| 24    | A multicolored stone disk                                                                                   |
-| 25    | A silver icon of a raven                                                                                    |
-| 26    | A bag containing forty-seven teeth, one of which is rotten                                                  |
-| 27    | A shard of obsidian that always feels warm to the touch                                                     |
-| 28    | A dragon's talon strung on a leather necklace                                                               |
-| 29    | A pair of old socks                                                                                         |
-| 30    | A blank book whose pages refuse to hold ink, chalk, graphite, or any other marking                          |
-| 31    | A silver badge that is a five-pointed star                                                                  |
-| 32    | A knife that belonged to a relative                                                                         |
-| 33    | A glass vial filled with nail clippings                                                                     |
-| 34    | A rectangular metal device with two tiny metal cups on one end that throws sparks when wet                  |
-| 35    | A white, sequined glove sized for a human                                                                   | 
-| 36    | A vest with one hundred tiny pockets                                                                        |
-| 37    | A weightless stone                                                                                          |
-| 38    | A sketch of a goblin                                                                                        |
-| 39    | An empty glass vial that smells of perfume                                                                  | 
-| 40    | A gemstone that looks like a lump of coal when examined by anyone but you                                   |
-| 41    | A scrap of cloth from an old banner                                                                         |
-| 42    | A rank insignia from a lost legionnaire                                                                     |
-| 43    | A silver bell without a clapper                                                                             |
-| 44    | A mechanical canary inside a lamp                                                                           |
-| 45    | A miniature chest carved to look like it has nu merous feet on the bottom                                   |
-| 46    | A dead sprite inside a clear glass bottle                                                                   |
-| 47    | A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice) |
-| 48    | A glass orb filled with water, in which swims a clockwork goldfish                                          |
-| 49    | A silver spoon with an M engraved on the handle                                                             |
-| 50    | A whistle made from gold-colored wood                                                                       |
-| 51    | A dead scarab beetle the size of your hand                                                                  |
-| 52    | Two toy soldiers, one missing a head                                                                        |
-| 53    | A small box filled with different-sized buttons                                                             |
-| 54    | A candle that can't be lit                                                                                  |
-| 55    | A miniature cage with no door                                                                               |
-| 56    | An old key                                                                                                  |
-| 57    | An indecipherable treasure map                                                                              |
-| 58    | A hilt from a broken sword                                                                                  |
-| 59    | A rabbit's foot                                                                                             |
-| 60    | A glass eye                                                                                                 |
-| 61    | A cameo of a hideous person                                                                                 |
-| 62    | A silver skull the size of a coin                                                                           |
-| 63    | An alabaster mask                                                                                           |
-| 64    | A cone of sticky black incense that stinks                                                                  |
-| 65    | A nightcap that gives you pleasant dreams when you wear it                                                  |
-| 66    | A single caltrop made from bone                                                                             |
-| 67    | A gold monocle frame without the lens                                                                       |
-| 68    | A 1-inch cube, each side a different color                                                                  |
-| 69    | A crystal doorknob                                                                                          |
-| 70    | A packet filled with pink dust                                                                              |
-| 71    | A fragment of a beautiful song, written as mu sical notes on two pieces of parchment                        |
-| 72    | A silver teardrop earring containing a real teardrop                                                        |
-| 73    | An eggshell painted with scenes of misery in disturbing detail                                              |
-| 74    | A fan that, when unfolded, shows a sleepy cat                                                               |
-| 75    | A set of bone pipes                                                                                         |
-| 76    | A four-leaf clover pressed inside a book discussing manners and etiquette                                   |
-| 77    | A sheet of parchment upon which is drawn a mechanical contraption                                           |
-| 78    | An ornate scabbard that fits no blade you have found                                                        |
-| 79    | An invitation to a party where a murder happened                                                            |
-| 80    | A bronze pentacle with an etching of a rat's head in its center                                             |
-| 81    | A purple handkerchief embroidered with the name of an archmage                                              |
-| 82    | Half a floor plan for a temple, a castle, or another structure                                              |
-| 83    | A bit of folded cloth that, when unfolded, turns into a stylish cap                                         |
-| 84    | A receipt of deposit at a bank in a far-off city                                                            |
-| 85    | A diary with seven missing pages                                                                            |
-| 86    | An empty silver snuffbox bearing the inscription "dreams" on its lid                                        |
-| 87    | An iron holy symbol devoted to an unknown god                                                               |
-| 88    | A book about a legendary hero's rise and fall, with the last chapter missing                                |
-| 89    | A vial of dragon blood                                                                                      |
-| 90    | An ancient arrow of elven design                                                                            |
-| 91    | A needle that never bends                                                                                   |
-| 92    | An ornate brooch of dwarven design                                                                          |
-| 93    | An empty wine bottle bearing a pretty label that says, "The Wizard of Wines Winery, Red Dragon Crush, 331422-W" |
-| 94    | A mosaic tile with a multicolored, glazed surface                                                           |
-| 95    | A petrified mouse                                                                                           |
-| 96    | A black pirate flag adorned with a dragon's skull and crossbones                                            |
-| 97    | A tiny mechanical crab or spider that moves about when it's not being observed                              |
-| 98    | A glass jar containing lard with a label that reads, "Griffon Grease"                                       |
-| 99    | A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body             |
-| 00    | A metal urn containing the ashes of a hero                                                                  |
-
+| 1d100 | Безделушка                                                                                                 |
+|-------|-----------------------------------------------------------------------------------------------------------|
+| 01    | Мумифицированная рука гоблина                                                                              |
+| 02    | Кристалл, слабо светящийся в лунном свете                                                                  |
+| 03    | Золотая монета, отчеканенная в неизвестной стране                                                          |
+| 04    | Дневник, написанный на неизвестном вам языке                                                               |
+| 05    | Латунное кольцо, которое никогда не тускнеет                                                               |
+| 06    | Старая шахматная фигура из стекла                                                                          |
+| 07    | Пара игральных костей из суставов, на каждой вместо шестёрки — символ черепа                               |
+| 08    | Маленький идол кошмарного существа, от которого вам снятся тревожные сны, когда вы спите рядом             |
+| 09    | Локон чьих-то волос                                                                                        |
+| 10    | Документ на участок земли в неизвестном вам королевстве                                                    |
+| 11    | Блок весом в 1 унцию из неизвестного материала                                                             |
+| 12    | Маленькая тряпичная кукла, проткнутая иголками                                                             |
+| 13    | Зуб неизвестного зверя                                                                                     |
+| 14    | Огромная чешуя, возможно от дракона                                                                        |
+| 15    | Ярко-зелёное перо                                                                                          |
+| 16    | Старая гадальная карта с вашим изображением                                                                |
+| 17    | Стеклянный шар, наполненный движущимся дымом                                                               |
+| 18    | Яйцо весом в 1 фунт с ярко-красной скорлупой                                                               |
+| 19    | Трубка, пускающая мыльные пузыри                                                                           |
+| 20    | Стеклянная банка с кусочком плоти, плавающим в маринаде                                                    |
+| 21    | Музыкальная шкатулка гномьей работы, играющая мелодию, которую вы смутно помните из детства                |
+| 22    | Деревянная статуэтка самодовольного полурослика                                                            |
+| 23    | Латунный шар, покрытый странными рунами                                                                    |
+| 24    | Разноцветный каменный диск                                                                                 |
+| 25    | Серебряная иконка ворона                                                                                   |
+| 26    | Мешочек с сорока семью зубами, один из которых гнилой                                                      |
+| 27    | Осколок обсидиана, всегда тёплый на ощупь                                                                  |
+| 28    | Драконий коготь на кожаном шнурке                                                                          |
+| 29    | Пара старых носков                                                                                         |
+| 30    | Чистая книга, страницы которой не держат чернила, мел, графит или любые другие отметки                     |
+| 31    | Серебряный значок в виде пятиконечной звезды                                                               |
+| 32    | Нож, принадлежавший родственнику                                                                           |
+| 33    | Стеклянный пузырёк с обрезками ногтей                                                                      |
+| 34    | Прямоугольное металлическое устройство с двумя маленькими металлическими чашечками на одном конце, искрящее при намокании |
+| 35    | Белая блестящая перчатка человеческого размера                                                             |
+| 36    | Жилет с сотней крошечных карманов                                                                          |
+| 37    | Камень без веса                                                                                            |
+| 38    | Рисунок гоблина                                                                                            |
+| 39    | Пустой стеклянный пузырёк, пахнущий духами                                                                 |
+| 40    | Драгоценный камень, похожий на кусок угля для всех, кроме вас                                              |
+| 41    | Лоскут ткани от старого знамени                                                                            |
+| 42    | Знак отличия потерянного легионера                                                                         |
+| 43    | Серебряный колокольчик без языка                                                                           |
+| 44    | Механическая канарейка внутри лампы                                                                        |
+| 45    | Миниатюрный сундучок, вырезанный так, будто у него множество ножек на дне                                  |
+| 46    | Мёртвая фея в прозрачной стеклянной бутылке                                                                |
+| 47    | Металлическая банка без отверстия, издающая звук, будто наполнена жидкостью, песком, пауками или битым стеклом (на ваш выбор) |
+| 48    | Стеклянный шар с водой, в котором плавает заводная золотая рыбка                                           |
+| 49    | Серебряная ложка с буквой М на ручке                                                                       |
+| 50    | Свисток из дерева золотистого цвета                                                                        |
+| 51    | Мёртвый жук-скарабей размером с вашу ладонь                                                                |
+| 52    | Два игрушечных солдатика, один без головы                                                                  |
+| 53    | Маленькая коробочка с пуговицами разных размеров                                                           |
+| 54    | Свеча, которую нельзя зажечь                                                                               |
+| 55    | Миниатюрная клетка без дверцы                                                                              |
+| 56    | Старый ключ                                                                                                |
+| 57    | Неразборчивая карта сокровищ                                                                               |
+| 58    | Рукоять сломанного меча                                                                                    |
+| 59    | Кроличья лапка                                                                                             |
+| 60    | Стеклянный глаз                                                                                            |
+| 61    | Камея с изображением уродливого человека                                                                   |
+| 62    | Серебряный череп размером с монету                                                                         |
+| 63    | Алебастровая маска                                                                                         |
+| 64    | Конус липкого чёрного благовония с отвратительным запахом                                                  |
+| 65    | Ночной колпак, дающий приятные сны                                                                         |
+| 66    | Единственный шип из кости                                                                                  |
+| 67    | Золотая оправа монокля без линзы                                                                           |
+| 68    | Кубик 1 дюйм, каждая сторона разного цвета                                                                 |
+| 69    | Хрустальная дверная ручка                                                                                  |
+| 70    | Пакетик с розовой пылью                                                                                    |
+| 71    | Фрагмент прекрасной песни, записанной нотами на двух листах пергамента                                     |
+| 72    | Серебряная серьга-слеза с настоящей слезой внутри                                                          |
+| 73    | Яичная скорлупа, расписанная сценами страданий в тревожных деталях                                         |
+| 74    | Веер, при раскрытии показывающий сонного кота                                                              |
+| 75    | Набор костяных свирелей                                                                                    |
+| 76    | Четырёхлистный клевер, засушенный в книге о манерах и этикете                                              |
+| 77    | Лист пергамента с чертежом механического устройства                                                        |
+| 78    | Богато украшенные ножны, не подходящие ни к одному найденному вами клинку                                  |
+| 79    | Приглашение на вечеринку, где произошло убийство                                                           |
+| 80    | Бронзовая пентаграмма с гравировкой крысиной головы в центре                                               |
+| 81    | Пурпурный платок с вышитым именем архимага                                                                 |
+| 82    | Половина плана этажа храма, замка или другого строения                                                     |
+| 83    | Кусок сложенной ткани, при разворачивании превращающийся в стильную шляпу                                  |
+| 84    | Квитанция о вкладе в банке далёкого города                                                                 |
+| 85    | Дневник с семью отсутствующими страницами                                                                  |
+| 86    | Пустая серебряная табакерка с надписью «мечты» на крышке                                                   |
+| 87    | Железный священный символ неизвестного бога                                                                |
+| 88    | Книга о взлёте и падении легендарного героя с отсутствующей последней главой                               |
+| 89    | Пузырёк с кровью дракона                                                                                   |
+| 90    | Древняя стрела эльфийской работы                                                                           |
+| 91    | Игла, которая никогда не гнётся                                                                            |
+| 92    | Богато украшенная брошь дварфской работы                                                                   |
+| 93    | Пустая бутылка вина с красивой этикеткой «Винодельня Волшебника Вин, Красный Дракон, 331422-W»             |
+| 94    | Мозаичная плитка с разноцветной глазурованной поверхностью                                                 |
+| 95    | Окаменевшая мышь                                                                                           |
+| 96    | Чёрный пиратский флаг с черепом дракона и скрещёнными костями                                              |
+| 97    | Крошечный механический краб или паук, двигающийся, когда за ним не наблюдают                               |
+| 98    | Стеклянная банка с салом и этикеткой «Грифоний жир»                                                        |
+| 99    | Деревянная коробка с керамическим дном, в которой живёт червяк с головой на каждом конце тела              |
+| 00    | Металлическая урна с прахом героя                                                                          |

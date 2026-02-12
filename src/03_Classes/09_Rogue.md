@@ -1,193 +1,193 @@
-## Rogue
+## Плут
 
-Table: Core Rogue Traits
+Таблица: Основные черты плута
 
 |                            |                                                                                                     |
 |----------------------------|-----------------------------------------------------------------------------------------------------|
-| Primary Ability            | Dexterity                                                                                           |
-| Hit Point Die              | D8 per Rogue level                                                                                  |
-| Saving Throw Proficiencies | Dexterity and Intelligence                                                                          |
-| Skill Proficiencies        | Choose 4: Acrobatics, Ath letics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |
-| Weapon Proficiencies       | Simple weapons and Martial weapons that have the Finesse or Light property                          |
-| Tool Proficiencies         | Thieves' Tools                                                                                      |
-| Armor Training             | Light armor                                                                                         |
-| Starting Equipment         | Choose A or B: (A) Leather Ar mor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |
+| Основная характеристика    | Ловкость                                                                                            |
+| Кость Хитов                | d8 за каждый уровень плута                                                                          |
+| Владение спасбросками      | Ловкость и Интеллект                                                                                |
+| Владение навыками          | Выберите 4: Акробатика, Атлетика, Обман, Проницательность, Запугивание, Анализ, Внимательность, Убеждение, Ловкость рук или Скрытность |
+| Владение оружием           | Простое оружие и воинское оружие со свойством Фехтовальное или Лёгкое                               |
+| Владение инструментами     | Воровские инструменты                                                                               |
+| Владение доспехами         | Лёгкие доспехи                                                                                      |
+| Начальное снаряжение       | Выберите А или Б: (А) Кожаные доспехи, 2 кинжала, короткий меч, короткий лук, 20 стрел, колчан, воровские инструменты, набор взломщика и 8 зм; или (Б) 100 зм |
 
-### Becoming a Rogue …
+### Как стать плутом…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Rogue Traits table.
-- Gain the Rogue's level 1 features, which are listed in the Rogue Features table.
+- Получите все черты из таблицы Основные черты плута.
+- Получите умения плута 1-го уровня, перечисленные в таблице Умения плута.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the following traits from the Core Rogue Traits table: Hit Point Die, proficiency in one skill of your choice from the Rogue's skill list, proficiency with Thieves' Tools, and training with Light armor.
-- Gain the Rogue's level 1 features, which are listed in the Rogue Features table.
+- Получите следующие черты из таблицы Основные черты плута: Кость Хитов, владение одним навыком на ваш выбор из списка навыков плута, владение воровскими инструментами и владение лёгкими доспехами.
+- Получите умения плута 1-го уровня, перечисленные в таблице Умения плута.
 
-### Rogue Class Features
+### Умения плута
 
-As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
+Как плут, вы получаете следующие классовые умения, когда достигаете указанных уровней плута. Эти умения перечислены в таблице Умения плута.
 
-Table: Rogue Features
+Таблица: Умения плута
 
-| Level | Proficiency Bonus | Class Features                                         | Sneak Attack |
-|-------|-------------------|--------------------------------------------------------|--------------|
-| 1     | +2                | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery | 1d6          |
-| 2     | +2                | Cunning Action                                         | 1d6          |
-| 3     | +2                | Rogue Subclass, Steady Aim                             | 2d6          |
-| 4     | +2                | Ability Score Improvement                              | 2d6          |
-| 5     | +3                | Cunning Strike, Uncanny Dodge                          | 3d6          |
-| 6     | +3                | Expertise                                              | 3d6          |
-| 7     | +3                | Evasion, Reliable Talent                               | 4d6          |
-| 8     | +3                | Ability Score Improvement                              | 4d6          |
-| 9     | +4                | Subclass feature                                       | 5d6          |
-| 10    | +4                | Ability Score Improvement                              | 5d6          |
-| 11    | +4                | Improved Cunning Strike                                | 6d6          |
-| 12    | +4                | Ability Score Improvement                              | 6d6          |
-| 13    | +5                | Subclass feature                                       | 7d6          |
-| 14    | +5                | Devious Strikes                                        | 7d6          |
-| 15    | +5                | Slippery Mind                                          | 8d6          |
-| 16    | +5                | Ability Score Improvement                              | 8d6          |
-| 17    | +6                | Subclass feature                                       | 9d6          |
-| 18    | +6                | Elusive                                                | 9d6          |
-| 19    | +6                | Epic Boon                                              | 10d6         |
-| 20    | +6                | Stroke of Luck                                         | 10d6         |
+| Уровень | Бонус мастерства | Классовые умения                                               | Скрытая атака |
+|---------|------------------|----------------------------------------------------------------|---------------|
+| 1       | +2               | Экспертиза, Скрытая атака, Воровской жаргон, Мастерство оружия | 1d6           |
+| 2       | +2               | Хитрое действие                                                | 1d6           |
+| 3       | +2               | Подкласс плута, Точный прицел                                  | 2d6           |
+| 4       | +2               | Увеличение характеристик                                       | 2d6           |
+| 5       | +3               | Хитрый удар, Уворот                                            | 3d6           |
+| 6       | +3               | Экспертиза                                                     | 3d6           |
+| 7       | +3               | Уклонение, Надёжный талант                                     | 4d6           |
+| 8       | +3               | Увеличение характеристик                                       | 4d6           |
+| 9       | +4               | Умение подкласса                                               | 5d6           |
+| 10      | +4               | Увеличение характеристик                                       | 5d6           |
+| 11      | +4               | Улучшенный хитрый удар                                         | 6d6           |
+| 12      | +4               | Увеличение характеристик                                       | 6d6           |
+| 13      | +5               | Умение подкласса                                               | 7d6           |
+| 14      | +5               | Коварные удары                                                 | 7d6           |
+| 15      | +5               | Скользкий ум                                                   | 8d6           |
+| 16      | +5               | Увеличение характеристик                                       | 8d6           |
+| 17      | +6               | Умение подкласса                                               | 9d6           |
+| 18      | +6               | Неуловимый                                                     | 9d6           |
+| 19      | +6               | Эпический дар                                                  | 10d6          |
+| 20      | +6               | Удачный удар                                                   | 10d6          |
 
-#### Level 1: Expertise
+#### Уровень 1: Экспертиза
 
-You gain Expertise in two of your skill proficiencies of your choice. Sleight of Hand and Stealth are recommended if you have proficiency in them.
+Вы получаете экспертизу в двух владениях навыками на свой выбор. Рекомендуются Ловкость рук и Скрытность, если вы владеете ими.
 
-At Rogue level 6, you gain Expertise in two more of your skill proficiencies of your choice.
+На 6-м уровне плута вы получаете экспертизу ещё в двух владениях навыками на свой выбор.
 
-#### Level 1: Sneak Attack
+#### Уровень 1: Скрытая атака
 
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
+Вы знаете, как наносить скрытные удары и использовать отвлечённость врага. Один раз в ход вы можете нанести дополнительно 1d6 урона одному существу, по которому вы попали броском атаки, если у вас есть преимущество на бросок и атака использует фехтовальное или дальнобойное оружие. Тип дополнительного урона совпадает с типом урона оружия.
 
-You don't need Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the Incapacitated condition, and you don't have Disadvantage on the attack roll.
+Вам не нужно преимущество на бросок атаки, если хотя бы один из ваших союзников находится в пределах 5 футов от цели, союзник не находится в состоянии Недееспособный, и у вас нет помехи на бросок атаки.
 
-The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
+Дополнительный урон увеличивается по мере получения уровней плута, как показано в столбце Скрытая атака таблицы Умения плута.
 
-#### Level 1: Thieves' Cant
+#### Уровень 1: Воровской жаргон
 
-You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice, which you choose from the language tables in "Character Creation."
+Вы освоили различные языки в сообществах, где применяли свои плутовские таланты. Вы знаете воровской жаргон и один другой язык на свой выбор из таблиц языков в разделе «Создание персонажа».
 
-#### Level 1: Weapon Mastery
+#### Уровень 1: Мастерство оружия
 
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
+Ваша тренировка с оружием позволяет вам использовать свойства мастерства двух видов оружия на ваш выбор, которым вы владеете, например кинжалов и коротких луков.
 
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
+Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете изменить выбор видов оружия. Например, вы можете переключиться на использование свойств мастерства скимитаров и коротких мечей.
 
-#### Level 2: Cunning Action
+#### Уровень 2: Хитрое действие
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
+Ваше быстрое мышление и ловкость позволяют вам действовать и перемещаться быстро. В свой ход вы можете совершить одно из следующих действий как Бонусное действие: Рывок, Отход или Засада.
 
-#### Level 3: Rogue Subclass
+#### Уровень 3: Подкласс плута
 
-You gain a Rogue subclass of your choice. The Thief subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
+Вы получаете подкласс плута на свой выбор. Подкласс Вор описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях плута. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню плута или ниже.
 
-#### Level 3: Steady Aim
+#### Уровень 3: Точный прицел
 
-As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
+Как Бонусное действие, вы получаете преимущество на следующий бросок атаки в текущий ход. Вы можете использовать это умение, только если вы не перемещались в этот ход, и после его использования ваша скорость становится 0 до конца текущего хода.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 10-м, 12-м и 16-м уровнях плута.
 
-#### Level 5: Cunning Strike
+#### Уровень 5: Хитрый удар
 
-You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove 1d6 from the Sneak Attack's damage before rolling.
+Вы разработали хитрые способы использования Скрытой атаки. Когда вы наносите урон Скрытой атакой, вы можете добавить один из следующих эффектов Хитрого удара. Каждый эффект имеет стоимость в костях, то есть количество костей урона Скрытой атаки, от которых вы должны отказаться, чтобы добавить эффект. Вы убираете кость перед броском, и эффект происходит сразу после нанесения урона атакой. Например, если вы добавляете эффект Яд, уберите 1d6 из урона Скрытой атаки перед броском.
 
-If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
+Если эффект Хитрого удара требует спасброска, СЛ равна 8 + ваш модификатор Ловкости + ваш бонус мастерства.
 
-**Poison (Cost: 1d6).** You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success.
+**Яд (Стоимость: 1d6).** Вы добавляете токсин к удару, заставляя цель совершить спасбросок Телосложения. При провале цель получает состояние Отравленный на 1 минуту. В конце каждого своего хода отравленная цель повторяет спасбросок, прекращая эффект на себе при успехе.
 
-To use this effect, you must have a Poisoner's Kit on your person.
+Чтобы использовать этот эффект, у вас должен быть набор отравителя при себе.
 
-**Trip (Cost: 1d6).** If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
+**Подножка (Стоимость: 1d6).** Если цель имеет размер Большой или меньше, она должна преуспеть в спасброске Ловкости или получить состояние Лежащий.
 
-**Withdraw (Cost: 1d6).** Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
+**Отход (Стоимость: 1d6).** Сразу после атаки вы перемещаетесь на расстояние до половины вашей скорости, не провоцируя провоцированных атак.
 
-#### Level 5: Uncanny Dodge
+#### Уровень 5: Уворот
 
-When an attacker that you can see hits you with an attack roll, you can take a Reaction to halve the attack's damage against you (round down).
+Когда атакующий, которого вы видите, попадает по вам броском атаки, вы можете использовать Реакцию, чтобы уменьшить урон атаки по вам вдвое (с округлением вниз).
 
-#### Level 7: Evasion
+#### Уровень 7: Уклонение
 
-You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
+Вы можете ловко уклоняться от определённых опасностей. Когда вы подвергаетесь эффекту, позволяющему совершить спасбросок Ловкости, чтобы получить только половину урона, вы вместо этого не получаете урона при успешном спасброске и получаете только половину урона при провале. Вы не можете использовать это умение, если находитесь в состоянии Недееспособный.
 
-#### Level 7: Reliable Talent
+#### Уровень 7: Надёжный талант
 
-Whenever you make an ability check that uses one of your skill or tool proficiencies, you can treat a d20 roll of 9 or lower as a 10.
+Каждый раз, когда вы совершаете проверку характеристики, использующую одно из владений навыками или инструментами, вы можете считать результат d20 равным 9 или меньше как 10.
 
-#### Level 11: Improved Cunning Strike
+#### Уровень 11: Улучшенный хитрый удар
 
-You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
+Вы можете использовать до двух эффектов Хитрого удара, когда наносите урон Скрытой атакой, оплачивая стоимость в костях за каждый эффект.
 
-#### Level 14: Devious Strikes
+#### Уровень 14: Коварные удары
 
-You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
+Вы отработали новые способы коварного использования Скрытой атаки. Следующие эффекты теперь входят в ваши опции Хитрого удара.
 
-**Daze (Cost: 2d6).** The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a Bonus Action.
+**Оглушение (Стоимость: 2d6).** Цель должна преуспеть в спасброске Телосложения, или в свой следующий ход она может делать только одно из следующего: перемещаться, совершать действие или совершать Бонусное действие.
 
-**Knock Out (Cost: 6d6).** The target must succeed on a Constitution saving throw, or it has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+**Нокаут (Стоимость: 6d6).** Цель должна преуспеть в спасброске Телосложения, или она получает состояние Без сознания на 1 минуту или пока не получит какой-либо урон. Цель без сознания повторяет спасбросок в конце каждого своего хода, прекращая эффект на себе при успехе.
 
-**Obscure (Cost: 3d6).** The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
+**Ослепление (Стоимость: 3d6).** Цель должна преуспеть в спасброске Ловкости, или она получает состояние Ослеплённый до конца своего следующего хода.
 
-#### Level 15: Slippery Mind
+#### Уровень 15: Скользкий ум
 
-Your cunning mind is exceptionally difficult to control. You gain proficiency in Wisdom and Charisma saving throws.
+Ваш хитрый разум исключительно трудно контролировать. Вы получаете владение спасбросками Мудрости и Харизмы.
 
-#### Level 18: Elusive
+#### Уровень 18: Неуловимый
 
-You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have Advantage against you unless you have the Incapacitated condition.
+Вы настолько уклончивы, что атакующие редко получают преимущество против вас. Никакой бросок атаки не может иметь преимущество против вас, если вы не находитесь в состоянии Недееспособный.
 
-#### Level 19: Epic Boon
+#### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар духа ночи.
 
-#### Level 20: Stroke of Luck
+#### Уровень 20: Удачный удар
 
-You have a marvelous knack for succeeding when you need to. If you fail a D20 Test, you can turn the roll into a 20.
+У вас замечательная способность преуспевать, когда это необходимо. Если вы проваливаете проверку d20, вы можете превратить результат в 20.
 
-Once you use this feature, you can't use it again until you finish a Short or Long Rest.
+После использования этого умения вы не можете использовать его снова, пока не закончите короткий или продолжительный отдых.
 
-### Rogue Subclass: Thief
+### Подкласс плута: Вор
 
-*Hunt for Treasure as a Classic Adventurer*
+*Охота за сокровищами как классический искатель приключений*
 
-A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
+Сочетание взломщика, охотника за сокровищами и исследователя — вы воплощение искателя приключений. Помимо улучшения ловкости и скрытности, вы получаете способности, полезные для исследования руин и получения максимальной пользы от найденных там магических предметов.
 
-#### Level 3: Fast Hands
+#### Уровень 3: Ловкие руки
 
-As a Bonus Action, you can do one of the following.
+Как Бонусное действие, вы можете сделать одно из следующего.
 
-**Sleight of Hand.** Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with Thieves' Tools or to pick a pocket.
+**Ловкость рук.** Совершите проверку Ловкости (Ловкость рук), чтобы вскрыть замок или обезвредить ловушку с помощью воровских инструментов или чтобы залезть в карман.
 
-**Use an Object.** Take the Utilize action, or take the Magic action to use a magic item that requires that action.
+**Использовать предмет.** Совершите действие Использование или Магическое действие, чтобы использовать магический предмет, требующий этого действия.
 
-#### Level 3: Second-Story Work
+#### Уровень 3: Работа на высоте
 
-You've trained to get into especially hard-to-reach places, granting you these benefits.
+Вы натренировались проникать в особенно труднодоступные места, что даёт следующие преимущества.
 
-**Climber.** You gain a Climb Speed equal to your Speed.
+**Скалолаз.** Вы получаете скорость лазания, равную вашей скорости.
 
-**Jumper.** You can determine your jump distance using your Dexterity rather than your Strength.
+**Прыгун.** Вы можете определять дистанцию прыжка, используя Ловкость вместо Силы.
 
-#### Level 9: Supreme Sneak
+#### Уровень 9: Превосходная скрытность
 
-You gain the following Cunning Strike option. *Stealth Attack (Cost: 1d6).* If you have the Hide action's Invisible condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
+Вы получаете следующую опцию Хитрого удара. *Скрытная атака (Стоимость: 1d6).* Если у вас есть состояние Невидимый от действия Засада, эта атака не прекращает это состояние на вас, если вы заканчиваете ход за укрытием на три четверти или полным укрытием.
 
-#### Level 13: Use Magic Device
+#### Уровень 13: Использование магических устройств
 
-You've learned how to maximize use of magic items, granting you the following benefits.
+Вы научились максимально использовать магические предметы, получая следующие преимущества.
 
-**Attunement.** You can attune to up to four magic items at once.
+**Настройка.** Вы можете настроиться на четыре магических предмета одновременно.
 
-**Charges.** Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.
+**Заряды.** Каждый раз, когда вы используете свойство магического предмета, расходующее заряды, бросьте 1d6. При результате 6 вы используете свойство без траты зарядов.
 
-**Scrolls.** You can use any *Spell Scroll*, using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+**Свитки.** Вы можете использовать любой *Свиток заклинания*, используя Интеллект как базовую характеристику для заклинания. Если заклинание является заговором или заклинанием 1-го уровня, вы можете сотворить его надёжно. Если свиток содержит заклинание более высокого уровня, вы должны сначала преуспеть в проверке Интеллекта (Магия) (СЛ 10 + уровень заклинания). При успехе вы творите заклинание со свитка. При провале свиток рассыпается.
 
-### Level 17: Thief's Reflexes
+### Уровень 17: Рефлексы вора
 
-You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.
+Вы мастер в устройстве засад и быстром уходе от опасности. Вы можете совершить два хода в течение первого раунда любого боя. Вы совершаете первый ход при вашей обычной инициативе, а второй ход — при вашей инициативе минус 10.

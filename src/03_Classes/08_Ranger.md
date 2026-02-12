@@ -1,263 +1,263 @@
-## Ranger
+## Следопыт
 
-Table: Core Ranger Traits
+Таблица: Основные черты следопыта
 
 |                            |                                                                                                  |
 |----------------------------|--------------------------------------------------------------------------------------------------|
-| Primary Ability            | Dexterity and Wisdom                                                                             |
-| Hit Point Die              | D10 per Ranger level                                                                             |
-| Saving Throw Proficiencies | Strength and Dexterity                                                                           |
-| Skill Proficiencies        | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
-| Weapon Proficiencies       | Simple and Martial weapons                                                                       |
-| Armor Training             | Light and Medium armor and Shields                                                               |
-| Starting Equipment         | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Ar rows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP |
+| Основная характеристика    | Ловкость и Мудрость                                                                              |
+| Кость Хитов                | d10 за каждый уровень следопыта                                                                  |
+| Владение спасбросками      | Сила и Ловкость                                                                                  |
+| Владение навыками          | Выберите 3: Уход за животными, Атлетика, Проницательность, Анализ, Природа, Внимательность, Скрытность или Выживание |
+| Владение оружием           | Простое и воинское оружие                                                                        |
+| Владение доспехами         | Лёгкие и средние доспехи, щиты                                                                   |
+| Начальное снаряжение       | Выберите А или Б: (А) Проклёпанный кожаный доспех, скимитар, короткий меч, длинный лук, 20 стрел, колчан, фокусировка друида (веточка омелы), набор путешественника и 7 зм; или (Б) 150 зм |
 
-### Becoming a Ranger …
+### Как стать следопытом…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Ranger Traits table.
-- Gain the Ranger's level 1 features, which are listed in the Ranger Features table.
+- Получите все черты из таблицы Основные черты следопыта.
+- Получите умения следопыта 1-го уровня, перечисленные в таблице Умения следопыта.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger's skill list, and training with Light and Medium armor and Shields.
-- Gain the Ranger's level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
+- Получите следующие черты из таблицы Основные черты следопыта: Кость Хитов, владение воинским оружием, владение одним навыком на ваш выбор из списка навыков следопыта и владение лёгкими и средними доспехами, а также щитами.
+- Получите умения следопыта 1-го уровня, перечисленные в таблице Умения следопыта. Смотрите правила мультиклассирования в разделе «Создание персонажа», чтобы определить доступные ячейки заклинаний.
 
-### Ranger Class Features
+### Умения следопыта
 
-As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
+Как следопыт, вы получаете следующие классовые умения, когда достигаете указанных уровней следопыта. Эти умения перечислены в таблице Умения следопыта.
 
-Table: Ranger Features: —Spell Slots per Spell Level—
+Таблица: Умения следопыта: —Ячейки заклинаний по уровням—
 
-| Level | Proficiency Bonus | Class Features                                 | Favored Enemy | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
-|-------|-------------------|------------------------------------------------|---------------|-----------------|---|---|---|---|---|
-| 1     | +2                | Spellcasting, Favored Enemy, Weapon Mastery    | 2             | 2               | 2 | — | — | — | — |
-| 2     | +2                | Deft Explorer, Fighting Style                  | 2             | 3               | 2 | — | — | — | — |
-| 3     | +2                | Ranger Subclass                                | 2             | 4               | 3 | — | — | — | — |
-| 4     | +2                | Ability Score Improvement                      | 2             | 5               | 3 | — | — | — | — |
-| 5     | +3                | Extra Attack                                   | 3             | 6               | 4 | 2 | — | — | — |
-| 6     | +3                | Roving                                         | 3             | 6               | 4 | 2 | — | — | — |
-| 7     | +3                | Subclass feature                               | 3             | 7               | 4 | 3 | — | — | — |
-| 8     | +3                | Ability Score Improvement                      | 3             | 7               | 4 | 3 | — | — | — |
-| 9     | +4                | Expertise                                      | 4             | 9               | 4 | 3 | 2 | — | — |
-| 10    | +4                | Tireless                                       | 4             | 9               | 4 | 3 | 2 | — | — |
-| 11    | +4                | Subclass feature                               | 4             | 10              | 4 | 3 | 3 | — | — |
-| 12    | +4                | Ability Score Improvement                      | 4             | 10              | 4 | 3 | 3 | — | — |
-| 13    | +5                | Relentless Hunter                              | 5             | 11              | 4 | 3 | 3 | 1 | — |
-| 14    | +5                | Nature's Veil                                  | 5             | 11              | 4 | 3 | 3 | 1 | — |
-| 15    | +5                | Subclass feature                               | 5             | 12              | 4 | 3 | 3 | 2 | — |
-| 16    | +5                | Ability Score Improvement                      | 5             | 12              | 4 | 3 | 3 | 2 | — |
-| 17    | +6                | Precise Hunter                                 | 6             | 14              | 4 | 3 | 3 | 3 | 1 |
-| 18    | +6                | Feral Senses                                   | 6             | 14              | 4 | 3 | 3 | 3 | 1 |
-| 19    | +6                | Epic Boon                                      | 6             | 15              | 4 | 3 | 3 | 3 | 2 |
-| 20    | +6                | Foe Slayer                                     | 6             | 15              | 4 | 3 | 3 | 3 | 2 |
+| Уровень | Бонус мастерства | Классовые умения                                          | Избранный враг | Подготовленные заклинания | 1 | 2 | 3 | 4 | 5 |
+|---------|------------------|-----------------------------------------------------------|----------------|---------------------------|---|---|---|---|---|
+| 1       | +2               | Использование заклинаний, Избранный враг, Мастерство оружия | 2            | 2                         | 2 | — | — | — | — |
+| 2       | +2               | Умелый исследователь, Боевой стиль                        | 2              | 3                         | 2 | — | — | — | — |
+| 3       | +2               | Подкласс следопыта                                        | 2              | 4                         | 3 | — | — | — | — |
+| 4       | +2               | Увеличение характеристик                                  | 2              | 5                         | 3 | — | — | — | — |
+| 5       | +3               | Дополнительная атака                                      | 3              | 6                         | 4 | 2 | — | — | — |
+| 6       | +3               | Странник                                                  | 3              | 6                         | 4 | 2 | — | — | — |
+| 7       | +3               | Умение подкласса                                          | 3              | 7                         | 4 | 3 | — | — | — |
+| 8       | +3               | Увеличение характеристик                                  | 3              | 7                         | 4 | 3 | — | — | — |
+| 9       | +4               | Экспертиза                                                | 4              | 9                         | 4 | 3 | 2 | — | — |
+| 10      | +4               | Неутомимый                                                | 4              | 9                         | 4 | 3 | 2 | — | — |
+| 11      | +4               | Умение подкласса                                          | 4              | 10                        | 4 | 3 | 3 | — | — |
+| 12      | +4               | Увеличение характеристик                                  | 4              | 10                        | 4 | 3 | 3 | — | — |
+| 13      | +5               | Неумолимый охотник                                        | 5              | 11                        | 4 | 3 | 3 | 1 | — |
+| 14      | +5               | Покров природы                                            | 5              | 11                        | 4 | 3 | 3 | 1 | — |
+| 15      | +5               | Умение подкласса                                          | 5              | 12                        | 4 | 3 | 3 | 2 | — |
+| 16      | +5               | Увеличение характеристик                                  | 5              | 12                        | 4 | 3 | 3 | 2 | — |
+| 17      | +6               | Точный охотник                                            | 6              | 14                        | 4 | 3 | 3 | 3 | 1 |
+| 18      | +6               | Дикие чувства                                             | 6              | 14                        | 4 | 3 | 3 | 3 | 1 |
+| 19      | +6               | Эпический дар                                             | 6              | 15                        | 4 | 3 | 3 | 3 | 2 |
+| 20      | +6               | Убийца врагов                                             | 6              | 15                        | 4 | 3 | 3 | 3 | 2 |
 
-#### Level 1: Spellcasting
+#### Уровень 1: Использование заклинаний
 
-You have learned to channel the magical essence of nature to cast spells. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class's description.
+Вы научились направлять магическую сущность природы для сотворения заклинаний. Смотрите раздел «Заклинания» для правил использования заклинаний. Информация ниже описывает, как вы используете эти правила с заклинаниями следопыта, которые приведены в списке заклинаний следопыта далее в описании класса.
 
-**Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Ячейки заклинаний.** Таблица Умения следопыта показывает, сколько у вас есть ячеек заклинаний для сотворения заклинаний 1-го уровня и выше. Вы восстанавливаете все потраченные ячейки, когда заканчиваете продолжительный отдых.
 
-**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. *Cure Wounds* and *Ensnaring Strike* are recommended.
+**Подготовленные заклинания 1-го уровня и выше.** Вы подготавливаете список заклинаний 1-го уровня и выше, которые доступны вам для сотворения с помощью этого умения. Для начала выберите два заклинания следопыта 1-го уровня. Рекомендуются *Лечение ран* и *Опутывающий удар*.
 
-The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
+Количество заклинаний в вашем списке увеличивается по мере получения уровней следопыта, как показано в столбце Подготовленные заклинания таблицы Умения следопыта. Каждый раз, когда это число увеличивается, выбирайте дополнительные заклинания следопыта, пока количество заклинаний в вашем списке не сравняется с числом в таблице Умения следопыта. Выбранные заклинания должны быть того уровня, для которого у вас есть ячейки заклинаний. Например, если вы следопыт 5-го уровня, ваш список подготовленных заклинаний может включать шесть заклинаний следопыта 1-го или 2-го уровня в любой комбинации.
 
-If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
+Если другое умение следопыта даёт вам заклинания, которые вы всегда держите подготовленными, эти заклинания не учитываются в количестве заклинаний, которые вы можете подготовить с помощью этого умения, но в остальном считаются заклинаниями следопыта для вас.
 
-**Changing Your Prepared Spells.** Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
+**Изменение подготовленных заклинаний.** Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете заменить одно заклинание в своём списке другим заклинанием следопыта, для которого у вас есть ячейки заклинаний.
 
-**Spellcasting Ability.** Wisdom is your spellcasting ability for your Ranger spells.
+**Базовая характеристика заклинаний.** Мудрость является вашей базовой характеристикой для заклинаний следопыта.
 
-**Spellcasting Focus.** You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
+**Фокусировка заклинаний.** Вы можете использовать фокусировку друида в качестве фокусировки для заклинаний следопыта.
 
-#### Level 1: Favored Enemy
+#### Уровень 1: Избранный враг
 
-You always have the *Hunter's Mark* spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+У вас всегда подготовлено заклинание *Метка охотника*. Вы можете сотворить его дважды без траты ячейки заклинания и восстанавливаете все потраченные использования этой способности, когда заканчиваете продолжительный отдых.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
+Количество раз, которое вы можете сотворить заклинание без ячейки заклинания, увеличивается, когда вы достигаете определённых уровней следопыта, как показано в столбце Избранный враг таблицы Умения следопыта.
 
-#### Level 1: Weapon Mastery
+#### Уровень 1: Мастерство оружия
 
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
+Ваша тренировка с оружием позволяет вам использовать свойства мастерства двух видов оружия на ваш выбор, которым вы владеете, например длинных луков и коротких мечей.
 
-Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
+Каждый раз, когда вы заканчиваете продолжительный отдых, вы можете изменить выбор видов оружия. Например, вы можете переключиться на использование свойств мастерства скимитаров и длинных мечей.
 
-#### Level 2: Deft Explorer
+#### Уровень 2: Умелый исследователь
 
-Thanks to your travels, you gain the following benefits.
+Благодаря вашим путешествиям вы получаете следующие преимущества.
 
-**Expertise.** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
+**Экспертиза.** Выберите одно из владений навыками, в котором у вас нет экспертизы. Вы получаете экспертизу в этом навыке.
 
-**Languages.** You know two languages of your choice from the language tables in "Character Creation."
+**Языки.** Вы знаете два языка на свой выбор из таблиц языков в разделе «Создание персонажа».
 
-#### Level 2: Fighting Style
+#### Уровень 2: Боевой стиль
 
-You gain a Fighting Style feat of your choice (see "Feats"). Instead of choosing one of those feats, you can choose the option below.
+Вы получаете черту Боевой стиль на свой выбор (смотрите раздел «Черты»). Вместо выбора одной из этих черт вы можете выбрать опцию ниже.
 
-**Druidic Warrior.** You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). *Guidance* and *Starry Wisp* are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+**Воин-друид.** Вы узнаёте два заговора друида на свой выбор (смотрите раздел класса Друид для списка заклинаний друида). Рекомендуются *Указание* и *Звёздный огонёк*. Выбранные заговоры считаются заклинаниями следопыта для вас, и Мудрость является вашей базовой характеристикой для них. Каждый раз, когда вы получаете уровень следопыта, вы можете заменить один из этих заговоров другим заговором друида.
 
-#### Level 3: Ranger Subclass
+#### Уровень 3: Подкласс следопыта
 
-You gain a Ranger subclass of your choice. The Hunter subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
+Вы получаете подкласс следопыта на свой выбор. Подкласс Охотник описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях следопыта. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню следопыта или ниже.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях следопыта.
 
-#### Level 5: Extra Attack
+#### Уровень 5: Дополнительная атака
 
-You can attack twice instead of once whenever you take the Attack action on your turn.
+Вы можете атаковать дважды вместо одного раза, каждый раз, когда совершаете действие Атака в свой ход.
 
-#### Level 6: Roving
+#### Уровень 6: Странник
 
-Your Speed increases by 10 feet while you aren't wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
+Ваша скорость увеличивается на 10 футов, пока вы не носите тяжёлые доспехи. Вы также получаете скорость лазания и скорость плавания, равную вашей скорости.
 
-#### Level 9: Expertise
+#### Уровень 9: Экспертиза
 
-Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.
+Выберите два из владений навыками, в которых у вас нет экспертизы. Вы получаете экспертизу в этих навыках.
 
-#### Level 10: Tireless
+#### Уровень 10: Неутомимый
 
-Primal forces now help fuel you on your journeys, granting you the following benefits.
+Первобытные силы теперь помогают питать вас в путешествиях, давая следующие преимущества.
 
-**Temporary Hit Points.** As a Magic action, you can give yourself a number of Temporary Hit Points equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+**Временные хиты.** Как Магическое действие, вы можете дать себе количество временных хитов, равное 1d8 + ваш модификатор Мудрости (минимум 1). Вы можете использовать это действие количество раз, равное вашему модификатору Мудрости (минимум один раз), и восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых.
 
-**Decrease Exhaustion.** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
+**Уменьшение истощения.** Каждый раз, когда вы заканчиваете короткий отдых, ваш уровень истощения, если он есть, уменьшается на 1.
 
-#### Level 13: Relentless Hunter
+#### Уровень 13: Неумолимый охотник
 
-Taking damage can't break your Concentration on *Hunter's Mark*.
+Получение урона не может прервать вашу концентрацию на *Метке охотника*.
 
-#### Level 14: Nature's Veil
+#### Уровень 14: Покров природы
 
-You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn.
+Вы взываете к духам природы, чтобы магически скрыться. Как Бонусное действие, вы можете получить состояние Невидимый до конца вашего следующего хода.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+Вы можете использовать это умение количество раз, равное вашему модификатору Мудрости (минимум один раз), и восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых.
 
-#### Level 17: Precise Hunter
+#### Уровень 17: Точный охотник
 
-You have Advantage on attack rolls against the creature currently marked by your *Hunter's Mark*.
+Вы получаете преимущество на броски атаки по существу, в данный момент отмеченному вашей *Меткой охотника*.
 
-#### Level 18: Feral Senses
+#### Уровень 18: Дикие чувства
 
-Your connection to the forces of nature grants you Blindsight with a range of 30 feet.
+Ваша связь с силами природы даёт вам слепое зрение с радиусом 30 футов.
 
-#### Level 19: Epic Boon
+#### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар межпространственного перемещения.
 
-#### Level 20: Foe Slayer
+#### Уровень 20: Убийца врагов
 
-The damage die of your *Hunter's Mark* is a d10 rather than a d6.
+Кость урона вашей *Метки охотника* становится d10 вместо d6.
 
-### Ranger Spell List
+### Список заклинаний следопыта
 
-This section presents the Ranger spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
+В этом разделе представлен список заклинаний следопыта. Заклинания организованы по уровню заклинания, а затем в алфавитном порядке, и для каждого заклинания указана школа магии. В столбце Особое: *К* означает, что заклинание требует концентрации, *Р* — что это ритуал, *М* — что требуется особый материальный компонент.
 
-Table: Level 1 Ranger Spells
+Таблица: Заклинания следопыта 1-го уровня
 
-| Spell                     | School        | Special |
-|---------------------------|---------------|---------|
-| Alarm                     | Abjuration    | R       |
-| Animal Friendship         | Enchantment   | —       |
-| Cure Wounds               | Abjuration    | —       |
-| Detect Magic              | Divination    | C, R    |
-| Detect Poison and Disease | Divination    | C, R    |
-| Ensnaring Strike          | Conjuration   | C       |
-| Entangle                  | Conjuration   | C       |
-| Fog Cloud                 | Conjuration   | C       |
-| Goodberry                 | Conjuration   | —       |
-| Hunter's Mark             | Divination    | C       |
-| Jump                      | Transmutation | —       |
-| Longstrider               | Transmutation | —       |
-| Speak with Animals        | Divination    | R       |
+| Заклинание                  | Школа         | Особое |
+|-----------------------------|---------------|--------|
+| Добрая ягода                | Вызов         | —      |
+| Дружба с животными          | Очарование    | —      |
+| Лечение ран                 | Ограждение    | —      |
+| Метка охотника              | Прорицание    | К      |
+| Обнаружение магии           | Прорицание    | К, Р   |
+| Обнаружение яда и болезни   | Прорицание    | К, Р   |
+| Опутывание                  | Вызов         | К      |
+| Опутывающий удар            | Вызов         | К      |
+| Прыжок                      | Преобразование | —     |
+| Разговор с животными        | Прорицание    | Р      |
+| Сигнал тревоги              | Ограждение    | Р      |
+| Скороход                    | Преобразование | —     |
+| Туманное облако             | Вызов         | К      |
 
-Table: Level 2 Ranger Spells
+Таблица: Заклинания следопыта 2-го уровня
 
-| Spell                    | School        | Special |
-|--------------------------|---------------|---------|
-| Aid                      | Abjuration    | —       |
-| Animal Messenger         | Enchantment   | R       |
-| Barkskin                 | Transmutation | —       |
-| Darkvision               | Transmutation | —       |
-| Enhance Ability          | Transmutation | C       |
-| Find Traps               | Divination    | —       |
-| Gust of Wind             | Evocation     | C       |
-| Lesser Restoration       | Abjuration    | —       |
-| Locate Animals or Plants | Divination    | R       |
-| Locate Object            | Divination    | C       |
-| Magic Weapon             | Transmutation | —       |
-| Pass without Trace       | Abjuration    | C       |
-| Protection from Poison   | Abjuration    | —       |
-| Silence                  | Illusion      | C, R    |
-| Spike Growth             | Transmutation | C       |
+| Заклинание                 | Школа         | Особое |
+|----------------------------|---------------|--------|
+| Безмолвие                  | Иллюзия       | К, Р   |
+| Дубовая кора               | Преобразование | —     |
+| Защита от яда              | Ограждение    | —      |
+| Колючий рост               | Преобразование | К     |
+| Магическое оружие          | Преобразование | —     |
+| Малое восстановление       | Ограждение    | —      |
+| Найти животных или растения | Прорицание   | Р      |
+| Найти ловушки              | Прорицание    | —      |
+| Обнаружение предмета       | Прорицание    | К      |
+| Подмога                    | Ограждение    | —      |
+| Порыв ветра                | Воплощение    | К      |
+| Следопыт                   | Ограждение    | К      |
+| Тёмное зрение              | Преобразование | —     |
+| Улучшение характеристики   | Преобразование | К     |
+| Животный посланник         | Очарование    | Р      |
 
-Table: Level 3 Ranger Spells
+Таблица: Заклинания следопыта 3-го уровня
 
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Conjure Animals        | Conjuration   | C       |
-| Daylight               | Evocation     | —       |
-| Dispel Magic           | Abjuration    | —       |
-| Meld into Stone        | Transmutation | R       |
-| Nondetection           | Abjuration    | M       |
-| Plant Growth           | Transmutation | —       |
-| Protection from Energy | Abjuration    | C       |
-| Revivify               | Necromancy    | M       |
-| Speak with Plants      | Transmutation | —       |
-| Water Breathing        | Transmutation | R       |
-| Water Walk             | Transmutation | R       |
-| Wind Wall              | Evocation     | C       |
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Воскрешение             | Некромантия   | М      |
+| Дневной свет            | Воплощение    | —      |
+| Дыхание воды            | Преобразование | Р     |
+| Защита от энергии       | Ограждение    | К      |
+| Необнаружимость         | Ограждение    | М      |
+| Призыв животных         | Вызов         | К      |
+| Разговор с растениями   | Преобразование | —     |
+| Рассеивание магии       | Ограждение    | —      |
+| Рост растений           | Преобразование | —     |
+| Слияние с камнем        | Преобразование | Р     |
+| Стена ветра             | Воплощение    | К      |
+| Хождение по воде        | Преобразование | Р     |
 
-Table: Level 4 Ranger Spells
+Таблица: Заклинания следопыта 4-го уровня
 
-| Spell                   | School        | Special |
-|-------------------------|---------------|---------|
-| Conjure Woodland Beings | Conjuration   | C       |
-| Dominate Beast          | Enchantment   | C       |
-| Freedom of Movement     | Abjuration    | —       |
-| Locate Creature         | Divination    | C       |
-| Stoneskin               | Transmutation | C, M    |
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Господство над зверем   | Очарование    | К      |
+| Каменная кожа           | Преобразование | К, М  |
+| Обнаружение существа    | Прорицание    | К      |
+| Призыв лесных существ   | Вызов         | К      |
+| Свобода перемещения     | Ограждение    | —      |
 
-Table: Level 5 Ranger Spells
+Таблица: Заклинания следопыта 5-го уровня
 
-| Spell               | School      | Special |
-|---------------------|-------------|---------|
-| Commune with Nature | Divination  | R       |
-| Greater Restoration | Abjuration  | M       |
-| Tree Stride         | Conjuration | C       |
+| Заклинание             | Школа       | Особое |
+|------------------------|-------------|--------|
+| Великое восстановление | Ограждение  | М      |
+| Общение с природой     | Прорицание  | Р      |
+| Шаг сквозь деревья     | Вызов       | К      |
 
-### Ranger Subclass: Hunter
+### Подкласс следопыта: Охотник
 
-*Protect Nature and People from Destruction*
+*Защита природы и людей от разрушения*
 
-You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
+Вы выслеживаете добычу в дикой местности и не только, используя свои способности Охотника для защиты природы и людей повсюду от сил, которые могут их уничтожить.
 
-#### Level 3: Hunter's Lore
+#### Уровень 3: Знания охотника
 
-You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your *Hunter's Mark*, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+Вы можете призвать силы природы, чтобы раскрыть определённые сильные и слабые стороны вашей добычи. Пока существо отмечено вашей *Меткой охотника*, вы знаете, есть ли у этого существа какие-либо иммунитеты, сопротивления или уязвимости, и если они есть, вы знаете какие.
 
-#### Level 3: Hunter's Prey
+#### Уровень 3: Добыча охотника
 
-You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
+Вы получаете одну из следующих опций на свой выбор. Каждый раз, когда вы заканчиваете короткий или продолжительный отдых, вы можете заменить выбранную опцию другой.
 
-**Colossus Slayer.** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it's missing any of its Hit Points. You can deal this extra damage only once per turn.
+**Истребитель колоссов.** Ваша настойчивость может измотать даже самых стойких врагов. Когда вы попадаете по существу оружием, оружие наносит дополнительно 1d8 урона цели, если у неё не хватает хитов. Вы можете нанести этот дополнительный урон только один раз в ход.
 
-**Horde Breaker.** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
+**Разрушитель орды.** Один раз в каждый свой ход, когда вы совершаете атаку оружием, вы можете совершить другую атаку тем же оружием по другому существу, которое находится в пределах 5 футов от первоначальной цели, находится в пределах дистанции оружия и которое вы не атаковали в этот ход.
 
-#### Level 7: Defensive Tactics
+#### Уровень 7: Защитная тактика
 
-You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.
+Вы получаете одну из следующих опций на свой выбор. Каждый раз, когда вы заканчиваете короткий или продолжительный отдых, вы можете заменить выбранную опцию другой.
 
-**Escape the Horde.** Opportunity Attacks have Disadvantage against you.
+**Уход от орды.** Провоцированные атаки по вам совершаются с помехой.
 
-**Multiattack Defense.** When a creature hits you with an attack roll, that creature has Disadvantage on all other attack rolls against you this turn.
+**Защита от множественных атак.** Когда существо попадает по вам броском атаки, это существо получает помеху на все другие броски атаки по вам в этот ход.
 
-#### Level 11: Superior Hunter's Prey
+#### Уровень 11: Превосходная добыча охотника
 
-Once per turn when you deal damage to a creature marked by your *Hunter's Mark*, you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
+Один раз в ход, когда вы наносите урон существу, отмеченному вашей *Меткой охотника*, вы также можете нанести дополнительный урон этого заклинания другому существу, которое вы видите в пределах 30 футов от первого существа.
 
-#### Level 15: Superior Hunter's Defense
+#### Уровень 15: Превосходная защита охотника
 
-When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
+Когда вы получаете урон, вы можете использовать Реакцию, чтобы получить сопротивление к этому урону и любому другому урону того же типа до конца текущего хода.

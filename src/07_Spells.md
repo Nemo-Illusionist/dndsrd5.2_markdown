@@ -1,6548 +1,6605 @@
-# Spells
+# Заклинания
 
-## Gaining Spells
+## Получение заклинаний
 
-Before you can cast a spell, you must have the spell prepared in your mind or have access to the spell from a magic item, such as a *Spell Scroll*. Your features specify which spells you have access to, if any; whether you always have certain spells prepared; and whether you can change the list of spells you have prepared.
+Прежде чем вы сможете сотворить заклинание, вы должны иметь его подготовленным в своём разуме или иметь доступ к заклинанию из магического предмета, такого как *свиток заклинания*. Ваши умения определяют, к каким заклинаниям у вас есть доступ, если таковые имеются; есть ли у вас заклинания, которые всегда подготовлены; и можете ли вы менять список подготовленных заклинаний.
 
-### Preparing Spells
+### Подготовка заклинаний
 
-If you have a list of level 1+ spells you prepare, your spellcasting feature specifies when you can change the list and the number of spells you can change, as summarized in the Spell Preparation by Class table.
+Если у вас есть список заклинаний 1-го уровня и выше, которые вы готовите, ваше умение использования заклинаний указывает, когда вы можете изменить список и сколько заклинаний можете изменить, как показано в таблице «Подготовка заклинаний по классам».
 
-Table: Spell Preparation by Class
+Таблица: Подготовка заклинаний по классам
 
-| Class    | Change When You …    | Number of Spells |
-|----------|----------------------|------------------|
-| Bard     | Gain a level         | One              |
-| Cleric   | Finish a Long Rest   | Any              |
-| Druid    | Finish a Long Rest   | Any              |
-| Paladin  | Finish a Long Rest   | One              |
-| Ranger   | Finish a Long Rest   | One              |
-| Sorcerer | Gain a level         | One              |
-| Warlock  | Gain a level         | One              |
-| Wizard   | Finish a Long Rest   | Any              |
+| Класс | Изменение когда вы… | Количество заклинаний |
+|-------|---------------------|----------------------|
+| Бард | Получаете уровень | Одно |
+| Жрец | Завершаете продолжительный отдых | Любое |
+| Друид | Завершаете продолжительный отдых | Любое |
+| Паладин | Завершаете продолжительный отдых | Одно |
+| Следопыт | Завершаете продолжительный отдых | Одно |
+| Чародей | Получаете уровень | Одно |
+| Колдун | Получаете уровень | Одно |
+| Волшебник | Завершаете продолжительный отдых | Любое |
 
-Most spellcasting monsters don't change their lists of prepared spells, but the GM is free to alter them.
+Большинство заклинателей-монстров не меняют свои списки подготовленных заклинаний, но Мастер может изменить их.
 
-### Always-Prepared Spells
+### Всегда подготовленные заклинания
 
-Certain features might give you a spell that you always have prepared. If you also have a list of prepared spells that you can change, a spell that you always have prepared doesn't count against the number of spells on that list.
+Некоторые умения могут давать вам заклинание, которое у вас всегда подготовлено. Если у вас также есть список подготовленных заклинаний, который вы можете изменять, заклинание, которое у вас всегда подготовлено, не учитывается в количестве заклинаний в этом списке.
 
-## Casting Spells
+## Сотворение заклинаний
 
-Each spell description has a series of entries that provide the details needed to cast the spell. The following sections explain each of those entries, which follow a spell's name.
+Каждое описание заклинания содержит ряд записей, предоставляющих детали, необходимые для сотворения заклинания. Следующие разделы объясняют каждую из этих записей, которые следуют за названием заклинания.
 
-> ### Casting in Armor
+> ### Сотворение в доспехах
 >
-> You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
+> Вы должны быть обучены любым доспехам, которые носите, чтобы творить заклинания в них. Иначе вы слишком скованы доспехами для сотворения заклинаний.
 
-### Spell Level
+### Уровень заклинания
 
-Every spell has a level from 0 to 9, which is indicated in a spell's description. A spell's level is an indicator of how powerful it is. Cantrips—simple spells that can be cast almost by rote—are level 0. The rules for each spellcasting class say when its members gain access to spells of certain levels.
+Каждое заклинание имеет уровень от 0 до 9, который указан в описании заклинания. Уровень заклинания является показателем его силы. Заговоры — простые заклинания, которые можно сотворить почти автоматически — имеют 0 уровень. Правила для каждого класса заклинателей указывают, когда его представители получают доступ к заклинаниям определённых уровней.
 
-#### Spell Slots
+#### Ячейки заклинаний
 
-Spellcasting is taxing, so a spellcaster can cast only a limited number of level 1+ spells before resting. Spell slots are the main way a spellcaster's magical potential is represented. Each spellcasting class gives its members a limited number of spell slots of certain spell levels. For example, a level 3 Wizard has four level 1 spell slots and two level 2 slots.
+Использование заклинаний утомительно, поэтому заклинатель может сотворить только ограниченное число заклинаний 1-го уровня и выше перед отдыхом. Ячейки заклинаний — основной способ представления магического потенциала заклинателя. Каждый класс заклинателей даёт своим представителям ограниченное число ячеек заклинаний определённых уровней. Например, волшебник 3-го уровня имеет четыре ячейки 1-го уровня и две ячейки 2-го уровня.
 
-When you cast a spell, you expend a slot of that spell's level or higher, effectively "filling" a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Wizard casts *Magic Missile*, a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
+Когда вы творите заклинание, вы расходуете ячейку уровня этого заклинания или выше, фактически «заполняя» ячейку заклинанием. Представьте, что ячейка заклинания — это паз определённого размера — маленький для ячейки 1-го уровня и больше для заклинания более высокого уровня. Заклинание 1-го уровня помещается в ячейку любого размера, но заклинание 2-го уровня помещается только в ячейку как минимум 2-го уровня. Поэтому когда волшебник 3-го уровня творит *Волшебную стрелу*, заклинание 1-го уровня, этот волшебник тратит одну из четырёх ячеек 1-го уровня, и у него остаётся три.
 
-Finishing a Long Rest restores any expended spell slots.
+Завершение продолжительного отдыха восстанавливает все израсходованные ячейки заклинаний.
 
-#### Casting without Slots
+#### Сотворение без ячеек
 
-There are several ways to cast a spell without expending a spell slot:
+Существует несколько способов сотворить заклинание без расходования ячейки заклинания:
 
-**Cantrips.** A cantrip is cast without a spell slot. 
+**Заговоры.** Заговор сотворяется без ячейки заклинания.
 
-**Rituals**. Certain spells have the Ritual tag in the Casting Time entry. Such a spell can be cast following the normal rules for spellcasting, or it can be cast as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal, but it doesn't expend a spell slot. To cast a spell as a Ritual, a spellcaster must have it prepared.
+**Ритуалы.** Некоторые заклинания имеют тег «Ритуал» в записи «Время сотворения». Такое заклинание может быть сотворено по обычным правилам использования заклинаний, или его можно сотворить как ритуал. Ритуальная версия заклинания сотворяется на 10 минут дольше обычного, но не расходует ячейку заклинания. Чтобы сотворить заклинание как ритуал, заклинатель должен иметь его подготовленным.
 
-**Special Abilities.** Some characters and monsters have special abilities that allow them to cast specific spells without a spell slot. This casting is usually limited in another way, such as being able to cast the spell a limited number of times per day.
+**Особые способности.** Некоторые персонажи и монстры имеют особые способности, позволяющие им творить определённые заклинания без ячейки заклинания. Это сотворение обычно ограничено иным образом, например, возможностью сотворить заклинание ограниченное число раз в день.
 
-**Magic Items.** *Spell Scrolls* and some other magic items contain spells that can be cast without a spell slot. The description of such an item specifies how many times a spell can be cast from it.
+**Магические предметы.** *Свитки заклинаний* и некоторые другие магические предметы содержат заклинания, которые можно сотворить без ячейки заклинания. Описание такого предмета указывает, сколько раз заклинание может быть сотворено из него.
 
-#### Using a Higher-Level Spell Slot
+#### Использование ячейки более высокого уровня
 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts *Magic Missile* using a level 2 slot, that *Magic Missile* is level 2. Effectively, the spell expands to fill the slot it is put into.
+Когда заклинатель творит заклинание, используя ячейку более высокого уровня, чем уровень заклинания, заклинание принимает более высокий уровень для этого сотворения. Например, если волшебник творит *Волшебную стрелу*, используя ячейку 2-го уровня, эта *Волшебная стрела* имеет 2-й уровень. Фактически заклинание расширяется, чтобы заполнить ячейку, в которую оно помещено.
 
-Some spells, such as *Magic Missile* and *Cure Wounds*, have more powerful effects when cast at a higher level, as detailed in a spell's description.
+Некоторые заклинания, такие как *Волшебная стрела* и *Лечение ран*, имеют более мощные эффекты при сотворении на более высоком уровне, как подробно описано в описании заклинания.
 
-### **School of Magic**
+### **Школа магии**
 
-Each spell belongs to a school of magic. The schools are listed in the Schools of Magic table. These categories help describe spells but have no rules of their own, although some other rules refer to them.
+Каждое заклинание принадлежит к школе магии. Школы перечислены в таблице «Школы магии». Эти категории помогают описывать заклинания, но не имеют собственных правил, хотя на них могут ссылаться другие правила.
 
-Table: Schools of Magic
+Таблица: Школы магии
 
-| School        | Typical Effects                                              |
-|---------------|--------------------------------------------------------------|
-| Abjuration    | Prevents or reverses harmful effects                         |
-| Conjuration   | Transports creatures or objects                              |
-| Divination    | Reveals information                                          |
-| Enchantment   | Influences minds                                             |
-| Evocation     | Channels energy to create effects that are often destructive |
-| Illusion      | Deceives the mind or senses                                  |
-| Necromancy    | Manipulates life and death                                   |
-| Transmutation | Transforms creatures or objects                              |
+| Школа | Типичные эффекты |
+|-------|-----------------|
+| Ограждение | Предотвращает или отменяет вредные эффекты |
+| Вызов | Переносит существ или предметы |
+| Прорицание | Раскрывает информацию |
+| Очарование | Влияет на разум |
+| Воплощение | Направляет энергию для создания эффектов, часто разрушительных |
+| Иллюзия | Обманывает разум или чувства |
+| Некромантия | Манипулирует жизнью и смертью |
+| Преобразование | Трансформирует существ или предметы |
 
-### Class Spell Lists
+### Списки заклинаний классов
 
-If a spell is on a class's spell list, the class's name appears in parentheses after the spell's school of magic. Some features add a spell to a character's spell list even if the character isn't a member of a class in the parentheses.
+Если заклинание находится в списке заклинаний класса, название класса появляется в скобках после школы магии заклинания. Некоторые умения добавляют заклинание в список заклинаний персонажа, даже если персонаж не является представителем класса в скобках.
 
-### Casting Time
+### Время сотворения
 
-Most spells require the Magic action to cast, but some spells require a Bonus Action, a Reaction, or 1 minute or more. A spell's Casting Time entry specifies which of those is required.
+Большинство заклинаний требуют действия Магия для сотворения, но некоторые заклинания требуют бонусного действия, реакции или 1 минуту и более. Запись «Время сотворения» заклинания указывает, что из этого требуется.
 
-#### One Spell with a Spell Slot per Turn
+#### Одно заклинание с ячейкой за ход
 
-On a turn, you can expend only one spell slot to cast a spell. This rule means you can't, for example, cast a spell with a spell slot using the Magic action and another one using a Bonus Action on the same turn.
+За ход вы можете израсходовать только одну ячейку заклинания для сотворения заклинания. Это правило означает, что вы не можете, например, сотворить заклинание с ячейкой заклинания, используя действие Магия, и другое, используя бонусное действие, в тот же ход.
 
-#### Reaction and Bonus Action Triggers
+#### Триггеры реакций и бонусных действий
 
-A spell that has a casting time of a Reaction is cast in response to a trigger that is defined in the spell's Casting Time entry. Some spells that have a casting time of a Bonus Action are also cast in response to a trigger defined in the spell.
+Заклинание, имеющее время сотворения «реакция», сотворяется в ответ на триггер, определённый в записи «Время сотворения» заклинания. Некоторые заклинания, имеющие время сотворения «бонусное действие», также сотворяются в ответ на триггер, определённый в заклинании.
 
-#### Longer Casting Times
+#### Более долгое время сотворения
 
-Certain spells—including a spell cast as a Ritual—require more time to cast: minutes or even hours. While you cast a spell with a casting time of 1 minute or more, you must take the Magic action on each of your turns, and you must maintain Concentration (see "Rules Glossary") while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
+Некоторые заклинания — включая заклинание, сотворяемое как ритуал — требуют больше времени для сотворения: минуты или даже часы. Пока вы творите заклинание со временем сотворения 1 минута или более, вы должны совершать действие Магия в каждый свой ход и поддерживать концентрацию (см. «Глоссарий правил»), пока делаете это. Если ваша концентрация нарушена, заклинание проваливается, но вы не расходуете ячейку заклинания. Чтобы сотворить заклинание снова, вы должны начать сначала.
 
-### Range
+### Дистанция
 
-A spell's range indicates how far from the spellcaster the spell's effect can originate, and the spell's description specifies which part of the effect is limited by the range.
+Дистанция заклинания указывает, как далеко от заклинателя может исходить эффект заклинания, и описание заклинания указывает, какая часть эффекта ограничена дистанцией.
 
-A range usually takes one of the following forms:
+Дистанция обычно принимает одну из следующих форм:
 
-**Distance.** The range is expressed in feet.
+**Расстояние.** Дистанция выражена в футах.
 
-**Touch**. The spell's effect originates on something, as defined by the spell, that the spellcaster must touch within their reach.
+**Касание.** Эффект заклинания исходит от чего-то, как определено заклинанием, чего заклинатель должен коснуться в пределах своей досягаемости.
 
-**Self.** The spell is cast on the spellcaster or emanates from them, as specified in the spell.
+**На себя.** Заклинание сотворяется на заклинателя или исходит от него, как указано в заклинании.
 
-If a spell has movable effects, they aren't restricted by its range unless the spell's description says otherwise.
+Если заклинание имеет перемещаемые эффекты, они не ограничены его дистанцией, если описание заклинания не говорит иначе.
 
-### Components
+### Компоненты
 
-A spell's components are physical requirements the spellcaster must meet to cast the spell. Each spell's description indicates whether it requires Verbal (V), Somatic (S), or Material (M) components. If the spellcaster can't provide one or more of a spell's components, the spellcaster can't cast the spell.
+Компоненты заклинания — это физические требования, которые заклинатель должен выполнить для сотворения заклинания. Описание каждого заклинания указывает, требует ли оно вербальный (В), соматический (С) или материальный (М) компоненты. Если заклинатель не может предоставить один или несколько компонентов заклинания, заклинатель не может сотворить заклинание.
 
-#### Verbal (V)
+#### Вербальный (В)
 
-A Verbal component is the chanting of esoteric words that sound like nonsense to the uninitiated. The words must be uttered in a normal speaking voice. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a creature who is gagged or in an area of magical silence can't cast a spell with a Verbal component.
+Вербальный компонент — это произнесение таинственных слов, которые звучат как бессмыслица для непосвящённых. Слова должны быть произнесены обычным голосом. Сами слова не являются источником силы заклинания; скорее, определённая комбинация звуков, с особым тоном и резонансом, приводит нити магии в движение. Таким образом, существо с кляпом во рту или в области магической тишины не может сотворить заклинание с вербальным компонентом.
 
-#### Somatic (S)
+#### Соматический (С)
 
-A Somatic component is a forceful gesticulation or an intricate set of gestures. A spellcaster must use at least one of their hands to perform these movements.
+Соматический компонент — это энергичный жест или замысловатый набор жестов. Заклинатель должен использовать хотя бы одну руку для выполнения этих движений.
 
-#### Material (M)
+#### Материальный (М)
 
-A Material component is a particular material used in a spell's casting, as specified in parentheses in the Components entry. These materials aren't consumed by the spell unless the spell's description states otherwise. The spellcaster must have a hand free to access them, but it can be the same hand used to perform Somatic components, if any.
+Материальный компонент — это определённый материал, используемый при сотворении заклинания, как указано в скобках в записи «Компоненты». Эти материалы не потребляются заклинанием, если описание заклинания не говорит иначе. Заклинатель должен иметь свободную руку для доступа к ним, но это может быть та же рука, которая используется для выполнения соматических компонентов, если таковые есть.
 
-If a spell doesn't consume its materials and doesn't specify a cost for them, a spellcaster can use a Component Pouch (see "Equipment") instead of providing the materials specified in the spell, or the spellcaster can substitute a Spellcasting Focus if the caster has a feature that allows that substitution. To use a Component Pouch, you must have a hand free to reach into it, and to use a Spellcasting Focus, you must hold it unless its description says otherwise (see "Equipment" for descriptions).
+Если заклинание не потребляет свои материалы и не указывает их стоимость, заклинатель может использовать мешочек с компонентами (см. «Снаряжение») вместо предоставления материалов, указанных в заклинании, или заклинатель может заменить их фокусом для заклинаний, если у заклинателя есть умение, позволяющее такую замену. Чтобы использовать мешочек с компонентами, вы должны иметь свободную руку, чтобы достать в него, а чтобы использовать фокус для заклинаний, вы должны держать его, если его описание не говорит иначе (см. «Снаряжение» для описаний).
 
-### Duration
+### Длительность
 
-A spell's duration is the length of time the spell persists after it is cast. A duration typically takes one of the following forms:
+Длительность заклинания — это время, в течение которого заклинание действует после сотворения. Длительность обычно принимает одну из следующих форм:
 
-**Concentration.** A duration that requires Concentration follows the Concentration rules (see "Rules Glossary").
+**Концентрация.** Длительность, требующая концентрации, следует правилам концентрации (см. «Глоссарий правил»).
 
-**Instantaneous.** An instantaneous duration means the spell's magic appears only for a moment and then disappears.
+**Мгновенная.** Мгновенная длительность означает, что магия заклинания появляется лишь на мгновение и затем исчезает.
 
-**Time Span.** A duration that provides a time span specifies how long the spell lasts in rounds, minutes, hours, or the like. For example, a Duration entry might say "1 minute," meaning the spell ends after 1 minute has passed. While a time-span spell that you cast is ongoing, you can dismiss it (no action required) if you don't have the Incapacitated condition.
+**Временной отрезок.** Длительность, указывающая временной отрезок, определяет, как долго заклинание действует в раундах, минутах, часах и т.п. Например, запись «Длительность» может говорить «1 минута», означая, что заклинание заканчивается после прошествия 1 минуты. Пока действует сотворённое вами заклинание с временным отрезком, вы можете отменить его (действие не требуется), если у вас нет состояния «недееспособный».
 
-### Effects
+### Эффекты
 
-The effects of a spell are detailed after its duration entry. Those details present exactly what the spell does, which ignores mundane physical laws; any outcomes beyond those effects are under the GM's purview. Whatever the effects, they typically deal with targets, saving throws, attack rolls, or all three, each of which is detailed below.
+Эффекты заклинания подробно описаны после записи о длительности. Эти детали точно описывают, что делает заклинание, игнорируя обычные физические законы; любые результаты за пределами этих эффектов остаются на усмотрение Мастера. Каковы бы ни были эффекты, они обычно связаны с целями, спасбросками, бросками атаки или всеми тремя, каждое из которых подробно описано ниже.
 
-#### Targets
+#### Цели
 
-A typical spell requires the caster to pick one or more targets to be affected by the spell's magic. A spell's description says whether the spell targets creatures, objects, or something else.
+Типичное заклинание требует от заклинателя выбрать одну или несколько целей, на которые воздействует магия заклинания. Описание заклинания указывает, нацелено ли заклинание на существ, предметы или что-то другое.
 
-**_A Clear Path to the Target._** To target something with a spell, a caster must have a clear path to it, so it can't be behind Total Cover.
+**_Чистый путь к цели._** Чтобы нацелить что-то заклинанием, заклинатель должен иметь чистый путь к нему, поэтому оно не может быть за полным укрытием.
 
-**_Targeting Yourself._** If a spell targets a creature of your choice, you can choose yourself unless the creature must be Hostile or specifically a creature other than you.
+**_Нацеливание на себя._** Если заклинание нацелено на существо по вашему выбору, вы можете выбрать себя, если существо не должно быть враждебным или конкретно существом, отличным от вас.
 
-**_Areas of Effect._** Some spells, such as *Thunderwave*, cover an area called an area of effect, which is defined in "Rules Glossary." The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: Cone, Cube, Cylinder, Emanation, Line, or Sphere.
+**_Области воздействия._** Некоторые заклинания, такие как *Громовая волна*, покрывают область, называемую областью воздействия, которая определена в «Глоссарии правил». Область определяет, на что нацелено заклинание. Описание заклинания указывает, имеет ли оно область воздействия, которая обычно имеет одну из этих форм: Конус, Куб, Цилиндр, Излучение, Линия или Сфера.
 
-**_Awareness of Being Targeted._** Unless a spell has a perceptible effect, a creature doesn't know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell's description says otherwise.
+**_Осознание нацеливания._** Если заклинание не имеет заметного эффекта, существо не знает, что оно было целью заклинания. Такой эффект, как молния, очевиден, но более тонкий эффект, такой как попытка прочитать мысли, остаётся незамеченным, если описание заклинания не говорит иначе.
 
-**_Invalid Targets._** If you cast a spell on someone or something that can't be affected by it, nothing happens to that target, but if you used a spell slot to cast the spell, the slot is still expended.
+**_Недействительные цели._** Если вы сотворяете заклинание на кого-то или что-то, на что оно не может воздействовать, ничего не происходит с этой целью, но если вы использовали ячейку заклинания для сотворения заклинания, ячейка всё равно расходуется.
 
-If the spell normally has no effect on a target that succeeds on a saving throw, the invalid target appears to have succeeded on its saving throw, even though it didn't attempt one (giving no hint that the creature is an invalid target). Otherwise, you perceive that the spell did nothing to the target.
+Если заклинание обычно не действует на цель, которая преуспевает в спасброске, недействительная цель выглядит так, будто преуспела в спасброске, хотя не совершала его (не давая намёка, что существо является недействительной целью). В противном случае вы понимаете, что заклинание не подействовало на цель.
 
-#### Saving Throws
+#### Спасброски
 
-Many spells specify that a target makes a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. Here's how to calculate the DC for your spells:
+Многие заклинания указывают, что цель совершает спасбросок, чтобы избежать некоторых или всех эффектов заклинания. Заклинание указывает характеристику, которую цель использует для спасброска, и что происходит при успехе или провале. Вот как рассчитать СЛ для ваших заклинаний:
 
-**Spell save DC** = 8 + your spellcasting ability modifier + your Proficiency Bonus
+**СЛ спасброска от заклинания** = 8 + модификатор вашей заклинательной характеристики + ваш бонус мастерства
 
-#### Attack Rolls
+#### Броски атаки
 
-Some spells require the caster to make an attack roll to determine whether the spell hits a target. Here's how to calculate the attack modifier for your spells:
+Некоторые заклинания требуют от заклинателя совершить бросок атаки, чтобы определить, попадает ли заклинание по цели. Вот как рассчитать модификатор атаки для ваших заклинаний:
 
-**Spell attack modifier** = your spellcasting ability modifier + your Proficiency Bonus
+**Модификатор атаки заклинанием** = модификатор вашей заклинательной характеристики + ваш бонус мастерства
 
-#### Combining Spell Effects
+#### Комбинирование эффектов заклинаний
 
-The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast *Bless* on the same target, that target gains the spell's benefit only once; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second *Bless* ends.
+Эффекты разных заклинаний складываются, пока их длительности пересекаются. Напротив, эффекты одного и того же заклинания, сотворённого несколько раз, не комбинируются. Вместо этого применяется наиболее мощный эффект — такой как наивысший бонус — от этих сотворений, пока их длительности пересекаются. Если сотворения одинаково мощны и их длительности пересекаются, применяется самый последний эффект. Например, если два жреца творят *Благословение* на одну цель, эта цель получает преимущество заклинания только один раз; цель не получает две бонусные кости. Но если длительности заклинаний пересекаются, эффект продолжается до окончания длительности второго *Благословения*.
 
-> ### Identifying an Ongoing Spell
+> ### Определение действующего заклинания
 >
-> You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the Study action and succeed on a DC 15 Intelligence (Arcana) check.
+> Вы можете попытаться определить немгновенное заклинание по его наблюдаемым эффектам, если его длительность продолжается. Чтобы определить его, вы должны совершить действие Изучение и преуспеть в проверке Интеллекта (Магия) СЛ 15.
 
-## Spell Descriptions
+## Описания заклинаний
 
-### A Spells
+### Заклинания на А
 
-#### Acid Arrow
+#### Астральная проекция
 
-*Level 2 Evocation (Wizard)*
+*Некромантия 9-го уровня (Жрец, Колдун, Волшебник)*
 
-**Casting Time:** Action 
+**Время сотворения:** 1 час
 
-**Range:** 90 feet 
+**Дистанция:** 10 футов
 
-**Components:** V, S, M (powdered rhubarb leaf) 
+**Компоненты:** В, С, М (для каждой цели заклинания один гиацинт стоимостью 1000+ зм и один серебряный слиток стоимостью 100+ зм, все они потребляются заклинанием)
 
-**Duration:** Instantaneous
+**Длительность:** Пока не рассеяно
 
-A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 Acid damage and 2d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage only.
+Вы и до восьми согласных существ в пределах дистанции проецируете свои астральные тела в Астральный План (заклинание мгновенно заканчивается, если вы уже находитесь на этом плане). Тело каждой цели остаётся в состоянии анабиоза; оно имеет состояние «без сознания», не нуждается в пище или воздухе и не стареет.
 
-**_Using a Higher-Level Spell Slot._** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
+Астральная форма цели напоминает её тело почти во всём, воспроизводя её игровые характеристики и имущество. Главное отличие — добавление серебряного шнура, который тянется от области между лопатками астральной формы. Шнур исчезает из виду после 1 фута. Если шнур перерезан — что происходит только когда эффект заявляет об этом — тело и астральная форма цели погибают.
 
-#### Acid Splash
+Астральная форма цели может путешествовать по Астральному Плану. В момент, когда астральная форма покидает этот план, тело и имущество цели перемещаются вдоль серебряного шнура, заставляя цель вернуться в своё тело на новом плане.
 
-*Evocation Cantrip (Sorcerer, Wizard)*
+Любой урон или другие эффекты, применяемые к астральной форме, не влияют на тело цели и наоборот. Если тело или астральная форма цели опускается до 0 хитов, заклинание заканчивается для этой цели. Заклинание заканчивается для всех целей, если вы совершаете действие Магия, чтобы отменить его.
 
-**Casting Time:** Action 
+Когда заклинание заканчивается для цели, которая не мертва, цель появляется в своём теле и выходит из состояния анабиоза.
 
-**Range:** 60 feet 
+#### Антипатия/Симпатия
 
-**Components:** V, S 
+*Очарование 8-го уровня (Бард, Друид, Волшебник)*
 
-**Duration:** Instantaneous
+**Время сотворения:** 1 час
 
-You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
+**Дистанция:** 60 футов
 
-**_Cantrip Upgrade._** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
+**Компоненты:** В, С, М (смесь уксуса и мёда)
 
-#### **Aid**
+**Длительность:** 10 дней
 
-*Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)* 
+При сотворении заклинания выберите, создаёт ли оно антипатию или симпатию, и выберите цель — одно существо или предмет размера не больше Огромного. Затем укажите вид существ, например красные драконы, гоблины или вампиры. Существо выбранного вида совершает спасбросок Мудрости, когда оказывается в пределах 120 футов от цели. Ваш выбор антипатии или симпатии определяет, что происходит с существом, когда оно проваливает этот спасбросок:
 
-**Casting Time:** Action 
+**Антипатия.** Существо получает состояние «испуганный». Испуганное существо должно использовать своё перемещение в свои ходы, чтобы уйти как можно дальше от цели, двигаясь по самому безопасному маршруту.
 
-**Range:** 30 feet 
+**Симпатия.** Существо получает состояние «очарованный». Очарованное существо должно использовать своё перемещение в свои ходы, чтобы приблизиться как можно ближе к цели, двигаясь по самому безопасному маршруту. Если существо находится в пределах 5 футов от цели, существо не может добровольно отойти. Если цель наносит урон очарованному существу, это существо может совершить спасбросок Мудрости, чтобы закончить эффект, как описано ниже.
 
-**Components:** V, S, M (a strip of white cloth) 
+**_Окончание эффекта._** Если испуганное или очарованное существо заканчивает свой ход более чем в 120 футах от цели, существо совершает спасбросок Мудрости. При успешном спасброске существо больше не подвержено влиянию цели. Существо, успешно спасшееся от этого эффекта, имеет к нему иммунитет на 1 минуту, после чего может быть затронуто снова.
 
-**Duration:** 8 hours
+#### Антимагическое поле
 
-Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
+*Ограждение 8-го уровня (Жрец, Волшебник)*
 
-**_Using a Higher-Level Spell Slot._** Each target's Hit Points increase by 5 for each spell slot level above 2.
+**Время сотворения:** Действие
 
-#### Alarm
+**Дистанция:** На себя
 
-*Level 1 Abjuration (Ranger, Wizard)*
+**Компоненты:** В, С, М (железные опилки)
 
-**Casting Time:** 1 minute or Ritual
+**Длительность:** Концентрация, вплоть до 1 часа
 
-**Range:** 30 feet 
+Аура антимагии окружает вас в 10-футовом излучении. Никто не может творить заклинания, совершать действия Магия или создавать другие магические эффекты внутри ауры, и эти вещи не могут нацеливаться на что-либо внутри неё или иным образом воздействовать на что-либо внутри неё. Магические свойства магических предметов не работают внутри ауры или на что-либо внутри неё.
 
-**Components:** V, S, M (a bell and silver wire)
+Области воздействия, созданные заклинаниями или другой магией, не могут распространяться в ауру, и никто не может телепортироваться в неё или из неё или использовать там планарное путешествие. Порталы временно закрываются, находясь в ауре.
 
-**Duration:** 8 hours
+Продолжающиеся заклинания, кроме сотворённых артефактом или божеством, подавляются в области. Пока эффект подавлен, он не функционирует, но время, проведённое в подавлении, учитывается в его длительности.
 
-You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
+*Рассеивание магии* не действует на ауру, и ауры, созданные разными заклинаниями *Антимагическое поле*, не нейтрализуют друг друга.
 
-**Audible Alarm.** The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.
+#### Аура жизни
 
-**Mental Alarm.** You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.
+*Ограждение 4-го уровня (Жрец, Паладин)*
 
-#### **Alter Self**
+**Время сотворения:** Действие
 
-*Level 2 Transmutation (Sorcerer, Wizard)*
+**Дистанция:** На себя
 
-**Casting Time:** Action 
+**Компоненты:** В
 
-**Range:** Self 
+**Длительность:** Концентрация, вплоть до 10 минут
 
-**Components:** V, S 
+Аура излучается от вас в 30-футовом излучении на время действия заклинания. Пока в ауре, вы и ваши союзники обладаете сопротивлением к некротическому урону, и ваши максимумы хитов не могут быть уменьшены. Если союзник с 0 хитов начинает свой ход в ауре, этот союзник восстанавливает 1 хит.
 
-**Duration:** Concentration, up to 1 hour
+#### Арканная рука
 
-You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.
+*Воплощение 5-го уровня (Чародей, Волшебник)*
 
-**_Aquatic Adaptation._** You sprout gills and grow webs between your fingers. You can breathe underwater and gain a Swim Speed equal to your Speed.
+**Время сотворения:** Действие
 
-**_Change Appearance._** You alter your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and other distinguishing characteristics. You can make yourself appear as a member of another species, though none of your statistics change. You can't appear as a creature of a different size, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. For the duration, you can take a Magic action to change your appearance in this way again.
+**Дистанция:** 120 футов
 
-**_Natural Weapons._** You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your Unarmed Strike to deal damage with that new growth, it deals 1d6 damage of the type in parentheses instead of dealing the normal damage for your Unarmed Strike, and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
+**Компоненты:** В, С, М (яичная скорлупа и перчатка)
 
-#### Animal Friendship
+**Длительность:** Концентрация, вплоть до 1 минуты
 
-*Level 1 Enchantment (Bard, Druid, Ranger)*
+Вы создаёте Большую руку из мерцающей магической энергии в незанятом пространстве, которое видите в пределах дистанции. Рука существует на время действия заклинания и движется по вашей команде, повторяя движения вашей собственной руки.
 
-**Casting Time:** Action 
+Рука является объектом с КД 20 и хитами, равными вашему максимуму хитов. Если её хиты опускаются до 0, заклинание заканчивается. Рука не занимает своё пространство.
 
-**Range:** 30 feet 
+Когда вы сотворяете заклинание и бонусным действием в свои последующие ходы, вы можете переместить руку на расстояние до 60 футов и затем вызвать один из следующих эффектов:
 
-**Components:** V, S, M (a morsel of food) 
+**Сжатый кулак.** Рука бьёт цель в пределах 5 футов от неё. Совершите рукопашную атаку заклинанием. При попадании цель получает 5d8 урона Силовым полем.
 
-**Duration:** 24 hours
+**Мощная рука.** Рука пытается толкнуть Громадное или меньшее существо в пределах 5 футов от неё. Цель должна преуспеть в спасброске Силы, иначе рука толкает цель на расстояние до 5 футов плюс число футов, равное пятикратному модификатору вашей заклинательной характеристики. Рука движется вместе с целью, оставаясь в пределах 5 футов от неё.
 
-Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
+**Хватающая рука.** Рука пытается схватить Громадное или меньшее существо в пределах 5 футов от неё. Цель должна преуспеть в спасброске Ловкости, иначе цель получает состояние «схваченный» со СЛ высвобождения, равной СЛ ваших заклинаний. Пока рука держит цель в захвате, вы можете бонусным действием заставить руку раздавить её, нанеся цели Дробящий урон, равный 4d6 плюс модификатор вашей заклинательной характеристики.
 
-**_Using a Higher-Level Spell Slot._** You can target one additional Beast for each spell slot level above 1.
+**Преграждающая рука.** Рука предоставляет вам укрытие наполовину от атак и других эффектов, исходящих из её пространства или проходящих через него. Кроме того, её пространство считается труднопроходимой местностью для ваших врагов.
 
-#### Animal Messenger
+**_Использование ячейки более высокого уровня._** Урон Сжатого кулака увеличивается на 2d8, а урон Хватающей руки увеличивается на 2d6 за каждый уровень ячейки выше 5-го.
 
-*Level 2 Enchantment (Bard, Druid, Ranger)*
+#### Арканный замок
 
-**Casting Time:** Action or Ritual 
+*Ограждение 2-го уровня (Волшебник)*
 
-**Range:** 30 feet 
+**Время сотворения:** Действие
 
-**Components:** V, S, M (a morsel of food) 
+**Дистанция:** Касание
 
-**Duration:** 24 hours
+**Компоненты:** В, С, М (золотая пыль стоимостью 25+ зм, которая потребляется заклинанием)
 
-A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as "a person dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
+**Длительность:** Пока не рассеяно
 
-When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn't reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.
+Вы касаетесь закрытой двери, окна, ворот, контейнера или люка и магически запираете их на время действия заклинания. Этот замок не может быть отперт никакими немагическими средствами. Вы и любые существа, которых вы укажете при сотворении заклинания, можете открывать и закрывать объект, несмотря на замок. Вы также можете установить пароль, который, будучи произнесённым в пределах 5 футов от объекта, отпирает его на 1 минуту.
 
-**_Using a Higher-Level Spell Slot._** The spell's duration increases by 48 hours for each spell slot level above 2.
+#### Арканный меч
 
-#### Animal Shapes
+*Воплощение 7-го уровня (Бард, Волшебник)*
 
-*Level 8 Transmutation (Druid)*
+**Время сотворения:** Действие
 
-**Casting Time:** Action 
+**Дистанция:** 90 футов
 
-**Range:** 30 feet 
+**Компоненты:** В, С, М (миниатюрный меч стоимостью 250+ зм)
 
-**Components:** V, S 
+**Длительность:** Концентрация, вплоть до 1 минуты
 
-**Duration:** 24 hours
+Вы создаёте призрачный меч, который парит в пределах дистанции. Он существует на время действия заклинания.
 
-Choose any number of willing creatures that you can see within range. Each target shape-shifts into a Large or smaller Beast of your choice that has a Challenge Rating of 4 or lower. You can choose a different form for each target. On later turns, you can take a Magic action to transform the targets again.
+Когда меч появляется, вы совершаете рукопашную атаку заклинанием против цели в пределах 5 футов от меча. При попадании цель получает урон Силовым полем, равный 4d12 плюс модификатор вашей заклинательной характеристики.
 
-A target's game statistics are replaced by the chosen Beast's statistics, but the target retains its creature type; Hit Points; Hit Point Dice; alignment; ability to communicate; and Intelligence, Wisdom, and Charisma scores. The target's actions are limited by the Beast form's anatomy, and it can't cast spells. The target's equipment melds into the new form, and the target can't use any of that equipment while in that form.
+В свои последующие ходы вы можете бонусным действием переместить меч на расстояние до 30 футов в место, которое видите, и повторить атаку против той же или другой цели.
 
-The target gains a number of Temporary Hit Points equal to the Hit Points of the first form into which it shape-shifts. These Temporary Hit Points vanish if any remain when the spell ends. The transformation lasts for the duration or until the target ends it as a Bonus Action.
+#### Аура арканиста
 
-#### Animate Dead
+*Иллюзия 2-го уровня (Волшебник)*
 
-*Level 3 Necromancy (Cleric, Wizard)*
+**Время сотворения:** Действие
 
-**Casting Time:** 1 minute 
+**Дистанция:** Касание
 
-**Range:** 10 feet 
+**Компоненты:** В, С, М (маленький квадрат шёлка)
 
-**Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust) 
+**Длительность:** 24 часа
 
-**Duration:** Instantaneous
+Касанием вы накладываете иллюзию на согласное существо или предмет, который не носят и не несут. Существо получает эффект Маски, описанный ниже, а предмет получает эффект Ложной ауры, описанный ниже. Эффект длится на время действия заклинания. Если вы сотворяете заклинание на одну и ту же цель каждый день в течение 30 дней, иллюзия длится до рассеяния.
 
-Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. The target becomes an Undead creature: a **Skeleton** if you chose bones or a **Zombie** if you chose a corpse (see "Monsters" for the stat blocks).
+**_Маска (существо)._** Выберите тип существа, отличный от истинного типа цели. Заклинания и другие магические эффекты относятся к цели так, как если бы она была существом выбранного типа.
 
-On each of your turns, you can take a Bonus Action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a chamber or corridor. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow it until its task is complete.
+**_Ложная аура (предмет)._** Вы изменяете то, как цель выглядит для заклинаний и магических эффектов, определяющих магические ауры, таких как *Обнаружение магии*. Вы можете заставить немагический предмет казаться магическим, магический предмет казаться немагическим или изменить ауру предмета так, чтобы она казалась принадлежащей к выбранной вами школе магии.
 
-The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell rather than animating a new creature.
+#### Аура чистоты
 
-**_Using a Higher-Level Spell Slot._** You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
+*Ограждение 4-го уровня (Жрец, Паладин)*
 
-#### Animate Objects
+**Время сотворения:** Действие
 
-*Level 5 Transmutation (Bard, Sorcerer, Wizard)*
+**Дистанция:** На себя
 
-**Casting Time:** Action 
+**Компоненты:** В
 
-**Range:** 120 feet 
+**Длительность:** Концентрация, вплоть до 10 минут
 
-**Components:** V, S 
+Аура излучается от вас в 30-футовом излучении на время действия заклинания. Пока в ауре, вы и ваши союзники не можете получить состояния «оглохший», «испуганный», «парализованный», «отравленный» или «оглушённый». Кроме того, когда затронутое заклинанием существо совершает спасбросок против эффекта, накладывающего одно из этих состояний, оно совершает спасбросок с преимуществом.
 
-**Duration:** Concentration, up to 1 minute
+#### Арканный глаз
 
-Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren't fixed to a surface, and aren't Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
+*Прорицание 4-го уровня (Волшебник)*
 
-Each target animates, sprouts legs, and becomes a Construct that uses the **Animated Object** stat block; this creature is under your control until the spell ends or until it is reduced to 0 Hit Points. Each creature you make with this spell is an ally to you and your allies. In combat, it shares your Initiative count and takes its turn immediately after yours.
+**Время сотворения:** Действие
 
-Until the spell ends, you can take a Bonus Action to mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. When the creature drops to 0 Hit Points, it reverts to its object form, and any remaining damage carries over to that form.
+**Дистанция:** 30 футов
 
-**_Using a Higher-Level Spell Slot._** The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
+**Компоненты:** В, С, М (клочок меха летучей мыши)
 
-> #### Animated Object
+**Длительность:** Концентрация, вплоть до 1 часа
+
+Вы создаёте невидимый, неуязвимый глаз в пределах дистанции, который парит на время действия заклинания. Вы мысленно получаете визуальную информацию от глаза, который может видеть во всех направлениях. Он также обладает тёмным зрением в радиусе 30 футов.
+
+Бонусным действием вы можете переместить глаз на расстояние до 30 футов в любом направлении. Твёрдая преграда блокирует движение глаза, но глаз может проходить через отверстие диаметром всего 1 дюйм.
+
+#### Барьер жизни
+
+*Ограждение 5-го уровня (Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 1 часа
+
+Аура излучается от вас в 10-футовом излучении на время действия заклинания. Аура не позволяет существам, кроме конструктов и нежити, проходить или тянуться через неё. Затронутое существо может творить заклинания или совершать атаки дальнобойным оружием или оружием с досягаемостью через барьер.
+
+Если вы перемещаетесь так, что затронутое существо вынуждено пройти через барьер, заклинание заканчивается.
+
+#### Волшебная стрела
+
+*Воплощение 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы создаёте три светящихся дротика из магической силы. Каждый дротик поражает существо на ваш выбор, которое вы можете видеть в пределах дистанции. Каждый дротик наносит 1d4 + 1 урона Силовым полем. Все дротики попадают одновременно, и вы можете направить их на одну цель или несколько.
+
+**_Использование ячейки более высокого уровня._** Заклинание создаёт ещё один дротик за каждый уровень ячейки выше 1-го.
+
+#### Воскрешение
+
+*Некромантия 7-го уровня (Бард, Жрец)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (бриллиант стоимостью 1000+ зм, который потребляется заклинанием)
+
+**Длительность:** Мгновенная
+
+Вы касаетесь мёртвого существа. Если его душа свободна и согласна, оно возвращается к жизни со всеми хитами.
+
+Это заклинание нейтрализует любые яды и обычные болезни, поражавшие существо на момент смерти. Оно не снимает магические болезни, проклятия или подобные эффекты; если они не сняты до сотворения заклинания, они снова влияют на цель после её возвращения к жизни.
+
+Это заклинание закрывает все смертельные раны и восстанавливает недостающие части тела.
+
+Возвращение к жизни — тяжёлое испытание. Цель получает штраф -4 ко всем броскам d20. Каждый раз, когда цель завершает продолжительный отдых, штраф уменьшается на 1, пока не исчезнет.
+
+Сотворение этого заклинания, чтобы вернуть к жизни существо, которое было мертво более года, сильно утомляет вас. До завершения продолжительного отдыха вы не можете творить заклинания и совершаете все броски d20 с помехой.
+
+#### Гадание
+
+*Прорицание 4-го уровня (Жрец, Друид, Волшебник)*
+
+**Время сотворения:** Действие или ритуал
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (благовония)
+
+**Длительность:** Мгновенная
+
+Это заклинание позволяет вам связаться с божеством или его посланниками. Вы задаёте один вопрос о конкретной цели, событии или действии, которое должно произойти в течение 7 дней. Мастер предоставляет правдивый ответ, который может быть короткой фразой или загадочной рифмой. Заклинание не учитывает возможные обстоятельства, которые могут изменить исход, такие как дополнительные защитные заклинания или потеря или получение союзника.
+
+Если вы сотворяете это заклинание два или более раз перед следующим продолжительным отдыхом, есть совокупный 25-процентный шанс для каждого сотворения после первого получить случайный ответ. Мастер делает этот бросок тайно.
+
+#### Дверь измерений
+
+*Вызов 4-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 500 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Вы телепортируетесь в незанятое пространство, которое видите, представляете или описываете, указывая расстояние и направление в пределах дистанции, например «200 футов прямо вниз» или «300 футов на северо-запад под углом 45 градусов».
+
+Вы можете взять с собой предметы, если их вес не превышает вашу грузоподъёмность. Вы также можете телепортировать одно согласное существо вашего размера или меньше, несущее снаряжение в пределах своей грузоподъёмности. Оно должно находиться в пределах 5 футов от вас, когда вы телепортируетесь, и появляется в незанятом пространстве в пределах 5 футов от места вашего назначения.
+
+Если вы или другое существо прибываете в занятое пространство, вы оба получаете 4d6 урона Силовым полем, и телепортация проваливается.
+
+#### Дружба с животными
+
+*Очарование 1-го уровня (Бард, Друид, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (кусочек еды)
+
+**Длительность:** 24 часа
+
+Выберите зверя, которого видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости, иначе получает состояние «очарованный» на время действия заклинания. Если вы или один из ваших союзников нанесёт урон цели, заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одного дополнительного зверя за каждый уровень ячейки выше 1-го.
+
+#### Духовное оружие
+
+*Воплощение 2-го уровня (Жрец)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Вы создаёте парящее призрачное оружие в пределах дистанции, которое существует на время действия заклинания. Когда вы сотворяете заклинание, вы можете совершить рукопашную атаку заклинанием против существа в пределах 5 футов от оружия. При попадании цель получает урон Силовым полем, равный 1d8 плюс модификатор вашей заклинательной характеристики.
+
+Бонусным действием в свой ход вы можете переместить оружие на расстояние до 20 футов и повторить атаку против существа в пределах 5 футов от него.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждые два уровня ячейки выше 2-го.
+
+#### Животные формы
+
+*Преобразование 8-го уровня (Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 24 часа
+
+Выберите любое количество согласных существ, которых видите в пределах дистанции. Каждая цель превращается в Большого или меньшего зверя на ваш выбор с показателем опасности 4 или ниже. Вы можете выбрать разные формы для каждой цели. В последующие ходы вы можете совершить действие Магия, чтобы снова превратить цели.
+
+Игровые характеристики цели заменяются характеристиками выбранного зверя, но цель сохраняет свой тип существа; хиты; кости хитов; мировоззрение; способность общаться; и значения Интеллекта, Мудрости и Харизмы. Действия цели ограничены анатомией звериной формы, и она не может творить заклинания. Снаряжение цели сливается с новой формой, и цель не может использовать это снаряжение, находясь в этой форме.
+
+Цель получает временные хиты, равные хитам первой формы, в которую она превращается. Эти временные хиты исчезают, если какие-то из них остаются после окончания заклинания. Превращение длится на время действия заклинания или пока цель не закончит его бонусным действием.
+
+#### Животный посланник
+
+*Очарование 2-го уровня (Бард, Друид, Следопыт)*
+
+**Время сотворения:** Действие или ритуал
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (кусочек еды)
+
+**Длительность:** 24 часа
+
+Крошечный зверь на ваш выбор, которого вы видите в пределах дистанции, должен преуспеть в спасброске Харизмы, иначе он попытается доставить для вас послание (если показатель опасности цели не равен 0, она автоматически преуспевает). Вы указываете место, которое посещали, и получателя, соответствующего общему описанию, например «человек в форме городской стражи» или «рыжий дварф в остроконечной шляпе». Вы также сообщаете послание длиной до двадцати пяти слов. Зверь путешествует на время действия заклинания к указанному месту, преодолевая около 25 миль за 24 часа или 50 миль, если зверь может летать.
+
+Когда зверь прибывает, он передаёт ваше послание существу, которое вы описали, имитируя ваше общение. Если зверь не достигает места назначения до окончания заклинания, послание теряется, и зверь возвращается туда, где вы сотворили заклинание.
+
+**_Использование ячейки более высокого уровня._** Длительность заклинания увеличивается на 48 часов за каждый уровень ячейки выше 2-го.
+
+#### Замешательство
+
+*Очарование 4-го уровня (Бард, Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (три ореховых скорлупы)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Это заклинание атакует разум существ, вызывая искажения восприятия. Каждое существо в 10-футовой сфере с центром в точке, которую вы выбираете в пределах дистанции, должно преуспеть в спасброске Мудрости, иначе получает состояние «замешательство» на время действия заклинания.
+
+**_Использование ячейки более высокого уровня._** Радиус сферы увеличивается на 5 футов за каждый уровень ячейки выше 4-го.
+
+#### Защита от добра и зла
+
+*Ограждение 1-го уровня (Жрец, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (святая вода)
+
+**Длительность:** Концентрация, вплоть до 10 минут
+
+До окончания заклинания одно согласное существо, которого вы касаетесь, защищено от определённых типов существ: аберрации, небожители, элементали, феи, исчадия и нежить.
+
+Защита даёт несколько преимуществ. Существа этих типов совершают с помехой броски атаки против цели. Цель также не может получить состояния «очарованный», «испуганный» или «одержимый» от них. Если цель уже имеет одно из этих состояний от такого существа, цель совершает с преимуществом любой новый спасбросок против соответствующего эффекта.
+
+#### Защита от яда
+
+*Ограждение 2-го уровня (Друид, Жрец, Паладин, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Вы касаетесь существа и завершаете состояние «отравленный» у этого существа. На время действия заклинания цель совершает с преимуществом спасброски против яда и обладает сопротивлением к урону Ядом.
+
+#### Звук смерти
+
+*Некромантия 8-го уровня (Бард, Жрец, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы испускаете отвратительный звук, слышимый в пределах 300 футов. Каждое существо по вашему выбору в 60-футовой сфере с центром на вас должно совершить спасбросок Телосложения. Существо получает 12d8 урона Некротической энергией при провале или половину этого урона при успехе. Гуманоид, убитый этим заклинанием, встаёт в начале вашего следующего хода как зомби, постоянно находящийся под вашим контролем и следующий вашим устным командам.
+
+#### Изгнание
+
+*Ограждение 4-го уровня (Жрец, Паладин, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (пентаграмма)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Одно существо, которое вы видите в пределах дистанции, должно преуспеть в спасброске Харизмы или быть перенесено в безвредное полупространство на время действия заклинания. Находясь там, цель имеет состояние «недееспособный». Когда заклинание заканчивается, цель появляется в пространстве, которое покинула, или в ближайшем незанятом пространстве, если то занято.
+
+Если цель является аберрацией, небожителем, элементалем, феей или исчадием, цель не возвращается, если заклинание длится 1 минуту. Вместо этого цель переносится в случайное место на плане (по выбору Мастера), связанном с её типом существа.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 4-го.
+
+#### Исцеляющее слово
+
+*Воплощение 1-го уровня (Бард, Жрец, Друид)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Существо на ваш выбор, которое вы видите в пределах дистанции, восстанавливает хиты, равные 2d4 плюс модификатор вашей заклинательной характеристики.
+
+**_Использование ячейки более высокого уровня._** Количество исцеления увеличивается на 2d4 за каждый уровень ячейки выше 1-го.
+
+#### Кислотная стрела
+
+*Воплощение 2-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (порошок из листа ревеня)
+
+**Длительность:** Мгновенная
+
+Мерцающая зелёная стрела устремляется к цели в пределах дистанции и взрывается брызгами кислоты. Совершите дальнобойную атаку заклинанием против цели. При попадании цель получает 4d4 урона Кислотой и 2d4 урона Кислотой в конце своего следующего хода. При промахе стрела обрызгивает цель кислотой, нанося только половину начального урона.
+
+**_Использование ячейки более высокого уровня._** Урон (начальный и последующий) увеличивается на 1d4 за каждый уровень ячейки выше 2-го.
+
+#### Кислотные брызги
+
+*Заговор воплощения (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы создаёте кислотный пузырь в точке в пределах дистанции, где он взрывается в 5-футовой сфере. Каждое существо в этой сфере должно преуспеть в спасброске Ловкости или получить 1d6 урона Кислотой.
+
+**_Улучшение заговора._** Урон увеличивается на 1d6, когда вы достигаете 5-го (2d6), 11-го (3d6) и 17-го (4d6) уровней.
+
+#### Кора
+
+*Преобразование 2-го уровня (Друид, Следопыт)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (горсть коры)
+
+**Длительность:** 1 час
+
+Вы касаетесь согласного существа. До окончания заклинания кожа цели приобретает вид коры, и цель имеет класс доспеха 17, если её КД ниже этого значения.
+
+#### Круг смерти
+
+*Некромантия 6-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С, М (порошок измельчённого чёрного жемчуга)
+
+**Длительность:** Мгновенная
+
+Негативная энергия излучается от точки, которую вы выбираете в пределах дистанции. Каждое существо в 60-футовой сфере с центром в этой точке должно совершить спасбросок Телосложения. Цель получает 8d8 урона Некротической энергией при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 2d8 за каждый уровень ячейки выше 6-го.
+
+#### Круг телепортации
+
+*Вызов 5-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, М (редкие чернила, настоянные на драгоценных камнях, стоимостью 50+ зм, которые потребляются заклинанием)
+
+**Длительность:** 1 раунд
+
+Когда вы сотворяете заклинание, вы рисуете на земле 5-футовый круг, который связывается с постоянным кругом телепортации по вашему выбору, сигнатурную последовательность которого вы знаете и который находится на том же плане существования, что и вы. Портал открывается в начерченном круге и остаётся открытым до конца вашего следующего хода. Любое существо, входящее в портал, мгновенно появляется в пределах 5 футов от постоянного круга назначения или в ближайшем незанятом пространстве, если оно занято.
+
+Постоянные круги телепортации обычно находятся в крупных храмах, гильдиях и других важных местах. Каждый такой круг включает уникальную сигнатурную последовательность — строку магических рун, расположенных в определённом узоре.
+
+Вы можете создать постоянный круг телепортации, сотворяя это заклинание в одном и том же месте каждый день в течение года.
+
+#### Лечение ран
+
+*Воплощение 1-го уровня (Бард, Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Существо, которого вы касаетесь, восстанавливает хиты, равные 2d8 плюс модификатор вашей заклинательной характеристики.
+
+**_Использование ячейки более высокого уровня._** Количество исцеления увеличивается на 2d8 за каждый уровень ячейки выше 1-го.
+
+#### Луч немощи
+
+*Некромантия 2-го уровня (Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Чёрный луч некротической энергии вырывается из вашего пальца к существу в пределах дистанции. Совершите дальнобойную атаку заклинанием против цели. При попадании цель получает 2d8 урона Некротической энергией и совершает с помехой проверки Силы и спасброски Силы на время действия заклинания. Цель может повторять спасбросок Телосложения в конце каждого своего хода. При успехе заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 2-го.
+
+#### Маяк надежды
+
+*Ограждение 3-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Выберите любое количество существ в пределах дистанции. На время действия заклинания каждая цель совершает с преимуществом спасброски Мудрости и спасброски от смерти и восстанавливает максимально возможное количество хитов от любого исцеления.
+
+#### Мерцание
+
+*Преобразование 3-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** 1 минута
+
+Бросайте 1d6 в конце каждого своего хода на время действия заклинания. При результате 4–6 вы исчезаете со своего текущего плана существования и появляетесь на Эфирном Плане (заклинание мгновенно заканчивается, если вы уже на этом плане). Находясь на Эфирном Плане, вы можете видеть план, который покинули, но он выглядит серым, и вы не можете видеть ничего дальше 60 футов. Вы можете воздействовать и подвергаться воздействию только других существ на Эфирном Плане, и существа на другом плане не могут воспринимать вас, если у них нет особой способности воспринимать вещи на Эфирном Плане.
+
+Вы возвращаетесь на другой план в начале своего следующего хода и когда заклинание заканчивается, если вы находитесь на Эфирном Плане. Вы появляетесь в незанятом пространстве на ваш выбор, которое видите в пределах 10 футов от пространства, которое покинули. Если незанятого пространства в этом диапазоне нет, вы появляетесь в ближайшем незанятом пространстве.
+
+#### Молния
+
+*Воплощение 3-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (кусочек меха и янтарный или стеклянный стержень)
+
+**Длительность:** Мгновенная
+
+Молния образует 100-футовую линию шириной 5 футов, исходящую от вас в направлении, которое вы выбираете. Каждое существо в линии совершает спасбросок Ловкости, получая 8d6 урона Электричеством при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 3-го.
+
+#### Молния с небес
+
+*Вызов 3-го уровня (Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 10 минут
+
+Грозовое облако появляется в точке в пределах дистанции, которую вы видите над собой. Оно принимает форму цилиндра высотой 10 футов с радиусом 60 футов.
+
+Когда вы сотворяете заклинание, выберите точку, которую видите под облаком. Молния бьёт из облака в эту точку. Каждое существо в пределах 5 футов от этой точки совершает спасбросок Ловкости, получая 3d10 урона Электричеством при провале или половину этого урона при успехе.
+
+До окончания заклинания вы можете совершить действие Магия, чтобы снова призвать молнию таким образом, нацеливаясь на ту же или другую точку.
+
+Если вы находитесь на улице во время грозы, когда творите это заклинание, заклинание даёт вам контроль над этой грозой вместо создания новой. В таких условиях урон заклинания увеличивается на 1d10.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d10 за каждый уровень ячейки выше 3-го.
+
+#### Наложение проклятия
+
+*Некромантия 3-го уровня (Бард, Жрец, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Вы касаетесь существа, которое должно преуспеть в спасброске Мудрости или стать проклятым на время действия заклинания. До окончания проклятия цель страдает от одного из следующих эффектов на ваш выбор:
+
+- Выберите одну характеристику. Цель совершает с помехой проверки характеристик и спасброски с этой характеристикой.
+- Цель совершает с помехой броски атаки против вас.
+- В бою цель должна преуспеть в спасброске Мудрости в начале каждого своего хода, иначе она вынуждена совершить в этот ход действие Уклонение.
+- Если вы наносите урон цели броском атаки или заклинанием, цель получает дополнительно 1d8 урона Некротической энергией.
+
+**_Использование ячейки более высокого уровня._** Если вы сотворяете это заклинание, используя ячейку 4-го уровня, вы можете поддерживать концентрацию на нём до 10 минут. Если используете ячейку 5-го уровня и выше, заклинание не требует концентрации, и длительность становится 8 часов (ячейка 5–6 уровня) или 24 часа (ячейка 7–8 уровня). Если используете ячейку 9-го уровня, заклинание длится до рассеяния.
+
+#### Немезида
+
+*Некромантия 4-го уровня (Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Существо, которое вы видите в пределах дистанции, совершает спасбросок Телосложения, получая 8d8 урона Некротической энергией при провале или половину этого урона при успехе. Растительное существо автоматически проваливает спасбросок.
+
+В качестве альтернативы выберите цель — немагическое растение, не являющееся существом, такое как дерево или кустарник. Оно не совершает спасбросок; оно просто увядает и умирает.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 4-го.
+
+#### Огненные руки
+
+*Воплощение 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Тонкий слой пламени вырывается от вас. Каждое существо в 15-футовом конусе совершает спасбросок Ловкости, получая 3d6 урона Огнём при провале или половину этого урона при успехе.
+
+Горючие предметы в конусе, которые не носят и не несут, начинают гореть.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 1-го.
+
+#### Огненный шар
+
+*Воплощение 3-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С, М (крошечный шарик из гуано летучей мыши и серы)
+
+**Длительность:** Мгновенная
+
+Яркая полоса вылетает из вашего пальца в точку, которую вы выбираете в пределах дистанции, и затем расцветает с низким рёвом в огненный взрыв. Каждое существо в 20-футовой сфере с центром в этой точке совершает спасбросок Ловкости, получая 8d6 урона Огнём при провале или половину этого урона при успехе.
+
+Огонь огибает углы и поджигает горючие предметы в области, которые не носят и не несут.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 3-го.
+
+#### Оживление мёртвых
+
+*Некромантия 3-го уровня (Жрец, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, С, М (капля крови, кусочек плоти и щепотка костной пыли)
+
+**Длительность:** Мгновенная
+
+Выберите кучу костей или труп Среднего или Маленького гуманоида в пределах дистанции. Цель становится существом-нежитью: скелетом, если вы выбрали кости, или зомби, если вы выбрали труп (статблоки см. в разделе «Монстры»).
+
+В каждый свой ход вы можете бонусным действием мысленно командовать любым существом, созданным этим заклинанием, если оно находится в пределах 60 футов от вас (если вы контролируете несколько существ, вы можете командовать любыми из них одновременно, отдавая одну и ту же команду каждому). Вы решаете, какое действие совершит существо и куда оно переместится в свой следующий ход, или вы можете отдать общую команду, например охранять комнату или коридор. Если вы не отдаёте команд, существо совершает действие Уклонение и перемещается только для избежания вреда. Получив приказ, существо продолжает следовать ему, пока задание не будет выполнено.
+
+Существо находится под вашим контролем в течение 24 часов, после чего перестаёт подчиняться вашим командам. Чтобы сохранить контроль над существом ещё на 24 часа, вы должны сотворить это заклинание на существо снова до истечения текущего 24-часового периода. Такое использование заклинания восстанавливает ваш контроль над четырьмя существами, оживлёнными этим заклинанием, вместо оживления нового существа.
+
+**_Использование ячейки более высокого уровня._** Вы оживляете или восстанавливаете контроль над двумя дополнительными существами-нежитью за каждый уровень ячейки выше 3-го. Каждое из существ должно происходить от разного трупа или кучи костей.
+
+#### Оживление предметов
+
+*Преобразование 5-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Предметы оживают по вашей команде. Выберите несколько немагических предметов в пределах дистанции, которые не носят и не несут, не прикреплены к поверхности и не являются Исполинскими. Максимальное количество предметов равно модификатору вашей заклинательной характеристики; для этого числа Средняя или меньшая цель считается одним предметом, Большая цель считается двумя, а Громадная — тремя.
+
+Каждая цель оживает, отращивает ноги и становится конструктом, использующим статблок **Оживлённого предмета**; это существо находится под вашим контролем до окончания заклинания или пока его хиты не опустятся до 0. Каждое существо, созданное этим заклинанием, является союзником для вас и ваших союзников. В бою оно разделяет ваш счёт инициативы и действует сразу после вас.
+
+До окончания заклинания вы можете бонусным действием мысленно командовать любым существом, созданным этим заклинанием, если оно находится в пределах 500 футов от вас (если вы контролируете несколько существ, вы можете командовать любыми из них одновременно, отдавая одну и ту же команду каждому). Если вы не отдаёте команд, существо совершает действие Уклонение и перемещается только для избежания вреда. Когда хиты существа опускаются до 0, оно возвращается в свою предметную форму, и любой оставшийся урон переносится на эту форму.
+
+**_Использование ячейки более высокого уровня._** Урон Удара существа увеличивается на 1d4 (Среднее или меньшее), 1d6 (Большое) или 1d12 (Громадное) за каждый уровень ячейки выше 5-го.
+
+#### Помощь
+
+*Ограждение 2-го уровня (Бард, Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (полоска белой ткани)
+
+**Длительность:** 8 часов
+
+Выберите до трёх существ в пределах дистанции. Максимум и текущие хиты каждой цели увеличиваются на 5 на время действия заклинания.
+
+**_Использование ячейки более высокого уровня._** Хиты каждой цели увеличиваются на 5 за каждый уровень ячейки выше 2-го.
+
+#### Порча
+
+*Очарование 1-го уровня (Бард, Жрец, Колдун)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (капля крови)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+До трёх существ на ваш выбор, которых вы видите в пределах дистанции, должны совершить спасбросок Харизмы. Каждый раз, когда цель, провалившая этот спасбросок, совершает бросок атаки или спасбросок до окончания заклинания, она должна вычесть 1d4 из броска атаки или спасброска.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 1-го.
+
+#### Пробуждение
+
+*Преобразование 5-го уровня (Бард, Друид)*
+
+**Время сотворения:** 8 часов
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (агат стоимостью 1000+ зм, который потребляется заклинанием)
+
+**Длительность:** Мгновенная
+
+Вы тратите время сотворения на начертание магических путей внутри драгоценного камня, а затем касаетесь цели. Цель должна быть либо зверем или растительным существом с Интеллектом 3 или ниже, либо природным растением, не являющимся существом. Цель получает Интеллект 10 и способность говорить на одном языке, который вы знаете. Если цель — природное растение, оно становится растительным существом и получает способность двигать конечностями, корнями, лозами, ползучими побегами и так далее, а также получает чувства, подобные человеческим. Мастер выбирает характеристики, подходящие для пробуждённого растения, например характеристики **Пробуждённого куста** или **Пробуждённого дерева** в разделе «Монстры».
+
+Пробуждённая цель имеет состояние «очарованный» в течение 30 дней или пока вы или ваши союзники не нанесёте ей урон. Когда это состояние заканчивается, пробуждённое существо выбирает своё отношение к вам.
+
+#### Размытость
+
+*Иллюзия 2-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Ваше тело становится размытым. На время действия заклинания любое существо совершает с помехой броски атаки против вас. Атакующий имеет иммунитет к этому эффекту, если воспринимает вас с помощью слепого зрения или истинного зрения.
+
+#### Расщепляющая молния
+
+*Воплощение 6-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С, М (три серебряных штыря)
+
+**Длительность:** Мгновенная
+
+Вы пускаете молнию в цель, которую видите в пределах дистанции. Затем три молнии перескакивают от этой цели к трём другим целям на ваш выбор, каждая из которых должна находиться в пределах 30 футов от первой цели. Целью может быть существо или предмет, и на каждую цель может попасть только одна молния.
+
+Каждая цель совершает спасбросок Ловкости, получая 10d8 урона Электричеством при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Одна дополнительная молния перескакивает от первой цели к другой цели за каждый уровень ячейки выше 6-го.
+
+#### Святилище
+
+*Ограждение 1-го уровня (Жрец)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (маленькое серебряное зеркало)
+
+**Длительность:** 1 минута
+
+Вы защищаете существо в пределах дистанции. До окончания заклинания любое существо, которое нацеливается на защищённое существо враждебным действием или атакой, должно сначала совершить спасбросок Мудрости. При провале существо теряет атаку или действие, но ещё может двигаться. При успехе существо становится невосприимчивым к этому сотворению *Святилища*. Это заклинание не защищает от эффектов по области, таких как взрыв *Огненного шара*.
+
+Если защищённое существо атакует, творит заклинание или иным образом наносит урон, заклинание заканчивается.
+
+#### Слепота/Глухота
+
+*Преобразование 2-го уровня (Бард, Жрец, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В
+
+**Длительность:** 1 минута
+
+Одно существо, которое вы видите в пределах дистанции, должно преуспеть в спасброске Телосложения, иначе оно получает состояние «ослеплённый» или «оглохший» (на ваш выбор) на время действия заклинания. В конце каждого своего хода цель повторяет спасбросок, заканчивая заклинание для себя при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 2-го.
+
+#### Стена клинков
+
+*Воплощение 6-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 10 минут
+
+Вы создаёте стену из вращающихся клинков, сделанных из магической энергии. Стена появляется в пределах дистанции и существует на время действия заклинания. Вы создаёте прямую стену длиной до 100 футов, высотой 20 футов и толщиной 5 футов, или кольцевую стену диаметром до 60 футов, высотой 20 футов и толщиной 5 футов. Стена предоставляет укрытие на три четверти, и её пространство является труднопроходимой местностью.
+
+Любое существо в пространстве стены совершает спасбросок Ловкости, получая 6d10 урона Силовым полем при провале или половину этого урона при успехе. Существо также совершает этот спасбросок, если оно входит в пространство стены или заканчивает там свой ход. Существо совершает этот спасбросок только один раз в ход.
+
+#### Стена огня
+
+*Воплощение 4-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (кусочек фосфора)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Вы создаёте стену огня на твёрдой поверхности в пределах дистанции. Вы можете сделать стену длиной до 60 футов, высотой 20 футов и толщиной 1 фут, или кольцевую стену диаметром до 20 футов, высотой 20 футов и толщиной 1 фут. Стена непрозрачна и существует на время действия заклинания.
+
+Когда стена появляется, каждое существо в её области совершает спасбросок Ловкости, получая 5d8 урона Огнём при провале или половину этого урона при успехе.
+
+Одна сторона стены, выбранная вами при сотворении, наносит 5d8 урона Огнём каждому существу, которое заканчивает свой ход в пределах 10 футов от этой стороны или внутри стены. Существо получает такой же урон, когда входит в стену в первый раз в ход. Другая сторона стены не наносит урона.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 4-го.
+
+#### Стена силы
+
+*Воплощение 5-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (щепотка порошка, сделанного из раздробленного прозрачного драгоценного камня)
+
+**Длительность:** Концентрация, вплоть до 10 минут
+
+Невидимая стена из силы появляется в точке, которую вы выбираете в пределах дистанции. Стена появляется в любой ориентации, которую вы выбираете: как горизонтальная, вертикальная барьер или под углом. Она может свободно парить или опираться на твёрдую поверхность. Вы можете сформировать её в полусферический купол или сферу радиусом до 10 футов, или вы можете создать плоскую поверхность, состоящую из десяти 10-футовых панелей. Каждая панель должна соприкасаться с другой панелью. В любой форме стена имеет толщину 1/4 дюйма и существует на время действия заклинания. Если стена проходит через пространство существа, когда она появляется, существо выталкивается на одну сторону стены (на ваш выбор).
+
+Ничто физически не может пройти через стену. Она имеет иммунитет ко всему урону. *Рассеивание магии* не оказывает на неё эффекта. Однако заклинание *Дезинтеграция* мгновенно уничтожает стену. Стена также простирается в Эфирный План, блокируя там эфирное путешествие через неё.
+
+#### Страж веры
+
+*Вызов 4-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В
+
+**Длительность:** 8 часов
+
+Большой призрачный страж появляется и парит на время действия заклинания в незанятом пространстве на ваш выбор, которое вы видите в пределах дистанции. Страж занимает это пространство и невнятен, за исключением сверкающего меча и щита с символом вашего божества.
+
+Любое враждебное вам существо, которое впервые в ход входит в пространство в пределах 10 футов от стража, должно преуспеть в спасброске Ловкости, получив 20 урона Излучением при провале или половину этого урона при успехе. Страж исчезает, когда он нанёс в общей сложности 60 урона.
+
+#### Сумка фокусника
+
+*Вызов 2-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (клочок ткани)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Вы вызываете хлопающие платки, которые вырываются из точки, которую вы выбираете в пределах дистанции. Платки заполняют 20-футовый куб с центром в этой точке на время действия заклинания. Область является сильно заслонённой и является труднопроходимой местностью.
+
+Каждое существо, которое начинает свой ход в области или входит в неё в первый раз в ход, должно совершить спасбросок Ловкости. При провале существо получает состояние «опутанный» до тех пор, пока не покинет область.
+
+#### Сфера неуязвимости
+
+*Ограждение 6-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (стеклянная или хрустальная бусина)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Неподвижная, слегка мерцающая преграда возникает в 10-футовом излучении вокруг вас и остаётся на время действия заклинания.
+
+Любое заклинание 5-го уровня или ниже, сотворённое снаружи преграды, не может воздействовать на существ или предметы внутри неё, даже если заклинание сотворено с использованием ячейки более высокого уровня. Такое заклинание может нацеливаться на существ и предметы внутри преграды, но заклинание не оказывает на них эффекта. Аналогично, область внутри преграды исключается из областей, затронутых такими заклинаниями.
+
+**_Использование ячейки более высокого уровня._** Преграда блокирует заклинания на один уровень выше за каждый уровень ячейки выше 6-го.
+
+#### Тревога
+
+*Ограждение 1-го уровня (Следопыт, Волшебник)*
+
+**Время сотворения:** 1 минута или ритуал
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (колокольчик и серебряная проволока)
+
+**Длительность:** 8 часов
+
+Вы устанавливаете сигнализацию против вторжения. Выберите дверь, окно или область в пределах дистанции, не превышающую 20-футовый куб. До окончания заклинания сигнализация предупреждает вас всякий раз, когда существо касается защищённой области или входит в неё. При сотворении заклинания вы можете указать существ, которые не будут вызывать сигнализацию. Вы также выбираете, будет ли сигнализация слышимой или мысленной:
+
+**Слышимая сигнализация.** Сигнализация производит звук ручного колокольчика в течение 10 секунд в пределах 60 футов от защищённой области.
+
+**Мысленная сигнализация.** Вы получаете мысленный сигнал, если находитесь в пределах 1 мили от защищённой области. Этот сигнал пробуждает вас, если вы спите.
+
+#### Удержание личности
+
+*Очарование 2-го уровня (Бард, Жрец, Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (небольшой прямой кусок железа)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Выберите гуманоида, которого видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости или получить состояние «парализованный» на время действия заклинания. В конце каждого своего хода цель повторяет спасбросок, заканчивая заклинание для себя при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо-гуманоида за каждый уровень ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы нацеливаетесь на них.
+
+#### Удержание чудовища
+
+*Очарование 5-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (небольшой прямой кусок железа)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Выберите существо, которое видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости или получить состояние «парализованный» на время действия заклинания. В конце каждого своего хода цель повторяет спасбросок, заканчивая заклинание для себя при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 5-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы нацеливаетесь на них.
+
+#### Успокоение эмоций
+
+*Очарование 2-го уровня (Бард, Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Каждый гуманоид в 20-футовой сфере с центром в точке, которую вы выбираете в пределах дистанции, должен преуспеть в спасброске Харизмы или подвергнуться одному из следующих эффектов (выбирается для каждого существа):
+
+- Существо получает иммунитет к состояниям «очарованный» и «испуганный» до окончания заклинания. Если существо уже было очаровано или испугано, эти состояния подавляются на время действия заклинания.
+- Существо становится безразличным к существам на ваш выбор, к которым оно было враждебно. Это безразличие заканчивается, если цель получает урон или становится свидетелем того, как урон получают её союзники. Когда заклинание заканчивается, отношение существа возвращается к нормальному.
+
+#### Хилое прикосновение
+
+*Заговор некромантии (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Направляя холод могилы, совершите рукопашную атаку заклинанием против цели в пределах досягаемости. При попадании цель получает 1d10 урона Некротической энергией и не может восстанавливать хиты до конца вашего следующего хода.
+
+**_Улучшение заговора._** Урон увеличивается на 1d10, когда вы достигаете 5-го (2d10), 11-го (3d10) и 17-го (4d10) уровней.
+
+#### Хроматическая сфера
+
+*Воплощение 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (бриллиант стоимостью 50+ зм)
+
+**Длительность:** Мгновенная
+
+Вы швыряете сферу энергии в цель в пределах дистанции. Выберите Кислоту, Холод, Огонь, Электричество, Яд или Звук для типа создаваемой сферы, затем совершите дальнобойную атаку заклинанием против цели. При попадании цель получает 3d8 урона выбранного типа.
+
+Если вы выбросите одинаковое число на двух или более d8, сфера перескакивает к другой цели на ваш выбор в пределах 30 футов от цели. Совершите бросок атаки против новой цели и совершите новый бросок урона. Сфера не может перескочить снова, если вы не сотворили заклинание с ячейкой 2-го уровня или выше.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 1-го. Сфера может перескочить максимальное количество раз, равное уровню израсходованной ячейки, и существо может быть целью только один раз от каждого сотворения этого заклинания.
+
+#### Чёрные щупальца
+
+*Вызов 4-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (щупальце)
+
+**Длительность:** Концентрация, вплоть до 1 минуты
+
+Извивающиеся чёрные щупальца заполняют 20-футовый квадрат на земле, который вы видите в пределах дистанции. На время действия заклинания эти щупальца превращают землю в этой области в труднопроходимую местность.
+
+Каждое существо в этой области совершает спасбросок Силы. При провале оно получает 3d6 Дробящего урона и имеет состояние «опутанный» до окончания заклинания. Существо также совершает этот спасбросок, если оно входит в область или заканчивает в ней свой ход. Существо совершает этот спасбросок только один раз в ход.
+
+Опутанное существо может действием совершить проверку Силы (Атлетика) против СЛ ваших заклинаний, заканчивая состояние для себя при успехе.
+
+#### Чёрные испарения
+
+*Вызов 5-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, вплоть до 10 минут
+
+Вы создаёте 20-футовую сферу жёлто-зелёного тумана с центром в точке в пределах дистанции. Туман существует на время действия заклинания или пока сильный ветер (например, созданный заклинанием *Порыв ветра*) не рассеет его, заканчивая заклинание. Его область сильно заслонена.
+
+Каждое существо в сфере совершает спасбросок Телосложения, получая 5d8 урона Ядом при провале или половину этого урона при успехе. Существо также должно совершить этот спасбросок, когда сфера перемещается в его пространство и когда оно входит в сферу или заканчивает в ней свой ход. Существо совершает этот спасбросок только один раз в ход.
+
+Сфера перемещается на 10 футов от вас в начале каждого вашего хода.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 5-го.
+
+#### Чары чудовища
+
+*Очарование 4-го уровня (Бард, Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Одно существо, которое вы видите в пределах дистанции, совершает спасбросок Мудрости. Оно совершает его с преимуществом, если вы или ваши союзники сражаетесь с ним. При провале цель получает состояние «очарованный» до окончания заклинания или пока вы или ваши союзники не нанесут ей урон. Очарованное существо дружелюбно к вам. Когда заклинание заканчивается, цель знает, что была очарована вами.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 4-го.
+
+#### Очарование личности
+
+*Очарование 1-го уровня (Бард, Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Один гуманоид, которого вы видите в пределах дистанции, совершает спасбросок Мудрости. Он совершает его с преимуществом, если вы или ваши союзники сражаетесь с ним. При провале цель получает состояние «очарованный» до окончания заклинания или пока вы или ваши союзники не нанесут ей урон. Очарованное существо дружелюбно к вам. Когда заклинание заканчивается, цель знает, что была очарована вами.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 1-го.
+
+#### Обнаружение добра и зла
+
+*Прорицание 1-го уровня (Жрец, Паладин)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+На время действия заклинания вы чувствуете местоположение любых аберраций, небожителей, элементалей, фей, исчадий или нежити в пределах 30 футов от вас. Вы также чувствуете, активно ли заклинание *Освящение* в этом месте, и если да, то где.
+
+Заклинание блокируется 1 футом камня, земли или дерева; 1 дюймом металла; или тонким листом свинца.
+
+#### Обнаружение магии
+
+*Прорицание 1-го уровня (Бард, Жрец, Друид, Паладин, Следопыт, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие или Ритуал
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+На время действия заклинания вы чувствуете присутствие магических эффектов в пределах 30 футов от вас. Если вы чувствуете такие эффекты, вы можете совершить действие Магия, чтобы увидеть слабую ауру вокруг любого видимого существа или объекта в области, несущего магию, и если эффект был создан заклинанием, вы узнаёте школу магии заклинания.
+
+Заклинание блокируется 1 футом камня, земли или дерева; 1 дюймом металла; или тонким листом свинца.
+
+#### Обнаружение яда и болезней
+
+*Прорицание 1-го уровня (Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Действие или Ритуал
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (лист тиса)
+
+**Длительность:** Концентрация, до 10 минут
+
+На время действия заклинания вы чувствуете местоположение ядов, ядовитых существ и магических заражений в пределах 30 футов от вас. В каждом случае вы чувствуете вид яда, существа или заражения.
+
+Заклинание блокируется 1 футом камня, земли или дерева; 1 дюймом металла; или тонким листом свинца.
+
+#### Обнаружение мыслей
+
+*Прорицание 2-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (1 медная монета)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы активируете один из приведённых ниже эффектов. До окончания заклинания вы можете активировать любой из эффектов действием Магия в последующие ходы.
+
+#### Обусловленность
+
+*Ограждение 6-го уровня (Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (украшенная самоцветами статуэтка вас самих стоимостью 1500+ зм)
+
+**Длительность:** 10 дней
+
+Выберите заклинание 5-го уровня или ниже, которое вы можете сотворить, которое имеет время сотворения действие и которое может нацеливаться на вас. Вы сотворяете это заклинание — называемое обусловленным заклинанием — как часть сотворения *Обусловленности*, расходуя ячейки заклинаний для обоих, но обусловленное заклинание не вступает в силу. Вместо этого оно вступает в силу при определённом условии. Вы описываете это условие, когда сотворяете оба заклинания. Например, *Обусловленность*, сотворённая с *Подводным дыханием*, может предусматривать, что *Подводное дыхание* вступает в силу, когда вы погружены в воду или подобную жидкость.
+
+Обусловленное заклинание вступает в силу немедленно после того, как условие срабатывает впервые, независимо от того, хотите вы этого или нет, и затем *Обусловленность* заканчивается.
+
+Обусловленное заклинание действует только на вас, даже если обычно оно может нацеливаться на других. Вы можете использовать только одну *Обусловленность* одновременно. Если вы сотворяете это заклинание снова, эффект другой *Обусловленности* на вас заканчивается. Также *Обусловленность* заканчивается на вас, если её материальный компонент когда-либо не находится при вас.
+
+#### Полуплан
+
+*Вызов 8-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** С
+
+**Длительность:** 1 час
+
+Вы создаёте теневую дверь размером со Среднее существо на плоской твёрдой поверхности, которую видите в пределах дистанции. Эту дверь можно открывать и закрывать, и она ведёт в полуплан, который представляет собой пустую комнату 30 футов в каждом измерении, сделанную из дерева или камня (на ваш выбор).
+
+Когда заклинание заканчивается, дверь исчезает, и любые объекты внутри полуплана остаются там. Любые существа внутри также остаются, если они не решат быть вытолкнуты через дверь, когда она исчезает, приземляясь в состоянии «ничком» в свободных пространствах, ближайших к бывшему месту двери.
+
+Каждый раз, когда вы сотворяете это заклинание, вы можете создать новый полуплан или соединить теневую дверь с полупланом, который вы создали предыдущим сотворением этого заклинания. Кроме того, если вы знаете природу и содержимое полуплана, созданного сотворением этого заклинания другим существом, вы можете соединить теневую дверь с этим полупланом.
+
+#### Связь с иным планом
+
+*Прорицание 5-го уровня (Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута или Ритуал
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** 1 минута
+
+Вы мысленно связываетесь с полубогом, духом давно умершего мудреца или иной сведущей сущностью с другого плана. Контакт с этим потусторонним интеллектом может сломить ваш разум. Когда вы сотворяете это заклинание, совершите спасбросок Интеллекта Сл 15. При успехе вы можете задать сущности до пяти вопросов. Вы должны задать свои вопросы до окончания заклинания. Мастер отвечает на каждый вопрос одним словом, например, «да», «нет», «возможно», «никогда», «неважно» или «неясно» (если сущность не знает ответа на вопрос). Если односложный ответ будет вводить в заблуждение, Мастер может вместо этого предложить короткую фразу в качестве ответа.
+
+При провале вы получаете 6d6 урона психической энергией и получаете состояние «недееспособный» до завершения продолжительного отдыха. Заклинание *Высшее восстановление*, сотворённое на вас, прекращает этот эффект.
+
+#### Создание нежити
+
+*Некромантия 6-го уровня (Жрец, Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, С, М (один чёрный оникс стоимостью 150+ зм за каждый труп)
+
+**Длительность:** Мгновенная
+
+Вы можете сотворить это заклинание только ночью. Выберите до трёх трупов Средних или Маленьких гуманоидов в пределах дистанции. Каждый становится **Упырём** под вашим контролем (см. блок характеристик в главе «Монстры»).
+
+Бонусным действием в каждый свой ход вы можете мысленно командовать любым существом, которое вы оживили этим заклинанием, если существо находится в пределах 120 футов от вас (если вы контролируете несколько существ, вы можете командовать любым из них одновременно, отдавая им одну и ту же команду). Вы решаете, какое действие совершит существо и куда оно переместится в свой следующий ход, или вы можете отдать общую команду, например, охранять определённое место. Если вы не отдаёте команд, существо совершает действие Уклонение и перемещается только чтобы избежать вреда. Получив приказ, существо продолжает следовать ему, пока задача не будет выполнена.
+
+Существо находится под вашим контролем 24 часа, после чего перестаёт подчиняться любым вашим командам. Чтобы сохранить контроль над существом ещё на 24 часа, вы должны сотворить это заклинание на существо до окончания текущего 24-часового периода. Такое использование заклинания восстанавливает ваш контроль над тремя существами, которых вы оживили этим заклинанием, вместо оживления новых.
+
+**_Использование ячейки более высокого уровня._** Если вы используете ячейку 7-го уровня, вы можете оживить или восстановить контроль над четырьмя **Упырями**. Если вы используете ячейку 8-го уровня, вы можете оживить или восстановить контроль над пятью **Упырями** или двумя **Вурдалаками** или **Умертвиями**. Если вы используете ячейку 9-го уровня, вы можете оживить или восстановить контроль над шестью **Упырями**, тремя **Вурдалаками** или **Умертвиями**, или двумя **Мумиями**. См. блоки характеристик в главе «Монстры».
+
+#### Сотворение
+
+*Иллюзия 5-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (кисть)
+
+**Длительность:** Особая
+
+Вы вытягиваете клочья теневой материи из Царства Теней, чтобы создать объект в пределах дистанции. Это либо объект из растительной материи (ткани, верёвка, дерево и тому подобное), либо из минеральной материи (камень, кристалл, металл и тому подобное). Объект должен быть не больше куба с ребром 5 футов, и объект должен быть такой формы и материала, которые вы видели.
+
+Длительность заклинания зависит от материала объекта, как показано в таблице Материалов. Если объект состоит из нескольких материалов, используйте наименьшую длительность. Использование любого объекта, созданного этим заклинанием, в качестве материального компонента другого заклинания приводит к провалу этого заклинания.
+
+Таблица: Материалы
+
+| Материал              | Длительность |
+|-----------------------|--------------|
+| Растительная материя  | 24 часа      |
+| Камень или кристалл   | 12 часов     |
+| Драгоценные металлы   | 1 час        |
+| Самоцветы             | 10 минут     |
+| Адамантин или митрил  | 1 минута     |
+
+**_Использование ячейки более высокого уровня._** Куб увеличивается на 5 футов за каждый уровень ячейки выше 5-го.
+
+#### Сотворение или уничтожение воды
+
+*Преобразование 1-го уровня (Жрец, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (смесь воды и песка)
+
+**Длительность:** Мгновенная
+
+Вы делаете одно из следующего:
+
+**Сотворение воды.** Вы создаёте до 10 галлонов чистой воды в пределах дистанции в открытом контейнере. В качестве альтернативы вода падает дождём в кубе с ребром 30 футов в пределах дистанции, гася открытое пламя там.
+
+**Уничтожение воды.** Вы уничтожаете до 10 галлонов воды в открытом контейнере в пределах дистанции. В качестве альтернативы вы уничтожаете туман в кубе с ребром 30 футов в пределах дистанции.
+
+**_Использование ячейки более высокого уровня._** Вы создаёте или уничтожаете 10 дополнительных галлонов воды, или размер куба увеличивается на 5 футов, за каждый уровень ячейки выше 1-го.
+
+#### Сотворение пищи и воды
+
+*Вызов 3-го уровня (Жрец, Паладин)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы создаёте 45 фунтов пищи и 30 галлонов пресной воды на земле или в контейнерах в пределах дистанции — и то, и другое полезно для предотвращения опасностей недоедания и обезвоживания. Пища безвкусная, но питательная и выглядит как пища по вашему выбору, а вода чистая. Пища портится через 24 часа, если её не съесть.
+
+#### Танцующие огоньки
+
+*Заговор иллюзии (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (кусочек фосфора)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы создаёте до четырёх огоньков размером с факел в пределах дистанции, придавая им вид факелов, фонарей или светящихся сфер, которые парят на время действия заклинания. В качестве альтернативы вы можете объединить четыре огонька в одну светящуюся форму размером со Среднее существо, отдалённо напоминающую гуманоида. Какую бы форму вы ни выбрали, каждый огонёк излучает тусклый свет в радиусе 10 футов.
+
+Бонусным действием вы можете переместить огоньки на 60 футов в пространство в пределах дистанции. Огонёк должен находиться в пределах 20 футов от другого огонька, созданного этим заклинанием, и огонёк исчезает, если выходит за пределы дистанции заклинания.
+
+#### Тёмное зрение
+
+*Преобразование 2-го уровня (Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (сушёная морковь)
+
+**Длительность:** 8 часов
+
+На время действия заклинания согласное существо, которого вы касаетесь, получает тёмное зрение в радиусе 150 футов.
+
+#### Тьма
+
+*Воплощение 2-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, М (шерсть летучей мыши и кусок угля)
+
+**Длительность:** Концентрация, до 10 минут
+
+На время действия заклинания магическая тьма распространяется от точки в пределах дистанции и заполняет сферу радиусом 15 футов. Тёмное зрение не позволяет видеть сквозь неё, и немагический свет не может осветить её.
+
+В качестве альтернативы вы сотворяете заклинание на объект, который не носят и не несут, заставляя тьму заполнять исходящую от этого объекта эманацию радиусом 15 футов. Накрыв этот объект чем-то непрозрачным, например, миской или шлемом, можно заблокировать тьму.
+
+Если какая-либо область этого заклинания перекрывается с областью яркого света или тусклого света, созданного заклинанием 2-го уровня или ниже, это другое заклинание рассеивается.
+
+#### Дневной свет
+
+*Воплощение 3-го уровня (Жрец, Друид, Паладин, Следопыт, Чародей)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+На время действия заклинания солнечный свет распространяется от точки в пределах дистанции и заполняет сферу радиусом 60 футов. Область солнечного света является ярким светом и излучает тусклый свет в дополнительном радиусе 60 футов.
+
+В качестве альтернативы вы сотворяете заклинание на объект, который не носят и не несут, заставляя солнечный свет заполнять исходящую от этого объекта эманацию радиусом 60 футов. Накрыв этот объект чем-то непрозрачным, например, миской или шлемом, можно заблокировать солнечный свет.
+
+Если какая-либо область этого заклинания перекрывается с областью тьмы, созданной заклинанием 3-го уровня или ниже, это другое заклинание рассеивается.
+
+#### Защита от смерти
+
+*Ограждение 4-го уровня (Жрец, Паладин)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** 8 часов
+
+Вы касаетесь существа и даруете ему меру защиты от смерти. В первый раз, когда цель должна опуститься до 0 хитов до окончания заклинания, цель вместо этого опускается до 1 хита, и заклинание заканчивается.
+
+Если заклинание всё ещё действует, когда цель подвергается эффекту, который должен мгновенно убить её, не нанося урона, этот эффект отменяется для цели, и заклинание заканчивается.
+
+#### Замедленный огненный шар
+
+*Воплощение 7-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С, М (шарик из гуано летучей мыши и серы)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Луч жёлтого света вылетает из вас, затем конденсируется в выбранной точке в пределах дистанции в светящуюся бусину на время действия заклинания. Когда заклинание заканчивается, бусина взрывается, и каждое существо в сфере радиусом 20 футов с центром в этой точке совершает спасбросок Ловкости. Существо получает урон огнём, равный общему накопленному урону, при провале, или половину этого урона при успехе.
+
+Базовый урон заклинания составляет 12d6, и урон увеличивается на 1d6 каждый раз, когда заканчивается ваш ход, а заклинание ещё не закончилось.
+
+Если существо касается светящейся бусины до окончания заклинания, это существо совершает спасбросок Ловкости. При провале заклинание заканчивается, вызывая взрыв бусины. При успехе существо может бросить бусину на расстояние до 40 футов. Если брошенная бусина попадает в пространство существа или сталкивается с твёрдым объектом, заклинание заканчивается и бусина взрывается.
+
+Когда бусина взрывается, горючие объекты во взрыве, которые не носят и не несут, начинают гореть.
+
+**_Использование ячейки более высокого уровня._** Базовый урон увеличивается на 1d6 за каждый уровень ячейки выше 7-го.
+
+#### Заражение
+
+*Некромантия 5-го уровня (Жрец, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** 7 дней
+
+Ваше прикосновение насылает магическое заражение. Цель должна преуспеть в спасброске Телосложения, иначе получает 11d8 урона некротической энергией и получает состояние «отравленный». Также выберите одну характеристику при сотворении заклинания. Пока цель отравлена, она совершает с помехой спасброски выбранной характеристикой.
+
+Цель должна повторять спасбросок в конце каждого своего хода, пока не получит три успеха или три провала. Если цель преуспевает в трёх из этих спасбросков, заклинание заканчивается для неё. Если цель проваливает три спасброска, заклинание действует на неё 7 дней.
+
+Каждый раз, когда отравленная цель получает эффект, который должен прекратить состояние «отравленный», цель должна преуспеть в спасброске Телосложения, иначе состояние «отравленный» не прекращается для неё.
+
+#### Власть над водой
+
+*Преобразование 4-го уровня (Жрец, Друид, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 300 футов
+
+**Компоненты:** В, С, М (смесь воды и пыли)
+
+**Длительность:** Концентрация, до 10 минут
+
+До окончания заклинания вы контролируете любую воду внутри выбранной вами области, которая представляет собой куб с ребром до 100 футов, используя один из следующих эффектов. Действием Магия в последующие ходы вы можете повторить тот же эффект или выбрать другой.
+
+**_Наводнение._** Вы заставляете уровень всей стоячей воды в области подняться на 20 футов. Если вы выбираете область в большом водоёме, вместо этого вы создаёте волну высотой 20 футов, которая перемещается от одной стороны области к другой, а затем обрушивается. Любые Огромные или меньшие транспортные средства на пути волны переносятся вместе с ней на другую сторону. Любые Огромные или меньшие транспортные средства, по которым ударяет волна, имеют 25-процентный шанс перевернуться.
+
+Уровень воды остаётся повышенным до окончания заклинания или пока вы не выберете другой эффект. Если этот эффект создал волну, волна повторяется в начале вашего следующего хода, пока действует эффект наводнения.
+
+**_Разделение воды._** Вы разделяете воду в области и создаёте траншею. Траншея тянется через область заклинания, а разделённая вода образует стены по обе стороны. Траншея остаётся до окончания заклинания или пока вы не выберете другой эффект. Затем вода медленно заполняет траншею в течение следующего раунда, пока не восстановится нормальный уровень воды.
+
+**_Перенаправление потока._** Вы заставляете текущую воду в области двигаться в выбранном вами направлении, даже если вода должна течь через препятствия, вверх по стенам или в других маловероятных направлениях. Вода в области движется так, как вы направляете, но как только она выходит за пределы области заклинания, она возобновляет свой поток в зависимости от рельефа. Вода продолжает двигаться в выбранном вами направлении до окончания заклинания или пока вы не выберете другой эффект.
+
+**_Водоворот._** Вы создаёте водоворот в центре области, которая должна быть не менее 50 футов в ширину и 25 футов в глубину. Водоворот существует до тех пор, пока вы не выберете другой эффект или заклинание не закончится. Водоворот имеет ширину 5 футов у основания, до 50 футов в ширину наверху и 25 футов в высоту. Любое существо в воде и в пределах 25 футов от водоворота притягивается к нему на 10 футов. Когда существо входит в водоворот впервые за ход или заканчивает там свой ход, оно совершает спасбросок Силы. При провале существо получает 2d8 дробящего урона. При успехе существо получает половину этого урона. Существо может отплыть от водоворота, только если сначала совершит действие, чтобы оттолкнуться, и преуспеет в проверке Силы (Атлетика) против Сл спасброска ваших заклинаний.
+
+#### Власть над погодой
+
+*Преобразование 8-го уровня (Жрец, Друид, Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (горящие благовония)
+
+**Длительность:** Концентрация, до 8 часов
+
+Вы берёте под контроль погоду в пределах 5 миль от вас на время действия заклинания. Вы должны находиться на открытом воздухе, чтобы сотворить это заклинание, и оно заканчивается досрочно, если вы заходите в помещение.
+
+Когда вы сотворяете заклинание, вы меняете текущие погодные условия, которые определяет Мастер. Вы можете менять осадки, температуру и ветер. Требуется 1d4 × 10 минут, чтобы новые условия вступили в силу. Как только они вступают в силу, вы можете снова изменить условия. Когда заклинание заканчивается, погода постепенно возвращается к норме.
+
+Когда вы меняете погодные условия, найдите текущее условие в следующих таблицах и измените его стадию на одну вверх или вниз. При изменении ветра вы также можете изменить его направление.
+
+Таблица: Осадки
+
+| Стадия | Условие                              |
+|--------|--------------------------------------|
+| 1      | Ясно                                 |
+| 2      | Лёгкая облачность                    |
+| 3      | Пасмурно или наземный туман          |
+| 4      | Дождь, град или снег                 |
+| 5      | Ливень, сильный град или метель      |
+
+Таблица: Температура
+
+| Стадия | Условие    |
+|--------|------------|
+| 1      | Жара       |
+| 2      | Жарко      |
+| 3      | Тепло      |
+| 4      | Прохладно  |
+| 5      | Холодно    |
+| 6      | Мороз      |
+
+Таблица: Ветер
+
+| Стадия | Условие         |
+|--------|-----------------|
+| 1      | Штиль           |
+| 2      | Умеренный ветер |
+| 3      | Сильный ветер   |
+| 4      | Шторм           |
+| 5      | Буря            |
+
+#### Контрзаклинание
+
+*Ограждение 3-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Реакция, которую вы совершаете, когда видите существо в пределах 60 футов от вас, сотворяющее заклинание с вербальным, соматическим или материальным компонентом
+
+**Дистанция:** 60 футов
+
+**Компоненты:** С
+
+**Длительность:** Мгновенная
+
+Вы пытаетесь прервать существо в процессе сотворения заклинания. Существо совершает спасбросок Телосложения. При провале заклинание рассеивается без эффекта, и действие, бонусное действие или реакция, использованные для его сотворения, тратятся впустую. Если это заклинание было сотворено с ячейкой заклинания, ячейка не расходуется.
+
+#### Вечный огонь
+
+*Воплощение 2-го уровня (Жрец, Друид, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (рубиновая пыль стоимостью 50+ зм, которую заклинание поглощает)
+
+**Длительность:** Пока не рассеяно
+
+Пламя возникает из объекта, которого вы касаетесь. Эффект излучает яркий свет в радиусе 20 футов и тусклый свет в дополнительном радиусе 20 футов. Оно выглядит как обычное пламя, но не создаёт тепла и не потребляет топлива. Пламя можно накрыть или спрятать, но нельзя потушить или погасить.
+
+#### Исцеление ран
+
+*Ограждение 1-го уровня (Бард, Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Существо, которого вы касаетесь, восстанавливает количество хитов, равное 2d8 плюс модификатор вашей заклинательной характеристики.
+
+**_Использование ячейки более высокого уровня._** Исцеление увеличивается на 2d8 за каждый уровень ячейки выше 1-го.
+
+#### Врата измерений
+
+*Вызов 4-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 500 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Вы телепортируетесь в место в пределах дистанции. Вы прибываете точно в желаемое место. Это может быть место, которое вы видите, которое можете представить или которое можете описать, указав расстояние и направление, например, «200 футов прямо вниз» или «300 футов вверх на северо-запад под углом 45 градусов».
+
+Вы также можете телепортировать одно согласное существо. Существо должно находиться в пределах 5 футов от вас, когда вы телепортируетесь, и оно телепортируется в пространство в пределах 5 футов от вашего места назначения.
+
+Если вы, другое существо или оба прибудут в пространство, занятое существом или полностью заполненное одним или несколькими объектами, вы и любое существо, путешествующее с вами, получаете 4d6 урона силовым полем, и телепортация проваливается.
+
+#### Маскировка
+
+*Иллюзия 1-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Вы заставляете себя — включая свою одежду, доспехи, оружие и другие вещи при себе — выглядеть иначе до окончания заклинания. Вы можете казаться на 1 фут ниже или выше и выглядеть тяжелее или легче. Вы должны принять форму с тем же базовым расположением конечностей, что и у вас. В остальном степень иллюзии зависит от вас.
+
+Изменения, произведённые этим заклинанием, не выдерживают физической проверки. Например, если вы используете это заклинание, чтобы добавить шляпу к своему наряду, предметы проходят сквозь шляпу, и любой, кто прикоснётся к ней, ничего не почувствует.
+
+Чтобы распознать, что вы замаскированы, существо должно совершить действие Изучение, чтобы осмотреть вашу внешность, и преуспеть в проверке Интеллекта (Расследование) против Сл спасброска ваших заклинаний.
+
+#### Распыление
+
+*Преобразование 6-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (магнитный камень и пыль)
+
+**Длительность:** Мгновенная
+
+Вы запускаете зелёный луч в цель, которую видите в пределах дистанции. Целью может быть существо, немагический объект или создание магической силы, такое как стена, созданная заклинанием *Стена силы*.
+
+Существо, на которое нацелено это заклинание, совершает спасбросок Ловкости. При провале цель получает 10d6 + 40 урона силовым полем. Если этот урон уменьшает её хиты до 0, она и всё немагическое, что она носит и несёт, распыляются в серую пыль. Цель может быть воскрешена только заклинанием *Истинное воскрешение* или *Исполнение желаний*.
+
+Это заклинание автоматически распыляет Большой или меньший немагический объект или создание магической силы. Если такая цель Огромная или больше, это заклинание распыляет часть её размером 10 на 10 футов.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 3d6 за каждый уровень ячейки выше 6-го.
+
+#### Рассеивание добра и зла
+
+*Ограждение 5-го уровня (Жрец, Паладин)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (порошковое серебро и железо)
+
+**Длительность:** Концентрация, до 1 минуты
+
+На время действия заклинания небожители, элементали, феи, исчадия и нежить совершают с помехой броски атаки против вас. Вы можете закончить заклинание досрочно, используя одну из следующих особых функций.
+
+*Снятие чар.* Действием Магия вы касаетесь существа, которое одержимо или находится в состоянии «очарованный» или «испуганный» от одного или нескольких существ вышеуказанных типов. Цель больше не одержима, не очарована и не испугана такими существами.
+
+*Изгнание.* Действием Магия вы выбираете одно существо, которое видите в пределах 5 футов от вас, относящееся к одному из вышеуказанных типов. Цель должна преуспеть в спасброске Харизмы, иначе она отправляется на свой родной план, если её там ещё нет. Нежить, не находящаяся на своём родном плане, отправляется в Царство Теней, а феи — в Страну Фей.
+
+#### Рассеивание магии
+
+*Ограждение 3-го уровня (Бард, Жрец, Друид, Паладин, Следопыт, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Выберите одно существо, объект или магический эффект в пределах дистанции. Любое действующее заклинание 3-го уровня или ниже на цели заканчивается. Для каждого действующего заклинания 4-го уровня или выше на цели совершите проверку характеристики, используя вашу заклинательную характеристику (Сл 10 плюс уровень этого заклинания). При успехе заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Вы автоматически заканчиваете заклинание на цели, если уровень заклинания равен или меньше уровня ячейки заклинания, которую вы используете.
+
+#### Диссонирующий шёпот
+
+*Очарование 1-го уровня (Бард)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Одно существо на ваш выбор, которое вы видите в пределах дистанции, слышит диссонирующую мелодию в своём разуме. Цель совершает спасбросок Мудрости. При провале она получает 3d6 урона психической энергией и должна немедленно использовать свою реакцию, если она доступна, чтобы переместиться как можно дальше от вас, используя самый безопасный маршрут. При успехе цель получает только половину урона.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 1-го.
+
+#### Божественное благоволение
+
+*Преобразование 1-го уровня (Паладин)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** 1 минута
+
+До окончания заклинания ваши атаки оружием наносят дополнительно 1d4 урона излучением при попадании.
+
+#### Божественная кара
+
+*Воплощение 1-го уровня (Паладин)*
+
+**Время сотворения:** Бонусное действие, которое вы совершаете сразу после попадания по цели оружием ближнего боя или безоружным ударом
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Цель получает дополнительно 2d8 урона излучением от атаки. Урон увеличивается на 1d8, если цель является исчадием или нежитью.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 1-го.
+
+#### Божественное слово
+
+*Воплощение 7-го уровня (Жрец)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Вы произносите слово, наполненное силой Верхних Планов. Каждое существо на ваш выбор в пределах дистанции совершает спасбросок Харизмы. При провале цель с 50 хитами или меньше получает эффект в зависимости от своих текущих хитов, как показано в таблице Эффекты божественного слова. Независимо от хитов, небожитель, элементаль, фея или исчадие, провалившие спасбросок, отправляются обратно на свой план происхождения (если они там ещё не находятся) и не могут вернуться на текущий план в течение 24 часов никакими средствами, кроме заклинания *Исполнение желаний*.
+
+Таблица: Эффекты божественного слова
+
+| Хиты  | Эффект                                                                                 |
+|-------|----------------------------------------------------------------------------------------|
+| 0–20  | Цель умирает.                                                                          |
+| 21–30 | Цель получает состояния «ослеплённый», «оглохший» и «ошеломлённый» на 1 час.           |
+| 31–40 | Цель получает состояния «ослеплённый» и «оглохший» на 10 минут.                        |
+| 41–50 | Цель получает состояние «оглохший» на 1 минуту.                                        |
+
+#### Подчинение зверя
+
+*Очарование 4-го уровня (Друид, Следопыт, Чародей)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Один зверь, которого вы видите в пределах дистанции, должен преуспеть в спасброске Мудрости, иначе получает состояние «очарованный» на время действия заклинания. Цель совершает спасбросок с преимуществом, если вы или ваши союзники сражаетесь с ней. Каждый раз, когда цель получает урон, она повторяет спасбросок, заканчивая заклинание на себе при успехе.
+
+У вас есть телепатическая связь с очарованной целью, пока вы оба находитесь на одном плане существования. В свой ход вы можете использовать эту связь, чтобы отдавать команды цели (действие не требуется), такие как «Атакуй то существо», «Иди туда» или «Принеси тот предмет». Цель делает всё возможное, чтобы подчиниться в свой ход. Если она выполняет приказ и не получает дальнейших указаний от вас, она действует и перемещается по своему усмотрению, сосредоточившись на защите себя.
+
+Вы можете приказать цели совершить реакцию, но должны совершить свою собственную реакцию, чтобы сделать это.
+
+**_Использование ячейки более высокого уровня._** Ваша концентрация может длиться дольше с ячейкой 5-го уровня (до 10 минут), 6-го (до 1 часа) или 7-го+ (до 8 часов).
+
+#### Подчинение чудовища
+
+*Очарование 8-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 часа
+
+Одно существо, которое вы видите в пределах дистанции, должно преуспеть в спасброске Мудрости, иначе получает состояние «очарованный» на время действия заклинания. Цель совершает спасбросок с преимуществом, если вы или ваши союзники сражаетесь с ней. Каждый раз, когда цель получает урон, она повторяет спасбросок, заканчивая заклинание на себе при успехе.
+
+У вас есть телепатическая связь с очарованной целью, пока вы оба находитесь на одном плане существования. В свой ход вы можете использовать эту связь, чтобы отдавать команды цели (действие не требуется), такие как «Атакуй то существо», «Иди туда» или «Принеси тот предмет». Цель делает всё возможное, чтобы подчиниться в свой ход. Если она выполняет приказ и не получает дальнейших указаний от вас, она действует и перемещается по своему усмотрению, сосредоточившись на защите себя.
+
+Вы можете приказать цели совершить реакцию, но должны совершить свою собственную реакцию, чтобы сделать это.
+
+**_Использование ячейки более высокого уровня._** Ваша концентрация может длиться дольше с ячейкой 9-го уровня (до 8 часов).
+
+#### Подчинение личности
+
+*Очарование 5-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Один гуманоид, которого вы видите в пределах дистанции, должен преуспеть в спасброске Мудрости, иначе получает состояние «очарованный» на время действия заклинания. Цель совершает спасбросок с преимуществом, если вы или ваши союзники сражаетесь с ней. Каждый раз, когда цель получает урон, она повторяет спасбросок, заканчивая заклинание на себе при успехе.
+
+У вас есть телепатическая связь с очарованной целью, пока вы оба находитесь на одном плане существования. В свой ход вы можете использовать эту связь, чтобы отдавать команды цели (действие не требуется), такие как «Атакуй то существо», «Иди туда» или «Принеси тот предмет». Цель делает всё возможное, чтобы подчиниться в свой ход. Если она выполняет приказ и не получает дальнейших указаний от вас, она действует и перемещается по своему усмотрению, сосредоточившись на защите себя.
+
+Вы можете приказать цели совершить реакцию, но должны совершить свою собственную реакцию, чтобы сделать это.
+
+**_Использование ячейки более высокого уровня._** Ваша концентрация может длиться дольше с ячейкой 6-го уровня (до 10 минут), 7-го (до 1 часа) или 8-го+ (до 8 часов).
+
+#### Драконье дыхание
+
+*Преобразование 2-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (острый перец)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы касаетесь одного согласного существа и выбираете кислоту, холод, огонь, молнию или яд. До окончания заклинания цель может совершить действие Магия, чтобы выдохнуть конус 15 футов. Каждое существо в этой области совершает спасбросок Ловкости, получая 3d6 урона выбранного типа при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 2-го.
+
+#### Сон
+
+*Иллюзия 5-го уровня (Бард, Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** Особая
+
+**Компоненты:** В, С, М (горсть песка)
+
+**Длительность:** 8 часов
+
+Вы выбираете цель — существо, которое вы знаете, на том же плане существования. Вы или согласное существо, которого вы касаетесь, входит в состояние транса, чтобы действовать как посланник сна. Находясь в трансе, посланник недееспособен и имеет скорость 0.
+
+Если цель спит, посланник появляется в снах цели и может общаться с ней, пока она спит, на протяжении действия заклинания. Посланник также может формировать окружение сна, создавая ландшафты, объекты и другие образы. Посланник может выйти из транса в любое время, заканчивая заклинание. Цель прекрасно помнит сон после пробуждения.
+
+Если цель бодрствует, когда вы сотворяете заклинание, посланник знает об этом и может либо закончить транс (и заклинание), либо ждать, пока цель уснёт, после чего посланник входит в её сны.
+
+Вы можете сделать посланника устрашающим для цели. Если вы это делаете, посланник может передать сообщение не более чем из десяти слов, после чего цель совершает спасбросок Мудрости. При провале цель не получает пользы от отдыха и получает 3d6 урона психической энергией при пробуждении.
+
+#### Искусство друидов
+
+*Заговор преобразования (Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Шепча духам природы, вы создаёте один из следующих эффектов в пределах дистанции.
+
+**_Датчик погоды._** Вы создаёте Крошечный безвредный сенсорный эффект, который предсказывает, какая погода будет в вашем местоположении в течение следующих 24 часов. Эффект может проявляться как золотая сфера для ясного неба, облако для дождя, падающие снежинки для снега и так далее. Этот эффект сохраняется в течение 1 раунда.
+
+**_Цветение._** Вы мгновенно заставляете цветок расцвести, семенную коробочку раскрыться или почку распуститься.
+
+**_Сенсорный эффект._** Вы создаёте безвредный сенсорный эффект, такой как падающие листья, призрачные танцующие феи, лёгкий ветерок, звук животного или слабый запах скунса. Эффект должен помещаться в кубе с ребром 5 футов.
+
+**_Игра с огнём._** Вы зажигаете или тушите свечу, факел или костёр.
+
+#### Землетрясение
+
+*Преобразование 8-го уровня (Жрец, Друид, Чародей)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 500 футов
+
+**Компоненты:** В, С, М (треснувший камень)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Выберите точку на земле, которую вы видите в пределах дистанции. На время действия заклинания сильная дрожь сотрясает землю в круге радиусом 100 футов с центром в этой точке. Земля там становится труднопроходимой местностью.
+
+Когда вы сотворяете это заклинание и в конце каждого вашего хода на протяжении действия заклинания, каждое существо на земле в области совершает спасбросок Ловкости. При провале существо получает состояние «ничком», и его концентрация нарушается.
+
+Вы также можете вызвать описанные ниже эффекты.
+
+**_Трещины._** В конце хода, когда вы сотворяете заклинание, в области заклинания открывается в общей сложности 1d6 трещин. Вы выбираете расположение трещин, которые не могут находиться под строениями. Каждая трещина имеет глубину 1d10 × 10 футов и ширину 10 футов, и она простирается от одного края области заклинания до другого. Существо в том же пространстве, что и трещина, должно преуспеть в спасброске Ловкости, иначе падает в неё. Существо, преуспевшее в спасброске, перемещается вместе с краем трещины, когда она открывается.
+
+**_Строения._** Дрожь наносит 50 дробящего урона любому строению, контактирующему с землёй в области, когда вы сотворяете заклинание и в конце каждого вашего хода до окончания заклинания. Если хиты строения падают до 0, оно рушится.
+
+Существо на расстоянии от рушащегося строения, равном половине высоты строения, совершает спасбросок Ловкости. При провале существо получает 12d6 дробящего урона, получает состояние «ничком» и погребено под завалами, требуя проверки Силы (Атлетика) Сл 20 действием, чтобы выбраться. При успехе существо получает только половину урона.
+
+#### Мистический заряд
+
+*Заговор воплощения (Колдун)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы мечете луч потрескивающей энергии. Совершите дальнобойную атаку заклинанием по одному существу или объекту в пределах дистанции. При попадании цель получает 1d10 урона силовым полем.
+
+**_Улучшение заговора._** Заклинание создаёт два луча на 5-м уровне, три луча на 11-м уровне и четыре луча на 17-м уровне. Вы можете направить лучи в одну цель или в разные. Совершите отдельный бросок атаки для каждого луча.
+
+#### Власть над стихиями
+
+*Заговор преобразования (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы проявляете контроль над стихиями, создавая один из следующих эффектов в пределах дистанции.
+
+**_Призыв воздуха._** Вы создаёте ветерок, достаточно сильный, чтобы колыхать ткань, поднимать пыль, шелестеть листьями и закрывать открытые двери и ставни — всё в кубе с ребром 5 футов. Двери и ставни, удерживаемые открытыми кем-то или чем-то, не затрагиваются.
+
+**_Призыв земли._** Вы создаёте тонкий покров пыли или песка, покрывающий поверхности в квадратной области со стороной 5 футов, или заставляете одно слово появиться вашим почерком на участке земли или песка.
+
+**_Призыв огня._** Вы создаёте тонкое облако безвредных искр и цветного ароматного дыма в кубе с ребром 5 футов. Вы выбираете цвет и запах, и искры могут зажечь свечи, факелы или лампы в этой области. Запах дыма сохраняется 1 минуту.
+
+**_Призыв воды._** Вы создаёте струю прохладного тумана, слегка увлажняющего существ и объекты в кубе с ребром 5 футов. В качестве альтернативы вы создаёте 1 чашку чистой воды либо в открытом контейнере, либо на поверхности, и вода испаряется через 1 минуту.
+
+**_Формирование стихии._** Вы заставляете землю, песок, огонь, дым, туман или воду, помещающуюся в кубе с ребром 1 фут, принять грубую форму (например, существа) на 1 час.
+
+#### Улучшение характеристики
+
+*Преобразование 2-го уровня (Бард, Жрец, Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (мех или перо)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы касаетесь существа и выбираете Силу, Ловкость, Интеллект, Мудрость или Харизму. На время действия заклинания цель совершает с преимуществом проверки характеристики, использующие выбранную характеристику.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 2-го. Вы можете выбрать разную характеристику для каждой цели.
+
+#### Увеличение/уменьшение
+
+*Преобразование 2-го уровня (Бард, Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (щепотка железного порошка)
+
+**Длительность:** Концентрация, до 1 минуты
+
+На время действия заклинания заклинание увеличивает или уменьшает существо или объект, которые вы видите в пределах дистанции (см. выбранный эффект ниже). Целевой объект не должен быть надет или нестись. Если цель — несогласное существо, оно может совершить спасбросок Телосложения. При успехе заклинание не действует.
+
+Всё, что целевое существо носит и несёт, меняет размер вместе с ним. Любой предмет, который оно роняет, возвращается к нормальному размеру сразу. Метательное оружие или снаряд возвращается к нормальному размеру сразу после попадания или промаха по цели.
+
+**_Увеличение._** Размер цели увеличивается на одну категорию — например, со Среднего до Большого. Цель также совершает с преимуществом проверки Силы и спасброски Силы. Атаки цели увеличенным оружием или безоружные удары наносят дополнительно 1d4 урона при попадании.
+
+**_Уменьшение._** Размер цели уменьшается на одну категорию — например, со Среднего до Маленького. Цель также совершает с помехой проверки Силы и спасброски Силы. Атаки цели уменьшенным оружием или безоружные удары наносят на 1d4 меньше урона при попадании (это не может уменьшить урон ниже 1).
+
+#### Опутывающий удар
+
+*Вызов 1-го уровня (Следопыт)*
+
+**Время сотворения:** Бонусное действие, которое вы совершаете сразу после попадания по существу оружием
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** Концентрация, до 1 минуты
+
+Когда вы попадаете по цели, на ней появляются хватающие лозы, и она совершает спасбросок Силы. Большое или более крупное существо совершает этот спасбросок с преимуществом. При провале цель получает состояние «опутанный» до окончания заклинания. При успехе лозы увядают, и заклинание заканчивается.
+
+Пока цель опутана, она получает 1d6 колющего урона в начале каждого своего хода. Цель или существо в пределах досягаемости от неё может совершить действие, чтобы сделать проверку Силы (Атлетика) против Сл спасброска ваших заклинаний. При успехе заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 1-го.
+
+#### Опутывание
+
+*Вызов 1-го уровня (Друид, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Хватающие растения вырастают из земли на квадратной площади со стороной 20 футов в пределах дистанции. На время действия заклинания эти растения превращают землю в области в труднопроходимую местность. Они исчезают, когда заклинание заканчивается.
+
+Каждое существо (кроме вас) в области, когда вы сотворяете заклинание, должно преуспеть в спасброске Силы, иначе получает состояние «опутанный» до окончания заклинания. Опутанное существо может совершить действие, чтобы сделать проверку Силы (Атлетика) против Сл спасброска ваших заклинаний. При успехе оно освобождается от хватающих растений и больше не опутано ими.
+
+#### Увлечение
+
+*Очарование 2-го уровня (Бард, Колдун)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы плетёте отвлекающую вереницу слов, заставляя существ на ваш выбор, которых вы видите в пределах дистанции, совершить спасбросок Мудрости. Любое существо, с которым вы или ваши спутники сражаетесь, автоматически преуспевает в этом спасброске. При провале цель получает штраф −10 к проверкам Мудрости (Восприятие) и пассивному Восприятию до окончания заклинания.
+
+#### Эфирность
+
+*Вызов 7-го уровня (Бард, Жрец, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** До 8 часов
+
+Вы входите в пограничные области Эфирного Плана, где он перекрывается с вашим текущим планом. Вы остаётесь в Пограничном Эфире на время действия заклинания. В это время вы можете перемещаться в любом направлении. Если вы двигаетесь вверх или вниз, каждый фут перемещения стоит дополнительный фут. Вы можете видеть план, который покинули, — он выглядит серым, — и вы не видите там ничего дальше 60 футов.
+
+Находясь на Эфирном Плане, вы можете влиять и подвергаться влиянию только существ, объектов и эффектов на этом плане. Существа, не находящиеся на Эфирном Плане, не могут воспринимать вас или взаимодействовать с вами, если какая-либо способность не даёт им такую возможность.
+
+Когда заклинание заканчивается, вы возвращаетесь на покинутый план в месте, соответствующем вашему пространству в Пограничном Эфире. Если вы появляетесь в занятом пространстве, вас выталкивает в ближайшее свободное пространство, и вы получаете урон силовым полем, равный удвоенному числу футов, на которое вас переместили.
+
+Это заклинание мгновенно заканчивается, если вы сотворяете его, находясь на Эфирном Плане или плане, не граничащем с ним, например, на одном из Внешних Планов.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать до трёх согласных существ (включая себя) за каждый уровень ячейки выше 7-го. Существа должны находиться в пределах 10 футов от вас, когда вы сотворяете заклинание.
+
+#### Поспешное отступление
+
+*Преобразование 1-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы совершаете действие Рывок, и до окончания заклинания вы можете совершать это действие снова бонусным действием.
+
+#### Сглаз
+
+*Некромантия 6-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+На время действия заклинания ваши глаза становятся чернильной пустотой. Одно существо на ваш выбор в пределах 60 футов от вас, которое вы видите, должно преуспеть в спасброске Мудрости, иначе получает один из следующих эффектов на ваш выбор на время действия заклинания.
+
+В каждый свой ход до окончания заклинания вы можете совершить действие Магия, чтобы выбрать другое существо, но вы не можете повторно выбрать существо, которое преуспело в спасброске против этого сотворения заклинания.
+
+**_Сон._** Цель получает состояние «бессознательный». Она просыпается, если получает любой урон или если другое существо совершает действие, чтобы растолкать её.
+
+**_Паника._** Цель получает состояние «испуганный». В каждый свой ход испуганная цель должна совершать действие Рывок и удаляться от вас по самому безопасному и кратчайшему доступному маршруту. Если цель перемещается в пространство на расстоянии не менее 60 футов от вас, где она не видит вас, этот эффект заканчивается.
+
+**_Недомогание._** Цель получает состояние «отравленный».
+
+#### Фабрикация
+
+*Преобразование 4-го уровня (Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы превращаете сырьё в изделия из того же материала. Например, вы можете сфабриковать деревянный мост из группы деревьев, верёвку из участка конопли или одежду из льна или шерсти.
+
+Выберите сырьё, которое вы видите в пределах дистанции. Вы можете сфабриковать Большой или меньший объект (помещающийся в куб с ребром 10 футов или восемь соединённых кубов с ребром 5 футов) при достаточном количестве материала. Однако если вы работаете с металлом, камнем или другим минеральным веществом, сфабрикованный объект может быть не больше Среднего размера (помещающийся в куб с ребром 5 футов). Качество любых сфабрикованных объектов зависит от качества сырья.
+
+Существа и магические предметы не могут быть созданы этим заклинанием. Вы также не можете использовать его для создания предметов, требующих высокой степени мастерства — например, оружия и доспехов — если у вас нет владения типом ремесленных инструментов, используемых для изготовления таких объектов.
+
+#### Огонь фей
+
+*Воплощение 1-го уровня (Бард, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Концентрация, до 1 минуты
+
+Объекты в кубе с ребром 20 футов в пределах дистанции обводятся синим, зелёным или фиолетовым светом (на ваш выбор). Каждое существо в кубе также обводится, если проваливает спасбросок Ловкости. На время действия заклинания объекты и затронутые существа излучают тусклый свет в радиусе 10 футов и не могут получать преимущества от состояния «невидимый».
+
+Броски атаки против затронутого существа или объекта совершаются с преимуществом, если атакующий видит его.
+
+#### Верный пёс
+
+*Вызов 4-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (серебряный свисток)
+
+**Длительность:** 8 часов
+
+Вы призываете призрачного сторожевого пса в свободное пространство, которое видите в пределах дистанции. Пёс остаётся на время действия заклинания или пока вы оба не окажетесь на расстоянии более 300 футов друг от друга.
+
+Никто, кроме вас, не видит пса, и он нематериален и неуязвим. Когда Маленькое или более крупное существо приближается к нему на расстояние 30 футов, не произнеся сначала пароль, который вы указываете при сотворении этого заклинания, пёс начинает громко лаять. У пса есть истинное зрение в радиусе 30 футов.
+
+В начале каждого вашего хода пёс пытается укусить одного врага в пределах 5 футов от него. Этот враг должен преуспеть в спасброске Ловкости, иначе получает 4d8 урона силовым полем.
+
+В последующие ходы вы можете совершить действие Магия, чтобы переместить пса на расстояние до 30 футов.
+
+#### Псевдожизнь
+
+*Некромантия 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (капля алкоголя)
+
+**Длительность:** Мгновенная
+
+Вы получаете 2d4 + 4 временных хитов.
+
+**_Использование ячейки более высокого уровня._** Вы получаете 5 дополнительных временных хитов за каждый уровень ячейки выше 1-го.
+
+#### Страх
+
+*Иллюзия 3-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (белое перо)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Каждое существо в конусе 30 футов должно преуспеть в спасброске Мудрости, иначе роняет всё, что держит, и получает состояние «испуганный» на время действия заклинания.
+
+Испуганное существо совершает действие Рывок и удаляется от вас по самому безопасному маршруту в каждый свой ход, если нет места, куда двигаться. Если существо заканчивает свой ход в пространстве, где у него нет линии видимости к вам, существо совершает спасбросок Мудрости. При успехе заклинание заканчивается для этого существа.
+
+#### Падение пёрышком
+
+*Преобразование 1-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Реакция, которую вы совершаете, когда вы или существо, которое вы видите в пределах 60 футов от вас, падает
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, М (маленькое перо или кусочек пуха)
+
+**Длительность:** 1 минута
+
+Выберите до пяти падающих существ в пределах дистанции. Скорость падения падающего существа замедляется до 60 футов за раунд до окончания заклинания. Если существо приземляется до окончания заклинания, оно не получает урона от падения, и заклинание заканчивается для этого существа.
+
+#### Поиск фамильяра
+
+*Вызов 1-го уровня (Волшебник)*
+
+**Время сотворения:** 1 час или Ритуал
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, С, М (горящие благовония стоимостью 10+ зм, которые заклинание поглощает)
+
+**Длительность:** Мгновенная
+
+Вы получаете услуги фамильяра, духа, который принимает форму животного на ваш выбор: **Летучая мышь, Кошка, Лягушка, Ястреб, Ящерица, Осьминог, Сова, Крыса, Ворон, Паук, Ласка** или другой зверь с показателем опасности 0. Появляясь в свободном пространстве в пределах дистанции, фамильяр имеет характеристики выбранной формы (см. главу «Монстры»), хотя он является небожителем, феей или исчадием (на ваш выбор), а не зверем. Ваш фамильяр действует независимо от вас, но подчиняется вашим командам.
+
+**_Телепатическая связь._** Пока ваш фамильяр находится в пределах 100 футов от вас, вы можете общаться с ним телепатически. Кроме того, бонусным действием вы можете смотреть глазами фамильяра и слышать то, что он слышит, до начала вашего следующего хода, получая преимущества любых особых чувств, которыми он обладает.
+
+Наконец, когда вы сотворяете заклинание с дистанцией касания, ваш фамильяр может доставить прикосновение. Ваш фамильяр должен находиться в пределах 100 футов от вас, и он должен совершить реакцию, чтобы доставить прикосновение, когда вы сотворяете заклинание.
+
+**_Бой._** Фамильяр является союзником вам и вашим союзникам. Он совершает свой собственный бросок инициативы и действует в свой ход. Фамильяр не может атаковать, но может совершать другие действия как обычно.
+
+**_Исчезновение фамильяра._** Когда хиты фамильяра опускаются до 0, он исчезает. Он появляется снова после того, как вы сотворите это заклинание снова. Действием Магия вы можете временно отослать фамильяра в карманное измерение. В качестве альтернативы вы можете отослать его навсегда. Действием Магия, пока он временно отослан, вы можете заставить его появиться снова в свободном пространстве в пределах 30 футов от вас. Каждый раз, когда хиты фамильяра опускаются до 0 или он исчезает в карманном измерении, он оставляет в своём пространстве всё, что носил или нёс.
+
+**_Только один фамильяр._** У вас не может быть более одного фамильяра одновременно. Если вы сотворяете это заклинание, имея фамильяра, вы вместо этого заставляете его принять новую подходящую форму.
+
+#### Поиск скакуна
+
+*Вызов 2-го уровня (Паладин)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы призываете потустороннее существо, которое появляется как верный скакун в свободном пространстве на ваш выбор в пределах дистанции. Это существо использует блок характеристик **Потусторонний скакун**. Если у вас уже есть скакун от этого заклинания, он заменяется новым.
+
+Скакун напоминает Большое ездовое животное на ваш выбор, например, лошадь, верблюда, лютого волка или лося. Каждый раз, когда вы сотворяете заклинание, выберите тип существа скакуна — небожитель, фея или исчадие — который определяет некоторые особенности в блоке характеристик.
+
+**_Бой._** Скакун является союзником вам и вашим союзникам. В бою он разделяет с вами значение инициативы и функционирует как контролируемое ездовое животное, пока вы на нём едете (как определено в правилах конного боя). Если вы находитесь в состоянии «недееспособный», скакун совершает свой ход сразу после вашего и действует независимо, сосредоточившись на вашей защите.
+
+**_Исчезновение скакуна._** Скакун исчезает, если его хиты опускаются до 0 или если вы умираете. Когда он исчезает, он оставляет всё, что носил или нёс. Если вы сотворите это заклинание снова, вы решаете, призвать ли исчезнувшего скакуна или другого.
+
+**_Использование ячейки более высокого уровня._** Используйте уровень ячейки заклинания как уровень заклинания в блоке характеристик.
+
+#### Поиск пути
+
+*Прорицание 6-го уровня (Бард, Жрец, Друид)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (набор гадательных инструментов — например, карты или руны — стоимостью 100+ зм)
+
+**Длительность:** Концентрация, до 1 дня
+
+Вы магически чувствуете наиболее прямой физический маршрут к месту, которое называете. Вы должны быть знакомы с этим местом, и заклинание проваливается, если вы называете место назначения на другом плане существования, движущееся место назначения (например, мобильную крепость) или неконкретное место назначения (например, «логово зелёного дракона»).
+
+На время действия заклинания, пока вы находитесь на том же плане существования, что и место назначения, вы знаете, как далеко оно находится и в каком направлении. Каждый раз, когда перед вами встаёт выбор путей по дороге туда, вы знаете, какой путь наиболее прямой.
+
+#### Поиск ловушек
+
+*Прорицание 2-го уровня (Жрец, Друид, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы чувствуете любую ловушку в пределах дистанции, находящуюся в пределах линии видимости. Ловушка, в целях этого заклинания, включает любой объект или механизм, созданный для причинения урона или иной опасности. Таким образом, заклинание почувствует заклинание *Сигнал тревоги* или *Охранные руны*, или механическую яму-ловушку, но не обнаружит естественную слабость в полу, неустойчивый потолок или скрытую воронку.
+
+Это заклинание показывает, что ловушка присутствует, но не её местоположение. Вы узнаёте общую природу опасности, представляемой ощущаемой ловушкой.
+
+#### Перст смерти
+
+*Некромантия 7-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы высвобождаете негативную энергию в направлении существа, которое видите в пределах дистанции. Цель совершает спасбросок Телосложения, получая 7d8 + 30 урона некротической энергией при провале или половину этого урона при успехе.
+
+Гуманоид, убитый этим заклинанием, восстаёт в начале вашего следующего хода как **Зомби** (см. главу «Монстры»), который следует вашим устным приказам.
+
+#### Огненный шар
+
+*Воплощение 3-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С, М (шарик из гуано летучей мыши и серы)
+
+**Длительность:** Мгновенная
+
+Яркая полоса вылетает из вас в выбранную точку в пределах дистанции, а затем расцветает с глухим рёвом в огненный взрыв. Каждое существо в сфере радиусом 20 футов с центром в этой точке совершает спасбросок Ловкости, получая 8d6 урона огнём при провале или половину этого урона при успехе.
+
+Горючие объекты в области, которые не носят и не несут, начинают гореть.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 3-го.
+
+#### Огненный снаряд
+
+*Заговор воплощения (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы бросаете комок огня в существо или объект в пределах дистанции. Совершите дальнобойную атаку заклинанием по цели. При попадании цель получает 1d10 урона огнём. Горючий объект, по которому попало это заклинание, начинает гореть, если его не носят и не несут.
+
+**_Улучшение заговора._** Урон увеличивается на 1d10, когда вы достигаете 5-го уровня (2d10), 11-го уровня (3d10) и 17-го уровня (4d10).
+
+#### Огненный щит
+
+*Воплощение 4-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (кусочек фосфора или светлячок)
+
+**Длительность:** 10 минут
+
+Призрачное пламя обвивает ваше тело на время действия заклинания, излучая яркий свет в радиусе 10 футов и тусклый свет в дополнительном радиусе 10 футов.
+
+Пламя предоставляет вам тёплый щит или холодный щит, на ваш выбор. Тёплый щит даёт вам сопротивление к урону холодом, а холодный щит даёт вам сопротивление к урону огнём.
+
+Кроме того, каждый раз, когда существо в пределах 5 футов от вас попадает по вам броском атаки ближнего боя, щит вспыхивает пламенем. Атакующий получает 2d8 урона огнём от тёплого щита или 2d8 урона холодом от холодного щита.
+
+#### Огненная буря
+
+*Воплощение 7-го уровня (Жрец, Друид, Чародей)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Огненная буря появляется в пределах дистанции. Область бури состоит из до десяти кубов с ребром 10 футов, которые вы располагаете по своему усмотрению. Каждый куб должен соприкасаться хотя бы с одним другим кубом. Каждое существо в области совершает спасбросок Ловкости, получая 7d10 урона огнём при провале или половину этого урона при успехе.
+
+Горючие объекты в области, которые не носят и не несут, начинают гореть.
+
+#### Пылающий клинок
+
+*Воплощение 2-го уровня (Друид, Чародей)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (лист сумаха)
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы вызываете огненный клинок в свободную руку. Клинок похож по размеру и форме на скимитар, и он существует на время действия заклинания. Если вы выпускаете клинок, он исчезает, но вы можете вызвать его снова бонусным действием.
+
+Действием Магия вы можете совершить рукопашную атаку заклинанием огненным клинком. При попадании цель получает урон огнём, равный 3d6 плюс модификатор вашей заклинательной характеристики.
+
+Пылающий клинок излучает яркий свет в радиусе 10 футов и тусклый свет в дополнительном радиусе 10 футов.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 2-го.
+
+#### Небесный огонь
+
+*Воплощение 5-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (щепотка серы)
+
+**Длительность:** Мгновенная
+
+Вертикальный столб блистающего огня обрушивается сверху. Каждое существо в цилиндре радиусом 10 футов и высотой 40 футов с центром в точке в пределах дистанции совершает спасбросок Ловкости, получая 5d6 урона огнём и 5d6 урона излучением при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Урон огнём и урон излучением увеличиваются на 1d6 за каждый уровень ячейки выше 5-го.
+
+#### Пылающая сфера
+
+*Вызов 2-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (шарик воска)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы создаёте сферу огня диаметром 5 футов в свободном пространстве на земле в пределах дистанции. Она существует на время действия заклинания. Любое существо, заканчивающее свой ход в пределах 5 футов от сферы, совершает спасбросок Ловкости, получая 2d6 урона огнём при провале или половину этого урона при успехе.
+
+Бонусным действием вы можете переместить сферу на расстояние до 30 футов, катя её по земле. Если вы перемещаете сферу в пространство существа, это существо совершает спасбросок против сферы, и сфера прекращает перемещение в этот ход.
+
+Когда вы перемещаете сферу, вы можете направлять её через препятствия высотой до 5 футов и перебрасывать через ямы шириной до 10 футов. Горючие объекты, которые не носят и не несут, начинают гореть при касании сферы, и она излучает яркий свет в радиусе 20 футов и тусклый свет в дополнительном радиусе 20 футов.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 2-го.
+
+#### Окаменение
+
+*Преобразование 6-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (перо кокатриса)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы пытаетесь превратить одно существо, которое видите в пределах дистанции, в камень. Цель совершает спасбросок Телосложения. При провале она получает состояние «опутанный» на время действия заклинания. При успехе её скорость равна 0 до начала вашего следующего хода. Конструкты автоматически преуспевают в спасброске.
+
+Опутанная цель совершает ещё один спасбросок Телосложения в конце каждого своего хода. Если она преуспевает в спасброске против этого заклинания три раза, заклинание заканчивается. Если она проваливает три спасброска, она превращается в камень и получает состояние «окаменевший» на время действия заклинания. Успехи и провалы не обязательно должны быть последовательными; отслеживайте и те, и другие, пока цель не наберёт три одного вида.
+
+Если вы поддерживаете концентрацию на этом заклинании в течение всей возможной длительности, цель остаётся окаменевшей, пока состояние не будет прекращено заклинанием *Высшее восстановление* или подобной магией.
+
+#### Парящий диск
+
+*Вызов 1-го уровня (Волшебник)*
+
+**Время сотворения:** Действие или Ритуал
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (капля ртути)
+
+**Длительность:** 1 час
+
+Это заклинание создаёт круглую горизонтальную плоскость силы диаметром 3 фута и толщиной 1 дюйм, которая парит в 3 футах над землёй в свободном пространстве на ваш выбор, которое вы видите в пределах дистанции. Диск существует на время действия заклинания и может выдержать до 500 фунтов. Если на него положить больший вес, заклинание заканчивается, и всё на диске падает на землю.
+
+Диск неподвижен, пока вы находитесь в пределах 20 футов от него. Если вы удаляетесь более чем на 20 футов от него, диск следует за вами, оставаясь в пределах 20 футов от вас. Он может перемещаться по неровной местности, вверх или вниз по лестницам, склонам и тому подобному, но не может преодолеть перепад высоты в 10 футов и более. Например, диск не может переместиться через яму глубиной 10 футов, и он не мог бы покинуть такую яму, если бы был создан на её дне.
+
+Если вы удаляетесь более чем на 100 футов от диска (обычно потому, что он не может обогнуть препятствие, чтобы следовать за вами), заклинание заканчивается.
+
+#### Полёт
+
+*Преобразование 3-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (перо)
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы касаетесь согласного существа. На время действия заклинания цель получает скорость полёта 60 футов и может парить. Когда заклинание заканчивается, цель падает, если всё ещё находится в воздухе, если не может остановить падение.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 3-го.
+
+#### Туманное облако
+
+*Вызов 1-го уровня (Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы создаёте сферу тумана радиусом 20 футов с центром в точке в пределах дистанции. Сфера сильно заслоняет область. Она существует на время действия заклинания или пока сильный ветер (например, созданный заклинанием *Порыв ветра*) не рассеет её.
+
+**_Использование ячейки более высокого уровня._** Радиус тумана увеличивается на 20 футов за каждый уровень ячейки выше 1-го.
+
+#### Запрет
+
+*Ограждение 6-го уровня (Жрец)*
+
+**Время сотворения:** 10 минут или Ритуал
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (рубиновая пыль стоимостью 1000+ зм)
+
+**Длительность:** 1 день
+
+Вы создаёте защиту от магических путешествий, которая защищает до 40 000 квадратных футов площади пола на высоту до 30 футов над полом. На время действия заклинания существа не могут телепортироваться в область или использовать порталы, такие как созданные заклинанием *Врата*, чтобы войти в область. Заклинание защищает область от планарных путешествий и, следовательно, не позволяет существам получить доступ к области через Астральный План, Эфирный План, Страну Фей, Царство Теней или заклинание *Уход в иной мир*.
+
+Кроме того, заклинание наносит урон типам существ, которые вы выбираете при сотворении. Выберите один или несколько из следующих типов: аберрации, небожители, элементали, феи, исчадия и нежить. Когда существо выбранного типа входит в область заклинания впервые за ход или заканчивает там свой ход, существо получает 5d10 урона излучением или некротической энергией (на ваш выбор при сотворении этого заклинания).
+
+Вы можете назначить пароль при сотворении заклинания. Существо, произносящее пароль при входе в область, не получает урона от заклинания.
+
+Область заклинания не может перекрываться с областью другого заклинания *Запрет*. Если вы сотворяете *Запрет* каждый день в течение 30 дней в одном месте, заклинание длится, пока не будет рассеяно, и материальные компоненты поглощаются при последнем сотворении.
+
+#### Силовая клетка
+
+*Воплощение 7-го уровня (Бард, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 100 футов
+
+**Компоненты:** В, С, М (рубиновая пыль стоимостью 1500+ зм, которую заклинание поглощает)
+
+**Длительность:** Концентрация, до 1 часа
+
+Неподвижная, невидимая кубическая тюрьма из магической силы возникает вокруг области, которую вы выбираете в пределах дистанции. Тюрьма может быть клеткой или сплошной коробкой, на ваш выбор.
+
+Тюрьма в форме клетки может иметь сторону до 20 футов и сделана из прутьев диаметром 1/2 дюйма, расположенных на расстоянии 1/2 дюйма друг от друга. Тюрьма в форме коробки может иметь сторону до 10 футов, создавая сплошной барьер, который не пропускает никакую материю и блокирует любые заклинания, сотворяемые внутрь или наружу из области.
+
+Когда вы сотворяете заклинание, любое существо, полностью находящееся внутри области клетки, оказывается в ловушке. Существа, находящиеся лишь частично внутри области, или те, которые слишком велики, чтобы поместиться внутри, выталкиваются от центра области, пока не окажутся полностью снаружи.
+
+Существо внутри клетки не может покинуть её немагическими средствами. Если существо пытается использовать телепортацию или межпланарное перемещение, чтобы покинуть её, оно сначала должно совершить спасбросок Харизмы. При успехе существо может использовать эту магию, чтобы выйти из клетки. При провале существо не выходит из клетки и тратит заклинание или эффект впустую. Клетка также простирается в Эфирный План, блокируя эфирное перемещение.
+
+Это заклинание не может быть рассеяно заклинанием *Рассеивание магии*.
+
+#### Предвидение
+
+*Прорицание 9-го уровня (Бард, Друид, Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (перо колибри)
+
+**Длительность:** 8 часов
+
+Вы касаетесь согласного существа и наделяете его ограниченной способностью видеть ближайшее будущее. На время действия заклинания цель совершает с преимуществом проверки d20, и другие существа совершают с помехой броски атаки против неё. Заклинание заканчивается досрочно, если вы сотворите его снова.
+
+#### Свобода перемещения
+
+*Ограждение 4-го уровня (Бард, Жрец, Друид, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (кожаный ремешок)
+
+**Длительность:** 1 час
+
+Вы касаетесь согласного существа. На время действия заклинания на перемещение цели не влияет труднопроходимая местность, и заклинания и другие магические эффекты не могут ни уменьшить скорость цели, ни привести к тому, что цель получит состояние «парализованный» или «опутанный». Цель также получает скорость плавания, равную её скорости.
+
+Кроме того, цель может потратить 5 футов перемещения, чтобы автоматически освободиться от немагических ограничений, таких как кандалы или существо, которое накладывает на неё состояние «схваченный».
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 4-го.
+
+#### Ледяная сфера
+
+*Воплощение 6-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 300 футов
+
+**Компоненты:** В, С, М (миниатюрная хрустальная сфера)
+
+**Длительность:** Мгновенная
+
+Морозный шар вылетает из вас в точку по вашему выбору в пределах дистанции, где он взрывается в сфере радиусом 60 футов. Каждое существо в этой области совершает спасбросок Телосложения, получая 10d6 урона холодом при провале или половину этого урона при успехе.
+
+Если шар попадает в водоём, он замораживает воду на глубину 6 дюймов на площади 30 на 30 футов. Этот лёд существует 1 минуту. Существа, которые плавали на поверхности замёрзшей воды, оказываются в ловушке во льду и получают состояние «опутанный». Пойманное существо может совершить действие, чтобы сделать проверку Силы (Атлетика) против Сл спасброска ваших заклинаний, чтобы освободиться.
+
+Вы можете воздержаться от запуска шара после завершения сотворения заклинания. Если вы это делаете, шар размером с пращный снаряд, прохладный на ощупь, появляется в вашей руке. В любое время вы или существо, которому вы даёте шар, можете бросить шар (на дистанцию 40 футов) или метнуть его пращой (на обычную дистанцию пращи). Он разбивается при ударе с тем же эффектом, что и обычное сотворение заклинания. Вы также можете положить шар, не разбивая его. Через 1 минуту, если шар ещё не разбился, он взрывается.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 6-го.
+
+#### Газообразная форма
+
+*Преобразование 3-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (кусочек марли)
+
+**Длительность:** Концентрация, до 1 часа
+
+Согласное существо, которого вы касаетесь, трансформируется вместе со всем, что носит и несёт, в туманное облако на время действия заклинания. Заклинание заканчивается на цели, если её хиты опускаются до 0 или если она совершает действие Магия, чтобы закончить заклинание на себе.
+
+Находясь в этой форме, единственным способом перемещения цели является скорость полёта 10 футов, и она может парить. Цель может входить в пространство другого существа и занимать его. Цель обладает сопротивлением к дробящему, колющему и рубящему урону; она обладает иммунитетом к состоянию «ничком»; и она совершает с преимуществом спасброски Силы, Ловкости и Телосложения. Цель может проходить через узкие отверстия, но она воспринимает жидкости как твёрдые поверхности.
+
+Цель не может говорить или манипулировать объектами, и любые объекты, которые она несла или держала, не могут быть уронены, использованы или как-либо с ними взаимодействовать. Наконец, цель не может атаковать или сотворять заклинания.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 3-го.
+
+#### Врата
+
+*Вызов 9-го уровня (Жрец, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (бриллиант стоимостью 5000+ зм)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы создаёте портал, связывающий свободное пространство, которое вы видите в пределах дистанции, с точным местом на другом плане существования. Портал представляет собой круглое отверстие, которое вы можете сделать от 5 до 20 футов в диаметре. Вы можете ориентировать портал в любом направлении по вашему выбору. Портал существует на время действия заклинания, и место назначения портала видно через него.
+
+Портал имеет переднюю и заднюю стороны на каждом плане, где он появляется. Перемещение через портал возможно только при движении через его переднюю сторону. Всё, что это делает, мгновенно переносится на другой план, появляясь в свободном пространстве, ближайшем к порталу.
+
+Божества и другие планарные владыки могут предотвратить открытие порталов, созданных этим заклинанием, в их присутствии или где-либо в их владениях.
+
+Когда вы сотворяете это заклинание, вы можете произнести имя конкретного существа (псевдоним, титул или прозвище не работают). Если это существо находится на плане, отличном от вашего, портал открывается рядом с названным существом и переносит его в ближайшее свободное пространство на вашей стороне портала. Вы не получаете особой власти над существом, и оно свободно действовать так, как Мастер сочтёт уместным. Оно может уйти, атаковать вас или помочь вам.
+
+#### Обет
+
+*Очарование 5-го уровня (Бард, Жрец, Друид, Паладин, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** 30 дней
+
+Вы даёте устную команду существу, которое видите в пределах дистанции, приказывая ему выполнить какую-либо службу или воздержаться от действия или линии поведения по вашему решению. Цель должна преуспеть в спасброске Мудрости, иначе получает состояние «очарованный» на время действия заклинания. Цель автоматически преуспевает, если не может понять вашу команду.
+
+Пока существо очаровано, оно получает 5d10 урона психической энергией, если действует прямо противоположно вашей команде. Оно получает этот урон не более одного раза в день.
+
+Вы можете отдать любую команду по своему выбору, за исключением деятельности, которая приведёт к неминуемой смерти. Если вы отдадите самоубийственную команду, заклинание заканчивается.
+
+Заклинание *Снятие проклятья*, *Высшее восстановление* или *Исполнение желаний* заканчивает это заклинание.
+
+**_Использование ячейки более высокого уровня._** Если вы используете ячейку 7-го или 8-го уровня, длительность составляет 365 дней. Если вы используете ячейку 9-го уровня, заклинание длится, пока не будет закончено одним из упомянутых выше заклинаний.
+
+#### Бальзамирование
+
+*Некромантия 2-го уровня (Жрец, Паладин, Волшебник)*
+
+**Время сотворения:** Действие или Ритуал
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (2 медные монеты, которые заклинание поглощает)
+
+**Длительность:** 10 дней
+
+Вы касаетесь трупа или других останков. На время действия заклинания цель защищена от разложения и не может стать нежитью.
+
+Заклинание также фактически продлевает срок для воскрешения цели из мёртвых, поскольку дни, проведённые под влиянием этого заклинания, не учитываются в сроке действия таких заклинаний, как *Оживление*.
+
+#### Гигантское насекомое
+
+*Вызов 4-го уровня (Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы призываете гигантскую многоножку, паука или осу (на ваш выбор при сотворении заклинания). Оно появляется в свободном пространстве, которое вы видите в пределах дистанции, и использует блок характеристик **Гигантское насекомое**. Выбранная форма определяет некоторые детали в его блоке характеристик. Существо исчезает, когда его хиты опускаются до 0 или когда заклинание заканчивается.
+
+Существо является союзником вам и вашим союзникам. В бою существо разделяет с вами значение инициативы, но совершает свой ход сразу после вашего. Оно подчиняется вашим устным командам (действие не требуется от вас). Если вы не отдаёте команд, оно совершает действие Уклонение и использует своё перемещение, чтобы избежать опасности.
+
+**_Использование ячейки более высокого уровня._** Используйте уровень ячейки заклинания как уровень заклинания в блоке характеристик.
+
+#### Дар красноречия
+
+*Очарование 8-го уровня (Бард, Колдун)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** 1 час
+
+До окончания заклинания, когда вы совершаете проверку Харизмы, вы можете заменить выпавшее число на 15. Кроме того, независимо от того, что вы говорите, магия, которая определяет, говорите ли вы правду, указывает, что вы говорите правду.
+
+#### Сфера неуязвимости
+
+*Ограждение 6-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (стеклянная бусина)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Неподвижный мерцающий барьер появляется в эманации радиусом 10 футов вокруг вас и остаётся на время действия заклинания.
+
+Любое заклинание 5-го уровня или ниже, сотворённое из-за барьера, не может воздействовать на что-либо внутри него. Такое заклинание может нацеливаться на существ и объекты внутри барьера, но заклинание не оказывает на них никакого эффекта. Аналогично, область внутри барьера исключается из областей эффекта, созданных такими заклинаниями.
+
+**_Использование ячейки более высокого уровня._** Барьер блокирует заклинания на 1 уровень выше за каждый уровень ячейки выше 6-го.
+
+#### Охранные руны
+
+*Ограждение 3-го уровня (Бард, Жрец, Волшебник)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмазная пыль стоимостью 200+ зм, которую заклинание поглощает)
+
+**Длительность:** Пока не рассеяно или не сработает
+
+Вы вычерчиваете руну, которая позже высвобождает магический эффект. Вы вычерчиваете её либо на поверхности (например, на столе или участке пола), либо внутри объекта, который можно закрыть (например, книги или сундука), чтобы скрыть руну. Руна может покрывать область диаметром не более 10 футов. Если поверхность или объект перемещается более чем на 10 футов от места, где вы сотворили это заклинание, руна разрушается, и заклинание заканчивается, не сработав.
+
+Руна почти незаметна и требует успешной проверки Мудрости (Восприятие) против Сл спасброска ваших заклинаний, чтобы её заметить.
+
+Когда вы вычерчиваете руну, вы устанавливаете условие срабатывания и выбираете, будет ли это взрывная руна или руна заклинания, как объяснено ниже.
+
+**_Установка условия._** Вы решаете, что активирует руну, когда сотворяете заклинание. Для рун, вычерченных на поверхности, обычные условия включают прикосновение к руне или наступание на неё, удаление другого объекта, покрывающего её, или приближение на определённое расстояние к ней. Для рун, вычерченных внутри объекта, обычные условия включают открытие этого объекта или взгляд на руну. После срабатывания руны это заклинание заканчивается.
+
+Вы можете уточнить условие так, чтобы только существа определённых типов активировали его (например, руна может быть настроена на воздействие только на аберраций). Вы также можете установить условия для существ, которые не активируют руну, например, тех, кто произносит определённый пароль.
+
+**_Взрывная руна._** При срабатывании руна извергает магическую энергию в сфере радиусом 20 футов с центром на руне. Каждое существо в области совершает спасбросок Ловкости. Существо получает 5d8 урона кислотой, холодом, огнём, молнией или громом (на ваш выбор при создании руны) при провале или половину этого урона при успехе.
+
+**_Руна заклинания._** Вы можете сохранить подготовленное заклинание 3-го уровня или ниже в руне, сотворив его как часть создания руны. Заклинание должно нацеливаться на одно существо или область. Сохранённое таким образом заклинание не имеет немедленного эффекта.
+
+Когда руна срабатывает, сохранённое заклинание вступает в силу. Если заклинание имеет цель, оно нацеливается на существо, которое активировало руну. Если заклинание воздействует на область, область центрируется на этом существе. Если заклинание призывает враждебных существ или создаёт вредоносные объекты или ловушки, они появляются как можно ближе к нарушителю и атакуют его. Если заклинание требует концентрации, оно длится до конца своей полной длительности.
+
+**_Использование ячейки более высокого уровня._** Урон взрывной руны увеличивается на 1d8 за каждый уровень ячейки выше 3-го. Если вы создаёте руну заклинания, вы можете сохранить любое заклинание того же уровня, что и ячейка заклинания, которую вы используете для *Охранных рун*.
+
+#### Чудо-ягоды
+
+*Вызов 1-го уровня (Друид, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (веточка омелы)
+
+**Длительность:** 24 часа
+
+Десять ягод появляются в вашей руке и наполняются магией на время действия заклинания. Существо может совершить бонусное действие, чтобы съесть одну ягоду. Съедение ягоды восстанавливает 1 хит, и ягода обеспечивает достаточно питания, чтобы поддерживать существо в течение одного дня.
+
+Несъеденные ягоды исчезают, когда заклинание заканчивается.
+
+#### Скольжение
+
+*Вызов 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (кусочек свиной шкурки или масло)
+
+**Длительность:** 1 минута
+
+Негорючий жир покрывает землю на квадрате со стороной 10 футов с центром в точке в пределах дистанции и превращает её в труднопроходимую местность на время действия заклинания.
+
+Когда жир появляется, каждое существо, стоящее в его области, должно преуспеть в спасброске Ловкости, иначе получает состояние «ничком». Существо, которое входит в область или заканчивает там свой ход, также должно преуспеть в этом спасброске, иначе падает ничком.
+
+#### Высшая невидимость
+
+*Иллюзия 4-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Существо, которого вы касаетесь, получает состояние «невидимый» до окончания заклинания.
+
+#### Высшее восстановление
+
+*Ограждение 5-го уровня (Бард, Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмазная пыль стоимостью 100+ зм, которую заклинание поглощает)
+
+**Длительность:** Мгновенная
+
+Вы касаетесь существа и магически снимаете с него один из следующих эффектов:
+
+- 1 уровень истощения
+- Состояние «очарованный» или «окаменевший»
+- Проклятье, включая настройку цели на проклятый магический предмет
+- Любое уменьшение одной из характеристик цели
+- Любое уменьшение максимума хитов цели
+
+#### Страж веры
+
+*Вызов 4-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В
+
+**Длительность:** 8 часов
+
+Большой призрачный страж появляется и парит на время действия заклинания в свободном пространстве, которое вы видите в пределах дистанции. Страж занимает это пространство и неуязвим, и он появляется в форме, соответствующей вашему божеству или пантеону.
+
+Любой враг, который перемещается в пространство в пределах 10 футов от стража впервые в ход или начинает там свой ход, совершает спасбросок Ловкости, получая 20 урона излучением при провале или половину этого урона при успехе. Страж исчезает, когда нанёс в общей сложности 60 урона.
+
+#### Стражи и обереги
+
+*Ограждение 6-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (серебряный жезл стоимостью 10+ зм)
+
+**Длительность:** 24 часа
+
+Вы создаёте оберег, который защищает до 2500 квадратных футов площади пола. Защищённая область может быть высотой до 20 футов, и вы формируете её как один квадрат со стороной 50 футов, сто смежных квадратов со стороной 5 футов или двадцать пять смежных квадратов со стороной 10 футов.
+
+Когда вы сотворяете это заклинание, вы можете указать особ, на которых не действуют эффекты заклинания. Вы также можете указать пароль, который при произнесении вслух в пределах 5 футов от защищённой области делает говорящего невосприимчивым к её эффектам.
+
+Заклинание создаёт следующие эффекты в защищённой области. *Рассеивание магии* не действует на само заклинание *Стражи и обереги*, но каждый из следующих эффектов может быть рассеян. Если все четыре рассеяны, *Стражи и обереги* заканчивается. Если вы сотворяете заклинание каждый день в течение 365 дней на одной и той же области, заклинание затем длится, пока все его эффекты не будут рассеяны.
+
+**_Коридоры._** Туман заполняет все защищённые коридоры, делая их сильно заслонёнными. Кроме того, на каждом перекрёстке или разветвлении, предлагающем выбор направления, есть 50-процентный шанс, что существо, кроме вас, поверит, что оно идёт в направлении, противоположном выбранному.
+
+**_Двери._** Все двери в защищённой области магически заперты, как если бы были запечатаны заклинанием *Волшебный замок*. Кроме того, вы можете покрыть до десяти дверей иллюзией, чтобы они выглядели как обычные участки стены.
+
+**_Лестницы._** Паутина заполняет все лестницы в защищённой области сверху донизу, как в заклинании *Паутина*. Эти нити восстанавливаются через 10 минут, если они уничтожены, пока действует *Стражи и обереги*.
+
+**_Другой эффект заклинания._** Поместите один из следующих магических эффектов в защищённой области:
+
+- *Танцующие огоньки* в четырёх коридорах с простой программой, которую огоньки повторяют, пока длится *Стражи и обереги*
+- *Волшебные уста* в двух местах
+- *Зловонное облако* в двух местах (испарения возвращаются через 10 минут, если рассеяны, пока длится *Стражи и обереги*)
+- *Порыв ветра* в одном коридоре или комнате (ветер дует непрерывно, пока длится заклинание)
+- *Внушение* в одном квадрате со стороной 5 футов; любое существо, которое входит в этот квадрат, получает внушение мысленно
+
+#### Указание
+
+*Заговор прорицания (Жрец, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы касаетесь согласного существа и выбираете навык. До окончания заклинания существо добавляет 1d4 к любой проверке характеристики, использующей выбранный навык.
+
+#### Направляющий снаряд
+
+*Воплощение 1-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 1 раунд
+
+Вы мечете снаряд света в существо в пределах дистанции. Совершите дальнобойную атаку заклинанием по цели. При попадании она получает 4d6 урона излучением, и следующий бросок атаки по ней до конца вашего следующего хода совершается с преимуществом.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 1-го.
+
+#### Порыв ветра
+
+*Воплощение 2-го уровня (Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (бобовое семя)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Линия сильного ветра длиной 60 футов и шириной 10 футов вырывается из вас в выбранном вами направлении на время действия заклинания. Каждое существо в линии должно преуспеть в спасброске Силы, иначе его отталкивает на 15 футов от вас в направлении вдоль линии. Существо, заканчивающее свой ход в линии, должно совершить тот же спасбросок.
+
+Любое существо в линии должно тратить 2 фута перемещения за каждый 1 фут, когда движется ближе к вам.
+
+Порыв рассеивает газ или пар и гасит свечи и подобное незащищённое пламя в области. Он заставляет защищённое пламя, такое как пламя фонарей, дико метаться и имеет 50-процентный шанс погасить его.
+
+Бонусным действием в последующие ходы вы можете изменить направление, в котором линия вырывается из вас.
+
+#### Освящение
+
+*Ограждение 5-го уровня (Жрец)*
+
+**Время сотворения:** 24 часа
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (благовония стоимостью 1000+ зм, которые заклинание поглощает)
+
+**Длительность:** Пока не рассеяно
+
+Вы касаетесь точки и наполняете область вокруг неё святой или нечестивой силой. Область может иметь радиус до 60 футов, и заклинание проваливается, если радиус включает область, уже находящуюся под эффектом *Освящения*. Затронутая область имеет следующие эффекты.
+
+**_Освящённая защита._** Выберите любой из этих типов существ: аберрация, небожитель, элементаль, фея, исчадие или нежить. Существа выбранных типов не могут добровольно войти в область, и любое существо, которое одержимо или находится в состоянии «очарованный» или «испуганный» от таких существ, не одержимо, не очаровано и не испугано ими, находясь в области.
+
+**_Дополнительный эффект._** Вы связываете дополнительный эффект с областью из списка ниже:
+
+**_Храбрость._** Существа любых выбранных вами типов не могут получить состояние «испуганный», находясь в области.
+
+**_Тьма._** Тьма заполняет область. Обычный свет, а также магический свет, созданный заклинаниями уровня ниже этого заклинания, не могут осветить область.
+
+**_Дневной свет._** Яркий свет заполняет область. Магическая тьма, созданная заклинаниями уровня ниже этого заклинания, не может погасить свет.
+
+**_Мирный покой._** Мёртвые тела, погребённые в области, не могут быть превращены в нежить.
+
+**_Внепространственное вмешательство._** Существа любых выбранных вами типов не могут входить в область или покидать её, используя телепортацию или межпланарное перемещение.
+
+**_Страх._** Существа любых выбранных вами типов получают состояние «испуганный», находясь в области.
+
+**_Сопротивление._** Существа любых выбранных вами типов получают сопротивление к одному типу урона на ваш выбор, находясь в области.
+
+**_Тишина._** Никакой звук не может исходить изнутри области, и никакой звук не может достичь её.
+
+**_Языки._** Существа любых выбранных вами типов могут общаться с любым другим существом в области, даже если они не разделяют общий язык.
+
+**_Уязвимость._** Существа любых выбранных вами типов получают уязвимость к одному типу урона на ваш выбор, находясь в области.
+
+#### Иллюзорная местность
+
+*Иллюзия 4-го уровня (Бард, Друид, Колдун, Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** 300 футов
+
+**Компоненты:** В, С, М (гриб)
+
+**Длительность:** 24 часа
+
+Вы делаете так, чтобы естественная местность в кубе с ребром 150 футов в пределах дистанции выглядела, звучала и пахла как другой вид естественной местности. Таким образом, открытые поля или дорогу можно замаскировать под болото, холм, расщелину или какую-либо другую труднопроходимую или непроходимую местность. Пруд можно сделать похожим на травянистый луг, обрыв — на пологий склон, или каменистый овраг — на широкую и ровную дорогу. Рукотворные строения, снаряжение и существа в области не изменяются.
+
+Тактильные характеристики местности не изменяются, поэтому существа, входящие в область, вероятно, заметят иллюзию. Если различие не очевидно на ощупь, существо, исследующее иллюзию, может совершить действие Изучение, чтобы сделать проверку Интеллекта (Расследование) против Сл спасброска ваших заклинаний и перестать верить в неё. Если существо распознаёт, что местность иллюзорна, оно видит размытое изображение, наложенное на реальную местность.
+
+#### Нанесение вреда
+
+*Некромантия 6-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы высвобождаете вирулентную магию на существо, которое видите в пределах дистанции. Цель совершает спасбросок Телосложения. При провале она получает 14d6 урона некротической энергией, и её максимум хитов уменьшается на величину, равную полученному урону некротической энергией. При успехе она получает только половину урона. Это заклинание не может уменьшить максимум хитов цели ниже 1.
+
+#### Ускорение
+
+*Преобразование 3-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (стружка корня солодки)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Выберите согласное существо, которое вы видите в пределах дистанции. До окончания заклинания скорость цели удваивается, она получает бонус +2 к Классу доспеха, она совершает с преимуществом спасброски Ловкости, и она получает дополнительное действие в каждый свой ход. Это действие может быть использовано только для совершения действия Атака (только одна атака), Рывок, Отход, Укрытие или Использование.
+
+Когда заклинание заканчивается, цель становится недееспособной и имеет скорость 0 до конца своего следующего хода, когда на неё накатывает волна вялости.
+
+#### Исцеление
+
+*Ограждение 6-го уровня (Жрец, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Выберите существо, которое вы видите в пределах дистанции. Положительная энергия омывает цель, восстанавливая 70 хитов. Это заклинание также заканчивает состояния «ослеплённый», «оглохший» и «отравленный» на цели.
+
+**_Использование ячейки более высокого уровня._** Исцеление увеличивается на 10 за каждый уровень ячейки выше 6-го.
+
+#### Целебное слово
+
+*Ограждение 1-го уровня (Бард, Жрец, Друид)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Существо на ваш выбор, которое вы видите в пределах дистанции, восстанавливает количество хитов, равное 2d4 плюс модификатор вашей заклинательной характеристики.
+
+**_Использование ячейки более высокого уровня._** Исцеление увеличивается на 2d4 за каждый уровень ячейки выше 1-го.
+
+#### Раскалённый металл
+
+*Преобразование 2-го уровня (Бард, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (кусок железа и пламя)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Выберите рукотворный металлический объект, такой как металлическое оружие или комплект тяжёлых или средних металлических доспехов, который вы видите в пределах дистанции. Вы заставляете объект раскалиться докрасна. Любое существо в физическом контакте с объектом получает 2d8 урона огнём, когда вы сотворяете заклинание. До окончания заклинания вы можете совершить бонусное действие в каждый свой последующий ход, чтобы снова нанести этот урон, если объект находится в пределах дистанции.
+
+Если существо держит или носит объект и получает от него урон, существо должно преуспеть в спасброске Телосложения, иначе роняет объект, если может. Если оно не роняет объект, оно совершает с помехой броски атаки и проверки характеристик до начала вашего следующего хода.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 2-го.
+
+#### Адское возмездие
+
+*Воплощение 1-го уровня (Колдун)*
+
+**Время сотворения:** Реакция, которую вы совершаете в ответ на получение урона от существа, которое вы видите в пределах 60 футов от вас
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Существо, нанёсшее вам урон, на мгновение окружается зелёным пламенем. Оно совершает спасбросок Ловкости, получая 2d10 урона огнём при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d10 за каждый уровень ячейки выше 1-го.
+
+#### Пир героев
+
+*Вызов 6-го уровня (Бард, Жрец, Друид)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (украшенная самоцветами чаша стоимостью 1000+ зм, которую заклинание поглощает)
+
+**Длительность:** Мгновенная
+
+Вы создаёте пир, который появляется на поверхности в свободном кубе с ребром 10 футов рядом с вами. Пир потребляется за 1 час и исчезает по истечении этого времени, а полезные эффекты не вступают в силу до окончания этого часа. До двенадцати существ могут разделить пир.
+
+Существо, разделившее пир, получает несколько преимуществ, которые длятся 24 часа. Существо обладает сопротивлением к урону ядом, и у него есть иммунитет к состояниям «испуганный» и «отравленный». Его максимум хитов также увеличивается на 2d10, и оно получает такое же количество хитов.
+
+#### Героизм
+
+*Очарование 1-го уровня (Бард, Паладин)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Согласное существо, которого вы касаетесь, наполняется храбростью. До окончания заклинания существо обладает иммунитетом к состоянию «испуганный» и получает временные хиты, равные модификатору вашей заклинательной характеристики, в начале каждого своего хода.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 1-го.
+
+#### Порча
+
+*Очарование 1-го уровня (Колдун)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (окаменевший глаз тритона)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы накладываете проклятье на существо, которое видите в пределах дистанции. До окончания заклинания вы наносите дополнительно 1d6 урона некротической энергией цели каждый раз, когда попадаете по ней броском атаки. Также выберите одну характеристику при сотворении заклинания. Цель совершает с помехой проверки характеристики, использующие выбранную характеристику.
+
+Если хиты цели опускаются до 0 до окончания этого заклинания, вы можете совершить бонусное действие в последующий ход, чтобы проклясть новое существо.
+
+**_Использование ячейки более высокого уровня._** Ваша концентрация может длиться дольше с ячейкой 2-го уровня (до 4 часов), 3–4 уровня (до 8 часов) или 5-го+ (24 часа).
+
+#### Жуткий смех
+
+*Очарование 1-го уровня (Бард, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (пирожок и перо)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Одно существо на ваш выбор, которое вы видите в пределах дистанции, совершает спасбросок Мудрости. При провале оно получает состояния «ничком» и «недееспособный» на время действия заклинания. В течение этого времени оно безудержно смеётся, если способно смеяться, и не может прекратить состояние «ничком» на себе.
+
+В конце каждого своего хода и каждый раз, когда оно получает урон, оно совершает ещё один спасбросок Мудрости. Цель совершает спасбросок с преимуществом, если он вызван уроном. При успехе заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 1-го.
+
+#### Удержание чудовища
+
+*Очарование 5-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (прямой кусок железа)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Выберите существо, которое вы видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости, иначе получает состояние «парализованный» на время действия заклинания. В конце каждого своего хода цель повторяет спасбросок, заканчивая заклинание на себе при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 5-го.
+
+#### Удержание личности
+
+*Очарование 2-го уровня (Бард, Жрец, Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (прямой кусок железа)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Выберите гуманоида, которого вы видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости, иначе получает состояние «парализованный» на время действия заклинания. В конце каждого своего хода цель повторяет спасбросок, заканчивая заклинание на себе при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одного дополнительного гуманоида за каждый уровень ячейки выше 2-го.
+
+#### Аура святости
+
+*Ограждение 8-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (реликварий стоимостью 1000+ зм)
+
+**Длительность:** Концентрация, до 1 минуты
+
+На время действия заклинания вы излучаете ауру в эманации радиусом 30 футов. Находясь в ауре, существа на ваш выбор совершают с преимуществом все спасброски, и другие существа совершают с помехой броски атаки против них. Кроме того, когда исчадие или нежить попадает по затронутому существу броском атаки ближнего боя, атакующий должен преуспеть в спасброске Телосложения, иначе получает состояние «ослеплённый» до конца своего следующего хода.
+
+#### Метка охотника
+
+*Прорицание 1-го уровня (Следопыт)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы магически помечаете одно существо, которое видите в пределах дистанции, как свою добычу. До окончания заклинания вы наносите дополнительно 1d6 урона силовым полем цели каждый раз, когда попадаете по ней броском атаки. Вы также совершаете с преимуществом любую проверку Мудрости (Восприятие или Выживание), которую делаете, чтобы найти её.
+
+Если хиты цели опускаются до 0 до окончания этого заклинания, вы можете совершить бонусное действие, чтобы переместить метку на новое существо, которое видите в пределах дистанции.
+
+**_Использование ячейки более высокого уровня._** Ваша концентрация может длиться дольше с ячейкой 3–4 уровня (до 8 часов) или 5-го+ (до 24 часов).
+
+#### Гипнотический узор
+
+*Иллюзия 3-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** С, М (щепотка конфетти)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы создаёте закручивающийся узор из цветов в кубе с ребром 30 футов в пределах дистанции. Узор появляется на мгновение и исчезает. Каждое существо в области, которое может видеть узор, должно преуспеть в спасброске Мудрости, иначе получает состояние «очарованный» на время действия заклинания. Пока существо очаровано, оно получает состояние «недееспособный» и имеет скорость 0.
+
+Заклинание заканчивается для затронутого существа, если оно получает любой урон или если кто-то другой использует действие, чтобы вывести существо из ступора.
+
+#### Ледяной нож
+
+*Вызов 1-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** С, М (капля воды или кусочек льда)
+
+**Длительность:** Мгновенная
+
+Вы создаёте осколок льда и бросаете его в одно существо в пределах дистанции. Совершите дальнобойную атаку заклинанием по цели. При попадании цель получает 1d10 колющего урона. Попадание или промах, осколок затем взрывается. Цель и каждое существо в пределах 5 футов от неё должны преуспеть в спасброске Ловкости, иначе получают 2d6 урона холодом.
+
+**_Использование ячейки более высокого уровня._** Урон холодом увеличивается на 1d6 за каждый уровень ячейки выше 1-го.
+
+#### Град
+
+*Воплощение 4-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 300 футов
+
+**Компоненты:** В, С, М (варежка)
+
+**Длительность:** Мгновенная
+
+Град падает в цилиндре радиусом 20 футов и высотой 40 футов с центром в точке в пределах дистанции. Каждое существо в цилиндре совершает спасбросок Ловкости. Существо получает 2d10 дробящего урона и 4d6 урона холодом при провале или половину этого урона при успехе.
+
+Градины превращают землю в цилиндре в труднопроходимую местность до конца вашего следующего хода.
+
+**_Использование ячейки более высокого уровня._** Дробящий урон увеличивается на 1d10 за каждый уровень ячейки выше 4-го.
+
+#### Опознание
+
+*Прорицание 1-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** 1 минута или Ритуал
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (жемчужина стоимостью 100+ зм)
+
+**Длительность:** Мгновенная
+
+Вы касаетесь объекта на протяжении сотворения заклинания. Если объект является магическим предметом или иным магическим объектом, вы узнаёте его свойства и способ их использования, требует ли он настройки и сколько у него зарядов, если есть. Вы узнаёте, влияют ли на предмет какие-либо действующие заклинания, и какие именно. Если предмет был создан заклинанием, вы узнаёте название этого заклинания.
+
+Если вместо этого вы касаетесь существа на протяжении сотворения, вы узнаёте, какие действующие заклинания, если таковые имеются, в настоящее время влияют на него.
+
+#### Иллюзорный текст
+
+*Иллюзия 1-го уровня (Бард, Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута или Ритуал
+
+**Дистанция:** Касание
+
+**Компоненты:** С, М (чернила стоимостью 10+ зм, которые заклинание поглощает)
+
+**Длительность:** 10 дней
+
+Вы пишете на пергаменте, бумаге или другом подходящем материале и наделяете его иллюзией, которая длится на время действия заклинания. Для вас и любых существ, которых вы указываете при сотворении заклинания, написанное выглядит нормально, кажется написанным вашей рукой и передаёт тот смысл, который вы намеревались передать, когда писали текст. Для всех остальных написанное выглядит как неизвестный или магический шрифт, который невозможно разобрать. В качестве альтернативы иллюзия может изменить значение, почерк и язык текста, хотя язык должен быть вам известен.
+
+Если заклинание рассеивается, оригинальный текст и иллюзия оба исчезают.
+
+Существо с истинным зрением может прочитать скрытое сообщение.
+
+#### Заточение
+
+*Ограждение 9-го уровня (Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (статуэтка цели стоимостью 5000+ зм)
+
+**Длительность:** Пока не рассеяно
+
+Вы создаёте магические оковы, чтобы удержать существо, которое видите в пределах дистанции. Цель должна совершить спасбросок Мудрости. При успехе цель не затронута и получает иммунитет к этому заклинанию на следующие 24 часа. При провале цель заточена. Пока цель заточена, ей не нужно дышать, есть или пить, и она не стареет. Заклинания прорицания не могут определить местоположение или воспринять заточённую цель, и цель не может телепортироваться.
+
+До окончания заклинания на цель также действует один из следующих эффектов на ваш выбор:
+
+**Погребение.** Цель погребена под землёй в полой сфере магической силы, которая достаточно велика, чтобы вместить цель. Ничто не может проникнуть в сферу или выйти из неё.
+
+**Заковывание.** Цепи, прочно укоренённые в земле, удерживают цель на месте. Цель получает состояние «опутанный» и не может быть перемещена никакими средствами.
+
+**Изгнание в полуплан.** Цель заперта в полуплане, защищённом от телепортации и планарных путешествий. Полуплан на ваш выбор представляет собой лабиринт, клетку, башню и тому подобное.
+
+**Уменьшение.** Цель становится ростом 1 дюйм и заперта внутри неразрушимого самоцвета или подобного объекта. Свет может проходить через самоцвет (позволяя цели видеть наружу, а другим существам — видеть внутрь), но ничто другое не может пройти через него никакими средствами.
+
+**Сон.** Цель получает состояние «бессознательный» и не может быть разбужена.
+
+**_Окончание заклинания._** Когда вы сотворяете заклинание, укажите условие, которое его закончит. Условие может быть настолько простым или сложным, насколько вы пожелаете, но Мастер должен согласиться, что оно имеет высокую вероятность произойти в течение следующего десятилетия. Условием должно быть наблюдаемое действие, например, кто-то делает определённое подношение в храме вашего бога, спасение вашей истинной любви или победа над определённым чудовищем.
+
+Заклинание *Рассеивание магии* может закончить заклинание, только если оно сотворено с ячейкой 9-го уровня, нацеливаясь либо на тюрьму, либо на компонент, использованный для её создания.
+
+#### Огненное облако
+
+*Вызов 8-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вихрящееся облако из угольков и дыма заполняет сферу радиусом 20 футов с центром в точке в пределах дистанции. Область облака сильно заслонена. Оно существует на время действия заклинания или пока сильный ветер (например, созданный заклинанием *Порыв ветра*) не рассеет его.
+
+Когда облако появляется, каждое существо в нём совершает спасбросок Ловкости, получая 10d8 урона огнём при провале или половину этого урона при успехе. Существо также должно совершить этот спасбросок, когда сфера перемещается в его пространство и когда оно входит в сферу или заканчивает там свой ход. Существо совершает этот спасбросок только один раз за ход.
+
+Облако перемещается на 10 футов от вас в выбранном вами направлении в начале каждого вашего хода.
+
+#### Нанесение ран
+
+*Некромантия 1-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Существо, которого вы касаетесь, совершает спасбросок Телосложения, получая 2d10 урона некротической энергией при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d10 за каждый уровень ячейки выше 1-го.
+
+#### Нашествие насекомых
+
+*Вызов 5-го уровня (Жрец, Друид, Чародей)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 300 футов
+
+**Компоненты:** В, С, М (саранча)
+
+**Длительность:** Концентрация, до 10 минут
+
+Роящаяся саранча заполняет сферу радиусом 20 футов с центром в точке по вашему выбору в пределах дистанции. Сфера остаётся на время действия заклинания, и её область слабо заслонена и является труднопроходимой местностью.
+
+Когда рой появляется, каждое существо в нём совершает спасбросок Телосложения, получая 4d10 колющего урона при провале или половину этого урона при успехе. Существо также совершает этот спасбросок, когда впервые за ход входит в область заклинания или заканчивает там свой ход. Существо совершает этот спасбросок только один раз за ход.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d10 за каждый уровень ячейки выше 5-го.
+
+#### Мгновенный призыв
+
+*Вызов 6-го уровня (Волшебник)*
+
+**Время сотворения:** 1 минута или Ритуал
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (сапфир стоимостью 1000+ зм)
+
+**Длительность:** Пока не рассеяно
+
+Вы касаетесь сапфира, использованного при сотворении, и объекта весом 10 фунтов или меньше, чья самая длинная сторона составляет 6 футов или меньше. Заклинание оставляет невидимую метку на этом объекте и невидимо вписывает название объекта на сапфир. Каждый раз, когда вы сотворяете это заклинание, вы должны использовать другой сапфир.
+
+После этого вы можете совершить действие Магия, чтобы произнести название объекта и раздавить сапфир. Объект мгновенно появляется в вашей руке независимо от физического расстояния или планарных расстояний, и заклинание заканчивается.
+
+Если другое существо держит или несёт объект, раздавливание сапфира не перемещает его, но вместо этого вы узнаёте, кто это существо и где оно сейчас находится.
+
+#### Непреодолимый танец
+
+*Очарование 6-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В
+
+**Длительность:** Концентрация, до 1 минуты
+
+Одно существо, которое вы видите в пределах дистанции, должно совершить спасбросок Мудрости. При успехе цель комично танцует до конца своего следующего хода, в течение которого она должна потратить всё своё перемещение на танец на месте.
+
+При провале цель получает состояние «очарованный» на время действия заклинания. Пока существо очаровано, оно комично танцует, должно использовать всё своё перемещение на танец на месте и совершает с помехой спасброски Ловкости и броски атаки, и другие существа совершают с преимуществом броски атаки против него. В каждый свой ход цель может совершить действие, чтобы собраться и повторить спасбросок, заканчивая заклинание на себе при успехе.
+
+#### Невидимость
+
+*Иллюзия 2-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (ресница в гуммиарабике)
+
+**Длительность:** Концентрация, до 1 часа
+
+Существо, которого вы касаетесь, получает состояние «невидимый» до окончания заклинания. Заклинание заканчивается досрочно сразу после того, как цель совершает бросок атаки, наносит урон или сотворяет заклинание.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 2-го.
+
+#### Прыжок
+
+*Преобразование 1-го уровня (Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (задняя нога кузнечика)
+
+**Длительность:** 1 минута
+
+Вы касаетесь согласного существа. Один раз в каждый свой ход до окончания заклинания это существо может прыгнуть на расстояние до 30 футов, потратив 10 футов перемещения.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 1-го.
+
+#### Открывание
+
+*Преобразование 2-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Выберите объект, который вы видите в пределах дистанции. Объектом может быть дверь, ящик, сундук, кандалы, замок или другой объект, содержащий обычное или магическое средство, препятствующее доступу.
+
+Цель, удерживаемая закрытой обычным замком или застрявшая, или заблокированная, открывается, освобождается или разблокируется. Если объект имеет несколько замков, открывается только один из них.
+
+Если цель удерживается закрытой заклинанием *Волшебный замок*, это заклинание подавляется на 10 минут, в течение которых цель может быть открыта и закрыта.
+
+Когда вы сотворяете заклинание, громкий стук, слышимый на расстоянии до 300 футов, исходит от цели.
+
+#### Знание легенд
+
+*Прорицание 5-го уровня (Бард, Жрец, Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (благовония стоимостью 250+ зм, которые заклинание поглощает, и четыре полоски слоновой кости стоимостью 50+ зм каждая)
+
+**Длительность:** Мгновенная
+
+Назовите или опишите знаменитого человека, место или объект. Заклинание приносит в ваш разум краткое изложение важных преданий об этой знаменитой вещи, как описано Мастером.
+
+Предания могут состоять из важных деталей, забавных откровений или даже секретных знаний, которые никогда не были широко известны. Чем больше информации вы уже знаете о вещи, тем более точную и подробную информацию вы получаете. Эта информация точна, но может быть облечена в образный язык или поэзию, по решению Мастера.
+
+Если знаменитая вещь, которую вы выбрали, на самом деле не знаменита, вы слышите грустные музыкальные ноты, сыгранные на тромбоне, и заклинание проваливается.
+
+#### Малое восстановление
+
+*Ограждение 2-го уровня (Бард, Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы касаетесь существа и заканчиваете на нём одно состояние: ослеплённый, оглохший, парализованный или отравленный.
+
+#### Левитация
+
+*Преобразование 2-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (металлическая пружина)
+
+**Длительность:** Концентрация, до 10 минут
+
+Одно существо или свободный объект на ваш выбор, которые вы видите в пределах дистанции, поднимается вертикально вверх на 20 футов и остаётся подвешенным там на время действия заклинания. Заклинание может левитировать объект весом до 500 фунтов. Несогласное существо, преуспевшее в спасброске Телосложения, не затрагивается.
+
+Цель может перемещаться только отталкиваясь или притягиваясь к фиксированному объекту или поверхности в пределах досягаемости (например, стене или потолку), что позволяет ей перемещаться как при лазании. В свой ход вы можете изменить высоту цели на 20 футов в любом направлении. Если вы являетесь целью, вы можете двигаться вверх или вниз как часть своего перемещения. В противном случае вы можете совершить действие Магия, чтобы переместить цель, которая должна оставаться в пределах дистанции заклинания.
+
+Когда заклинание заканчивается, цель плавно опускается на землю, если всё ещё находится в воздухе.
+
+#### Свет
+
+*Заговор воплощения (Бард, Жрец, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, М (светлячок или фосфоресцирующий мох)
+
+**Длительность:** 1 час
+
+Вы касаетесь одного Большого или меньшего объекта, который не носит и не несёт кто-то другой. До окончания заклинания объект излучает яркий свет в радиусе 20 футов и тусклый свет в дополнительном радиусе 20 футов. Свет может быть любого цвета по вашему желанию.
+
+Накрыв объект чем-то непрозрачным, можно заблокировать свет. Заклинание заканчивается, если вы сотворяете его снова.
+
+#### Молния
+
+*Воплощение 3-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (кусочек меха и хрустальный стержень)
+
+**Длительность:** Мгновенная
+
+Разряд молнии, формирующий линию длиной 100 футов и шириной 5 футов, вырывается из вас в выбранном вами направлении. Каждое существо в линии совершает спасбросок Ловкости, получая 8d6 урона электричеством при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 3-го.
+
+#### Поиск животных или растений
+
+*Прорицание 2-го уровня (Бард, Друид, Следопыт)*
+
+**Время сотворения:** Действие или Ритуал
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (мех ищейки)
+
+**Длительность:** Мгновенная
+
+Опишите или назовите определённый вид зверя, существа-растения или немагического растения. Вы узнаёте направление и расстояние до ближайшего существа или растения этого вида в пределах 5 миль, если таковые присутствуют.
+
+#### Поиск существа
+
+*Прорицание 4-го уровня (Бард, Жрец, Друид, Паладин, Следопыт, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (мех ищейки)
+
+**Длительность:** Концентрация, до 1 часа
+
+Опишите или назовите существо, которое вам знакомо. Вы чувствуете направление к местоположению существа, если это существо находится в пределах 1000 футов от вас. Если существо движется, вы знаете направление его движения.
+
+Заклинание может найти определённое известное вам существо или ближайшее существо определённого вида (например, человека или единорога), если вы видели такое существо вблизи — в пределах 30 футов — хотя бы один раз. Если существо, которое вы описали или назвали, находится в другой форме, например, под воздействием заклинания *Окаменение* или *Превращение*, это заклинание не находит существо.
+
+Это заклинание не может найти существо, если любая толщина свинца блокирует прямой путь между вами и существом.
+
+#### Поиск объекта
+
+*Прорицание 2-го уровня (Бард, Жрец, Друид, Паладин, Следопыт, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (раздвоенная веточка)
+
+**Длительность:** Концентрация, до 10 минут
+
+Опишите или назовите объект, который вам знаком. Вы чувствуете направление к местоположению объекта, если этот объект находится в пределах 1000 футов от вас. Если объект находится в движении, вы знаете направление его движения.
+
+Заклинание может найти определённый известный вам объект, если вы видели его вблизи — в пределах 30 футов — хотя бы один раз. В качестве альтернативы заклинание может найти ближайший объект определённого вида, например, определённый вид одежды, украшений, мебели, инструмента или оружия.
+
+Это заклинание не может найти объект, если любая толщина свинца блокирует прямой путь между вами и объектом.
+
+#### Скороход
+
+*Преобразование 1-го уровня (Бард, Друид, Следопыт, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (щепотка земли)
+
+**Длительность:** 1 час
+
+Вы касаетесь существа. Скорость цели увеличивается на 10 футов до окончания заклинания.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 1-го.
+
+#### Доспехи мага
+
+*Ограждение 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (кусок выделанной кожи)
+
+**Длительность:** 8 часов
+
+Вы касаетесь согласного существа, которое не носит доспехов. До окончания заклинания базовый КД цели становится равным 13 плюс её модификатор Ловкости. Заклинание заканчивается досрочно, если цель надевает доспехи.
+
+#### Волшебная рука
+
+*Заговор вызова (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 1 минута
+
+Призрачная парящая рука появляется в точке по вашему выбору в пределах дистанции. Рука существует на время действия заклинания. Рука исчезает, если она когда-либо оказывается на расстоянии более 30 футов от вас или если вы сотворяете это заклинание снова.
+
+Когда вы сотворяете заклинание, вы можете использовать руку, чтобы манипулировать объектом, открыть незапертую дверь или контейнер, убрать или достать предмет из открытого контейнера или вылить содержимое из склянки.
+
+Действием Магия в последующие ходы вы можете снова управлять рукой таким образом. Как часть этого действия вы можете переместить руку на расстояние до 30 футов.
+
+Рука не может атаковать, активировать магические предметы или нести более 10 фунтов.
+
+#### Магический круг
+
+*Ограждение 3-го уровня (Жрец, Паладин, Колдун, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, С, М (соль и порошковое серебро стоимостью 100+ зм, которые заклинание поглощает)
+
+**Длительность:** 1 час
+
+Вы создаёте цилиндр магической энергии радиусом 10 футов и высотой 20 футов с центром в точке на земле, которую вы видите в пределах дистанции. Светящиеся руны появляются везде, где цилиндр пересекается с полом или другой поверхностью.
+
+Выберите один или несколько из следующих типов существ: небожители, элементали, феи, исчадия или нежить. Круг влияет на существо выбранного типа следующим образом:
+
+- Существо не может добровольно войти в цилиндр немагическими средствами. Если существо пытается использовать телепортацию или межпланарное перемещение для этого, оно сначала должно преуспеть в спасброске Харизмы.
+- Существо совершает с помехой броски атаки против целей внутри цилиндра.
+- Цели внутри цилиндра не могут быть одержимы или получить состояние «очарованный» или «испуганный» от этого существа.
+
+Каждый раз, когда вы сотворяете это заклинание, вы можете заставить его магию действовать в обратном направлении, не позволяя существу указанного типа покинуть цилиндр и защищая цели снаружи.
+
+**_Использование ячейки более высокого уровня._** Длительность увеличивается на 1 час за каждый уровень ячейки выше 3-го.
+
+#### Волшебный сосуд
+
+*Некромантия 6-го уровня (Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (самоцвет, кристалл или реликварий стоимостью 500+ зм)
+
+**Длительность:** Пока не рассеяно
+
+Ваше тело впадает в кататоническое состояние, когда ваша душа покидает его и входит в сосуд, который вы использовали в качестве материального компонента заклинания. Пока ваша душа обитает в сосуде, вы осознаёте окружающее так, как если бы вы находились в пространстве сосуда. Вы не можете перемещаться или совершать реакции. Единственное действие, которое вы можете совершить, — это спроецировать свою душу на расстояние до 100 футов из сосуда, либо возвращаясь в своё живое тело (и заканчивая заклинание), либо пытаясь завладеть телом гуманоида.
+
+Вы можете попытаться завладеть любым гуманоидом в пределах 100 футов от вас, которого видите (существами, защищёнными заклинанием *Защита от добра и зла* или *Магический круг*, нельзя завладеть). Цель совершает спасбросок Харизмы. При провале ваша душа входит в тело цели, а душа цели оказывается в ловушке в сосуде. При успехе цель сопротивляется вашим попыткам завладеть ею, и вы не можете пытаться завладеть ею снова в течение 24 часов.
+
+Завладев телом существа, вы контролируете его. Ваши хиты, кости хитов, Сила, Ловкость, Телосложение, скорость и чувства заменяются на характеристики существа. В остальном вы сохраняете свои игровые характеристики.
+
+Тем временем душа одержимого существа может воспринимать из сосуда, используя свои собственные чувства, но она не может перемещаться и является недееспособной.
+
+Владея телом, вы можете совершить действие Магия, чтобы вернуться из тела хозяина в сосуд, если он находится в пределах 100 футов от вас, возвращая душу существа-хозяина в его тело. Если тело хозяина умирает, пока вы в нём, существо умирает, и вы совершаете спасбросок Харизмы против Сл своих собственных заклинаний. При успехе вы возвращаетесь в сосуд, если он находится в пределах 100 футов от вас. В противном случае вы умираете.
+
+Если сосуд уничтожен или заклинание заканчивается, ваша душа возвращается в ваше тело. Если ваше тело находится на расстоянии более 100 футов от вас или если ваше тело мертво, вы умираете. Если душа другого существа находится в сосуде, когда он уничтожен, душа существа возвращается в его тело, если тело живо и находится в пределах 100 футов. В противном случае это существо умирает.
+
+Когда заклинание заканчивается, сосуд уничтожается.
+
+#### Магическая стрела
+
+*Воплощение 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы создаёте три светящихся дротика магической силы. Каждый дротик поражает существо на ваш выбор, которое вы видите в пределах дистанции. Дротик наносит 1d4 + 1 урона силовым полем своей цели. Дротики поражают одновременно, и вы можете направить их в одно существо или в несколько.
+
+**_Использование ячейки более высокого уровня._** Заклинание создаёт ещё один дротик за каждый уровень ячейки выше 1-го.
+
+#### Волшебные уста
+
+*Иллюзия 2-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** 1 минута или Ритуал
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (нефритовая пыль стоимостью 10+ зм, которую заклинание поглощает)
+
+**Длительность:** Пока не рассеяно
+
+Вы внедряете сообщение в объект в пределах дистанции — сообщение, которое произносится при выполнении условия срабатывания. Выберите объект, который вы видите и который не носит и не несёт другое существо. Затем произнесите сообщение, которое должно содержать не более 25 слов, хотя оно может быть передано в течение 10 минут. Наконец, определите обстоятельство, которое запустит заклинание для передачи вашего сообщения.
+
+Когда это условие срабатывает, на объекте появляются волшебные уста и произносят сообщение вашим голосом и с той же громкостью, с которой вы говорили. Если объект, который вы выбрали, имеет рот или что-то похожее на рот (например, рот статуи), волшебные уста появляются там, так что слова кажутся исходящими изо рта объекта. Когда вы сотворяете это заклинание, вы можете сделать так, чтобы заклинание закончилось после того, как передаст своё сообщение, или оно может остаться и повторять своё сообщение каждый раз, когда срабатывает условие.
+
+Условие может быть настолько общим или детальным, насколько вы пожелаете, хотя оно должно основываться на визуальных или слуховых условиях, происходящих в пределах 30 футов от объекта. Например, вы можете поручить устам говорить, когда любое существо приближается на расстояние 30 футов от объекта или когда серебряный колокольчик звонит в пределах 30 футов от него.
+
+#### Волшебное оружие
+
+*Преобразование 2-го уровня (Паладин, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Вы касаетесь немагического оружия. До окончания заклинания это оружие становится магическим с бонусом +1 к броскам атаки и урона. Заклинание заканчивается досрочно, если вы сотворяете его снова.
+
+**_Использование ячейки более высокого уровня._** Бонус увеличивается до +2 с ячейкой 3–5 уровня. Бонус увеличивается до +3 с ячейкой 6-го+ уровня.
+
+#### Великолепный особняк
+
+*Вызов 7-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 300 футов
+
+**Компоненты:** В, С, М (миниатюрная дверь стоимостью 15+ зм)
+
+**Длительность:** 24 часа
+
+Вы создаёте мерцающую дверь в пределах дистанции, которая существует на время действия заклинания. Дверь ведёт во внепространственное жилище и имеет ширину 5 футов и высоту 10 футов. Вы и любое существо, которое вы укажете при сотворении заклинания, можете входить во внепространственное жилище, пока дверь остаётся открытой. Вы можете открывать или закрывать её (действие не требуется), если находитесь в пределах 30 футов от неё. Когда дверь закрыта, она незаметна.
+
+За дверью находится великолепный холл с многочисленными комнатами. Атмосфера жилища чистая, свежая и тёплая.
+
+Вы можете создать любую планировку жилища, которую пожелаете, но оно не может превышать 50 смежных кубов с ребром 10 футов. Место обставлено и украшено по вашему выбору. В нём достаточно еды, чтобы накормить банкет из девяти блюд на до 100 человек. Мебель и другие объекты, созданные этим заклинанием, рассеиваются в дым, если их убрать из него.
+
+Штат из 100 почти прозрачных слуг обслуживает всех, кто входит. Вы определяете внешность этих слуг и их одеяние. Они неуязвимы и подчиняются вашим командам. Каждый слуга может выполнять задачи, которые мог бы выполнять человек, но они не могут атаковать или совершать какие-либо действия, которые напрямую причинили бы вред другому существу. Таким образом, слуги могут приносить вещи, убирать, чинить, складывать одежду, разводить огонь, подавать еду, наливать вино и так далее. Слуги не могут покидать жилище.
+
+Когда заклинание заканчивается, любые существа или объекты, оставшиеся внутри внепространственного пространства, выбрасываются в свободные пространства, ближайшие к входу.
+
+#### Образ
+
+*Иллюзия 3-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (кусочек шерсти)
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы создаёте образ объекта, существа или другого видимого явления, который не превышает куб с ребром 20 футов. Образ появляется в месте, которое вы видите в пределах дистанции, и существует на время действия заклинания. Он кажется реальным, включая звуки, запахи и температуру, соответствующие изображаемому, но он не может наносить урон или вызывать состояния.
+
+Если вы находитесь в пределах дистанции от иллюзии, вы можете совершить действие Магия, чтобы переместить образ в любое другое место в пределах дистанции. По мере того как образ меняет местоположение, вы можете изменять его внешность так, чтобы его движения выглядели естественными для образа. Например, если вы создаёте образ существа и перемещаете его, вы можете изменить образ так, чтобы казалось, что он идёт. Аналогично вы можете заставить иллюзию издавать разные звуки в разное время, даже заставляя её вести разговор, например.
+
+Физическое взаимодействие с образом показывает, что это иллюзия, поскольку вещи могут проходить сквозь него. Существо, совершающее действие Изучение, чтобы исследовать образ, может определить, что это иллюзия, преуспев в проверке Интеллекта (Расследование) против Сл спасброска ваших заклинаний. Если существо распознаёт иллюзию, оно может видеть сквозь образ, и его другие сенсорные качества становятся слабыми для существа.
+
+**_Использование ячейки более высокого уровня._** Заклинание длится до его рассеивания без необходимости концентрации, если сотворено с ячейкой 4-го+ уровня.
+
+#### Массовое исцеление ран
+
+*Ограждение 5-го уровня (Бард, Жрец, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Волна исцеляющей энергии исходит из точки, которую вы видите в пределах дистанции. Выберите до шести существ в сфере радиусом 30 футов с центром в этой точке. Каждая цель восстанавливает количество хитов, равное 5d8 плюс модификатор вашей заклинательной характеристики.
+
+**_Использование ячейки более высокого уровня._** Исцеление увеличивается на 1d8 за каждый уровень ячейки выше 5-го.
+
+#### Массовое исцеление
+
+*Ограждение 9-го уровня (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Поток исцеляющей энергии истекает из вас в существ вокруг вас. Вы восстанавливаете до 700 хитов, распределённых по вашему выбору между любым количеством существ, которых вы видите в пределах дистанции. Существа, исцелённые этим заклинанием, также избавляются от состояний «ослеплённый», «оглохший» и «отравленный».
+
+#### Массовое целебное слово
+
+*Ограждение 3-го уровня (Бард, Жрец)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+До шести существ на ваш выбор, которых вы видите в пределах дистанции, восстанавливают количество хитов, равное 2d4 плюс модификатор вашей заклинательной характеристики.
+
+**_Использование ячейки более высокого уровня._** Исцеление увеличивается на 1d4 за каждый уровень ячейки выше 3-го.
+
+#### Массовое внушение
+
+*Очарование 6-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, М (змеиный язык)
+
+**Длительность:** 24 часа
+
+Вы предлагаете линию поведения — описанную не более чем 25 словами — двенадцати или меньшему количеству существ, которых вы видите в пределах дистанции и которые могут слышать и понимать вас. Предложение должно звучать выполнимым и не включать ничего, что очевидно нанесёт урон какой-либо из целей или их союзникам. Например, вы можете сказать: «Идите в деревню по той дороге и помогите жителям там собирать урожай до заката». Или вы можете сказать: «Сейчас не время для насилия. Бросьте своё оружие и танцуйте! Остановитесь через час».
+
+Каждая цель должна преуспеть в спасброске Мудрости, иначе получает состояние «очарованный» на время действия заклинания или пока вы или ваши союзники не нанесут урон цели. Каждая очарованная цель выполняет предложение в меру своих способностей. Предложенная деятельность может продолжаться всё время действия заклинания, но если предложенная деятельность может быть завершена за более короткое время, заклинание заканчивается для цели по её завершении.
+
+**_Использование ячейки более высокого уровня._** Длительность больше с ячейкой 7-го уровня (10 дней), 8-го (30 дней) или 9-го (366 дней).
+
+#### Лабиринт
+
+*Вызов 8-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы изгоняете существо, которое видите в пределах дистанции, в лабиринтообразный полуплан. Цель остаётся там на время действия заклинания или пока не сбежит из лабиринта.
+
+Цель может совершить действие Изучение, чтобы попытаться сбежать. Когда она это делает, она совершает проверку Интеллекта (Расследование) Сл 20. При успехе она сбегает, и заклинание заканчивается.
+
+Когда заклинание заканчивается, цель появляется в пространстве, которое покинула, или, если это пространство занято, в ближайшем свободном пространстве.
+
+#### Слияние с камнем
+
+*Преобразование 3-го уровня (Жрец, Друид, Следопыт)*
+
+**Время сотворения:** Действие или Ритуал
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** 8 часов
+
+Вы входите в каменный объект или поверхность, достаточно большие, чтобы полностью вместить ваше тело, сливаясь с камнем вместе со своим снаряжением на время действия заклинания. Вы должны коснуться камня, чтобы сделать это. Ничто из вашего присутствия не остаётся видимым или обнаруживаемым немагическими чувствами.
+
+Находясь слитым с камнем, вы не видите, что происходит снаружи, и любые проверки Мудрости (Восприятие), которые вы совершаете, чтобы услышать звуки снаружи, совершаются с помехой. Вы осознаёте ход времени и можете сотворять заклинания на себя, находясь слитым с камнем. Вы можете использовать 5 футов перемещения, чтобы выйти из камня там, где вошли, что заканчивает заклинание. В остальном вы не можете перемещаться.
+
+Незначительное физическое повреждение камня не причиняет вам вреда, но его частичное разрушение или изменение его формы (настолько, что вы больше не помещаетесь в нём) выталкивает вас и наносит вам 6d6 урона силовым полем. Полное разрушение камня (или превращение в другое вещество) выталкивает вас и наносит вам 50 урона силовым полем. Если вас вытолкнуло, вы перемещаетесь в свободное пространство, ближайшее к тому месту, где вы впервые вошли, и получаете состояние «ничком».
+
+#### Починка
+
+*Заговор преобразования (Бард, Жрец, Друид, Чародей, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (два магнитных камня)
+
+**Длительность:** Мгновенная
+
+Это заклинание чинит один разлом или разрыв в объекте, которого вы касаетесь, например, сломанное звено цепи, две половины сломанного ключа, разорванный плащ или протекающий бурдюк. Пока разлом или разрыв не превышает 1 фут в любом измерении, вы чините его, не оставляя следов прежнего повреждения.
+
+Это заклинание может физически починить магический предмет, но не может восстановить магию в таком объекте.
+
+#### Сообщение
+
+*Заговор преобразования (Бард, Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** С, М (медная проволока)
+
+**Длительность:** 1 раунд
+
+Вы указываете на существо в пределах дистанции и шепчете сообщение. Цель (и только цель) слышит сообщение и может ответить шёпотом, который можете слышать только вы.
+
+Вы можете сотворить это заклинание сквозь твёрдые объекты, если вы знакомы с целью и знаете, что она находится за барьером. Магическая тишина; 1 фут камня, металла или дерева; или тонкий лист свинца блокирует заклинание.
+
+#### Метеоритный дождь
+
+*Воплощение 9-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 1 миля
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Пылающие огненные сферы падают на землю в четырёх различных точках, которые вы видите в пределах дистанции. Каждое существо в сфере радиусом 40 футов с центром в каждой из этих точек совершает спасбросок Ловкости. Существо получает 20d6 урона огнём и 20d6 дробящего урона при провале или половину этого урона при успехе. Существо в области более чем одной огненной сферы затрагивается только один раз.
+
+Немагический объект, который не носят и не несут, также получает урон, если находится в области заклинания, и объект начинает гореть, если он горючий.
+
+#### Пустой разум
+
+*Ограждение 8-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** 24 часа
+
+До окончания заклинания одно согласное существо, которого вы касаетесь, получает иммунитет к урону психической энергией и состоянию «очарованный». Цель также не затрагивается ничем, что могло бы почувствовать её эмоции или мировоззрение, прочитать её мысли или магически обнаружить её местоположение, и никакое заклинание — даже *Исполнение желаний* — не может собрать информацию о цели, наблюдать за ней издали или контролировать её разум.
+
+#### Ментальный шип
+
+*Прорицание 2-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** С
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы вбиваете шип псионической энергии в разум одного существа, которое видите в пределах дистанции. Цель совершает спасбросок Мудрости, получая 3d8 урона психической энергией при провале или половину этого урона при успехе. При провале вы также всегда знаете местоположение цели до окончания заклинания, но только пока вы оба находитесь на одном плане существования. Пока у вас есть это знание, цель не может спрятаться от вас, и если у неё есть состояние «невидимый», она не получает от него преимуществ против вас.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 2-го.
+
+#### Малая иллюзия
+
+*Заговор иллюзии (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** С, М (кусочек шерсти)
+
+**Длительность:** 1 минута
+
+Вы создаёте звук или образ объекта в пределах дистанции, который существует на время действия заклинания. См. описания ниже для эффектов каждого. Иллюзия заканчивается, если вы сотворяете это заклинание снова.
+
+Если существо совершает действие Изучение, чтобы исследовать звук или образ, оно может определить, что это иллюзия, преуспев в проверке Интеллекта (Расследование) против Сл спасброска ваших заклинаний. Если существо распознаёт иллюзию, иллюзия становится слабой для существа.
+
+**_Звук._** Если вы создаёте звук, его громкость может варьироваться от шёпота до крика. Это может быть ваш голос, голос кого-то другого, рёв льва, барабанный бой или любой другой звук, который вы выберете. Звук продолжается непрерывно на протяжении действия заклинания, или вы можете издавать отдельные звуки в разное время до окончания заклинания.
+
+**_Образ._** Если вы создаёте образ объекта — например, стула, грязных следов или маленького сундука — он должен быть не больше куба с ребром 5 футов. Образ не может создавать звук, свет, запах или какой-либо другой сенсорный эффект. Физическое взаимодействие с образом показывает, что это иллюзия, поскольку вещи могут проходить сквозь него.
+
+#### Мираж
+
+*Иллюзия 7-го уровня (Бард, Друид, Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** Видимость
+
+**Компоненты:** В, С
+
+**Длительность:** 10 дней
+
+Вы заставляете местность на площади до 1 квадратной мили выглядеть, звучать, пахнуть и даже ощущаться как какая-то другая местность. Открытые поля или дорога могут выглядеть как болото, холм, расселина или какая-либо другая труднопроходимая или непроходимая местность. Пруд может казаться травянистым лугом, обрыв — пологим склоном, а усыпанная камнями лощина — широкой и гладкой дорогой.
+
+Аналогично вы можете изменить внешний вид строений или добавить их там, где их нет. Заклинание не маскирует, не скрывает и не добавляет существ.
+
+Иллюзия включает звуковые, визуальные, тактильные и обонятельные элементы, поэтому она может превратить ровную поверхность в труднопроходимую местность (или наоборот) или иным образом затруднить передвижение по области. Любая часть иллюзорной местности (например, камень или палка), вынесенная из области заклинания, немедленно исчезает.
+
+Существа с истинным зрением видят сквозь иллюзию истинную форму местности; однако все остальные элементы иллюзии остаются, поэтому, хотя существо осознаёт присутствие иллюзии, оно всё ещё может физически взаимодействовать с ней.
+
+#### Введение в заблуждение
+
+*Иллюзия 5-го уровня (Бард, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** С
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы получаете состояние «невидимый» в тот же момент, когда ваш иллюзорный двойник появляется там, где вы стоите. Двойник существует на время действия заклинания, но невидимость заканчивается сразу после того, как вы совершаете бросок атаки, наносите урон или сотворяете заклинание.
+
+Действием Магия вы можете переместить иллюзорного двойника на расстояние, вдвое превышающее вашу скорость, и заставить его жестикулировать, говорить и вести себя так, как вы выберете. Он нематериален и неуязвим.
+
+Вы можете видеть его глазами и слышать его ушами, как если бы вы находились там, где он находится.
+
+#### Бесследное передвижение
+
+*Ограждение 2-го уровня (Друид, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (пепел от сожжённой омелы)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы излучаете скрывающую ауру в эманации радиусом 30 футов на время действия заклинания. Находясь в ауре, вы и каждое выбранное вами существо получаете бонус +10 к проверкам Ловкости (Скрытность) и не оставляете следов.
+
+#### Движение земли
+
+*Преобразование 6-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (миниатюрная лопата)
+
+**Длительность:** Концентрация, до 2 часов
+
+Выберите область местности не более 40 футов в поперечнике в пределах дистанции. Вы можете изменять землю, песок или глину в этой области любым выбранным вами способом на время действия заклинания. Вы можете поднять или понизить высоту области, создать или засыпать траншею, возвести или сровнять стену, или сформировать колонну. Степень любых таких изменений не может превышать половину наибольшего измерения области. Например, если вы воздействуете на квадрат 40 футов, вы можете создать колонну высотой до 20 футов, поднять или понизить высоту квадрата до 20 футов, вырыть траншею глубиной до 20 футов и так далее. Эти изменения завершаются за 10 минут. Поскольку преобразование местности происходит медленно, существа в области обычно не могут быть захвачены в ловушку или ранены движением земли.
+
+В конце каждых 10 минут, которые вы проводите в концентрации на заклинании, вы можете выбрать новую область местности в пределах дистанции для воздействия.
+
+Это заклинание не может манипулировать природным камнем или каменными строениями. Скалы и строения смещаются, чтобы приспособиться к новой местности. Если форма, которую вы придаёте местности, делает строение неустойчивым, оно может обрушиться.
+
+Аналогично, это заклинание не влияет напрямую на рост растений. Перемещённая земля несёт с собой любые растения.
+
+#### Изменение памяти
+
+*Очарование 5-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы пытаетесь изменить воспоминания другого существа. Одно существо, которое вы видите в пределах дистанции, совершает спасбросок Мудрости. Если вы сражаетесь с существом, оно совершает спасбросок с преимуществом. При провале цель получает состояние «очарованный» на время действия заклинания. Будучи очарованной таким образом, цель также получает состояние «недееспособный» и не осознаёт своё окружение, хотя может слышать вас. Если она получает какой-либо урон или становится целью другого заклинания, это заклинание заканчивается, и никакие воспоминания не изменяются.
+
+Пока это очарование длится, вы можете воздействовать на память цели о событии, которое она пережила в течение последних 24 часов и которое длилось не более 10 минут. Вы можете навсегда стереть всю память о событии, позволить цели вспомнить событие с идеальной ясностью, изменить её память о деталях события или создать память о каком-то другом событии.
+
+Вы должны говорить с целью, чтобы описать, как изменяются её воспоминания, и она должна понимать ваш язык, чтобы изменённые воспоминания закрепились. Её разум заполняет любые пробелы в деталях вашего описания. Если заклинание заканчивается до того, как вы закончите описывать изменённые воспоминания, память существа не изменяется. В противном случае изменённые воспоминания закрепляются, когда заклинание заканчивается.
+
+Изменённое воспоминание не обязательно влияет на поведение существа, особенно если воспоминание противоречит естественным склонностям, мировоззрению или убеждениям существа. Нелогичное изменённое воспоминание, такое как ложное воспоминание о том, как существо наслаждалось плаванием в кислоте, отвергается как дурной сон. Мастер может решить, что изменённое воспоминание слишком абсурдно, чтобы повлиять на существо.
+
+Заклинание *Снятие проклятия* или *Высшее восстановление*, сотворённое на цель, восстанавливает истинную память существа.
+
+**_Использование ячейки более высокого уровня._** Вы можете изменить воспоминания цели о событии, которое произошло до 7 дней назад (ячейка 6-го уровня), 30 дней назад (ячейка 7-го уровня), 365 дней назад (ячейка 8-го уровня) или в любое время в прошлом существа (ячейка 9-го уровня).
+
+#### Лунный луч
+
+*Воплощение 2-го уровня (Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (лист лунника)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Серебристый луч бледного света сияет вниз в цилиндре радиусом 5 футов и высотой 40 футов с центром в точке в пределах дистанции. До окончания заклинания тусклый свет заполняет цилиндр, и вы можете совершить действие Магия в последующие ходы, чтобы переместить цилиндр на расстояние до 60 футов.
+
+Когда цилиндр появляется, каждое существо в нём совершает спасбросок Телосложения. При провале существо получает 2d10 урона излучением, и если существо изменило форму (например, в результате заклинания *Превращение*), оно возвращается в свою истинную форму и не может менять форму, пока не покинет цилиндр. При успехе существо получает только половину урона. Существо также совершает этот спасбросок, когда область заклинания перемещается в его пространство и когда оно входит в область заклинания или заканчивает там свой ход. Существо совершает этот спасбросок только один раз в ход.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d10 за каждый уровень ячейки выше 2-го.
+
+#### Необнаружимость
+
+*Ограждение 3-го уровня (Бард, Следопыт, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (щепотка алмазной пыли стоимостью 25+ зм, которую заклинание расходует)
+
+**Длительность:** 8 часов
+
+На время действия заклинания вы скрываете цель, которой касаетесь, от заклинаний школы Прорицания. Целью может быть согласное существо, или это может быть место или объект не более 10 футов в любом измерении. Цель не может быть целью любого заклинания школы Прорицания или воспринята через магические сенсоры наблюдения.
+
+#### Отражения
+
+*Иллюзия 2-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** 1 минута
+
+Три иллюзорных копии вас самих появляются в вашем пространстве. До окончания заклинания копии перемещаются вместе с вами и имитируют ваши действия, меняя позиции так, что невозможно отследить, какой образ настоящий.
+
+Каждый раз, когда существо попадает по вам броском атаки во время действия заклинания, бросьте 1d6 за каждую из ваших оставшихся копий. Если на любом из d6 выпадает 3 или больше, по копии попадают вместо вас, и копия уничтожается. В остальных случаях копии игнорируют весь другой урон и эффекты. Заклинание заканчивается, когда все три копии уничтожены.
+
+Существо не затрагивается этим заклинанием, если у него есть состояние «ослеплённый», слепое зрение или истинное зрение.
+
+#### Переход между планами
+
+*Вызов 7-го уровня (Жрец, Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (раздвоенный металлический жезл стоимостью 250+ зм, настроенный на план существования)
+
+**Длительность:** Мгновенная
+
+Вы и до восьми согласных существ, которые берутся за руки в круге, переноситесь на другой план существования. Вы можете указать целевое место назначения в общих чертах, например, определённый город на Стихийном плане Огня или дворец на втором уровне Девяти Преисподних, и вы появляетесь в этом месте назначения или рядом с ним, как определит Мастер.
+
+В качестве альтернативы, если вы знаете последовательность символов телепортационного круга на другом плане существования, это заклинание может перенести вас к этому кругу. Если телепортационный круг слишком мал, чтобы вместить всех перенесённых вами существ, они появляются в ближайших свободных пространствах рядом с кругом.
+
+#### Планарные узы
+
+*Ограждение 5-го уровня (Бард, Жрец, Друид, Колдун, Волшебник)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (драгоценный камень стоимостью 1000+ зм, который заклинание расходует)
+
+**Длительность:** 24 часа
+
+Вы пытаетесь связать небожителя, элементаля, фею или исчадие на служение вам. Существо должно находиться в пределах дистанции на протяжении всего сотворения заклинания. (Обычно существо сначала призывается в центр инвертированной версии заклинания *Магический круг*, чтобы поймать его в ловушку, пока сотворяется это заклинание.) По завершении сотворения цель должна преуспеть в спасброске Харизмы, иначе она будет связана служить вам на время действия заклинания. Если существо было призвано или создано другим заклинанием, длительность того заклинания продлевается, чтобы соответствовать длительности этого заклинания.
+
+Связанное существо должно следовать вашим приказам в меру своих способностей. Вы можете приказать существу сопровождать вас в приключении, охранять место или доставить сообщение. Если существо враждебно, оно стремится исказить ваши приказы для достижения своих собственных целей. Если существо выполняет ваши приказы полностью до окончания заклинания, оно отправляется к вам, чтобы сообщить об этом, если вы находитесь на том же плане существования. Если вы находитесь на другом плане, оно возвращается в место, где вы его связали, и остаётся там до окончания заклинания.
+
+**_Использование ячейки более высокого уровня._** Длительность увеличивается с ячейкой 6-го уровня (10 дней), 7-го уровня (30 дней), 8-го уровня (180 дней) и 9-го уровня (366 дней).
+
+#### Планарный союзник
+
+*Вызов 6-го уровня (Жрец)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы взываете к потусторонней сущности о помощи. Сущность должна быть вам известна: бог, демонический князь или какое-либо другое существо космической силы. Эта сущность посылает небожителя, элементаля или исчадие, верного ей, чтобы помочь вам, и это существо появляется в свободном пространстве в пределах дистанции. Если вы знаете имя конкретного существа, вы можете произнести это имя при сотворении заклинания, чтобы попросить именно это существо, хотя вы всё равно можете получить другое существо (по решению Мастера).
+
+Когда существо появляется, оно не обязано вести себя определённым образом. Вы можете попросить его выполнить услугу в обмен на оплату, но оно не обязано соглашаться. Запрошенная задача может варьироваться от простой (перенести нас через пропасть или помочь нам в битве) до сложной (шпионить за нашими врагами или защищать нас во время вылазки в подземелье). Вы должны иметь возможность общаться с существом, чтобы торговаться о его услугах.
+
+Оплата может принимать различные формы. Небожитель может потребовать значительное пожертвование золота или магических предметов союзному храму, тогда как исчадие может потребовать живую жертву или дар сокровищ. Некоторые существа могут обменять свою службу на задание, которое вы выполните.
+
+Задача, которую можно измерить в минутах, требует оплаты в размере 100 зм за минуту. Задача, измеряемая в часах, требует 1000 зм за час. А задача, измеряемая в днях (до 10 дней), требует 10 000 зм за день. Мастер может скорректировать эти выплаты в зависимости от обстоятельств, при которых вы сотворяете заклинание. Если задача соответствует этике существа, оплата может быть уменьшена вдвое или даже отменена. Неопасные задачи обычно требуют только половину предложенной оплаты, тогда как особенно опасные задачи могут потребовать большего дара. Существа редко принимают задачи, которые кажутся самоубийственными.
+
+После того как существо выполнит задачу или когда истечёт согласованный срок службы, существо возвращается на свой родной план, сообщив вам о выполнении, если это возможно. Если вы не можете договориться о цене за услуги существа, существо немедленно возвращается на свой родной план.
+
+#### Призрачная сила
+
+*Иллюзия 2-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (кусочек овечьей шерсти)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы пытаетесь создать иллюзию в разуме существа, которое видите в пределах дистанции. Цель совершает спасбросок Интеллекта. При провале вы создаёте призрачный объект, существо или другое явление не более 10 футов в поперечнике, которое воспринимается только целью на время действия заклинания. Призрак включает звук, температуру и другие раздражители.
+
+Цель может совершить действие Изучение, чтобы исследовать призрак проверкой Интеллекта (Расследование) против Сл спасброска ваших заклинаний. Если проверка успешна, цель осознаёт, что призрак — иллюзия, и заклинание заканчивается.
+
+Пока существо затронуто заклинанием, оно относится к призраку как к реальному и рационализирует любые нелогичные результаты взаимодействия с ним. Например, если цель ступает через призрачный мост и выживает после падения, она верит, что мост существует, и что-то другое вызвало её падение.
+
+Затронутая цель может даже получить урон от иллюзии, если призрак представляет опасное существо или опасность. В каждый из ваших ходов такой призрак может нанести 2d8 урона психической энергией цели, если она находится в области призрака или в пределах 5 футов от него. Цель воспринимает урон как соответствующий типу иллюзии.
+
+#### Призрачный скакун
+
+*Иллюзия 3-го уровня (Волшебник)*
+
+**Время сотворения:** 1 минута или ритуал
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Большое квазиреальное лошадеподобное существо появляется на земле в свободном пространстве на ваш выбор в пределах дистанции. Вы решаете, как существо выглядит, и оно снаряжено седлом, уздечкой и удилами. Любое снаряжение, созданное заклинанием, исчезает в облачке дыма, если его отнесут более чем на 10 футов от скакуна.
+
+На время действия заклинания вы или выбранное вами существо можете ездить на скакуне. Скакун использует блок характеристик **верховой лошади** (см. «Монстры»), за исключением того, что его скорость составляет 100 футов, и он может проехать 13 миль за час. Когда заклинание заканчивается, скакун постепенно исчезает, давая всаднику 1 минуту на то, чтобы спешиться. Заклинание заканчивается преждевременно, если скакун получает какой-либо урон.
+
+#### Призрачный убийца
+
+*Иллюзия 4-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы проникаете в кошмары существа, которое видите в пределах дистанции, и создаёте иллюзию его глубочайших страхов, видимую только этому существу. Цель совершает спасбросок Мудрости. При провале цель получает 4d10 урона психической энергией и совершает с помехой проверки характеристик и броски атаки на время действия заклинания. При успехе цель получает половину этого урона, и заклинание заканчивается.
+
+На время действия заклинания цель совершает спасбросок Мудрости в конце каждого своего хода. При провале она снова получает урон психической энергией. При успехе заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d10 за каждый уровень ячейки выше 4-го.
+
+#### Проход
+
+*Преобразование 5-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (щепотка семян кунжута)
+
+**Длительность:** 1 час
+
+Проход появляется в точке, которую вы видите, на деревянной, гипсовой или каменной поверхности (такой как стена, потолок или пол) в пределах дистанции и существует на время действия заклинания. Вы выбираете размеры прохода: до 5 футов в ширину, 8 футов в высоту и 20 футов в глубину. Проход не создаёт нестабильности в окружающей его структуре.
+
+Когда проход исчезает, все существа или объекты, всё ещё находящиеся в созданном заклинанием проходе, безопасно выталкиваются в ближайшее свободное пространство к поверхности, на которой вы сотворили заклинание.
+
+#### Рост растений
+
+*Преобразование 3-го уровня (Бард, Друид, Следопыт)*
+
+**Время сотворения:** Действие (Разрастание) или 8 часов (Обогащение)
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Это заклинание направляет жизненную силу в растения. Время сотворения, которое вы используете, определяет, какой эффект производит заклинание — Разрастание или Обогащение.
+
+**_Разрастание._** Выберите точку в пределах дистанции. Все обычные растения в сфере радиусом 100 футов с центром в этой точке становятся густыми и разросшимися. Существо, передвигающееся по этой области, должно тратить 4 фута перемещения за каждый 1 фут, который оно проходит. Вы можете исключить одну или несколько областей любого размера в пределах области заклинания из этого воздействия.
+
+**_Обогащение._** Все растения в радиусе полумили с центром в точке в пределах дистанции обогащаются на 365 дней. Эти растения дают вдвое больше пищи при сборе урожая. Они могут получить выгоду только от одного *Роста растений* в год.
+
+#### Запрограммированная иллюзия
+
+*Иллюзия 6-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (нефритовая пыль стоимостью 25+ зм)
+
+**Длительность:** Пока не рассеется
+
+Вы создаёте иллюзию объекта, существа или какого-либо другого видимого явления в пределах дистанции, которая активируется при определённом триггере. Иллюзия незаметна до этого момента. Она должна быть не более 30 футов в поперечнике, и вы решаете при сотворении заклинания, как иллюзия ведёт себя и какие звуки издаёт. Это запрограммированное представление может длиться до 5 минут.
+
+Когда указанный вами триггер срабатывает, иллюзия появляется и действует так, как вы описали. Когда иллюзия заканчивает представление, она исчезает и остаётся неактивной в течение 10 минут, после чего может быть активирована снова.
+
+Триггер может быть таким общим или детальным, как вам угодно, но он должен основываться на визуальных или слышимых явлениях, происходящих в пределах 30 футов от области. Например, вы можете создать иллюзию себя, которая появляется и предупреждает других, кто пытается открыть дверь с ловушкой.
+
+Физическое взаимодействие с образом показывает, что это иллюзия, поскольку вещи могут проходить сквозь него. Существо, совершающее действие Изучение, чтобы исследовать образ, может определить, что это иллюзия, преуспев в проверке Интеллекта (Расследование) против Сл спасброска ваших заклинаний. Если существо распознаёт иллюзию, оно может видеть сквозь образ, и любой шум, который он издаёт, звучит глухо для этого существа.
+
+#### Защита от добра и зла
+
+*Ограждение 1-го уровня (Жрец, Друид, Паладин, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (святая вода)
+
+**Длительность:** Концентрация, до 10 минут
+
+До окончания заклинания одно согласное существо, которого вы касаетесь, защищено от определённых типов существ: аберраций, небожителей, элементалей, фей, исчадий и нежити.
+
+Защита даёт несколько преимуществ. Существа этих типов совершают с помехой броски атаки против цели. Цель также не может быть очарована, напугана или одержима ими. Если цель уже очарована, напугана или одержима таким существом, цель совершает с преимуществом любой новый спасбросок против соответствующего эффекта.
+
+#### Защита от энергии
+
+*Ограждение 3-го уровня (Жрец, Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 часа
+
+На время действия заклинания согласное существо, которого вы касаетесь, получает сопротивление к одному типу урона на ваш выбор: кислоте, холоду, огню, электричеству или звуку.
+
+#### Защита от яда
+
+*Ограждение 2-го уровня (Друид, Жрец, Паладин, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Вы касаетесь существа и нейтрализуете один яд, действующий на него. Если на существо влияет более одного яда, вы нейтрализуете один яд, о котором знаете, или один случайный яд.
+
+На время действия заклинания цель совершает с преимуществом спасброски против состояния «отравленный» и получает сопротивление к урону ядом.
+
+#### Личное убежище
+
+*Ограждение 4-го уровня (Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (тонкий лист свинца)
+
+**Длительность:** 24 часа
+
+Вы создаёте магически защищённую область в пределах дистанции. Область представляет собой куб от 5 до 100 футов в поперечнике. Заклинание действует на время своей длительности.
+
+Когда вы сотворяете заклинание, вы решаете, какую защиту оно обеспечивает, выбирая любые из следующих свойств:
+
+- Звук не может проходить через барьер на краю защищённой области.
+- Барьер защищённой области выглядит тёмным и туманным, препятствуя зрению (включая тёмное зрение) сквозь него.
+- Сенсоры, созданные заклинаниями школы Прорицания, не могут появляться внутри защищённой области или проходить через барьер на её периметре.
+- Существа в области не могут быть целью заклинаний школы Прорицания.
+- Ничто не может телепортироваться в защищённую область или из неё.
+- Планарные путешествия блокируются в пределах защищённой области.
+
+Сотворение этого заклинания на одном и том же месте каждый день в течение 365 дней делает заклинание постоянным до тех пор, пока оно не будет рассеяно.
+
+**_Использование ячейки более высокого уровня._** Вы можете увеличить размер куба на 100 футов за каждый уровень ячейки выше 4-го.
+
+#### Молитва исцеления
+
+*Ограждение 2-го уровня (Жрец, Паладин)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+До пяти существ на ваш выбор, которые остаются в пределах дистанции на протяжении всего сотворения заклинания, получают преимущества короткого отдыха, а также восстанавливают 2d8 хитов. Существо не может быть затронуто этим заклинанием снова, пока не завершит продолжительный отдых.
+
+**_Использование ячейки более высокого уровня._** Исцеление увеличивается на 1d8 за каждый уровень ячейки выше 2-го.
+
+#### Превращение
+
+*Преобразование 4-го уровня (Бард, Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (кокон гусеницы)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы пытаетесь превратить существо, которое видите в пределах дистанции, в зверя. Цель должна преуспеть в спасброске Мудрости, иначе она превращается в форму зверя на время действия заклинания. Эта форма может быть любым зверем на ваш выбор с показателем опасности, равным или меньшим, чем у цели (или уровнем цели, если у неё нет показателя опасности). Игровая статистика цели заменяется блоком характеристик выбранного зверя, но цель сохраняет своё мировоззрение, личность, тип существа, хиты и кости хитов. См. раздел «Животные» в «Монстрах» для примеров блоков характеристик зверей.
+
+Цель получает временные хиты, равные хитам формы зверя. Эти временные хиты исчезают, если они остаются, когда заклинание заканчивается. Заклинание заканчивается преждевременно для цели, если у неё не осталось временных хитов.
+
+Цель ограничена в действиях, которые она может совершать, анатомией своей новой формы, и она не может говорить или сотворять заклинания.
+
+Снаряжение цели сливается с новой формой. Существо не может использовать или иным образом получать преимущества от этого снаряжения.
+
+#### Проецирование образа
+
+*Иллюзия 7-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 500 миль
+
+**Компоненты:** В, С, М (статуэтка вас самих стоимостью 5+ зм)
+
+**Длительность:** Концентрация, до 1 дня
+
+Вы создаёте иллюзорную копию себя, которая существует на время действия заклинания. Копия может появиться в любом месте в пределах дистанции, которое вы видели раньше, независимо от препятствий на пути. Иллюзия выглядит и звучит как вы, но она нематериальна. Если иллюзия получает какой-либо урон, она исчезает, и заклинание заканчивается.
+
+Вы можете видеть глазами иллюзии и слышать её ушами, как если бы вы находились в её пространстве. Действием Магия вы можете переместить её на расстояние до 60 футов и заставить её жестикулировать, говорить и вести себя так, как вы выберете. Она идеально имитирует ваши манеры.
+
+Физическое взаимодействие с образом показывает, что это иллюзия, поскольку вещи могут проходить сквозь него. Существо, совершающее действие Изучение, чтобы исследовать образ, может определить, что это иллюзия, преуспев в проверке Интеллекта (Расследование) против Сл спасброска ваших заклинаний. Если существо распознаёт иллюзию, оно может видеть сквозь образ, и любой шум, который он издаёт, звучит глухо для этого существа.
+
+#### Радужная стена
+
+*Ограждение 9-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 10 минут
+
+Мерцающая многоцветная плоскость света формирует вертикальную непрозрачную стену — до 90 футов в длину, 30 футов в высоту и 1 дюйм в толщину — с центром в точке в пределах дистанции. В качестве альтернативы вы можете придать стене форму сферы диаметром до 30 футов с центром в точке в пределах дистанции. Стена существует на время действия заклинания. Если вы размещаете стену в пространстве, занятом существом, заклинание немедленно заканчивается без эффекта.
+
+Стена излучает яркий свет в радиусе 100 футов и тусклый свет ещё на 100 футов. Вы и существа, которых вы укажете при сотворении заклинания, можете проходить сквозь стену и находиться рядом с ней без вреда. Если другое существо, которое видит стену, приближается к ней на 20 футов или начинает свой ход там, оно должно преуспеть в спасброске Телосложения, иначе получит состояние «ослеплённый» на 1 минуту.
+
+Стена состоит из семи слоёв, каждый разного цвета. Когда существо достигает стены или проходит сквозь неё, оно делает это по одному слою за раз через все слои. Каждый слой заставляет существо совершить спасбросок Ловкости или быть затронутым свойствами этого слоя, как описано в таблице «Радужные слои».
+
+Стена, КД которой равен 10, может быть разрушена по одному слою за раз, по порядку от красного до фиолетового, средствами, специфичными для каждого слоя. *Преграда магии* не действует на стену, а *Рассеивание магии* может воздействовать только на фиолетовый слой.
+
+Таблица: Радужные слои
+
+| Порядок | Эффекты |
+|---------|---------|
+| 1 | **Красный.** *Провал:* 12d6 урона огнём. *Успех:* Половина урона. *Дополнительно:* Немагические дальнобойные атаки не проходят сквозь этот слой; он разрушается при получении не менее 25 урона холодом. |
+| 2 | **Оранжевый.** *Провал:* 12d6 урона кислотой. *Успех:* Половина урона. *Дополнительно:* Магические дальнобойные атаки не проходят сквозь этот слой; он разрушается сильным ветром (например, созданным *Порывом ветра*). |
+| 3 | **Жёлтый.** *Провал:* 12d6 урона электричеством. *Успех:* Половина урона. *Дополнительно:* Слой разрушается при получении не менее 60 урона силовым полем. |
+| 4 | **Зелёный.** *Провал:* 12d6 урона ядом. *Успех:* Половина урона. *Дополнительно:* Заклинание *Проход* или другое заклинание равного или более высокого уровня, которое может открыть портал в твёрдой поверхности, разрушает этот слой. |
+| 5 | **Синий.** *Провал:* 12d6 урона холодом. *Успех:* Половина урона. *Дополнительно:* Слой разрушается при получении не менее 25 урона огнём. |
+| 6 | **Индиго.** *Провал:* Цель получает состояние «обездвиженный» и совершает спасбросок Телосложения в конце каждого своего хода. Три успеха — состояние заканчивается. Три провала — цель получает состояние «окаменевший», пока не будет освобождена эффектом вроде *Высшего восстановления*. Успехи и провалы не обязательно должны быть последовательными. *Дополнительно:* Заклинания не могут быть сотворены сквозь этот слой; он разрушается ярким светом от заклинания *Дневной свет*. |
+| 7 | **Фиолетовый.** *Провал:* Цель получает состояние «ослеплённый» и совершает спасбросок Мудрости в начале вашего следующего хода. При успехе состояние заканчивается. При провале состояние заканчивается, и существо телепортируется на другой план существования (по выбору Мастера). *Дополнительно:* Этот слой разрушается *Рассеиванием магии*. |
+
+#### Радужные брызги
+
+*Воплощение 7-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Восемь лучей света вспыхивают от вас в конусе 60 футов. Каждое существо в конусе совершает спасбросок Ловкости. Для каждой цели бросьте 1d8, чтобы определить, какой цветной луч воздействует на неё, сверяясь с таблицей «Радужные лучи».
+
+Таблица: Радужные лучи
+
+| 1d8 | Луч |
+|-----|-----|
+| 1 | **Красный.** *Провал:* 12d6 урона огнём. *Успех:* Половина урона. |
+| 2 | **Оранжевый.** *Провал:* 12d6 урона кислотой. *Успех:* Половина урона. |
+| 3 | **Жёлтый.** *Провал:* 12d6 урона электричеством. *Успех:* Половина урона. |
+| 4 | **Зелёный.** *Провал:* 12d6 урона ядом. *Успех:* Половина урона. |
+| 5 | **Синий.** *Провал:* 12d6 урона холодом. *Успех:* Половина урона. |
+| 6 | **Индиго.** *Провал:* Цель получает состояние «обездвиженный» и совершает спасбросок Телосложения в конце каждого своего хода. Три успеха — состояние заканчивается. Три провала — цель получает состояние «окаменевший», пока не будет освобождена эффектом вроде *Высшего восстановления*. Успехи и провалы не обязательно должны быть последовательными. |
+| 7 | **Фиолетовый.** *Провал:* Цель получает состояние «ослеплённый» и совершает спасбросок Мудрости в начале вашего следующего хода. При успехе состояние заканчивается. При провале состояние заканчивается, и существо телепортируется на другой план существования (по выбору Мастера). |
+| 8 | **Особый.** По цели попадают два луча. Бросьте дважды, перебрасывая любую 8. |
+
+#### Слово силы: исцеление
+
+*Очарование 9-го уровня (Бард, Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Волна исцеляющей энергии омывает одно существо, которое вы видите в пределах дистанции. Цель восстанавливает все свои хиты. Если у существа есть состояние «очарованный», «испуганный», «парализованный», «отравленный» или «ошеломлённый», это состояние заканчивается. Если у существа есть состояние «лежащий», оно может использовать свою реакцию, чтобы встать.
+
+#### Слово силы: оглушение
+
+*Очарование 8-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Вы подавляете разум одного существа, которое видите в пределах дистанции. Если у цели 150 или меньше хитов, она получает состояние «ошеломлённый». В противном случае её скорость равна 0 до начала вашего следующего хода.
+
+Ошеломлённая цель совершает спасбросок Телосложения в конце каждого своего хода, оканчивая это состояние при успехе.
+
+#### Слово силы: смерть
+
+*Очарование 9-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Вы принуждаете одно существо, которое видите в пределах дистанции, умереть. Если у цели 100 или меньше хитов, она умирает. В противном случае она получает 12d12 урона психической энергией.
+
+#### Сотворение пламени
+
+*Заговор вызова (Друид)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С
+
+**Длительность:** 10 минут
+
+Мерцающее пламя появляется в вашей руке и остаётся там на время действия заклинания. Пока оно там, пламя не излучает тепла и ничего не поджигает, и оно излучает яркий свет в радиусе 20 футов и тусклый свет ещё на 20 футов. Заклинание заканчивается, если вы сотворяете его снова.
+
+До окончания заклинания вы можете совершить действие Магия, чтобы метнуть огонь в существо или объект в пределах 60 футов от вас. Совершите дальнобойную атаку заклинанием. При попадании цель получает 1d8 урона огнём.
+
+**_Улучшение заговора._** Урон увеличивается на 1d8, когда вы достигаете 5-го уровня (2d8), 11-го уровня (3d8) и 17-го уровня (4d8).
+
+#### Туманный шаг
+
+*Вызов 2-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+Окружённый на мгновение серебристым туманом, вы телепортируетесь на расстояние до 30 футов в свободное пространство, которое видите.
+
+#### Фокусы
+
+*Заговор преобразования (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, С
+
+**Длительность:** До 1 часа
+
+Вы создаёте магический эффект в пределах дистанции. Выберите эффект из вариантов ниже. Если вы сотворяете это заклинание несколько раз, вы можете иметь до трёх его не мгновенных эффектов активными одновременно.
+
+**_Сенсорный эффект._** Вы создаёте мгновенный, безвредный сенсорный эффект, такой как поток искр, порыв ветра, слабые музыкальные ноты или странный запах.
+
+**_Игра с огнём._** Вы мгновенно зажигаете или гасите свечу, факел или небольшой костёр.
+
+**_Чистка или загрязнение._** Вы мгновенно очищаете или загрязняете объект не более 1 кубического фута.
+
+**_Слабое ощущение._** Вы охлаждаете, нагреваете или придаёте вкус до 1 кубического фута неживой материи на 1 час.
+
+**_Магическая метка._** Вы заставляете цвет, маленькую метку или символ появиться на объекте или поверхности на 1 час.
+
+**_Малое творение._** Вы создаёте немагическую безделушку или иллюзорный образ, который помещается в вашей руке. Он существует до конца вашего следующего хода. Безделушка не может наносить урон и не имеет денежной ценности.
+
+#### Ядовитые брызги
+
+*Заговор некромантии (Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы распыляете токсичный туман на существо в пределах дистанции. Совершите дальнобойную атаку заклинанием против цели. При попадании цель получает 1d12 урона ядом.
+
+**_Улучшение заговора._** Урон увеличивается на 1d12, когда вы достигаете 5-го уровня (2d12), 11-го уровня (3d12) и 17-го уровня (4d12).
+
+### Заклинания на букву Р
+
+#### Регенерация
+
+*Преобразование 7-го уровня (Бард, Жрец, Друид)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (молитвенное колесо)
+
+**Длительность:** 1 час
+
+Существо, которого вы касаетесь, восстанавливает 4d8 + 15 хитов. На время действия заклинания цель восстанавливает 1 хит в начале каждого своего хода, а любые отсечённые части тела отрастают через 2 минуты.
+
+#### Реинкарнация
+
+*Некромантия 5-го уровня (Друид)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (редкие масла стоимостью 1000+ зм, которые заклинание расходует)
+
+**Длительность:** Мгновенная
+
+Вы касаетесь мёртвого гуманоида или его части. Если существо было мёртво не более 10 дней, заклинание формирует для него новое тело и призывает душу войти в это тело. Бросьте 1d10 и сверьтесь с таблицей ниже, чтобы определить вид нового тела, или Мастер выбирает другой игровой вид.
+
+| 1d10 | Вид |
+|------|-----|
+| 1 | Бросьте ещё раз. |
+| 2 | Драконорождённый |
+| 3 | Дварф |
+| 4 | Эльф |
+| 5 | Гном |
+| 6 | Голиаф |
+| 7 | Полурослик |
+| 8 | Человек |
+| 9 | Орк |
+| 10 | Тифлинг |
+
+Реинкарнированное существо делает любой выбор, который предлагает описание вида, и помнит свою прежнюю жизнь. Оно сохраняет способности, которые имело в своей первоначальной форме, но теряет черты своего прежнего вида и получает черты нового.
+
+#### Разворот гравитации
+
+*Преобразование 7-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 100 футов
+
+**Компоненты:** В, С, М (магнитный камень и железные опилки)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Это заклинание разворачивает гравитацию в цилиндре радиусом 50 футов и высотой 100 футов с центром в точке в пределах дистанции. Все существа и объекты в этой области, которые не закреплены на земле, падают вверх и достигают вершины цилиндра. Существо может совершить спасбросок Ловкости, чтобы ухватиться за фиксированный объект, до которого может дотянуться, и таким образом избежать падения вверх.
+
+Если при падении вверх встречается потолок или закреплённый объект, существа и объекты ударяются о него так же, как при падении вниз. Если затронутое существо или объект достигает вершины цилиндра, ничего не задев, оно висит там на время действия заклинания. Когда заклинание заканчивается, затронутые объекты и существа падают вниз.
+
+#### Распыление
+
+*Преобразование 6-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (магнитный камень и щепотка пыли)
+
+**Длительность:** Мгновенная
+
+Тонкий зелёный луч выстреливает из вашего пальца в цель в пределах дистанции. Целью может быть существо, немагический объект или сотворённая силой магическая сила, такая как стена, созданная заклинанием *Силовая стена*.
+
+Существо, ставшее целью этого заклинания, совершает спасбросок Ловкости. При провале цель получает 10d6 + 40 урона силовым полем. Если этот урон уменьшает хиты существа до 0, оно распыляется. Распылённое существо и всё, что оно носит и несёт, превращается в кучку серой пыли. Существо может быть возвращено к жизни только заклинанием *Истинное воскрешение* или *Исполнение желаний*.
+
+Это заклинание автоматически распыляет объект размером с Большое или меньшее немагическое существо или сотворённую силой магическую сферу. Если цель является Огромным или большим объектом или творением силы, это заклинание распыляет участок 10 футов в поперечнике.
+
+#### Рассеивание магии
+
+*Ограждение 3-го уровня (Бард, Жрец, Друид, Паладин, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Выберите одно существо, объект или магический эффект в пределах дистанции. Любое заклинание 3-го уровня или ниже, наложенное на цель, заканчивается. Для заклинания 4-го уровня или выше совершите проверку характеристики, используя вашу заклинательную характеристику (Сл 10 + уровень заклинания). При успехе заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Вы автоматически заканчиваете эффекты заклинания на цели, если уровень заклинания равен или ниже уровня использованной ячейки.
+
+#### Священное пламя
+
+*Заговор воплощения (Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Сияние, подобное пламени, нисходит на существо, которое вы видите в пределах дистанции. Цель должна преуспеть в спасброске Ловкости, иначе получит 1d8 урона излучением. Цель не получает преимуществ от укрытия наполовину или укрытия на три четверти для этого спасброска.
+
+**_Улучшение заговора._** Урон увеличивается на 1d8, когда вы достигаете 5-го уровня (2d8), 11-го уровня (3d8) и 17-го уровня (4d8).
+
+#### Святилище
+
+*Ограждение 1-го уровня (Жрец)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (осколок стекла от зеркала)
+
+**Длительность:** 1 минута
+
+Вы защищаете одно существо в пределах дистанции. До окончания заклинания любое существо, которое нацеливается на защищённую цель атакой или вредоносным заклинанием, должно сначала совершить спасбросок Мудрости. При провале существо выбирает новую цель или теряет атаку или заклинание. Это заклинание не защищает защищённое существо от эффектов по области.
+
+Если защищённое существо совершает атаку, сотворяет заклинание или наносит урон, это заклинание заканчивается.
+
+#### Сила природы
+
+*Преобразование 8-го уровня (Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** Концентрация, до 1 минуты
+
+На время действия заклинания ваше тело изменяется, чтобы обрести различные способности в зависимости от вашего окружения, как показано в таблице ниже.
+
+| Окружение | Преобразование |
+|-----------|---------------|
+| Вода | Вы отращиваете жабры и перепонки между пальцами рук и ног. Вы можете дышать под водой и получаете скорость плавания, равную вашей скорости ходьбы. |
+| Земля | Ваша кожа затвердевает. Вы получаете +2 к КД. |
+| Воздух | Вы отращиваете крылья и получаете скорость полёта, равную вашей скорости ходьбы. |
+| Огонь | Вы получаете иммунитет к урону огнём. Также вы можете сотворить *Огненный шар* без расхода ячейки. Сотворив его таким образом, вы не можете сделать это снова до окончания заклинания. |
+
+#### Снятие проклятия
+
+*Ограждение 3-го уровня (Жрец, Паладин, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+От вашего касания все проклятия, воздействующие на одно существо или объект, заканчиваются. Если объект является проклятым магическим предметом, его проклятие остаётся, но заклинание разрывает настройку владельца на объект, так что его можно снять или выбросить.
+
+#### Сопротивление
+
+*Заговор ограждения (Жрец, Друид)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы касаетесь согласного существа и выбираете тип урона: кислота, дробящий, холод, огонь, электричество, некротический, колющий, яд, излучение, рубящий или звук. Когда существо получает урон выбранного типа до окончания заклинания, оно уменьшает полученный урон на 1d4. Существо может получить пользу от этого заклинания только один раз в ход.
+
+#### Сфера неуязвимости
+
+*Ограждение 4-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (стеклянная сфера)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Мерцающая сфера окружает Большое или меньшее существо или объект в пределах дистанции. Несогласное существо должно преуспеть в спасброске Ловкости, иначе оно будет заключено на время действия заклинания.
+
+Ничто — ни физические объекты, ни энергия, ни другие эффекты заклинаний — не может проходить через барьер внутрь или наружу, хотя существо в сфере может дышать там. Сфера имеет иммунитет ко всем видам урона, и существо или объект внутри не может получить урон от атак или эффектов, исходящих снаружи, а существо внутри сферы не может причинить урон ничему снаружи.
+
+Сфера невесома и достаточно велика, чтобы вместить существо или объект внутри. Заключённое существо может действием толкать стенки сферы и таким образом катить сферу со скоростью до половины своей скорости. Аналогично, сферу могут поднимать и перемещать другие существа.
+
+Заклинание *Распыление*, нацеленное на сферу, разрушает её, не причиняя вреда ничему внутри.
+
+### Заклинания на букву У
+
+#### Убежище Леомунда
+
+*Воплощение 3-го уровня (Бард, Волшебник)*
+
+**Время сотворения:** 1 минута или ритуал
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (маленький хрустальный шар)
+
+**Длительность:** 8 часов
+
+Неподвижный купол силы окружает вас, накрывая вас и всё пространство в пределах 10 футов от вас. Заклинание заканчивается, если вы покидаете эту область.
+
+Девять существ размера Средний или меньше могут поместиться внутри купола вместе с вами. Заклинание проваливается, если его область включает существо размера Большой или больше, или более девяти существ. Существа и объекты, находящиеся внутри купола при сотворении заклинания, могут свободно перемещаться через него. Все остальные существа и объекты блокируются.
+
+Заклинания не могут быть сотворены через купол. Атмосфера внутри пространства комфортная и сухая, независимо от погоды снаружи. До окончания заклинания вы можете приказать внутренней части становиться тускло освещённой или тёмной. Купол непрозрачен снаружи и имеет любой цвет на ваш выбор, но изнутри он прозрачен.
+
+#### Удержание личности
+
+*Очарование 2-го уровня (Бард, Жрец, Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (кусок железа)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Выберите гуманоида, которого видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости, иначе она получает состояние «парализованный» на время действия заклинания. В конце каждого своего хода цель повторяет спасбросок, оканчивая заклинание при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете нацелиться на одно дополнительное существо за каждые два уровня ячейки выше 2-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы нацеливаетесь на них.
+
+#### Удержание чудовища
+
+*Очарование 5-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (кусок железа)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Выберите существо, которое видите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости, иначе она получает состояние «парализованный» на время действия заклинания. Это заклинание не действует на нежить. В конце каждого своего хода цель повторяет спасбросок, оканчивая заклинание при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете нацелиться на одно дополнительное существо за каждый уровень ячейки выше 5-го. Существа должны находиться в пределах 30 футов друг от друга, когда вы нацеливаетесь на них.
+
+#### Упругая сфера Отилюка
+
+*Воплощение 4-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В, С, М (кусочек резины)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Сфера мерцающей силы окружает точку на ваш выбор в пределах дистанции. Сфера имеет радиус 10 футов. Любое существо, полностью находящееся в сфере при её создании или входящее в неё, должно преуспеть в спасброске Ловкости или быть обездвижено на время действия заклинания.
+
+Каждое существо, обездвиженное сферой, может совершать действие, чтобы протолкнуться сквозь стенку сферы. Оно совершает проверку Силы (Атлетика) против Сл спасброска ваших заклинаний. При успехе существо проталкивается сквозь сферу и появляется в ближайшем свободном пространстве.
+
+Воздух свободно проходит сквозь сферу, позволяя существам внутри дышать. Заклинания и другие магические эффекты не проходят сквозь стенку сферы.
+
+#### Усиление характеристики
+
+*Преобразование 2-го уровня (Бард, Жрец, Друид, Чародей, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (шерсть или перо зверя)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы касаетесь существа, и оно получает магическое усиление. Выберите один из следующих эффектов; цель получает этот эффект до окончания заклинания.
+
+**_Медвежья выносливость._** Цель совершает с преимуществом проверки Телосложения и получает 2d6 временных хитов.
+
+**_Бычья сила._** Цель совершает с преимуществом проверки Силы и удваивает грузоподъёмность.
+
+**_Кошачья грация._** Цель совершает с преимуществом проверки Ловкости и не получает урона от падения с высоты 20 футов или меньше, если она не в состоянии «недееспособный».
+
+**_Орлиное великолепие._** Цель совершает с преимуществом проверки Харизмы.
+
+**_Лисья хитрость._** Цель совершает с преимуществом проверки Интеллекта.
+
+**_Совиная мудрость._** Цель совершает с преимуществом проверки Мудрости.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 2-го.
+
+#### Устойчивость
+
+*Ограждение 6-го уровня (Бард, Жрец)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмазная пыль стоимостью 100+ зм, которую заклинание расходует)
+
+**Длительность:** Концентрация, до 1 часа
+
+Это заклинание наделяет согласное существо, которого вы касаетесь, способностью противостоять смерти. До окончания заклинания цель совершает с преимуществом спасброски от смерти, получает сопротивление ко всем видам урона и совершает с преимуществом спасброски против эффектов, которые мгновенно убивают её.
+
+### Заклинания на букву В
+
+#### Верёвочный фокус
+
+*Преобразование 2-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (отрезок верёвки)
+
+**Длительность:** 1 час
+
+Вы касаетесь верёвки. Один её конец поднимается вверх, пока верёвка не повиснет перпендикулярно земле или пока не достигнет потолка. На верхнем конце верёвки открывается невидимый портал размером 3 на 5 футов во внепространственное пространство, которое существует до окончания заклинания. Это пространство можно достичь, забравшись по верёвке, которую можно втянуть внутрь или выбросить наружу.
+
+Пространство может вместить до восьми существ размера Средний или меньше. Атаки, заклинания и другие эффекты не могут проходить внутрь или наружу из пространства, но существа внутри могут видеть через портал. Всё, что находится внутри пространства, выпадает, когда заклинание заканчивается.
+
+#### Видение истины
+
+*Прорицание 6-го уровня (Бард, Жрец, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (грибной порошок стоимостью 25+ зм, который посыпается на глаза)
+
+**Длительность:** 1 час
+
+Вы касаетесь согласного существа, чтобы дать ему способность видеть вещи такими, какие они есть. На время действия заклинания существо получает истинное зрение в радиусе 120 футов.
+
+#### Видение невидимого
+
+*Прорицание 2-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (щепотка талька)
+
+**Длительность:** 1 час
+
+На время действия заклинания вы видите существ и объекты с состоянием «невидимый», как если бы они были видимы, и вы можете видеть в Эфирный план. Существа и объекты там выглядят призрачными.
+
+#### Внушение
+
+*Очарование 2-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, М (змеиный язык)
+
+**Длительность:** Концентрация, до 8 часов
+
+Вы внушаете определённый курс действий (ограниченный одним или двумя предложениями) существу, которое видите в пределах дистанции и может вас слышать и понимать. Существа, которые нельзя очаровать, иммунны к этому эффекту. Внушение должно быть сформулировано так, чтобы действие звучало разумно. Просьба ударить себя мечом, броситься на копьё, сжечь себя или совершить какое-либо другое явно вредное действие прекращает заклинание.
+
+Цель должна преуспеть в спасброске Мудрости, иначе она следует указанному курсу действий в меру своих способностей. Внушённое действие может продолжаться на протяжении всего времени действия заклинания. Если внушённая деятельность может быть завершена за более короткое время, заклинание заканчивается, когда субъект завершает то, что ему было приказано сделать.
+
+Вы также можете указать условие, которое вызовет определённое действие в течение времени действия заклинания. Например, вы можете внушить рыцарю, чтобы он отдал своего боевого коня первому встречному нищему. Если условие не выполняется до окончания заклинания, действие не совершается.
+
+Если вы или любой из ваших спутников наносит урон цели, заклинание заканчивается.
+
+#### Воскрешение
+
+*Некромантия 7-го уровня (Бард, Жрец)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмаз стоимостью 1000+ зм, который заклинание расходует)
+
+**Длительность:** Мгновенная
+
+Касанием вы возвращаете к жизни мёртвое существо, которое было мёртво не более столетия, не умерло от старости и не было нежитью, когда умерло.
+
+Существо возвращается к жизни со всеми своими хитами. Это заклинание также нейтрализует любые яды, которые действовали на существо в момент смерти. Это заклинание закрывает все смертельные раны и восстанавливает все отсутствующие части тела.
+
+Возвращение из мёртвых — тяжёлое испытание. Цель получает штраф −4 к проверкам d20. Каждый раз, когда цель завершает продолжительный отдых, штраф уменьшается на 1, пока не станет равен 0.
+
+Сотворение этого заклинания для воскрешения существа, которое было мёртво 365 дней или дольше, истощает вас. Пока вы не завершите продолжительный отдых, вы не можете сотворять заклинания снова, и вы совершаете с помехой проверки d20.
+
+#### Возвращение к жизни
+
+*Некромантия 3-го уровня (Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмаз стоимостью 300+ зм, который заклинание расходует)
+
+**Длительность:** Мгновенная
+
+Вы касаетесь существа, которое умерло в течение последней минуты. Это существо возвращается к жизни с 1 хитом. Это заклинание не может воскресить существо, которое умерло от старости, и не восстанавливает отсутствующие части тела.
+
+#### Воскрешение мёртвых
+
+*Некромантия 5-го уровня (Бард, Жрец, Паладин)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмаз стоимостью 500+ зм, который заклинание расходует)
+
+**Длительность:** Мгновенная
+
+Касанием вы возвращаете к жизни мёртвое существо, если оно было мёртво не более 10 дней и не было нежитью, когда умерло.
+
+Существо возвращается к жизни с 1 хитом. Это заклинание также нейтрализует любые яды, которые действовали на существо в момент смерти.
+
+Это заклинание закрывает все смертельные раны, но не восстанавливает отсутствующие части тела. Если существу не хватает частей тела или органов, необходимых для выживания — например, головы — заклинание автоматически проваливается.
+
+Возвращение из мёртвых — тяжёлое испытание. Цель получает штраф −4 к проверкам d20. Каждый раз, когда цель завершает продолжительный отдых, штраф уменьшается на 1, пока не станет равен 0.
+
+### Заклинания на букву Ж
+
+#### Жгучие лучи
+
+*Воплощение 2-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы мечете три огненных луча. Вы можете метнуть их в одну цель в пределах дистанции или в несколько. Совершите дальнобойную атаку заклинанием для каждого луча. При попадании цель получает 2d6 урона огнём.
+
+**_Использование ячейки более высокого уровня._** Вы создаёте один дополнительный луч за каждый уровень ячейки выше 2-го.
+
+#### Жгучая кара
+
+*Воплощение 1-го уровня (Паладин)*
+
+**Время сотворения:** Бонусное действие, которое вы совершаете сразу после попадания по цели атакой оружием ближнего боя или безоружным ударом
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** 1 минута
+
+При попадании по цели она получает дополнительно 1d6 урона огнём от атаки. В начале каждого своего хода до окончания заклинания цель получает 1d6 урона огнём и затем совершает спасбросок Телосложения. При провале заклинание продолжается. При успехе заклинание заканчивается.
+
+**_Использование ячейки более высокого уровня._** Весь урон увеличивается на 1d6 за каждый уровень ячейки выше 1-го.
+
+### Заклинания на букву И
+
+#### Измерение жизни
+
+*Некромантия 3-го уровня (Жрец, Паладин)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы создаёте всплеск негативной энергии. Выберите до трёх существ, которых видите в пределах дистанции. Каждая цель совершает спасбросок Телосложения, получая 2d8 урона некротической энергией при провале или половину этого урона при успехе.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одну дополнительную цель за каждый уровень ячейки выше 3-го.
+
+#### Изгнание
+
+*Ограждение 4-го уровня (Жрец, Паладин, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (предмет, неприятный цели)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы пытаетесь отправить одно существо, которое видите в пределах дистанции, на другой план существования. Цель должна преуспеть в спасброске Харизмы, иначе она будет изгнана.
+
+Если цель родом с того плана существования, на котором вы находитесь, вы изгоняете цель в безвредный полуплан. Находясь там, цель имеет состояние «недееспособный». Когда заклинание заканчивается, цель возвращается в пространство, которое она покинула, или в ближайшее свободное пространство, если это место занято.
+
+Если цель родом с другого плана существования, чем тот, на котором вы находитесь, цель изгоняется обратно на свой родной план. Если заклинание длится 1 минуту полностью и цель — не вы, цель не возвращается.
+
+**_Использование ячейки более высокого уровня._** Вы можете нацелиться на одно дополнительное существо за каждый уровень ячейки выше 4-го.
+
+#### Изоляция
+
+*Преобразование 7-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (пыль из драгоценных камней стоимостью 5000+ зм, которую заклинание расходует)
+
+**Длительность:** Пока не рассеется
+
+Касанием вы магически изолируете объект или согласное существо. На время действия заклинания цель получает состояние «невидимый» и не может быть целью заклинаний школы Прорицания, обнаружена магией или наблюдаема издали с помощью магии.
+
+Если цель — существо, оно входит в состояние приостановленной жизнедеятельности; оно получает состояние «бессознательный», не стареет и не нуждается в пище, воде или воздухе.
+
+Вы можете установить условие для досрочного окончания заклинания. Условие может быть любым на ваш выбор, но оно должно произойти или быть видимым в пределах 1 мили от цели. Примеры включают «через 1000 лет» или «когда проснётся тарраска». Это заклинание также заканчивается, если цель получает какой-либо урон.
+
+#### Истинное воскрешение
+
+*Некромантия 9-го уровня (Жрец, Друид)*
+
+**Время сотворения:** 1 час
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмазы стоимостью не менее 25 000 зм, которые заклинание расходует)
+
+**Длительность:** Мгновенная
+
+Вы касаетесь существа, которое было мёртво не более 200 лет и которое умерло по любой причине, кроме старости. Если душа существа свободна и согласна, существо возвращается к жизни со всеми своими хитами.
+
+Это заклинание закрывает все раны, нейтрализует любой яд, излечивает все болезни и снимает любые проклятия, воздействующие на существо, когда оно умерло. Заклинание заменяет повреждённые или отсутствующие органы и конечности. Оно может даже предоставить новое тело, если оригинал больше не существует, и в этом случае вы должны назвать существо. Затем существо появляется в свободном пространстве на ваш выбор в пределах 10 футов от вас.
+
+#### Истинный полиморф
+
+*Преобразование 9-го уровня (Бард, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С, М (капля ртути, капля камеди и клубок дыма)
+
+**Длительность:** Концентрация, до 1 часа
+
+Выберите одно существо или немагический объект, который видите в пределах дистанции. Существо превращается в другое существо или в немагический объект, или объект превращается в существо (объект не должен носиться или нестись другим существом). Трансформация длится на время действия заклинания или пока хиты цели не уменьшатся до 0 или она не умрёт. Если вы концентрируетесь на этом заклинании в течение полного времени, заклинание длится, пока не будет рассеяно.
+
+Заклинание не действует на перевёртыша или существо с 0 хитов. Несогласное существо может совершить спасбросок Мудрости, и при успехе оно не затрагивается этим заклинанием.
+
+**_Существо в существо._** Если вы превращаете существо в другой вид существа, новая форма может быть любого вида на ваш выбор с показателем опасности, равным или меньшим, чем у цели (или её уровнем, если цель не имеет показателя опасности). Игровая статистика цели, включая её ментальные показатели характеристик и языки, заменяется статистикой новой формы, но её мировоззрение и личность сохраняются. Цель приобретает временные хиты, равные хитам новой формы. Эти временные хиты не могут быть заменены временными хитами из другого источника. Цель возвращается в свою обычную форму, когда у неё не осталось временных хитов. Если заклинание заканчивается до этого, существо возвращается в свою обычную форму и просыпается, если оно было бессознательным.
+
+Существо ограничено в действиях, которые может совершать, природой своей новой формы. Оно не может говорить или сотворять заклинания.
+
+Снаряжение цели сливается с её новой формой. Существо не может активировать, использовать или иным образом получать преимущества от своего снаряжения.
+
+**_Объект в существо._** Вы превращаете объект в существо любого вида, показатель опасности которого не больше размера объекта: Крохотный объект = ПО 0, Маленький объект = ПО 1/4, Средний объект = ПО 1/2, Большой объект = ПО 5, Огромный объект = ПО 10, Исполинский объект = ПО 15.
+
+Существо дружелюбно к вам и вашим спутникам. Оно действует в каждом из ваших ходов. Вы решаете, какое действие оно совершает и как перемещается. Мастер определяет статистику существа и решает все остальные вопросы.
+
+Если заклинание станет постоянным, вы больше не контролируете существо. Оно может оставаться дружелюбным к вам в зависимости от того, как вы обращались с ним.
+
+**_Существо в объект._** Если вы превращаете существо в объект, оно превращается вместе со всем, что носит и несёт, в эту форму, если размер объекта не больше размера существа. Статистика существа становится статистикой объекта, и у существа нет воспоминаний о времени, проведённом в этой форме, после того как заклинание заканчивается и оно возвращается в свою обычную форму.
+
+#### Исполнение желаний
+
+*Вызов 9-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В
+
+**Длительность:** Мгновенная
+
+*Исполнение желаний* — самое могущественное заклинание, которое может сотворить смертное существо. Просто произнеся вслух, вы можете изменить основы реальности в соответствии со своими желаниями.
+
+Базовое использование этого заклинания — дублирование любого другого заклинания 8-го уровня или ниже. Если вы используете его таким образом, вам не нужно выполнять какие-либо требования этого заклинания, включая дорогостоящие компоненты. Заклинание просто вступает в силу.
+
+В качестве альтернативы вы можете создать один из следующих эффектов на ваш выбор:
+
+- **Сопротивление.** Вы даруете до десяти согласным существам, которых видите, сопротивление к одному типу урона на ваш выбор.
+- **Иммунитет.** Вы даруете одному согласному существу, которое видите, иммунитет к одному заклинанию или другому магическому эффекту на ваш выбор на 8 часов. Например, вы можете сделать себя и всех своих спутников иммунными к атаке Истощения жизненной силы лича.
+- **Отмена.** Вы отменяете один недавний эффект. Вы даруете до двадцати существам, которых видите, отмену любого эффекта, который вызвал у них одно или несколько состояний. Можете отменить только эффект, созданный в течение последних 24 часов.
+- **Перемотка.** Вы заставляете мир перемотать время до начала вашего прошлого хода. Все существа на вашем плане, включая вас, отправляются в этот более ранний момент. Только вы сохраняете память о «потерянном» ходе и осознаёте, что время было перемотано.
+- **Состояние.** Вы позволяете до двадцати существам, которых видите, восстановить все свои хиты, и вы оканчиваете все эффекты на них, описанные в *Высшем восстановлении*.
+- **Объект.** Вы создаёте один немагический объект стоимостью до 25 000 зм. Объект не может быть больше 300 футов ни в одном измерении и появляется в свободном пространстве на земле, которое вы видите.
+- **Богатство.** Вы даруете до десяти согласным существам, которых видите, эквивалент *Защиты от смерти* на 8 часов, который не требует концентрации.
+
+Мастер может позволить вам создать эффект, отличный от описанных выше. Делайте это осторожно: чем грандиознее желание, тем более вероятно, что что-то пойдёт не так. Это заклинание может просто не сработать, желаемый эффект может достичься лишь частично, или вы можете пострадать от непредвиденных последствий в результате формулировки желания.
+
+Стресс от сотворения этого заклинания для создания эффекта, отличного от дублирования другого заклинания, ослабляет вас. После перенесения этого стресса каждый раз, когда вы сотворяете заклинание, до завершения продолжительного отдыха вы получаете 1d10 урона некротической энергией за каждый уровень этого заклинания. Этот урон нельзя уменьшить или предотвратить. Кроме того, ваша Сила падает до 3 на 2d4 дня. За каждый день, проведённый в отдыхе и занятии только лёгкой деятельностью, время восстановления сокращается на 2 дня. Наконец, есть 33-процентный шанс, что вы никогда больше не сможете сотворить *Исполнение желаний*.
+
+### Заклинания на букву К
+
+#### Каменная кожа
+
+*Преобразование 4-го уровня (Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (алмазная пыль стоимостью 100+ зм, которую заклинание расходует)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы касаетесь согласного существа. До окончания заклинания цель получает сопротивление к немагическому дробящему, колющему и рубящему урону.
+
+#### Каменная стена
+
+*Воплощение 5-го уровня (Друид, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (небольшой каменный блок)
+
+**Длительность:** Концентрация, до 10 минут
+
+Немагическая стена из твёрдого камня появляется в точке на ваш выбор в пределах дистанции. Стена имеет толщину 6 дюймов и состоит из десяти панелей размером 10 на 10 футов. Каждая панель должна соприкасаться хотя бы с одной другой панелью. В качестве альтернативы вы можете создать панели размером 10 на 20 футов, но только толщиной 3 дюйма.
+
+Если стена разрезает пространство существа при появлении, существо выталкивается в одну сторону (на ваш выбор). Если существо окажется полностью окружено стеной со всех сторон (или стеной и другой твёрдой поверхностью), оно может совершить спасбросок Ловкости. При успехе оно может использовать свою реакцию, чтобы переместиться на расстояние до своей скорости так, чтобы не быть окружённым стеной.
+
+Стена может иметь любую форму, хотя она не может занимать то же пространство, что и существо или объект. Стена не обязана быть вертикальной или стоять на твёрдом основании. Однако она должна прочно соединяться с существующей каменной кладкой и быть поддерживаема ею. Таким образом, вы можете использовать это заклинание для создания моста через пропасть или наклонного пандуса.
+
+Если вы создаёте пролёт более 20 футов в длину, вы должны уменьшить размер каждой панели вдвое, чтобы создать опоры. Вы можете грубо обработать стену для создания бойниц, зубцов и тому подобного.
+
+Стена — это объект из камня, который можно повредить. Каждая панель имеет КД 15 и 30 хитов за дюйм толщины, и она имеет иммунитет к урону ядом и психической энергией. Уменьшение хитов панели до 0 уничтожает её, и это может привести к обрушению соседних панелей по усмотрению Мастера.
+
+Если вы поддерживаете концентрацию на этом заклинании в течение всего времени его действия, стена становится постоянной и не может быть рассеяна. В противном случае стена исчезает, когда заклинание заканчивается.
+
+#### Клеймо охотника
+
+*Прорицание 1-го уровня (Следопыт)*
+
+**Время сотворения:** Бонусное действие
+
+**Дистанция:** 90 футов
+
+**Компоненты:** В
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы выбираете существо, которое видите в пределах дистанции, и мистически помечаете его как свою добычу. До окончания заклинания вы наносите цели дополнительно 1d6 урона силовым полем каждый раз, когда попадаете по ней атакой оружием, и вы совершаете с преимуществом проверки Мудрости (Восприятие) или Мудрости (Выживание), чтобы найти цель. Если хиты цели падают до 0 до окончания заклинания, вы можете бонусным действием в свой последующий ход пометить новое существо.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждые два уровня ячейки выше 1-го.
+
+### Заклинания на букву Л
+
+#### Луч болезни
+
+*Некромантия 1-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы стреляете зеленоватым лучом в существо в пределах дистанции. Совершите дальнобойную атаку заклинанием против цели. При попадании цель получает 2d8 урона ядом и получает состояние «отравленный» до конца вашего следующего хода.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 1-го.
+
+#### Луч ослабления
+
+*Некромантия 2-го уровня (Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 минуты
+
+Луч истощающей энергии выстреливает из вас в существо в пределах дистанции. Цель должна совершить спасбросок Телосложения. При успехе цель совершает с помехой следующий бросок атаки до начала вашего следующего хода.
+
+При провале цель совершает с помехой проверки d20, основанные на Силе, на время действия заклинания. В это время она также вычитает 1d8 из всех своих бросков урона. Цель повторяет спасбросок в конце каждого своего хода, оканчивая заклинание при успехе.
+
+#### Луч холода
+
+*Заговор воплощения (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Холодный луч сине-белого света устремляется к существу в пределах дистанции. Совершите дальнобойную атаку заклинанием против цели. При попадании она получает 1d8 урона холодом, и её скорость уменьшается на 10 футов до начала вашего следующего хода.
+
+**_Улучшение заговора._** Урон увеличивается на 1d8, когда вы достигаете 5-го уровня (2d8), 11-го уровня (3d8) и 17-го уровня (4d8).
+
+### Заклинания на букву Н
+
+#### Наваждение
+
+*Очарование 1-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (щепотка песка или лепестки розы)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Каждое существо на ваш выбор в сфере радиусом 5 футов с центром в точке в пределах дистанции должно преуспеть в спасброске Мудрости, иначе оно получит состояние «недееспособный» до конца своего следующего хода, после чего оно должно повторить спасбросок. Если цель проваливает второй спасбросок, она получает состояние «бессознательный» на время действия заклинания. Заклинание заканчивается для цели, если она получает урон или кто-то в пределах 5 футов от неё совершает действие, чтобы вывести её из действия заклинания.
+
+Существа, которые не спят, такие как эльфы, или имеющие иммунитет к состоянию «истощённый», автоматически преуспевают в спасбросках против этого заклинания.
+
+#### Наблюдение
+
+*Прорицание 5-го уровня (Бард, Жрец, Друид, Колдун, Волшебник)*
+
+**Время сотворения:** 10 минут
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (фокус стоимостью 1000+ зм, такой как хрустальный шар, зеркало или заполненный водой сосуд)
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы можете видеть и слышать существо на ваш выбор, которое находится на том же плане существования, что и вы. Цель совершает спасбросок Мудрости, который модифицируется (см. таблицы ниже) тем, насколько хорошо вы знаете цель и какую физическую связь с ней имеете. Цель не знает, против чего она совершает спасбросок, только что она чувствует беспокойство.
+
+| Ваше знание цели... | Модификатор спасброска |
+|---------------------|------------------------|
+| Из вторых рук (слышали о цели) | +5 |
+| Из первых рук (встречали цель) | +0 |
+| Обширное (хорошо знаете цель) | −5 |
+
+| У вас есть... | Модификатор спасброска |
+|---------------|------------------------|
+| Изображение или другое подобие | −2 |
+| Одежда или другое имущество | −4 |
+| Часть тела, прядь волос или кусочек ногтя | −10 |
+
+При успешном спасброске цель не затрагивается, и вы не можете использовать это заклинание на ней снова в течение 24 часов.
+
+При провале заклинание создаёт невидимый нематериальный сенсор в пределах 10 футов от цели. Вы можете видеть и слышать через сенсор, как если бы вы были там. Сенсор перемещается вместе с целью, оставаясь в пределах 10 футов от неё на время действия заклинания. Если что-то может видеть сенсор, он выглядит как светящаяся сфера размером с ваш кулак.
+
+Вместо существа вы можете нацелиться на место, которое видели. В этом случае сенсор появляется в этом месте и не перемещается.
+
+#### Невидимость
+
+*Иллюзия 2-го уровня (Бард, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Касание
+
+**Компоненты:** В, С, М (ресница в камеди)
+
+**Длительность:** Концентрация, до 1 часа
+
+Существо, которого вы касаетесь, получает состояние «невидимый» до окончания заклинания. Заклинание заканчивается преждевременно для цели, если она совершает атаку, наносит урон или сотворяет заклинание.
+
+**_Использование ячейки более высокого уровня._** Вы можете выбрать одно дополнительное существо за каждый уровень ячейки выше 2-го.
+
+#### Немая тишина
+
+*Иллюзия 2-го уровня (Бард, Жрец, Следопыт)*
+
+**Время сотворения:** Действие или ритуал
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+На время действия заклинания никакой звук не может возникнуть в сфере радиусом 20 футов с центром в точке на ваш выбор в пределах дистанции или пройти через неё. Любое существо или объект, полностью находящееся внутри сферы, имеет иммунитет к урону звуком, а существа получают состояние «оглохший», находясь полностью внутри неё. Сотворение заклинания с вербальным компонентом там невозможно.
+
+#### Немой образ
+
+*Иллюзия 1-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (кусочек овечьей шерсти)
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы создаёте образ объекта, существа или какого-либо другого видимого явления не более 15 футов в поперечнике. Образ появляется в месте в пределах дистанции и существует на время действия заклинания. Образ чисто визуальный; он не сопровождается звуком, запахом или другими сенсорными эффектами.
+
+Действием Магия вы можете заставить образ переместиться в любое место в пределах дистанции. Когда образ меняет местоположение, вы можете изменить его внешний вид, чтобы его движения выглядели естественно для образа. Например, если вы создаёте образ существа и перемещаете его, вы можете изменить образ так, чтобы казалось, будто оно идёт.
+
+Физическое взаимодействие с образом показывает, что это иллюзия, поскольку вещи могут проходить сквозь него. Существо, совершающее действие Изучение, чтобы исследовать образ, может определить, что это иллюзия, преуспев в проверке Интеллекта (Расследование) против Сл спасброска ваших заклинаний. Если существо распознаёт иллюзию, оно может видеть сквозь образ.
+
+### Заклинания на букву О
+
+#### Обнаружение мыслей
+
+*Прорицание 2-го уровня (Бард, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (медная монета)
+
+**Длительность:** Концентрация, до 1 минуты
+
+На время действия заклинания вы можете читать мысли определённых существ. Когда вы сотворяете заклинание и действием в каждый последующий ход до окончания заклинания, вы можете сосредоточить свой разум на любом существе, которое видите в пределах 30 футов от вас. Если выбранное существо имеет Интеллект 3 или меньше или не говорит ни на одном языке, оно не затрагивается.
+
+Сначала вы узнаёте поверхностные мысли существа — то, что в данный момент занимает его разум. Затем действием вы можете либо переключить своё внимание на мысли другого существа, либо попытаться проникнуть глубже в разум того же существа. При попытке проникнуть глубже цель совершает спасбросок Мудрости. При провале вы получаете доступ к её рассуждениям (если таковые имеются), эмоциональному состоянию и чему-то, что занимает её разум больше всего (например, беспокойство, любовь или ненависть). При успехе заклинание заканчивается. В любом случае цель знает, что вы проникаете в её разум, и если вы не переключите своё внимание на мысли другого существа, существо может использовать своё действие в свой ход, чтобы совершить проверку Интеллекта против проверки вашего Интеллекта; при успехе заклинание заканчивается.
+
+Вопросы, заданные устно цели, влияют на ход её мыслей, поэтому это заклинание особенно эффективно при допросе.
+
+Вы также можете использовать это заклинание для обнаружения присутствия мыслящих существ, которых не видите. Когда вы сотворяете это заклинание или действием во время его действия, вы можете искать мысли в пределах 30 футов от вас. Заклинание не проходит через 2 фута камня, 2 дюйма обычного металла или тонкий лист свинца. Вы не можете обнаружить существо с Интеллектом 3 или меньше или существо, которое не говорит ни на одном языке.
+
+Обнаружив таким образом присутствие существа, вы можете прочитать его мысли до конца заклинания, как описано выше, даже если вы не видите его, но оно должно оставаться в пределах дистанции.
+
+#### Обнаружение яда и болезни
+
+*Прорицание 1-го уровня (Жрец, Друид, Паладин, Следопыт)*
+
+**Время сотворения:** Действие или ритуал
+
+**Дистанция:** На себя
+
+**Компоненты:** В, С, М (лист тиса)
+
+**Длительность:** Концентрация, до 10 минут
+
+На время действия заклинания вы чувствуете присутствие ядов, ядовитых существ и болезней в пределах 30 футов от вас. Вы также определяете вид любого обнаруженного яда, ядовитого существа или болезни.
+
+Заклинание проникает сквозь большинство барьеров, но блокируется 1 футом камня, 1 дюймом обычного металла или тонким листом свинца.
+
+#### Облако тумана
+
+*Вызов 1-го уровня (Друид, Следопыт, Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы создаёте сферу тумана радиусом 20 футов с центром в точке в пределах дистанции. Сфера обходит углы, и её область сильно заслонена. Она существует на время действия заклинания или пока ветер средней или большей силы (скорость не менее 10 миль в час) не рассеет её.
+
+**_Использование ячейки более высокого уровня._** Радиус сферы увеличивается на 20 футов за каждый уровень ячейки выше 1-го.
+
+#### Облако убийства
+
+*Вызов 5-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы создаёте сферу жёлто-зелёного ядовитого тумана радиусом 20 футов с центром в точке в пределах дистанции. Туман обходит углы. Он существует на время действия заклинания или пока сильный ветер не рассеет его, заканчивая заклинание. Его область сильно заслонена.
+
+Когда существо впервые за ход входит в область заклинания или начинает там свой ход, оно совершает спасбросок Телосложения, получая 5d8 урона ядом при провале или половину этого урона при успехе. Существа затрагиваются, даже если задерживают дыхание или не нуждаются в дыхании.
+
+Туман удаляется от вас в начале каждого вашего хода, переносясь на 10 футов в направлении от вас по поверхности земли. Пары, будучи тяжелее воздуха, опускаются и просачиваются даже в трещины и щели.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 5-го.
+
+#### Огненный снаряд
+
+*Воплощение 2-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 120 футов
+
+**Компоненты:** В, С, М (шарик из серы и гуано летучей мыши)
+
+**Длительность:** Мгновенная
+
+Вы создаёте три пылающих луча и мечете их в цели в пределах дистанции. Вы можете метнуть их в одну или несколько целей. Совершите бросок атаки заклинанием для каждого луча. При попадании цель получает 2d6 урона огнём.
+
+**_Использование ячейки более высокого уровня._** Вы создаёте один дополнительный луч за каждый уровень ячейки выше 2-го.
+
+#### Огненный шар
+
+*Воплощение 3-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 150 футов
+
+**Компоненты:** В, С, М (крошечный шарик из серы и гуано летучей мыши)
+
+**Длительность:** Мгновенная
+
+Яркая полоса устремляется из вашего указательного пальца в точку на ваш выбор в пределах дистанции, а затем расцветает с гулким рёвом в языки пламени. Каждое существо в сфере радиусом 20 футов с центром в этой точке совершает спасбросок Ловкости, получая 8d6 урона огнём при провале или половину этого урона при успехе.
+
+Огонь обходит углы. Он поджигает горючие объекты в области, которые никто не носит и не несёт.
+
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 3-го.
+
+#### Окаменение
+
+*Преобразование 6-го уровня (Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (щепотка извести, воды и земли)
+
+**Длительность:** Концентрация, до 1 минуты
+
+Вы пытаетесь обратить одно существо, которое видите в пределах дистанции, в камень. Цель совершает спасбросок Телосложения. При провале она получает состояние «обездвиженный» до окончания заклинания. При успехе её скорость уменьшается до 0 до начала вашего следующего хода.
+
+Если цель обездвижена этим заклинанием, она должна совершить ещё один спасбросок Телосложения в конце каждого своего хода. При успехе трижды заклинание заканчивается. При провале трижды она превращается в камень и получает состояние «окаменевший» на время действия заклинания. Успехи и провалы не обязательно должны быть последовательными; отслеживайте и те и другие, пока цель не наберёт три какого-либо вида.
+
+Если вы поддерживаете концентрацию в течение всего времени действия заклинания, существо остаётся окаменевшим, пока эффект не будет снят заклинанием, таким как *Высшее восстановление*.
+
+#### Оживление мёртвых
+
+*Некромантия 3-го уровня (Жрец, Волшебник)*
+
+**Время сотворения:** 1 минута
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, С, М (кровяной камень стоимостью 25+ зм)
+
+**Длительность:** Мгновенная
+
+Вы создаёте слугу-нежить. Выберите кучу костей или труп гуманоида размера Средний или Маленький в пределах дистанции. Ваше заклинание наполняет цель мерзким подобием жизни, поднимая её как нежить — скелета или зомби (подробности см. в «Монстрах»).
+
+В каждый из ваших ходов вы можете бонусным действием мысленно приказать любому существу, созданному вами этим заклинанием, если существо находится в пределах 60 футов от вас. Вы определяете, какое действие существо предпримет и куда переместится в свой следующий ход, или вы можете отдать общий приказ, такой как охранять определённое помещение или коридор. Если вы не отдаёте приказов, существо только защищается от враждебных существ. Получив приказ, существо продолжает следовать ему, пока задача не будет выполнена.
+
+Существо находится под вашим контролем в течение 24 часов, после чего перестаёт подчиняться вашим приказам. Чтобы сохранить контроль над существом ещё на 24 часа, вы должны сотворить это заклинание на него до истечения текущего 24-часового периода. Такое использование заклинания восстанавливает ваш контроль над тремя существами, которых вы оживили этим заклинанием, а не оживляет новое.
+
+**_Использование ячейки более высокого уровня._** За каждый уровень ячейки выше 3-го вы оживляете или восстанавливаете контроль над двумя дополнительными существами-нежитью. Каждое из существ должно происходить от отдельной кучи костей или трупа.
+
+#### Очарование личности
+
+*Очарование 1-го уровня (Бард, Друид, Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 30 футов
+
+**Компоненты:** В, С
+
+**Длительность:** 1 час
+
+Вы пытаетесь очаровать гуманоида, которого видите в пределах дистанции. Цель совершает спасбросок Мудрости, и делает это с преимуществом, если вы или ваши спутники сражаются с ней. При провале цель получает состояние «очарованный», пока заклинание не закончится или пока вы или ваши спутники не причините ей вред. Очарованное существо считает вас дружественным знакомым. Когда заклинание заканчивается, существо знает, что вы его очаровали.
+
+**_Использование ячейки более высокого уровня._** Вы можете нацелиться на одно дополнительное существо за каждый уровень ячейки выше 1-го.
+
+#### Очистить пищу и питьё
+
+*Преобразование 1-го уровня (Жрец, Друид, Паладин)*
+
+**Время сотворения:** Действие или ритуал
+
+**Дистанция:** 10 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Мгновенная
+
+Вы удаляете яд и гниль из немагической пищи и питья в сфере радиусом 5 футов с центром в точке в пределах дистанции.
+
+### Заклинания на букву П
+
+#### Паутина
+
+*Вызов 2-го уровня (Чародей, Колдун, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (кусочек паутины)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы создаёте массу густой, липкой паутины, заполняющей куб с ребром 20 футов от точки на ваш выбор в пределах дистанции. Паутина — это труднопроходимая местность, и область, которую она покрывает, слабо заслонена.
+
+Если паутина не прикреплена к двум твёрдым массам (таким как стены или деревья) или не растянута между полом, стеной и потолком, созданная паутина сминается и заклинание заканчивается в начале вашего следующего хода. Паутина, растянутая на плоской поверхности, имеет глубину 5 футов.
+
+Каждое существо, которое входит в паутину в свой ход или начинает там свой ход, должно совершить спасбросок Ловкости. При провале существо получает состояние «обездвиженный», пока остаётся в паутине или пока не вырвется.
+
+Существо, обездвиженное паутиной, может действием совершить проверку Силы (Атлетика) против Сл спасброска ваших заклинаний. При успехе оно больше не обездвижено.
+
+Паутина горюча. Любой куб паутины с ребром 5 футов, подвергшийся воздействию огня, сгорает за 1 раунд, нанося 2d4 урона огнём каждому существу, которое начинает свой ход в огне.
+
+#### Перемещение
+
+*Преобразование 5-го уровня (Чародей, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С
+
+**Длительность:** Концентрация, до 10 минут
+
+Вы получаете способность перемещать существа или объекты мыслью. Когда вы сотворяете заклинание и действием Магия в последующие ходы до окончания заклинания, вы можете воздействовать своей волей на одно существо или объект, который видите в пределах дистанции, вызывая соответствующий эффект ниже. Вы можете воздействовать на одну и ту же цель раунд за раундом или выбрать новую в любое время. Если вы переключаете цели, предыдущая цель больше не затрагивается заклинанием.
+
+**_Существо._** Вы можете попытаться переместить существо размера Огромный или меньше. Цель должна преуспеть в спасброске Силы, иначе вы перемещаете её на расстояние до 30 футов в любом направлении в пределах дистанции заклинания. До конца вашего следующего хода существо получает состояние «обездвиженный», и если вы поднимаете его в воздух, оно зависает там. Оно падает в конце вашего следующего хода, если вы не используете эту опцию на нём снова и оно не провалит спасбросок.
+
+**_Объект._** Вы можете попытаться переместить объект размера Огромный или меньше. Если объект никто не носит и не несёт, вы автоматически перемещаете его на расстояние до 30 футов в любом направлении в пределах дистанции заклинания.
+
+Если объект носит или несёт существо, это существо должно преуспеть в спасброске Силы, иначе вы вырываете объект и перемещаете его на расстояние до 30 футов в любом направлении в пределах дистанции заклинания.
+
+Вы можете осуществлять тонкий контроль над объектами с помощью вашей телекинетической хватки, например, манипулировать простым инструментом.
+
+#### Послание
+
+*Прорицание 3-го уровня (Бард, Жрец, Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** Неограниченная
+
+**Компоненты:** В, С, М (медная проволока)
+
+**Длительность:** Мгновенная
+
+Вы посылаете короткое сообщение из 25 слов или меньше существу, с которым встречались, или существу, описанному вам кем-то, кто с ним встречался. Цель слышит сообщение в своём разуме, узнаёт вас как отправителя, если знает вас, и может немедленно ответить таким же образом. Заклинание позволяет целям понимать смысл вашего сообщения.
+
+Вы можете посылать сообщение на любое расстояние и даже на другие планы существования, но если цель находится на другом плане, чем вы, есть 5-процентный шанс, что сообщение не дойдёт. Вы узнаёте, если доставка не удалась.
+
+При получении вашего сообщения существо может заблокировать вашу способность связаться с ним снова этим заклинанием на 8 часов. Если вы попытаетесь отправить ещё одно сообщение в это время, вы узнаете, что вы заблокированы, и заклинание проваливается.
+
+#### Призыв дракона
+
+*Вызов 5-го уровня (Волшебник)*
+
+**Время сотворения:** Действие
+
+**Дистанция:** 60 футов
+
+**Компоненты:** В, С, М (объект с гравировкой дракона стоимостью 500+ зм)
+
+**Длительность:** Концентрация, до 1 часа
+
+Вы призываете духа дракона. Он появляется в свободном пространстве, которое вы видите в пределах дистанции, и использует блок характеристик **драконьего духа**. Существо исчезает, когда его хиты падают до 0 или когда заклинание заканчивается.
+
+Существо является союзником вам и вашим союзникам. В бою существо разделяет вашу инициативу, но действует сразу после вас. Оно подчиняется вашим устным командам (действие не требуется). Если вы не отдаёте приказов, оно совершает действие Уклонение и использует своё перемещение, чтобы избежать опасности.
+
+**_Использование ячейки более высокого уровня._** Используйте уровень ячейки для уровня заклинания в блоке характеристик.
+
+> #### Драконий дух
 >
-> *Huge or Smaller Construct, Unaligned*
-> 
-> **AC** 15 
+> *Большой дракон, нейтральный*
 >
-> **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge) 
+> **КД** 14 + уровень заклинания
 >
-> **Speed** 30 ft.
+> **Хиты** 50 + 10 за каждый уровень заклинания выше 5-го
 >
-> | Attribute | Score | Mod | Save |
-> |-----------|-------|-----|------|
-> | Str       | 16    | +3  | +3   |
-> | Dex       | 10    | +0  | +0   |
-> | Con       | 10    | +0  | +0   |
-> | Int       | 3     | -4  | -4   |
-> | Wis       | 3     | -4  | -4   |
-> | Cha       | 1     | -5  | -5   |
-> 
-> **Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned 
+> **Скорость** 30 фт., полёт 60 фт., плавание 30 фт.
 >
-> **Senses** Blindsight 30 ft.; Passive Perception 6
+> | Характеристика | Значение | Мод. | Спасбросок |
+> |----------------|----------|------|------------|
+> | Сил | 19 | +4 | +4 |
+> | Лов | 14 | +2 | +2 |
+> | Тел | 17 | +3 | +3 |
+> | Инт | 10 | +0 | +0 |
+> | Мдр | 14 | +2 | +2 |
+> | Хар | 14 | +2 | +2 |
 >
-> **Languages** Understands the languages you know 
+> **Сопротивления** Кислота, холод, огонь, электричество, яд
 >
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
+> **Иммунитеты** Очарованный, испуганный, отравленный
 >
-> #### Actions
+> **Чувства** Слепое зрение 30 фт., тёмное зрение 60 фт.; Пассивное Восприятие 12
 >
-> **Slam.** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).
-
-#### Antilife Shell
-
-*Level 5 Abjuration (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 hour
-
-An aura extends from you in a 10-foot Emanation for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
-
-If you move so that an affected creature is forced to pass through the barrier, the spell ends.
-
-#### Antimagic Field
-
-*Level 8 Abjuration (Cleric, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (iron filings) 
-
-**Duration:** Concentration, up to 1 hour
-
-An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
-
-Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.
-
-Ongoing spells, except those cast by an Artifact or a deity, are suppressed in the area. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
-
-*Dispel Magic* has no effect on the aura, and the auras created by different *Antimagic Field* spells don't nullify each other.
-
-#### Antipathy/Sympathy
-
-*Level 8 Enchantment (Bard, Druid, Wizard)*
-
-**Casting Time:** 1 hour 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a mix of vinegar and honey) 
-
-**Duration:** 10 days
-
-As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
-
-**Antipathy.** The creature has the Frightened condition. The Frightened creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.
-
-**Sympathy.** The creature has the Charmed condition. The Charmed creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the Charmed creature, that creature can make a
-
-Wisdom saving throw to end the effect, as described below.
-
-**_Ending the Effect._** If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
-
-#### **Arcane Eye**
-
-*Level 4 Divination (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a bit of bat fur) 
-
-**Duration:** Concentration, up to 1 hour
-
-You create an Invisible, invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has Darkvision with a range of 30 feet.
-
-As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
-
-#### Arcane Hand
-
-*Level 5 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (an eggshell and a glove) 
-
-**Duration:** Concentration, up to 1 minute
-
-You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
-
-The hand is an object that has AC 20 and Hit Points equal to your Hit Point maximum. If it drops to 0 Hit Points, the spell ends. The hand doesn't occupy its space.
-
-When you cast the spell and as a Bonus Action on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:
-
-**Clenched Fist.** The hand strikes a target within 5 feet of it. Make a melee spell attack. On a hit, the target takes 5d8 Force damage.
-
-**Forceful Hand.** The hand attempts to push a Huge or smaller creature within 5 feet of it. The target must succeed on a Strength saving throw, or the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target, remaining within 5 feet of it.
-
-**Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the Grappled condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a Bonus Action to cause the hand to crush it, dealing Bludgeoning damage to the target equal to 4d6 plus your spellcasting ability modifier.
-
-**Interposing Hand.** The hand grants you Half Cover against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as Difficult Terrain for your enemies.
-
-**_Using a Higher-Level Spell Slot._** The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5.
-
-#### Arcane Lock
-
-*Level 2 Abjuration (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (gold dust worth 25+ GP, which the spell consumes) 
-
-**Duration:** Until dispelled
-
-You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
-
-#### Arcane Sword
-
-*Level 7 Evocation (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S, M (a miniature sword worth 250+ GP)
-
-**Duration:** Concentration, up to 1 minute
-
-You create a spectral sword that hovers within range. It lasts for the duration.
-
-When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.
-
-On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
-
-#### Arcanist's Magic Aura
-
-*Level 2 Illusion (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch
-
-**Components:** V, S, M (a small square of silk)
-
-**Duration:** 24 hours
-
-With a touch, you place an illusion on a willing creature or an object that isn't being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.
-
-**_Mask (Creature)._** Choose a creature type other than the target's actual type. Spells and other magical effects treat the target as if it were a creature of the chosen type.
-
-**_False Aura (Object)._** You change the way the target appears to spells and magical effects that detect magical auras, such as *Detect Magic*. You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object's aura so that it appears to belong to a school of magic you choose.
-
-#### Astral Projection
-
-*Level 9 Necromancy (Cleric, Warlock, Wizard)*
-
-**Casting Time:** 1 hour
-
-**Range:** 10 feet
-
-**Components:** V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes) 
-
-**Duration:** Until dispelled
-
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn't need food or air, and doesn't age.
-
-A target's astral form resembles its body in almost every way, replicating its game statistics and possessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut—which happens only when an effect states that it does so—the target's body and astral form both die.
-
-A target's astral form can travel through the Astral Plane. The moment an astral form leaves that plane, the target's body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane.
-
-Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 Hit Points, the spell ends for that target. The spell ends for all the targets if you take a Magic action to dismiss it.
-
-When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
-
-#### Augury
-
-*Level 2 Divination (Cleric, Druid, Wizard)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Self
-
-**Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP) 
-
-**Duration:** Instantaneous
-
-You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The GM chooses the omen from the Omens table.
-
-Table: Omens
-
-| Omen         | For Results That Will Be … |
-|--------------|----------------------------|
-| Weal         | Good                       |
-| Woe          | Bad                        |
-| Weal and woe | Good and bad               |
-| Indifference | Neither good nor bad       |
-
-The spell doesn't account for circumstances, such as other spells, that might change the results.
-
-If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
-
-#### Aura of Life
-
-*Level 4 Abjuration (Cleric, Paladin)* 
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V 
-
-**Duration:** Concentration, up to 10 minutes
-
-An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can't be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
-
-#### Awaken
-
-*Level 5 Transmutation (Bard, Druid)*
-
-**Casting Time:** 8 hours
-
-**Range:** Touch 
-
-**Components:** V, S, M (an agate worth 1,000+ GP, which the spell consumes)
-
-**Duration:** Instantaneous
-
-You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The GM chooses statistics appropriate for the awakened Plant, such as the statistics for the **Awakened Shrub** or **Awakened Tree** in "Monsters."
-
-The awakened target has the Charmed condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
-
-### B Spells
-
-#### Bane
-
-*Level 1 Enchantment (Bard, Cleric, Warlock)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a drop of blood) 
-
-**Duration:** Concentration, up to 1 minute
-
-Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack roll or save.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
-
-#### Banishment
-
-*Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a pentacle) 
-
-**Duration:** Concentration, up to 1 minute
-
-One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
-
-If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (GM's choice) associated with its creature type.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 4.
-
-#### Barkskin
-
-*Level 2 Transmutation (Druid, Ranger)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Touch
-
-**Component:** V, S, M (a handful of bark) 
-
-**Duration:** 1 hour
-
-You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
-
-#### Beacon of Hope
-
-*Level 3 Abjuration (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-Choose any number of creatures within range. For the duration, each target has Advantage on Wisdom saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
-
-#### Befuddlement
-
-*Level 8 Enchantment (Bard, Druid, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (a key ring with no keys) 
-
-**Duration:** Instantaneous
-
-You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
-
-On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the *Greater Restoration*, *Heal*, or *Wish* spell.
-
-On a successful save, the target takes half as much damage only.
-
-#### Bestow Curse
-
-*Level 3 Necromancy (Bard, Cleric, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
-
-- Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability.
-- The target has Disadvantage on attack rolls against you.
-- In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn.
-- If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
-
-**_Using a Higher-Level Spell Slot._** If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5–6 slot) or 24 hours (level 7–8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
-
-#### Black Tentacles
-
-*Level 4 Conjuration (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S, M (a tentacle) 
-
-**Duration:** Concentration, up to 1 minute
-
-Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.
-
-Each creature in that area makes a Strength saving throw. On a failed save, it takes 3d6 Bludgeoning damage, and it has the Restrained condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.
-
-A Restrained creature can take an action to make a Strength (Athletics) check against your spell save DC, ending the condition on itself on a success.
-
-#### Blade Barrier
-
-*Level 6 Evocation (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters Cover, and its space is Difficult Terrain.
-
-Any creature in the wall's space makes a Dexterity saving throw, taking 6d10 Force damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
-
-#### Bless
-
-*Level 1 Enchantment (Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet
-
-**Components:** V, S, M (a Holy Symbol worth 5+ GP)
-
-**Duration:** Concentration, up to 1 minute
-
-You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
-
-#### Blight
-
-*Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-A creature that you can see within range makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.
-
-Alternatively, target a nonmagical plant that isn't a creature, such as a tree or shrub. It doesn't make a save; it simply withers and dies.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 4.
-
-#### Blindness/Deafness
-
-*Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V 
-
-**Duration:** 1 minute
-
-One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 2.
-
-#### Blink
-
-*Level 3 Transmutation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** 1 minute
-
-Roll 1d6 at the end of each of your turns for the duration. On a roll of 4–6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can
-
-perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.
-
-You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 10 feet of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space.
-
-#### Blur
-
-*Level 2 Illusion (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V 
-
-**Duration:** Concentration, up to 1 minute
-
-Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
-
-#### Burning Hands
-
-*Level 1 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
-
-Flammable objects in the Cone that aren't being worn or carried start burning.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
-
-### C Spells
-
-#### Call Lightning
-
-*Level 3 Conjuration (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a Cylinder that is 10 feet tall with a 60-foot radius.
-
-When you cast the spell, choose a point you can see under the cloud. A lightning bolt shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking 3d10 Lightning damage on a failed save or half as much damage on a successful one.
-
-Until the spell ends, you can take a Magic action to call down lightning in that way again, targeting the same point or a different one.
-
-If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 3.
-
-#### Calm Emotions
-
-*Level 2 Enchantment (Bard, Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
-
-- The creature has Immunity to the Charmed and Frightened conditions until the spell ends. If the creature was already Charmed or Frightened, those conditions are suppressed for the duration.
-- The creature becomes Indifferent about creatures of your choice that it's Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
-
-#### Chain Lightning
-
-*Level 6 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (three silver pins) 
-
-**Duration:** Instantaneous
-
-You launch a lightning bolt toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.
-
-Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a failed save or half as much damage on a successful one.
-
-*Using a Higher-Level Spell Slot.* One additional bolt leaps from the first target to another target for each spell slot level above 6.
-
-#### Charm Monster
-
-*Level 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** 1 hour
-
-One creature you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 4.
-
-#### Charm Person
-
-*Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** 1 hour
-
-One Humanoid you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
-
-#### Chill Touch
-
-*Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
-
-**_Cantrip Upgrade._** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
-
-#### Chromatic Orb
-
-*Level 1 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S, M (a diamond worth 50+ GP) 
-
-**Duration:** Instantaneous
-
-You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder for the type of orb you create, and then make a ranged spell attack against the target. On a hit, the target takes 3d8 damage of the chosen type.
-
-If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice within 30 feet of the target. Make an attack roll against the new target, and make a new damage roll. The orb can't leap again unless you cast the spell with a level 2+ spell slot.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
-
-#### Circle of Death
-
-*Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (the powder of a crushed black pearl worth 500+ GP)
-
-**Duration:** Instantaneous
-
-Negative energy ripples out in a 60-foot-radius Sphere from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 2d8 for each spell slot level above 6.
-
-#### Clairvoyance
-
-*Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)*
-
-**Casting Time:** 10 minutes
-
-**Range:** 1 mile 
-
-**Components:** V, S, M (a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing) 
-
-**Duration:** Concentration, up to 10 minutes
-
-You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.
-
-When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a Bonus Action, you can switch between seeing and hearing.
-
-A creature that sees the sensor (such as a creature benefiting from *See Invisibility* or Truesight) sees a luminous orb about the size of your fist.
-
-#### Clone
-
-*Level 8 Necromancy (Wizard)*
-
-**Casting Time:** 1 hour
-
-**Range:** Touch
-
-**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)
-
-**Duration:** Instantaneous
-
-You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate of that creature forms inside the vessel used in the spell's casting and finishes growing after 120 days; you choose whether the finished clone is the same age as the creature or younger. The clone remains inert and endures indefinitely while its vessel remains undisturbed.
-
-If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
-
-#### Cloudkill
-
-*Level 5 Conjuration (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by *Gust of Wind*) disperses it, ending the spell. Its area is Heavily Obscured.
-
-Each creature in the Sphere makes a Constitution saving throw, taking 5d8 Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
-
-The Sphere moves 10 feet away from you at the start of each of your turns.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 5.
-
-#### Color Spray
-
-*Level 1 Illusion (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a pinch of colorful sand) 
-
-**Duration:** Instantaneous
-
-You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
-
-#### Command
-
-*Level 1 Enchantment (Bard, Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
-
-**Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
-
-**Drop.** The target drops whatever it is holding and then ends its turn.
-
-**Flee.** The target spends its turn moving away from you by the fastest available means.
-
-**Grovel.** The target has the Prone condition and then ends its turn.
-
-**Halt.** On its turn, the target doesn't move and takes no action or Bonus Action.
-
-**_Using a Higher-Level Spell Slot._** You can affect one additional creature for each spell slot level above 1.
-
-#### Commune
-
-*Level 5 Divination (Cleric)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S, M (incense) 
-
-**Duration:** 1 minute
-
-You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
-
-Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the GM might offer a short phrase as an answer instead.
-
-If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
-
-#### Commune with Nature
-
-*Level 5 Divination (Druid, Ranger)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell
-
-doesn't function where nature has been replaced by construction, such as in castles and settlements.
-
-Choose three of the following facts; you learn those facts as they pertain to the spell's area:
-
-- Locations of settlements
-- Locations of portals to other planes of existence
-- Location of one Challenge Rating 10+ creature (GM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead
-- The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
-- Locations of bodies of water
-
-For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
-
-#### Comprehend Languages
-
-*Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S, M (a pinch of soot and salt) 
-
-**Duration:** 1 hour
-
-For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.
-
-#### Compulsion
-
-*Level 4 Enchantment (Bard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends.
-
-For the duration, you can take a Bonus Action to designate a direction that is horizontal to you. Each Charmed target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
-
-#### Cone of Cold
-
-*Level 5 Evocation (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a small crystal or glass cone) 
-
-**Duration:** Instantaneous
-
-You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a
-
-Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 5.
-
-#### **Confusion**
-
-*Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S, M (three nut shells) 
-
-**Duration:** Concentration, up to 1 minute
-
-Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
-
-Table: 1d10 Behavior for the Turn**
-
-| d10  | Behavior for the Turn                                                                                                                        |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.|
-| 2–6  | The target doesn't move or take actions.                                                                                                     |
-| 7–8  | The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
-| 9–10 | The target chooses its behavior.                                                                                                             |
-
-At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
-
-**_Using a Higher-Level Spell Slot._** The Sphere's radius increases by 5 feet for each spell slot level above 4.
-
-#### Conjure Animals
-
-*Level 3 Conjuration (Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.
-
-You have Advantage on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
-
-Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 3d10 Slashing damage. A creature makes this save only once per turn.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 3.
-
-#### Conjure Celestial
-
-*Level 7 Conjuration (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You conjure a spirit from the Upper Planes, which manifests as a pillar of light in a 10-foot-radius, 40-foot-high Cylinder centered on a point within range. For each creature you can see in the Cylinder, choose which of these lights shines on it:
-
-**Healing Light.** The target regains Hit Points equal to 4d12 plus your spellcasting ability modifier.
-
-**Searing Light.** The target makes a Dexterity saving throw, taking 6d12 Radiant damage on a failed save or half as much damage on a successful one.
-
-Until the spell ends, Bright Light fills the Cylinder, and when you move on your turn, you can also move the Cylinder up to 30 feet.
-
-Whenever the Cylinder moves into the space of a creature you can see and whenever a creature you can see enters the Cylinder or ends its turn there, you can bathe it in one of the lights. A creature can be affected by this spell only once per turn.
-
-**_Using a Higher-Level Spell Slot._** The healing and damage increase by 1d12 for each spell slot level above 7.
-
-#### Conjure Elemental
-
-*Level 5 Conjuration (Druid, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
-
-Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature Restrained. On failed save, the target takes 8d8 damage of the spirit's type, and the target has the Restrained condition until the spell ends. At the start of each of its turns, the Restrained target repeats the save.
-
-On a failed save, the target takes 4d8 damage of the spirit's type. On a successful save, the target isn't Restrained by the spirit.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 5.
-
-#### **Conjure Fey**
-
-*Level 6 Conjuration (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to 3d12 plus your spellcasting ability modifier, and the target has the Frightened condition until the start of your next turn, with both you and the spirit as the source of the fear.
-
-As a Bonus Action on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d12 for each spell slot level above 6.
-
-#### Conjure Minor Elementals
-
-*Level 4 Conjuration (Druid, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You conjure spirits from the Elemental Planes that flit around you in a 15-foot Emanation for the duration. Until the spell ends, any attack you make deals an extra 2d8 damage when you hit a creature in the Emanation. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
-
-In addition, the ground in the Emanation is Difficult Terrain for your enemies.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 4.
-
-#### Conjure Woodland Beings
-
-*Level 4 Conjuration (Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You conjure nature spirits that flit around you in a 10-foot Emanation for the duration. Whenever the Emanation enters the space of a creature you can
-
-see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes 5d8 Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
-
-In addition, you can take the Disengage action as a Bonus Action for the spell's duration.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 4.
-
-#### Contact Other Plane
-
-*Level 5 Divination (Warlock, Wizard)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Self 
-
-**Components:** V 
-
-**Duration:** 1 minute
-
-You mentally contact a demigod, the spirit of a longdead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the GM might instead offer a short phrase as an answer.
-
-On a failed save, you take 6d6 Psychic damage and have the Incapacitated condition until you finish a Long Rest. A *Greater Restoration* spell cast on you ends this effect.
-
-#### Contagion
-
-*Level 5 Necromancy (Cleric, Druid)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Component:** V, S 
-
-**Duration:** 7 days
-
-Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take 11d8 Necrotic damage and have the Poisoned condition. Also, choose one ability when you cast the spell. While Poisoned, the target has Disadvantage on saving throws made with the chosen ability.
-
-The target must repeat the saving throw at the end of each of its turns until it gets three successes or failures. If the target succeeds on three of these saves, the spell ends on the target. If the target fails three of the saves, the spell lasts for 7 days on it.
-
-Whenever the Poisoned target receives an effect that would end the Poisoned condition, the target must succeed on a Constitution saving throw, or the Poisoned condition doesn't end on it.
-
-#### Contingency
-
-*Level 6 Abjuration (Wizard)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** Self 
-
-**Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP) 
-
-**Duration:** 10 days
-
-Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell—called the contingent spell—as part of casting *Contingency*, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a *Contingency* cast with *Water Breathing* might stipulate that *Water Breathing* comes into effect when you are engulfed in water or a similar liquid.
-
-The contingent spell takes effect immediately after the trigger occurs for the first time, whether or not you want it to, and then *Contingency* ends.
-
-The contingent spell takes effect only on you, even if it can normally target others. You can use only one *Contingency* spell at a time. If you cast this spell again, the effect of another *Contingency* spell on you ends. Also, *Contingency* ends on you if its material component is ever not on your person.
-
-#### Continual Flame
-
-*Level 2 Evocation (Cleric, Druid, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (ruby dust worth 50+ GP, which the spell consumes)
-
-**Duration:** Until dispelled
-
-A flame springs from an object that you touch. The effect casts Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.
-
-#### Control Water
-
-*Level 4 Transmutation (Cleric, Druid, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 300 feet 
-
-**Components:** V, S, M (a mixture of water and dust) 
-
-**Duration:** Concentration, up to 10 minutes
-
-Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a Magic action on your later turns, you can repeat the same effect or choose a different one.
-
-**_Flood._** You cause the water level of all standing water in the area to rise by as much as 20 feet. If you choose an area in a large body of water, you instead create a 20-foot tall wave that travels from one side of the area to the other and then crashes. Any Huge or smaller vehicles in the wave's path are carried with it to the other side. Any Huge or smaller vehicles struck by the wave have a 25 percent chance of capsizing.
-
-The water level remains elevated until the spell ends or you choose a different effect. If this effect produced a wave, the wave repeats on the start of your next turn while the flood effect lasts.
-
-**_Part Water._** You part water in the area and create a trench. The trench extends across the spell's area, and the separated water forms a wall to either side. The trench remains until the spell ends or you choose a different effect. The water then slowly fills in the trench over the course of the next round until the normal water level is restored.
-
-**_Redirect Flow._** You cause flowing water in the area to move in a direction you choose, even if the water has to flow over obstacles, up walls, or in other unlikely directions. The water in the area moves as you direct it, but once it moves beyond the spell's area, it resumes its flow based on the terrain. The water continues to move in the direction you chose until the spell ends or you choose a different effect.
-
-**_Whirlpool._** You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes 2d8 Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength (Athletics) check against your spell save DC.
-
-#### Control Weather
-
-*Level 8 Transmutation (Cleric, Druid, Wizard)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** Self 
-
-**Components:** V, S, M (burning incense) 
-
-**Duration:** Concentration, up to 8 hours
-
-You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell, and it ends early if you go indoors.
-
-When you cast the spell, you change the current weather conditions, which are determined by the GM. You can change precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new
-
-conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal.
-
-When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
-
-Table: Precipitation
-
-| Stage | Condition                                  |
-|-------|--------------------------------------------|
-| 1     | Clear                                      |
-| 2     | Light clouds                               |
-| 3     | Overcast or ground fog                     |
-| 4     | Rain, hail, or snow                        |
-| 5     | Torrential rain, driving hail, or blizzard |
-
-Table: Temperature 
-
-| Stage       | Condition |
-|-------------|-----------|
-| 1           | Heat wave |
-| 2           | Hot       |
-| 3           | Warm      |
-| 4           | Cool      |
-| 5           | Cold      |
-| 6           | Freezing  |
-
-Table: Wind  
-
-| Stage | Condition     |
-|-------|---------------|
-| 1     | Calm          |
-| 2     | Moderate wind |
-| 3     | Strong wind   |
-| 4     | Gale          |
-| 5     | Storm         |
-
-#### Counterspell
-
-*Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components 
-
-**Range:** 60 feet 
-
-**Components:** S
-
-**Duration:** Instantaneous
-
-You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
-
-#### Create Food and Water
-
-*Level 3 Conjuration (Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range—both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
-
-#### Create or Destroy Water
-
-*Level 1 Transmutation (Cleric, Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a mix of water and sand) 
-
-**Duration:** Instantaneous
-
-You do one of the following:
-
-**Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot Cube within range, extinguishing exposed flames there.
-
-**Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot Cube within range.
-
-**_Using a Higher-Level Spell Slot._** You create or destroy 10 additional gallons of water, or the size of the Cube increases by 5 feet, for each spell slot level above 1.
-
-#### Create Undead
-
-*Level 6 Necromancy (Cleric, Warlock, Wizard)*
-
-**Casting Time:** 1 minute 
-
-**Range:** 10 feet 
-
-**Components:** V, S, M (one 150+ GP black onyx stone for each corpse) 
-
-**Duration:** Instantaneous
-
-You can cast this spell only at night. Choose up to three corpses of Medium or Small Humanoids within range. Each one becomes a **Ghoul** under your control (see "Monsters" for its stat block).
-
-As a Bonus Action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to them). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a particular place. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow the order until its task is complete.
-
-The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell rather than animating new ones.
-
-**_Using a Higher-Level Spell Slot._** If you use a level 7 spell slot, you can animate or reassert control over four **Ghouls**. If you use a level 8 spell slot, you can animate or reassert control over five **Ghouls** or two **Ghasts** or **Wights**. If you use a level 9 spell slot, you can animate or reassert control over six **Ghouls**, three **Ghasts** or **Wights**, or two **Mummies**. See "Monsters" for these stat blocks.
-
-#### Creation
-
-*Level 5 Illusion (Sorcerer, Wizard)*
-
-**Casting Time:** 1 minute 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a paintbrush) 
-
-**Duration:** Special
-
-You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot Cube, and the object must be of a form and material that you have seen.
-
-The spell's duration depends on the object's material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell's Material component causes the other spell to fail.
-
-Table: Materials
-
-| Material              | Duration   |
-|-----------------------|------------|
-| Vegetable matter      | 24 hours   |
-| Stone or crystal      | 12 hours   |
-| Precious metals       | 1 hour     |
-| Gems                  | 10 minutes |
-| Adamantine or mithral | 1 minute   |
-
-**_Using a Higher-Level Spell Slot._** The Cube increases by 5 feet for each spell slot level above 5.
-
-#### Cure Wounds
-
-*Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)* 
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
-
-**_Using a Higher-Level Spell Slot._** The healing increases by 2d8 for each spell slot level above 1.
-
-### D Spells
-
-#### Dancing Lights
-
-*Illusion Cantrip (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a bit of phosphorus) 
-
-**Duration:** Concentration, up to 1 minute
-
-You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10 foot radius.
-
-As a Bonus Action, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range.
-
-#### Darkness
-
-*Level 2 Evocation (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, M (bat fur and a piece of coal) 
-
-**Duration:** Concentration, up to 10 minutes
-
-For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can't see through it, and nonmagical light can't illuminate it.
-
-Alternatively, you cast the spell on an object that isn't being worn or carried, causing the Darkness to fill a 15-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the Darkness.
-
-If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
-
-#### Darkvision
-
-*Level 2 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a dried carrot) 
-
-**Duration:** 8 hours
-
-For the duration, a willing creature you touch has Darkvision with a range of 150 feet.
-
-#### Daylight
-
-*Level 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** 1 hour
-
-For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.
-
-Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a 60-foot Emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.
-
-If any of this spell's area overlaps with an area of Darkness created by a spell of level 3 or lower, that other spell is dispelled.
-
-#### Death Ward
-
-*Level 4 Abjuration (Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** 8 hours
-
-You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends.
-
-If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
-
-#### Delayed Blast Fireball
-
-*Level 7 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (a ball of bat guano and sulfur) 
-
-**Duration:** Concentration, up to 1 minute
-
-A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
-
-The spell's base damage is 12d6, and the damage increases by 1d6 whenever your turn ends and the spell hasn't ended.
-
-If a creature touches the glowing bead before the spell ends, that creature makes a Dexterity saving throw. On a failed save, the spell ends, causing the bead to explode. On a successful save, the creature can throw the bead up to 40 feet. If the thrown bead enters a creature's space or collides with a solid object, the spell ends, and the bead explodes.
-
-When the bead explodes, flammable objects in the explosion that aren't being worn or carried start burning.
-
-**_Using a Higher-Level Spell Slot._** The base damage increases by 1d6 for each spell slot level above 7.
-
-#### Demiplane
-
-*Level 8 Conjuration (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** S 
-
-**Duration:** 1 hour
-
-You create a shadowy Medium door on a flat solid surface that you can see within range. This door can be opened and closed, and it leads to a demiplane that is an empty room 30 feet in each dimension, made of wood or stone (your choice).
-
-When the spell ends, the door vanishes, and any objects inside the demiplane remain there. Any creatures inside also remain unless they opt to be shunted through the door as it vanishes, landing with the Prone condition in the unoccupied spaces closest to the door's former space.
-
-Each time you cast this spell, you can create a new demiplane or connect the shadowy door to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can connect the shadowy door to that demiplane instead.
-
-#### Detect Evil and Good
-
-*Level 1 Divination (Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the *Hallow* spell is active there and, if so, where.
-
-The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
-
-#### Detect Magic
-
-*Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.
-
-The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
-
-#### Detect Poison and Disease
-
-*Level 1 Divination (Cleric, Druid, Paladin, Ranger)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S, M (a yew leaf) 
-
-**Duration:** Concentration, up to 10 minutes
-
-For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case.
-
-The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
-
-#### Detect Thoughts
-
-*Level 2 Divination (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (1 Copper Piece) 
-
-**Duration:** Concentration, up to 1 minute
-
-You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.
-
-**_Sense Thoughts._** You sense the presence of thoughts within 30 feet of yourself that belong to creatures that know languages or are telepathic. You don't read the thoughts, but you know that a thinking creature is present.
-
-The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
-
-**_Read Thoughts._** Target one creature you can see within 30 feet of yourself or one creature within 30 feet of yourself that you detected with the Sense Thoughts option. You learn what is most on the target's mind right now. If the target doesn't know any languages and isn't telepathic, you learn nothing.
-
-As a Magic action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence (Arcana) check against your spell save DC, ending the spell on a success.
-
-#### Dimension Door
-
-*Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 500 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-You teleport to a location within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "300 feet upward to the northwest at a 45-degree angle."
-
-You can also teleport one willing creature. The creature must be within 5 feet of you when you teleport, and it teleports to a space within 5 feet of your destination space.
-
-If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take 4d6 Force damage, and the teleportation fails.
-
-#### Disguise Self
-
-*Level 1 Illusion (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** 1 hour
-
-You make yourself—including your clothing, armor, weapons, and other belongings on your person look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
-
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
-
-To discern that you are disguised, a creature must take the Study action to inspect your appearance and succeed on an Intelligence (Investigation) check against your spell save DC.
-
-#### Disintegrate
-
-*Level 6 Transmutation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a lodestone and dust) 
-
-**Duration:** Instantaneous
-
-You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by *Wall of Force.*
-
-A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 Force damage. If this damage reduces it to 0 Hit Points, it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a *True Resurrection* or a *Wish* spell.
-
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-Cube portion of it.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 3d6 for each spell slot level above 6.
-
-#### Dispel Evil and Good
-
-*Level 5 Abjuration (Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** Self
-
-**Components:** V, S, M (powdered silver and iron) 
-
-**Duration:** Concentration, up to 1 minute
-
-For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.
-
-*Break Enchantment.* As a Magic action, you touch a creature that is possessed by or has the Charmed or Frightened condition from one or more creatures of the types above. The target is no longer possessed, Charmed, or Frightened by such creatures.
-
-*Dismissal.* As a Magic action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
-
-#### Dispel Magic
-
-*Level 3 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Choose one creature, object, or magical effect within range. Any ongoing spell of level 3 or lower on the target ends. For each ongoing spell of level 4 or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's level). On a successful check, the spell ends.
-
-**_Using a Higher-Level Spell Slot._** You automatically end a spell on the target if the spell's level is equal to or less than the level of the spell slot you use.
-
-#### Dissonant Whispers
-
-*Level 1 Enchantment (Bard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
-
-**Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
-
-#### Divination
-
-*Level 4 Divination (Cleric, Druid, Wizard)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S, M (incense worth 25+ GP, which the spell consumes) 
-
-**Duration:** Instantaneous
-
-This spell puts you in contact with a god or a god's servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The GM offers a truthful reply, which might be a short phrase or cryptic rhyme. The spell doesn't account for circumstances that might change the answer, such as the casting of other spells.
-
-If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
-
-#### Divine Favor
-
-*Level 1 Transmutation (Paladin)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** 1 minute
-
-Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
-
-#### Divine Smite
-
-*Level 1 Evocation (Paladin)*
-
-**Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike 
-
-**Range:** Self
-
-**Component:** V 
-
-**Duration:** Instantaneous
-
-The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 1.
-
-#### Divine Word
-
-*Level 7 Evocation (Cleric)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** 30 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a *Wish* spell.
-
-Table: Divine Word Effects
-
-| Hit Points | Effect                                                                   |
-|------------|--------------------------------------------------------------------------|
-| 0–20       | The target dies.                                                         |
-| 21–30      | The target has the Blinded, Deafened, and Stunned conditions for 1 hour. |
-| 31–40      | The target has the Blinded and Deafened conditions for 10 minutes.       |
-| 41–50      | The target has the Deafened condition for 1 minute.                      |
-
-#### Dominate Beast
-
-*Level 4 Enchantment (Druid, Ranger, Sorcerer)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-One Beast you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
-
-You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
-
-You can command the target to take a Reaction but must take your own Reaction to do so.
-
-**_Using a Higher-Level Spell Slot._** Your Concentration can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
-
-#### Dominate Monster
-
-*Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 hour
-
-One creature you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
-
-You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
-
-You can command the target to take a Reaction but must take your own Reaction to do so.
-
-**_Using a Higher-Level Spell Slot._** Your Concentration can last longer with a level 9 spell slot (up to 8 hours).
-
-#### Dominate Person
-
-*Level 5 Enchantment (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-One Humanoid you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
-
-You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
-
-You can command the target to take a Reaction but must take your own Reaction to do so.
-
-**_Using a Higher-Level Spell Slot._** Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
-
-#### Dragon's Breath
-
-*Level 2 Transmutation (Sorcerer, Wizard)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a hot pepper) 
-
-**Duration:** Concentration, up to 1 minute
-
-You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poison. Until the spell ends, the target can take a Magic action to exhale a 15-foot Cone. Each creature in that area makes a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save or half as much damage on a successful one.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 2.
-
-#### Dream
-
-*Level 5 Illusion (Bard, Warlock, Wizard)*
-
-**Casting Time:** 1 minute 
-
-**Range:** Special 
-
-**Components:** V, S, M (a handful of sand) 
-
-**Duration:** 8 hours
-
-You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is Incapacitated and has a Speed of 0.
-
-If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the spell's duration. The messenger can also shape the dream's environment, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the spell. The target recalls the dream perfectly upon waking.
-
-If the target is awake when you cast the spell, the messenger knows it and can either end the trance (and the spell) or wait for the target to sleep, at which point the messenger enters its dreams.
-
-You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes 3d6 Psychic damage when it wakes up.
-
-#### Druidcraft
-
-*Transmutation Cantrip (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Whispering to the spirits of nature, you create one of the following effects within range.
-
-**_Weather Sensor._** You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
-
-**_Bloom._** You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
-
-**_Sensory Effect._** You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot Cube.
-
-**_Fire Play._** You light or snuff out a candle, a torch, or a campfire.
-
-### E Spells
-
-#### Earthquake
-
-*Level 8 Transmutation (Cleric, Druid, Sorcerer)*
-
-**Casting Time:** Action 
-
-**Range:** 500 feet 
-
-**Components:** V, S, M (a fractured rock) 
-
-**Duration:** Concentration, up to 1 minute
-
-Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is Difficult Terrain.
-
-When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the Prone condition, and its Concentration is broken.
-
-You can also cause the effects below.
-
-**_Fissures._** A total of 1d6 fissures open in the spell's area at the end of the turn you cast it. You choose the fissures' locations, which can't be under structures. Each fissure is 1d10 × 10 feet deep and 10 feet wide, and it extends from one edge of the spell's area to another edge. A creature in the same space as a fissure must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
-
-**Structures._** The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 Hit Points, it collapses.
-
-A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes 12d6 Bludgeoning damage, has the Prone condition, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. On a successful save, the creature takes half as much damage only.
-
-#### Eldritch Blast
-
-*Evocation Cantrip (Warlock)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
-
-**_Cantrip Upgrade._** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
-
-#### Elementalism
-
-*Transmutation Cantrip (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You exert control over the elements, creating one of the following effects within range.
-
-**_Beckon Air._** You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot Cube. Doors and shutters being held open by someone or something aren't affected.
-
-**_Beckon Earth._** You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.
-
-**_Beckon Fire._** You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot Cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute.
-
-**_Beckon Water._** You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot Cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.
-
-**_Sculpt Element._** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour.
-
-#### Enhance Ability
-
-*Level 2 Transmutation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (fur or a feather) 
-
-**Duration:** Concentration, up to 1 hour
-
-You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
-
-#### Enlarge/Reduce
-
-*Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a pinch of powdered iron) 
-
-**Duration:** Concentration, up to 1 minute
-
-For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
-
-Everything that a targeted creature is wearing and carrying changes size with it. Any item it drops returns to normal size at once. A thrown weapon or piece of ammunition returns to normal size immediately after it hits or misses a target.
-
-**_Enlarge._** The target's size increases by one category—from Medium to Large, for example. The target also has Advantage on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit.
-
-**_Reduce._** The target's size decreases by one category—from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
-
-#### Ensnaring Strike
-
-*Level 1 Conjuration (Ranger)*
-
-**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon 
-
-**Range:** Self
-
-**Components:** V
-
-**Duration:** Concentration, up to 1 minute
-
-As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has Advantage on this save. On a failed save, the target has the Restrained condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
-
-While Restrained, the target takes 1d6 Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength (Athletics) check against your spell save DC. On a success, the spell ends.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
-
-#### Entangle
-
-*Level 1 Conjuration (Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.
-
-Each creature (other than you) in the area when you cast the spell must succeed on a Strength
-
-saving throw or have the Restrained condition until the spell ends. A Restrained creature can take an action to make a Strength (Athletics) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer Restrained by them.
-
-#### Enthrall
-
-*Level 2 Enchantment (Bard, Warlock)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a −10 penalty to Wisdom (Perception) checks and Passive Perception until the spell ends.
-
-#### Etherealness
-
-*Level 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Up to 8 hours
-
-You step into the border regions of the Ethereal Plane, where it overlaps with your current plane. You remain in the Border Ethereal for the duration. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can perceive the plane you left, which looks gray, and you can't see anything there more than 60 feet away.
-
-While on the Ethereal Plane, you can affect and be affected only by creatures, objects, and effects on that plane. Creatures that aren't on the Ethereal Plane can't perceive or interact with you unless a feature gives them the ability to do so.
-
-When the spell ends, you return to the plane you left in the spot that corresponds to your space in the Border Ethereal. If you appear in an occupied space, you are shunted to the nearest unoccupied space and take Force damage equal to twice the number of feet you are moved.
-
-This spell ends instantly if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes.
-
-**_Using a Higher-Level Spell Slot._** You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
-
-#### Expeditious Retreat
-
-*Level 1 Transmutation (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
-
-#### Eyebite
-
-*Level 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-For the duration, your eyes become an inky void. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration.
-
-On each of your turns until the spell ends, you can take a Magic action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell.
-
-**_Asleep._** The target has the Unconscious condition. It wakes up if it takes any damage or if another creature takes an action to shake it awake.
-
-**_Panicked._** The target has the Frightened condition. On each of its turns, the Frightened target must take the Dash action and move away from you by the safest and shortest route available. If the target moves to a space at least 60 feet away from you where it can't see you, this effect ends.
-
-**_Sickened._** The target has the Poisoned condition.
-
-### F Spells
-
-#### Fabricate
-
-*Level 4 Transmutation (Wizard)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, or clothes from flax or wool.
-
-Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot Cube or eight connected 5-foot Cubes) given a sufficient quantity of material. If you're working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a 5-foot Cube). The quality of any fabricated objects is based on the quality of the raw materials.
-
-Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill—such as weapons and armor—unless you have proficiency with the type of Artisan's Tools used to craft such objects.
-
-#### Faerie Fire
-
-*Level 1 Evocation (Bard, Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V 
-
-**Duration:** Concentration, up to 1 minute
-
-Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
-
-Attack rolls against an affected creature or object have Advantage if the attacker can see it.
-
-#### Faithful Hound
-
-*Level 4 Conjuration (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a silver whistle) 
-
-**Duration:** 8 hours
-
-You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.
-
-No one but you can see the hound, and it is intangible and invulnerable. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has Truesight with a range of 30 feet.
-
-At the start of each of your turns, the hound attempts to bite one enemy within 5 feet of it. That enemy must succeed on a Dexterity saving throw or take 4d8 Force damage.
-
-On your later turns, you can take a Magic action to move the hound up to 30 feet.
-
-#### False Life
-
-*Level 1 Necromancy (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a drop of alcohol) 
-
-**Duration:** Instantaneous
-
-You gain 2d4 + 4 Temporary Hit Points.
-
-**_Using a Higher-Level Spell Slot._** You gain 5 additional Temporary Hit Points for each spell slot level above 1.
-
-#### Fear
-
-*Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a white feather) 
-
-**Duration:** Concentration, up to 1 minute
-
-Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop whatever it is holding and have the Frightened condition for the duration.
-
-A Frightened creature takes the Dash action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.
-
-#### Feather Fall
-
-*Level 1 Transmutation (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Reaction, which you take when you or a creature you can see within 60 feet of you falls
-
-**Range:** 60 feet 
-
-**Components:** V, M (a small feather or piece of down) 
-
-**Duration:** 1 minute
-
-Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
-
-#### Find Familiar
-
-*Level 1 Conjuration (Wizard)*
-
-**Casting Time:** 1 hour or Ritual 
-
-**Range:** 10 feet 
-
-**Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes) 
-
-**Duration:** Instantaneous
-
-You gain the service of a familiar, a spirit that takes an animal form you choose: **Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel,** or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see "Monsters"), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
-
-**_Telepathic Connection._** While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
-
-Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a Reaction to deliver the touch when you cast the spell.
-
-**_Combat._** The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
-
-**_Disappearance of the Familiar._** When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
-
-**_One Familiar Only._** You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
-
-#### Find Steed
-
-*Level 2 Conjuration (Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Component:** V, S 
-
-**Duration:** Instantaneous
-
-You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the **Otherworldly Steed** stat block. If you already have a steed from this spell, the steed is replaced by the new one.
-
-The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever you cast the spell, choose the steed's creature type—Celestial, Fey, or Fiend which determines certain traits in the stat block.
-
-**_Combat._** The steed is an ally to you and your allies. In combat, it shares your Initiative count, and it functions as a controlled mount while you ride it (as defined in the rules on mounted combat). If you have the Incapacitated condition, the steed takes its turn immediately after yours and acts independently, focusing on protecting you.
-
-**_Disappearance of the Steed._** The steed disappears if it drops to 0 Hit Points or if you die. When it disappears, it leaves behind anything it was wearing or carrying. If you cast this spell again, you decide whether you summon the steed that disappeared or a different one.
-
-**_Using a Higher-Level Spell Slot._** Use the spell slot's level for the spell's level in the stat block.
-
-> #### **Otherworldly Steed**
+> **Языки** Драконий, понимает языки, которые знаете вы
 >
-> *Large Celestial, Fey, or Fiend (Your Choice), Neutral*
+> **ПО** Нет (ОП 0; бонус мастерства равен вашему)
 >
-> **AC** 10 + 1 per spell level
+> ##### Свойства
 >
-> **HP** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level)
+> **_Общее сопротивление._** Когда вы призываете духа, выберите одно из его сопротивлений. Вы получаете сопротивление к выбранному типу урона до окончания заклинания.
 >
-> **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
+> ##### Действия
 >
-> | Attribute | Score | Mod | Save |
-> |-----------|-------|-----|------|
-> | Str       | 18    | +4  | +4   |
-> | Dex       | 12    | +1  | +1   |
-> | Con       | 14    | +2  | +2   |
-> | Int       | 6     | -2  | -2   |
-> | Wis       | 12    | +1  | +1   |
-> | Cha       | 8     | -1  | -1   |
+> **_Мультиатака._** Дух совершает количество атак Разрыв, равное половине уровня заклинания (округляя вниз), и использует Дыхание.
 >
-> **Senses** Passive Perception 11
+> **_Разрыв. Атака оружием ближнего боя:_** Бонус равен вашему бонусу атаки заклинанием, досягаемость 10 фт. *Попадание:* 1d6 + 4 + уровень заклинания колющего урона.
 >
-> **Languages** Telepathy 1 mile (works only with you) 
->
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
->
-> ##### Traits
->
-> **_Life Bond._** When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you're within 5 feet of it.
->
-> ##### Actions
->
-> **_.Otherworldly Slam. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 5 ft. *Hit:* 1d8 plus the spell's level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
->
-> ##### Bonus Actions
->
-> **_Fell Glare (Fiend Only; Recharges after a Long Rest)._** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the Frightened condition until the end of your next turn.
->
-> **_Fey Step (Fey Only; Recharges after a Long Rest)._** The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
->
-> **Healing Touch (Celestial Only; Recharges after a Long Rest)._** One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell's level.
+> **_Дыхание. Спасбросок Ловкости:_** Сл равна Сл спасброска ваших заклинаний, каждое существо в конусе 30 фт. *Провал:* 2d6 урона того типа, к которому дух имеет сопротивление (ваш выбор при сотворении заклинания). *Успех:* Половина урона.
 
-#### **Find the Path**
+#### Сияющая кара
 
-*Level 6 Divination (Bard, Cleric, Druid)*
+*Преобразование 2-го уровня (Паладин)*
 
-**Casting Time:** 1 minute 
+**Время сотворения:** Бонусное действие, которое вы совершаете сразу после попадания по существу атакой оружием ближнего боя или безоружным ударом
 
-**Range:** Self 
+**Дистанция:** На себя
 
-**Components:** V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP) 
+**Компоненты:** В
 
-**Duration:** Concentration, up to 1 day
+**Длительность:** Концентрация, до 1 минуты
 
-You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon's lair").
+Цель, по которой вы попали, получает дополнительно 2d6 урона излучением от атаки. До окончания заклинания цель излучает яркий свет в радиусе 5 футов, броски атаки против неё совершаются с преимуществом, и она не может получить пользу от состояния «невидимый».
 
-For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. Whenever you face a choice of paths along the way there, you know which path is the most direct.
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 2-го.
 
-#### Find Traps
+#### Симулякр
 
-*Level 2 Divination (Cleric, Druid, Ranger)*
+*Иллюзия 7-го уровня (Волшебник)*
 
-**Casting Time:** Action 
+**Время сотворения:** 12 часов
 
-**Range:** 120 feet 
+**Дистанция:** Касание
 
-**Components:** V, S 
+**Компоненты:** В, С, М (порошок рубина стоимостью 1500+ зм, который заклинание расходует)
 
-**Duration:** Instantaneous
+**Длительность:** Пока не рассеется
 
-You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the *Alarm* or *Glyph of Warding* spell or a mechanical pit trap, but it wouldn't reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
+Вы создаёте симулякра одного зверя или гуманоида, который находится в пределах 10 футов от вас на протяжении всего сотворения заклинания. Вы завершаете сотворение, касаясь и существа, и кучи льда или снега того же размера, что и существо, и куча превращается в симулякра, который является существом. Он использует игровую статистику оригинального существа на момент сотворения, за исключением того, что он — конструкт, его максимум хитов вдвое меньше, и он не может сотворять это заклинание.
 
-This spell reveals that a trap is present but not its location. You do learn the general nature of the danger posed by a trap you sense.
+Симулякр дружелюбен к вам и существам, которых вы укажете. Он подчиняется вашим приказам и действует в вашем ходу в бою. Симулякр не может получать уровни, и он не может совершать короткий или продолжительный отдых.
 
-#### Finger of Death
+Если симулякр получает урон, единственный способ восстановить его хиты — это чинить его, пока вы совершаете продолжительный отдых, расходуя компоненты стоимостью 100 зм за каждый восстановленный хит. Симулякр должен оставаться в пределах 5 футов от вас для ремонта.
 
-*Level 7 Necromancy (Sorcerer, Warlock, Wizard)*
+Симулякр существует, пока его хиты не упадут до 0, после чего он превращается в снег и тает. Если вы сотворите это заклинание снова, любой симулякр, созданный вами этим заклинанием, мгновенно уничтожается.
 
-**Casting Time:** Action 
+#### Слякотный дождь
 
-**Range:** 60 feet 
+*Вызов 3-го уровня (Друид, Чародей, Волшебник)*
 
-**Components:** V, S 
+**Время сотворения:** Действие
 
-**Duration:** Instantaneous
+**Дистанция:** 150 футов
 
-You unleash negative energy toward a creature you can see within range. The target makes a Constitution saving throw, taking 7d8 + 30 Necrotic damage on a failed save or half as much damage on a successful one.
+**Компоненты:** В, С, М (миниатюрный зонтик)
 
-A Humanoid killed by this spell rises at the start of your next turn as a **Zombie** (see "Monsters") that follows your verbal orders.
+**Длительность:** Концентрация, до 1 минуты
 
-#### Fireball
+До окончания заклинания слякоть падает в цилиндре высотой 40 футов и радиусом 20 футов с центром в точке на ваш выбор в пределах дистанции. Область сильно заслонена, и открытые источники огня в области гаснут.
 
-*Level 3 Evocation (Sorcerer, Wizard)*
+Земля в цилиндре — труднопроходимая местность. Когда существо впервые за ход входит в цилиндр или начинает там свой ход, оно должно преуспеть в спасброске Ловкости, иначе получит состояние «лежащий» и потеряет концентрацию.
 
-**Casting Time:** Action 
+#### Смерч
 
-**Range:** 150 feet 
+*Воплощение 4-го уровня (Чародей, Волшебник)*
 
-**Components:** V, S, M (a ball of bat guano and sulfur) 
+**Время сотворения:** Действие
 
-**Duration:** Instantaneous
+**Дистанция:** 300 футов
 
-A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.
+**Компоненты:** В, С, М (кусочек соломы)
 
-Flammable objects in the area that aren't being worn or carried start burning.
+**Длительность:** Концентрация, до 1 минуты
 
-**Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 3.
+Завывающий порыв ветра выстреливает от вас в линию длиной 100 футов и шириной 10 футов в направлении на ваш выбор на время действия заклинания. Каждое существо в линии совершает спасбросок Силы. При провале существо получает 3d8 дробящего урона и отталкивается на 15 футов от вас в направлении, в котором шла линия. При успехе существо получает половину урона и не отталкивается.
 
-#### Fire Bolt
+В качестве бонусного действия в каждый свой ход до окончания заклинания вы можете изменить направление, в котором линия выстреливает от вас, и повторить эффект.
 
-*Evocation Cantrip (Sorcerer, Wizard)*
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 4-го.
 
-**Casting Time:** Action 
+#### Солнечный луч
 
-**Range:** 120 feet 
+*Воплощение 6-го уровня (Жрец, Друид, Чародей, Волшебник)*
 
-**Components:** V, S 
+**Время сотворения:** Действие
 
-**Duration:** Instantaneous
+**Дистанция:** На себя
 
-You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
+**Компоненты:** В, С, М (увеличительное стекло)
 
-**_Cantrip Upgrade._** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
+**Длительность:** Концентрация, до 1 минуты
 
-#### Fire Shield
+Вы выпускаете солнечный луч в линию шириной 5 футов и длиной 60 футов. Каждое существо в линии совершает спасбросок Телосложения. При провале существо получает 6d8 урона излучением и получает состояние «ослеплённый» до начала вашего следующего хода. При успехе оно получает только половину урона.
 
-*Level 4 Evocation (Druid, Sorcerer, Wizard)*
+До окончания заклинания вы можете совершить действие Магия, чтобы создать новую линию сияния.
 
-**Casting Time:** Action
+На время действия заклинания искра яркого сияния светит над вами. Она излучает яркий свет в радиусе 30 футов и тусклый свет ещё на 30 футов. Этот свет является солнечным светом.
 
-**Range:** Self
+#### Солнечный удар
 
-**Components:** V, S, M (a bit of phosphorus or a firefly) 
+*Воплощение 8-го уровня (Жрец, Друид, Чародей, Волшебник)*
 
-**Duration:** 10 minutes
+**Время сотворения:** Действие
 
-Wispy flames wreathe your body for the duration, shedding Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+**Дистанция:** 150 футов
 
-The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you Resistance to Cold damage, and the chill shield grants you Resistance to Fire damage.
+**Компоненты:** В, С, М (кусочек солнечного камня)
 
-In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes 2d8 Fire damage from a warm shield or 2d8 Cold damage from a chill shield.
+**Длительность:** Мгновенная
 
-#### Fire Storm
+Яркий солнечный свет вспыхивает в сфере радиусом 60 футов с центром в точке на ваш выбор в пределах дистанции. Каждое существо в сфере совершает спасбросок Телосложения. При провале существо получает 12d6 урона излучением и получает состояние «ослеплённый» на 1 минуту. При успехе оно получает только половину урона.
 
-*Level 7 Evocation (Cleric, Druid, Sorcerer)*
+Существо, ослеплённое этим заклинанием, совершает ещё один спасбросок Телосложения в конце каждого своего хода, оканчивая эффект при успехе.
 
-**Casting Time:** Action 
+Это заклинание рассеивает тьму в своей области, созданную любым заклинанием.
 
-**Range:** 150 feet 
+#### Сопровождение умирающего
 
-**Components:** V, S 
+*Заговор некромантии (Жрец, Друид)*
 
-**Duration:** Instantaneous
+**Время сотворения:** Действие
 
-A storm of fire appears within range. The area of the storm consists of up to ten 10-foot Cubes, which you arrange as you like. Each Cube must be contiguous with at least one other Cube. Each creature in the area makes a Dexterity saving throw, taking 7d10 Fire damage on a failed save or half as much damage on a successful one.
+**Дистанция:** 15 футов
 
-Flammable objects in the area that aren't being worn or carried start burning.
+**Компоненты:** В, С
 
-#### Flame Blade
+**Длительность:** Мгновенная
 
-*Level 2 Evocation (Druid, Sorcerer)*
+Выберите существо в пределах дистанции с 0 хитов, которое не мертво. Существо становится стабильным.
 
-**Casting Time:** Bonus Action 
+**_Улучшение заговора._** Дистанция удваивается, когда вы достигаете 5-го уровня (30 футов), 11-го уровня (60 футов) и 17-го уровня (120 футов).
 
-**Range:** Self 
+#### Сотворение нежити
 
-**Components:** V, S, M (a sumac leaf)
+*Некромантия 6-го уровня (Жрец, Колдун)*
 
-**Duration:** Concentration, up to 10 minutes 
+**Время сотворения:** 1 минута
 
-You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a Bonus Action.
+**Дистанция:** 10 футов
 
-As a Magic action, you can make a melee spell attack with the fiery blade. On a hit, the target takes Fire damage equal to 3d6 plus your spellcasting ability modifier.
+**Компоненты:** В, С, М (по одному глиняному горшку, наполненному кладбищенской землёй, и по одному глиняному горшку, наполненному солоноватой водой, для каждого трупа или кучи костей)
 
-The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
+**Длительность:** Мгновенная
 
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 2.
+Вы можете сотворить это заклинание, только когда хотя бы одна из лун Торила находится в фазе полнолуния.
 
-#### Flame Strike
+Выберите до трёх трупов гуманоидов размера Средний или Маленький в пределах дистанции. Каждый труп становится упырём под вашим контролем. Мастер имеет игровую статистику этих существ.
 
-*Level 5 Evocation (Cleric)*
+В каждый из ваших ходов вы можете бонусным действием мысленно приказать любому существу, созданному вами этим заклинанием, если существо находится в пределах 120 футов от вас. Вы определяете, какое действие существо предпримет и куда переместится в свой следующий ход, или вы можете отдать общий приказ. Если вы не отдаёте приказов, существо действует по своему усмотрению. Получив приказ, существо продолжает следовать ему, пока задача не будет выполнена.
 
-**Casting Time:** Action 
+Существо находится под вашим контролем в течение 24 часов, после чего перестаёт подчиняться вашим приказам. Чтобы сохранить контроль над существом ещё на 24 часа, вы должны сотворить это заклинание на него до истечения текущего 24-часового периода. Такое использование заклинания восстанавливает ваш контроль над тремя существами, а не создаёт новых.
 
-**Range:** 60 feet 
+**_Использование ячейки более высокого уровня._** За каждый уровень ячейки выше 6-го вы можете оживить или восстановить контроль над одним дополнительным трупом.
 
-**Components:** V, S, M (a pinch of sulfur) 
+#### Сотворение элементаля
 
-**Duration:** Instantaneous
+*Вызов 5-го уровня (Друид, Волшебник)*
 
-A vertical column of brilliant fire roars down from above. Each creature in a 10-foot-radius, 40-foothigh Cylinder centered on a point within range makes a Dexterity saving throw, taking 5d6 Fire damage and 5d6 Radiant damage on a failed save or half as much damage on a successful one.
+**Время сотворения:** 1 минута
 
-**_Using a Higher-Level Spell Slot._** The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
+**Дистанция:** 90 футов
 
-#### Flaming Sphere
+**Компоненты:** В, С, М (благовония для воздуха, мягкая глина для земли, сера и фосфор для огня или вода с песком для воды)
 
-*Level 2 Conjuration (Druid, Sorcerer, Wizard)*
+**Длительность:** Концентрация, до 1 часа
 
-**Casting Time:** Action 
+Вы призываете служителя-элементаля. Выберите область огня, земли, воздуха или воды, заполняющую куб с ребром 10 футов в пределах дистанции. Элементаль появляется в свободном пространстве в пределах 10 футов от этой области. См. «Монстры» для определения игровой статистики элементаля.
 
-**Range:** 60 feet 
+Элементаль дружелюбен к вам и вашим спутникам на время действия заклинания. Совершите бросок инициативы для элементаля, который действует в свои собственные ходы. Он подчиняется любой устной команде, которую вы ему отдаёте (действие не требуется). Если вы не отдаёте команд, элементаль защищается от враждебных существ, но не совершает других действий.
 
-**Components:** V, S, M (a ball of wax) 
+Когда заклинание заканчивается, элементаль не исчезает. Вместо этого вы теряете контроль над элементалем, и он становится враждебным к вам и вашим спутникам и может атаковать. Неконтролируемый элементаль не может быть изгнан вами, но исчезает через 1 час.
 
-**Duration:** Concentration, up to 1 minute
+Мастер имеет статистику элементаля.
 
-You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.
+**_Использование ячейки более высокого уровня._** За каждый уровень ячейки выше 5-го показатель опасности призванного элементаля увеличивается на 1.
 
-As a Bonus Action, you can move the sphere up to 30 feet, rolling it along the ground. If you move the sphere into a creature's space, that creature makes the save against the sphere, and the sphere stops moving for the turn.
+#### Сотворение феи
 
-When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start burning if touched by the sphere, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
+*Вызов 4-го уровня (Друид, Следопыт)*
 
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 2.
+**Время сотворения:** 1 минута
 
-#### Flesh to Stone
+**Дистанция:** 90 футов
 
-*Level 6 Transmutation (Druid, Sorcerer, Wizard)*
+**Компоненты:** В, С
 
-**Casting Time:** Action 
+**Длительность:** Концентрация, до 1 часа
 
-**Range:** 60 feet 
+Вы призываете существо-фею с показателем опасности 2 или меньше, или духа феи, который принимает форму зверя с показателем опасности 2 или меньше. Существо появляется в свободном пространстве, которое вы видите в пределах дистанции. Статистика духа феи такая же, как у выбранного зверя, но тип существа — фея, а не зверь.
 
-**Components:** V, S, M (a cockatrice feather) 
+Существо исчезает, когда его хиты падают до 0 или когда заклинание заканчивается.
 
-**Duration:** Concentration, up to 1 minute
+Существо дружелюбно к вам и вашим спутникам на время действия заклинания. Совершите бросок инициативы для существа, которое действует в свои собственные ходы. Оно подчиняется любой устной команде, которую вы ему отдаёте (действие не требуется). Если вы не отдаёте команд, существо защищается от враждебных существ, но не совершает других действий.
 
-You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the Restrained condition for the duration. On a successful save, its Speed is 0 until the start of your next turn. Constructs automatically succeed on the save.
+Мастер имеет статистику существа.
 
-A Restrained target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the Petrified condition for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.
+**_Использование ячейки более высокого уровня._** Показатель опасности существа увеличивается на 1 за каждый уровень ячейки выше 4-го.
 
-If you maintain your Concentration on this spell for the entire possible duration, the target is Petrified until the condition is ended by *Greater Restoration* or similar magic.
+#### Стена огня
 
-#### Floating Disk
+*Воплощение 4-го уровня (Друид, Чародей, Волшебник)*
 
-*Level 1 Conjuration (Wizard)*
+**Время сотворения:** Действие
 
-**Casting Time:** Action or Ritual 
+**Дистанция:** 120 футов
 
-**Range:** 30 feet 
+**Компоненты:** В, С, М (маленький кусочек фосфора)
 
-**Components:** V, S, M (a drop of mercury) 
+**Длительность:** Концентрация, до 1 минуты
 
-**Duration:** 1 hour
+Вы создаёте стену огня на твёрдой поверхности в пределах дистанции. Вы можете сделать стену до 60 футов в длину, 20 футов в высоту и 1 фут в толщину, или кольцом до 20 футов в диаметре, 20 футов в высоту и 1 фут в толщину. Стена непрозрачна и существует на время действия заклинания.
 
-This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
+Когда стена появляется, каждое существо в её области совершает спасбросок Ловкости. При провале существо получает 5d8 урона огнём или половину этого урона при успехе.
 
-The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can't cross an elevation change of 10 feet or more. For example, the disk can't move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.
+Одна сторона стены, выбранная вами при сотворении заклинания, наносит 5d8 урона огнём каждому существу, которое заканчивает свой ход в пределах 10 футов от этой стороны или внутри стены. Существо получает такой же урон, когда впервые за ход входит в стену. Другая сторона стены не наносит урона.
 
-If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 4-го.
 
-#### Fly
+#### Стена силы
 
-*Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
+*Воплощение 5-го уровня (Волшебник)*
 
-**Casting Time:** Action 
+**Время сотворения:** Действие
 
-**Range:** Touch 
+**Дистанция:** 120 футов
 
-**Components:** V, S, M (a feather)
+**Компоненты:** В, С, М (щепотка пыли)
 
-**Duration:** Concentration, up to 10 minutes You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
+**Длительность:** Концентрация, до 10 минут
 
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 3.
+Невидимая стена силы появляется в точке на ваш выбор в пределах дистанции. Стена ориентирована так, как вы выберете, как горизонтальный или вертикальный барьер или под углом. Она может быть свободно висящей или опираться на твёрдую поверхность. Вы можете сформировать её в полусферический купол или сферу радиусом до 10 футов, или вы можете сформировать плоскую поверхность, состоящую из десяти панелей размером 10 на 10 футов. Каждая панель должна соприкасаться с другой панелью. В любой форме стена толщиной 1/4 дюйма и существует на время действия заклинания. Если стена разрезает пространство существа при появлении, существо выталкивается на одну сторону стены (на ваш выбор).
 
-#### Fog Cloud
+Ничто не может физически пройти через стену. Она имеет иммунитет ко всем видам урона и не может быть рассеяна *Рассеиванием магии*. Заклинание *Распыление*, однако, мгновенно уничтожает стену. Стена также простирается в Эфирный план, блокируя эфирное перемещение через неё.
 
-*Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)*
+#### Стена тернов
 
-**Casting Time:** Action 
+*Вызов 6-го уровня (Друид)*
 
-**Range:** 120 feet 
+**Время сотворения:** Действие
 
-**Components:** V, S 
+**Дистанция:** 120 футов
 
-**Duration:** Concentration, up to 1 hour
+**Компоненты:** В, С, М (горсть шипов)
 
-You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by *Gust of Wind*) disperses it.
+**Длительность:** Концентрация, до 10 минут
 
-**_Using a Higher-Level Spell Slot._** The fog's radius increases by 20 feet for each spell slot level above 1.
+Вы создаёте стену из жёстких, гибких, переплетённых колючих кустарников, усеянных острыми как бритва шипами. Стена появляется в пределах дистанции на твёрдой поверхности и существует на время действия заклинания. Вы выбираете, чтобы стена была до 60 футов в длину, 10 футов в высоту и 5 футов в толщину или кругом диаметром до 20 футов и до 20 футов в высоту, с толщиной стенок до 5 футов. Стена блокирует линию обзора.
 
-#### Forbiddance
+Когда стена появляется, каждое существо в её области совершает спасбросок Ловкости. При провале существо получает 7d8 колющего урона или половину этого урона при успехе.
 
-*Level 6 Abjuration (Cleric)*
+Существо может двигаться через стену, хотя и медленно и болезненно. За каждый 1 фут движения через стену существо должно потратить 4 фута перемещения. Кроме того, существо в области стены совершает спасбросок Ловкости, когда впервые за ход входит в стену или когда заканчивает свой ход там. При провале существо получает 7d8 рубящего урона. При успехе существо получает половину этого урона.
 
-**Casting Time:** 10 minutes or Ritual 
+**_Использование ячейки более высокого уровня._** Оба вида урона увеличиваются на 1d8 за каждый уровень ячейки выше 6-го.
 
-**Range:** Touch 
+#### Страж веры
 
-**Components:** V, S, M (ruby dust worth 1,000+ GP) 
+*Вызов 4-го уровня (Жрец)*
 
-**Duration:** 1 day
+**Время сотворения:** Действие
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the *Gate* spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the *Plane Shift* spell.
+**Дистанция:** 30 футов
 
-In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. When a creature of a chosen type enters the spell's area for the first time on a turn or ends its turn there, the creature takes 5d10 Radiant or Necrotic damage (your choice when you cast this spell).
+**Компоненты:** В
 
-You can designate a password when you cast the spell. A creature that speaks the password as it enters the area takes no damage from the spell.
+**Длительность:** 8 часов
 
-The spell's area can't overlap with the area of another *Forbiddance* spell. If you cast *Forbiddance* every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
+Большой призрачный страж появляется и парит на время действия заклинания в свободном пространстве на ваш выбор, которое вы видите в пределах дистанции. Страж занимает это пространство и тускло сияет, заполняя ярким светом сферу радиусом 10 футов и тусклым светом ещё 10 футов.
 
-#### Forcecage
+Каждое существо, враждебное к вам, которое впервые за ход перемещается в пространство в пределах 10 футов от стража или начинает там свой ход, совершает спасбросок Ловкости. Существо получает 20 урона излучением при провале или 10 урона при успехе. Страж исчезает, когда он нанёс в общей сложности 60 урона.
 
-*Level 7 Evocation (Bard, Warlock, Wizard)*
+#### Страж природы
 
-**Casting Time:** Action **Range:** 100 feet **Components:** V, S, M (ruby dust worth 1,500+ GP, which the spell consumes) **Duration:** Concentration, up to 1 hour
+*Преобразование 4-го уровня (Друид, Следопыт)*
 
-An immobile, Invisible, Cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
+**Время сотворения:** Бонусное действие
 
-A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart. A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
+**Дистанция:** На себя
 
-When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside it, are pushed away from the center of the area until they are completely outside it.
+**Компоненты:** В
 
-A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave, it must first make a Charisma saving throw. On a successful save, the creature can use that magic to exit the cage. On a failed save, the creature doesn't exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
+**Длительность:** Концентрация, до 1 минуты
 
-This spell can't be dispelled by *Dispel Magic*.
+Дух природы отвечает на ваш зов и преобразует вас. Выберите одну из следующих форм, чтобы принять.
 
-#### Foresight
+**_Первозданный зверь._** Звериный дух вливается в вас, наделяя вас звериными чертами на ваш выбор. Ваша скорость ходьбы увеличивается на 10 футов. Вы получаете тёмное зрение на 120 футов. Вы совершаете с преимуществом атаки оружием ближнего боя.
 
-*Level 9 Divination (Bard, Druid, Warlock, Wizard)*
+**_Великое дерево._** Дух дерева вливается в вас, покрывая вашу кожу грубой корой и позволяя ветвям тянуться от вас. Вы получаете 10 временных хитов. Вы совершаете с преимуществом спасброски Телосложения. Вы совершаете с преимуществом спасброски против атак, основанных на Ловкости или Силе.
 
-**Casting Time:** 1 minute 
+#### Стрела кислоты
 
-**Range:** Touch 
+*Воплощение 2-го уровня (Волшебник)*
 
-**Components:** V, S, M (a hummingbird feather)
+**Время сотворения:** Действие
 
-**Duration:** 8 hours
+**Дистанция:** 90 футов
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has Advantage on D20 Tests, and other creatures have Disadvantage on attack rolls against it. The spell ends early if you cast it again.
+**Компоненты:** В, С, М (лист ревеня и желудок гадюки)
 
-#### Freedom of Movement
+**Длительность:** Мгновенная
 
-*Level 4 Abjuration (Bard, Cleric, Druid, Ranger)*
+Мерцающая зелёная стрела устремляется к цели в пределах дистанции и взрывается брызгами кислоты. Совершите дальнобойную атаку заклинанием против цели. При попадании цель получает 4d4 урона кислотой немедленно и 2d4 урона кислотой в конце своего следующего хода. При промахе стрела брызгает цель кислотой, и цель получает половину начального урона и не получает урона в конце своего следующего хода.
 
-**Casting Time:** Action 
+**_Использование ячейки более высокого уровня._** При сотворении этого заклинания с ячейкой 3-го уровня или выше оба вида урона увеличиваются на 1d4 за каждый уровень ячейки выше 2-го.
 
-**Range:** Touch 
+#### Страж духов
 
-**Components:** V, S, M (a leather strap)
+*Вызов 3-го уровня (Жрец)*
 
-kj**Duration:** 1 hour
+**Время сотворения:** Действие
 
-You touch a willing creature. For the duration, the target's movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce the target's Speed nor cause the target to have the Paralyzed or Restrained conditions. The target also has a Swim Speed equal to its Speed.
+**Дистанция:** На себя
 
-In addition, the target can spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the Grappled condition on it.
+**Компоненты:** В, С, М (молитвенный свиток)
 
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 4.
+**Длительность:** Концентрация, до 10 минут
 
-### Freezing Sphere
+Духи-защитники порхают вокруг вас в эманации радиусом 15 футов на время действия заклинания. Если вы добрый или нейтральный, их спектральная форма выглядит ангельской или фейской (на ваш выбор). Если вы злой, они выглядят исчадиями.
 
-*Level 6 Evocation (Sorcerer, Wizard)*
+Когда вы сотворяете это заклинание, вы можете указать существ, на которых оно не действует. Скорость любого другого существа уменьшается вдвое в эманации, и каждый раз, когда эманация входит в пространство существа и когда существо входит в эманацию или заканчивает там свой ход, оно должно совершить спасбросок Мудрости. При провале существо получает 3d8 урона излучением (если вы добрый или нейтральный) или 3d8 урона некротической энергией (если вы злой). При успехе существо получает половину этого урона. Существо совершает этот спасбросок только один раз в ход.
 
-**Casting Time:** Action 
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 3-го.
 
-**Range:** 300 feet 
+#### Сфера кислоты
 
-**Components:** V, S, M (a miniature crystal sphere) 
+*Воплощение 4-го уровня (Чародей, Волшебник)*
 
-**Duration:** Instantaneous
+**Время сотворения:** Действие
 
-A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius Sphere. Each creature in that area makes a Constitution saving throw, taking 10d6 Cold damage on failed save or half as much damage on a successful one.
+**Дистанция:** 150 футов
 
-If the globe strikes a body of water, it freezes the water to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice and have the Restrained condition. A trapped creature can take an action to make a Strength (Athletics) check against your spell save DC to break free.
+**Компоненты:** В, С, М (капля желчи)
 
-You can refrain from firing the globe after completing the spell's casting. If you do so, a globe about the size of a sling bullet, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as a normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
+**Длительность:** Мгновенная
 
-*Using a Higher-Level Spell Slot.* The damage increases by 1d6 for each spell slot level above 6.
+Вы указываете на точку в пределах дистанции, и светящийся шар кислоты диаметром 1 фут устремляется туда и взрывается в сфере радиусом 20 футов. Каждое существо в этой области совершает спасбросок Ловкости. При провале существо получает 10d4 урона кислотой и ещё 5d4 урона кислотой в конце своего следующего хода. При успехе существо получает только половину начального урона.
 
-### G Spells
+**_Использование ячейки более высокого уровня._** Начальный урон увеличивается на 2d4 за каждый уровень ячейки выше 4-го.
 
-#### Gaseous Form
+### Заклинания на букву Т
 
-*Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
+#### Тауматургия
 
-**Casting Time:** Action 
+*Заговор преобразования (Жрец)*
 
-**Range:** Touch 
+**Время сотворения:** Действие
 
-**Components:** V, S, M (a bit of gauze) 
+**Дистанция:** 30 футов
 
-**Duration:** Concentration, up to 1 hour
+**Компоненты:** В
 
-A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.
+**Длительность:** До 1 минуты
 
-While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has Advantage on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
+Вы проявляете малое чудо в пределах дистанции. Вы создаёте один из эффектов ниже в пределах дистанции. Если вы сотворяете это заклинание несколько раз, вы можете иметь до трёх его минутных эффектов активными одновременно.
 
-The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
+**_Изменённые глаза._** Вы изменяете внешний вид своих глаз на 1 минуту.
 
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 3.
+**_Громовой голос._** Ваш голос гремит до трёх раз громче обычного на 1 минуту. На это время вы совершаете с преимуществом проверки Харизмы (Запугивание).
 
-#### Gate
+**_Игра с огнём._** Вы заставляете пламя мерцать, становиться ярче, тускнеть или менять цвет на 1 минуту.
 
-*Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)*
+**_Невидимая рука._** Вы мгновенно заставляете незапертую дверь или окно распахнуться или захлопнуться.
 
-**Casting Time:** Action 
+**_Призрачный звук._** Вы создаёте мгновенный звук, исходящий из точки на ваш выбор в пределах дистанции, например раскат грома, крик ворона или зловещий шёпот.
 
-**Range:** 60 feet 
+**_Дрожь._** Вы вызываете безвредную дрожь земли на 1 минуту.
 
-**Components:** V, S, M (a diamond worth 5,000+ GP) 
+#### Телекинез
 
-**Duration:** Concentration, up to 1 minute
+*Преобразование 5-го уровня (Чародей, Волшебник)*
 
-You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal's destination is visible through it.
+**Время сотворения:** Действие
 
-The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.
+**Дистанция:** 60 футов
 
-Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.
+**Компоненты:** В, С
 
-When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you.
+**Длительность:** Концентрация, до 10 минут
 
-#### Geas
+Вы получаете способность перемещать существа или объекты мыслью. Когда вы сотворяете заклинание и действием Магия в последующие ходы до окончания заклинания, вы можете воздействовать на одно существо или объект, который видите в пределах дистанции, создавая соответствующий эффект ниже. Вы можете воздействовать на одну и ту же цель раунд за раундом или выбрать новую в любое время. Если вы переключаете цели, предыдущая цель больше не затрагивается заклинанием.
 
-*Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
+**_Существо._** Вы можете попытаться переместить существо размера Огромный или меньше. Цель должна преуспеть в спасброске Силы, иначе вы перемещаете её на расстояние до 30 футов в любом направлении в пределах дистанции заклинания. До конца вашего следующего хода существо получает состояние «обездвиженный», и если вы поднимаете его в воздух, оно зависает там. Оно падает в конце вашего следующего хода, если вы не используете эту опцию на нём снова и оно не провалит спасбросок.
 
-**Casting Time:** 1 minute 
+**_Объект._** Вы можете попытаться переместить объект размера Огромный или меньше. Если объект никто не носит и не несёт, вы автоматически перемещаете его на расстояние до 30 футов в любом направлении в пределах дистанции заклинания.
 
-**Range:** 60 feet 
+Если объект носит или несёт существо, это существо должно преуспеть в спасброске Силы, иначе вы вырываете объект и перемещаете его на расстояние до 30 футов в любом направлении в пределах дистанции заклинания.
 
-**Components:** V 
+Вы можете осуществлять тонкий контроль над объектами с помощью телекинетической хватки, например, манипулировать простым инструментом.
 
-**Duration:** 30 days
+#### Телепатическая связь
 
-You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can't understand your command.
+*Прорицание 5-го уровня (Бард, Волшебник)*
 
-While Charmed, the creature takes 5d10 Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.
+**Время сотворения:** Действие или ритуал
 
-You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
+**Дистанция:** 30 футов
 
-A *Remove Curse*, *Greater Restoration*, or *Wish* spell ends this spell.
+**Компоненты:** В, С, М (два яйца)
 
-**_Using a Higher-Level Spell Slot._** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
+**Длительность:** 1 час
 
-#### Gentle Repose
+Вы устанавливаете телепатическую связь между до восьми согласными существами на ваш выбор в пределах дистанции, психически связывая каждое существо со всеми остальными на время действия заклинания. Существа, которые не могут общаться ни на каком языке, не затрагиваются этим заклинанием.
 
-*Level 2 Necromancy (Cleric, Paladin, Wizard)*
+До окончания заклинания цели могут общаться телепатически через связь, независимо от того, говорят ли они на одном языке. Связь возможна на любом расстоянии, хотя не распространяется на другие планы существования.
 
-**Casting Time:** Action or Ritual
+#### Телепорт
 
-**Range:** Touch 
+*Вызов 7-го уровня (Бард, Чародей, Волшебник)*
 
-**Components:** V, S, M (2 Copper Pieces, which the spell consumes) 
+**Время сотворения:** Действие
 
-**Duration:** 10 days
+**Дистанция:** 10 футов
 
-You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead.
+**Компоненты:** В
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as *Raise Dead*.
+**Длительность:** Мгновенная
 
-#### Giant Insect
+Это заклинание мгновенно переносит вас и до восьми согласных существ, которых вы видите в пределах дистанции, или один объект, который вы видите в пределах дистанции, к месту назначения по вашему выбору. Если вы нацеливаетесь на объект, он должен быть размера Большой или меньше и не должен носиться или нестись несогласным существом.
 
-*Level 4 Conjuration (Druid)*
+Место назначения, которое вы выбираете, должно быть вам известно и должно находиться на том же плане существования, что и вы. Ваше знакомство с местом назначения определяет, прибудете ли вы туда успешно. Мастер бросает 1d100 и сверяется с таблицей результатов телепортации и пояснениями после неё.
 
-**Casting Time:** Action 
+| Знакомство | Несчастье | Похожая область | Промах | В цель |
+|------------|-----------|-----------------|--------|--------|
+| Постоянный круг | — | — | — | 01–00 |
+| Связанный объект | — | — | — | 01–00 |
+| Очень знакомо | 01–05 | 06–13 | 14–24 | 25–00 |
+| Видели мельком | 01–33 | 34–43 | 44–53 | 54–00 |
+| Видели раз или по описанию | 01–43 | 44–53 | 54–73 | 74–00 |
+| Ложное место | 01–50 | 51–00 | — | — |
 
-**Range:** 60 feet 
+**_Несчастье._** Непредсказуемая магия заклинания приводит к трудному путешествию. Каждое телепортируемое существо (или объект-цель) получает 3d10 урона силовым полем, и Мастер перебрасывает по таблице, чтобы узнать, куда вы попали (возможно несколько несчастий, каждое наносит урон).
 
-**Components:** V, S 
+**_Похожая область._** Вы и ваша группа (или объект-цель) появляетесь в другой области, визуально или тематически похожей на целевую область.
 
-**Duration:** Concentration, up to 10 minutes
+**_Промах._** Вы и ваша группа (или объект-цель) появляетесь в 2d12 милях от места назначения в случайном направлении.
 
-You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the **Giant Insect** stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+**_В цель._** Вы и ваша группа (или объект-цель) появляетесь там, где планировали.
 
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
+#### Телепортационный круг
 
-**_Using a Higher-Level Spell Slot._** Use the spell slot's level for the spell's level in the stat block.
+*Вызов 5-го уровня (Бард, Чародей, Колдун, Волшебник)*
 
-> #### Giant Insect
->
-> *Large Beast, Unaligned*
->
-> **AC** 11 + the spell's level
->
-> **HP** 30 + 10 for each spell level above 4 
->
-> **Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
->
-> | Attribute | Score | Mod | Save |
-> |-----------|-------|-----|------|
-> | Str       | 17    | +3  | +3   |
-> | Dex       | 13    | +1  | +1   |
-> | Con       | 15    | +2  | +2   |
-> | Int       | 4     | -3  | -3   |
-> | Wis       | 14    | +2  | +2   |
-> | Cha       | 3     | -4  | -4   |
->
-> **Senses** Darkvision 60 ft.; Passive Perception 12 
->
-> **Languages** Understands the languages you know 
->
-> **CR** None (XP 0; PB equals your Proficiency Bonus)
->
-> ##### Traits
->
-> **_Spider Climb._** The insect can climb difficult surfaces, including along ceilings, without needing to make an ability check.
->
-> ##### Actions
->
-> **_Multiattack._** The insect makes a number of attacks equal to half this spell's level (round down).
->
-> **_Poison Jab. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 10 ft. *Hit:* 1d6 + 3 plus the spell's level Piercing damage plus 1d4 Poison damage.
->
-> **Web Bolt (Spider Only). Ranged Attack Roll:_** Bonus equals your spell attack modifier, range 60 ft. *Hit:* 1d10 + 3 plus the spell's level Bludgeoning damage, and the target's Speed is reduced to 0 until the start of the insect's next turn.
->
-> ##### Bonus Actions
->
-> **Venomous Spew (Centipede Only). Constitution Saving Throw:_** Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the Poisoned condition until the start of the insect's next turn.
+**Время сотворения:** 1 минута
 
-#### Glibness
+**Дистанция:** 10 футов
 
-*Level 8 Enchantment (Bard, Warlock)*
+**Компоненты:** В, М (редкие чернила стоимостью 50+ зм, которые заклинание расходует)
 
-**Casting Time:** Action 
+**Длительность:** 1 раунд
 
-**Range:** Self 
+Сотворяя это заклинание, вы рисуете круг радиусом 5 футов на земле, вписывая символы, которые связывают ваше местоположение с постоянным телепортационным кругом по вашему выбору, последовательность символов которого вы знаете и который находится на том же плане существования, что и вы. Мерцающий портал открывается внутри нарисованного вами круга и остаётся открытым до конца вашего следующего хода. Любое существо, входящее в портал, мгновенно появляется в пределах 5 футов от круга назначения или в ближайшем свободном пространстве, если это место занято.
 
-**Components:** V 
+Многие крупные храмы, гильдии и другие важные места имеют постоянные телепортационные круги. Каждый круг включает уникальную последовательность символов — строку рун, расположенных в определённом порядке.
 
-**Duration:** 1 hour
+Когда вы впервые получаете способность сотворять это заклинание, вы узнаёте последовательности символов для двух мест назначения на Материальном плане, определённых Мастером. Вы можете узнать дополнительные последовательности символов во время своих приключений. Вы можете запомнить новую последовательность символов после её изучения в течение 1 минуты.
 
-Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
+Вы можете создать постоянный телепортационный круг, сотворяя это заклинание в одном и том же месте каждый день в течение 365 дней.
 
-#### Globe of Invulnerability
+#### Тихий шаг по дереву
 
-*Level 6 Abjuration (Sorcerer, Wizard)*
+*Вызов 5-го уровня (Друид, Следопыт)*
 
-**Casting Time:** Action 
+**Время сотворения:** Действие
 
-**Range:** Self
+**Дистанция:** На себя
 
-**Components:** V, S, M (a glass bead)
+**Компоненты:** В, С
 
-**Duration:** Concentration, up to 1 minute
+**Длительность:** Концентрация, до 1 минуты
 
-An immobile, shimmering barrier appears in a 10 foot Emanation around you and remains for the duration.
+Вы получаете способность входить в дерево и перемещаться изнутри него внутрь другого дерева того же вида в пределах 500 футов. Оба дерева должны быть живыми и по меньшей мере того же размера, что и вы. Вы должны использовать 5 футов перемещения, чтобы войти в дерево. Вы мгновенно узнаёте местоположение всех других деревьев того же вида в пределах 500 футов и, как часть перемещения, использованного для входа в дерево, можете либо войти в одно из этих деревьев, либо выйти из дерева, в котором находитесь. Вы появляетесь в месте на ваш выбор в пределах 5 футов от дерева назначения, используя ещё 5 футов перемещения. Если у вас не осталось перемещения, вы появляетесь в пределах 5 футов от дерева, в которое вошли.
 
-Any spell of level 5 or lower cast from outside the barrier can't affect anything within it. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from areas of effect created by such spells.
+Вы можете использовать эту способность перемещения только один раз в каждый свой ход. Вы должны заканчивать каждый ход вне дерева.
 
-**_Using a Higher-Level Spell Slot._** The barrier blocks spells of 1 level higher for each spell slot level above 6.
+#### Тьма
 
-#### Glyph of Warding
+*Воплощение 2-го уровня (Чародей, Колдун, Волшебник)*
 
-*Level 3 Abjuration (Bard, Cleric, Wizard)*
+**Время сотворения:** Действие
 
-**Casting Time:** 1 hour 
+**Дистанция:** 60 футов
 
-**Range:** Touch 
+**Компоненты:** В, М (меховая шерсть, обёрнутая в ткань)
 
-**Components:** V, S, M (powdered diamond worth 200+ GP, which the spell consumes) 
+**Длительность:** Концентрация, до 10 минут
 
-**Duration:** Until dispelled or triggered
+Магическая тьма распространяется из точки на ваш выбор в пределах дистанции, заполняя сферу радиусом 15 футов и распространяясь за углы. Тьма существует на время действия заклинания. Существо с тёмным зрением не может видеть сквозь эту тьму. Немагический свет не может осветить её.
 
-You inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+Если точка, которую вы выбрали, находится на объекте, который вы держите или который никто не носит и не несёт, тьма излучается от объекта и перемещается вместе с ним. Полное закрытие источника тьмы объектом, например миской или шлемом, блокирует тьму.
 
-The glyph is nearly imperceptible and requires a successful Wisdom (Perception) check against your spell save DC to notice.
+Если любая область этого заклинания перекрывается с областью света, созданного заклинанием 2-го уровня или ниже, заклинание, создавшее свет, рассеивается.
 
-When you inscribe the glyph, you set its trigger and choose whether it's an explosive rune or a spell glyph, as explained below.
+#### Удушающее облако
 
-**_Set the Trigger._** You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph. Once a glyph is triggered, this spell ends.
+*Вызов 3-го уровня (Бард, Чародей, Волшебник)*
 
-You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
+**Время сотворения:** Действие
 
-**_Explosive Rune._** When triggered, the glyph erupts with magical energy in a 20-foot-radius Sphere centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes 5d8 Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
+**Дистанция:** 90 футов
 
-**_Spell Glyph._** You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way.
+**Компоненты:** В, С, М (тухлое яйцо)
 
-When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons Hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires Concentration, it lasts until the end of its full duration.
+**Длительность:** Концентрация, до 1 минуты
 
-**_Using a Higher-Level Spell Slot._** The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the *Glyph of Warding*.
+Вы создаёте сферу жёлтого тошнотворного газа радиусом 20 футов с центром в точке в пределах дистанции. Облако сильно заслоняет. Облако висит в воздухе на время действия заклинания или пока сильный ветер (например, созданный *Порывом ветра*) не рассеет его.
 
-#### Goodberry
+Каждое существо, которое начинает свой ход в сфере, должно преуспеть в спасброске Телосложения, иначе получит состояние «отравленный» до конца текущего хода. Будучи отравленным таким образом, существо не может совершать действие или бонусное действие.
 
-*Level 1 Conjuration (Druid, Ranger)*
+#### Цунами
 
-**Casting Time:** Action 
+*Вызов 8-го уровня (Друид)*
 
-**Range:** Self 
+**Время сотворения:** 1 минута
 
-**Components:** V, S, M (a sprig of mistletoe) 
+**Дистанция:** 1 миля
 
-**Duration:** 24 hours
+**Компоненты:** В, С
 
-Ten berries appear in your hand and are infused with magic for the duration. A creature can take a Bonus Action to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.
+**Длительность:** Концентрация, до 6 раундов
 
-Uneaten berries disappear when the spell ends.
+Стена воды возникает в точке на ваш выбор в пределах дистанции. Вы можете сделать стену до 300 футов в длину, 300 футов в высоту и 50 футов в толщину. Стена существует на время действия заклинания.
 
-#### Grease
+Когда стена появляется, каждое существо в её области совершает спасбросок Силы, получая 6d10 дробящего урона при провале или половину этого урона при успехе.
 
-*Level 1 Conjuration (Sorcerer, Wizard)*
+В начале каждого из ваших ходов после появления стены стена вместе с существами в ней перемещается на 50 футов от вас. Любое существо размера Огромный или меньше внутри стены или в пространство которого входит стена при перемещении, должно преуспеть в спасброске Силы, иначе получит 5d10 дробящего урона. Существо может получить этот урон только один раз за раунд. В конце хода высота стены уменьшается на 50 футов, и урон, который стена наносит в последующие раунды, уменьшается на 1d10. Когда стена достигает высоты 0 футов, заклинание заканчивается.
 
-**Casting Time:** Action 
+Существо, захваченное стеной, может перемещаться, плавая. Однако из-за силы волны существо должно преуспеть в проверке Силы (Атлетика) против Сл спасброска ваших заклинаний, чтобы вообще двигаться. Если оно проваливает проверку, оно не может двигаться. Существо, которое выбирается из стены, падает на землю.
 
-**Range:** 60 feet 
+#### Уничтожение нежити
 
-**Components:** V, S, M (a bit of pork rind or butter) 
+*Ограждение 5-го уровня (Жрец, Паладин)*
 
-**Duration:** 1 minute
+**Время сотворения:** Действие
 
-Nonflammable grease covers the ground in a 10 foot square centered on a point within range and turns it into Difficult Terrain for the duration.
+**Дистанция:** 30 футов
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
+**Компоненты:** В, С
 
-#### Greater Invisibility
+**Длительность:** Мгновенная
 
-*Level 4 Illusion (Bard, Sorcerer, Wizard)*
+Каждая нежить, которая может видеть или слышать вас в пределах 30 футов от вас, должна совершить спасбросок Мудрости. При провале существо получает 8d6 урона излучением и получает состояние «испуганный» на 1 минуту. При успехе оно получает половину этого урона и не испугано. Существо, провалившее спасбросок, может повторять его в конце каждого своего хода, оканчивая эффект при успехе.
 
-**Casting Time:** Action 
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 2d6 за каждый уровень ячейки выше 5-го.
 
-**Range:** Touch 
+#### Хождение по воде
 
-**Components:** V, S 
+*Преобразование 3-го уровня (Друид, Следопыт, Чародей, Волшебник)*
 
-**Duration:** Concentration, up to 1 minute A creature you touch has the Invisible condition until the spell ends.
+**Время сотворения:** Действие или ритуал
 
-#### Greater Restoration
+**Дистанция:** 30 футов
 
-*Level 5 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+**Компоненты:** В, С, М (кусочек пробки)
 
-**Casting Time:** Action 
+**Длительность:** 1 час
 
-**Range:** Touch 
+Это заклинание даёт до десяти согласным существам в пределах дистанции способность передвигаться по любой жидкой поверхности — такой как вода, кислота, грязь, снег, зыбучие пески или лава — как если бы это была безвредная твёрдая поверхность (существа, идущие по расплавленной лаве, всё равно могут получить урон от жара). Существо, погружённое в жидкость при получении этой способности, всплывает со скоростью 60 футов за раунд.
 
-**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes) 
+Затронутая цель должна совершить бонусное действие, чтобы перейти с поверхности жидкости в саму жидкость и наоборот, но если цель падает в жидкость, она проходит сквозь поверхность в жидкость под ней.
 
-**Duration:** Instantaneous
+#### Ш
 
-You touch a creature and magically remove one of the following effects from it:
+#### Шоковый захват
 
-- 1 Exhaustion level
-- The Charmed or Petrified condition
-- A curse, including the target's Attunement to a cursed magic item
-- Any reduction to one of the target's ability scores
-- Any reduction to the target's Hit Point maximum
+*Заговор воплощения (Чародей, Волшебник)*
 
-#### Guardian of Faith
+**Время сотворения:** Действие
 
-*Level 4 Conjuration (Cleric)*
+**Дистанция:** Касание
 
-**Casting Time:** Action 
+**Компоненты:** В, С
 
-**Range:** 30 feet 
+**Длительность:** Мгновенная
 
-**Components:** V 
+Молния вырывается из вас к существу, которое вы пытаетесь коснуться. Совершите атаку заклинанием ближнего боя против цели. При попадании цель получает 1d8 урона электричеством и не может совершать провоцированные атаки до начала своего следующего хода.
 
-**Duration:** 8 hours
+**_Улучшение заговора._** Урон увеличивается на 1d8, когда вы достигаете 5-го уровня (2d8), 11-го уровня (3d8) и 17-го уровня (4d8).
 
-A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.
+#### Шёпот безумия
 
-Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
+*Очарование 5-го уровня (Бард, Колдун)*
 
-#### Guards and Wards
+**Время сотворения:** Действие
 
-*Level 6 Abjuration (Bard, Wizard)*
+**Дистанция:** 60 футов
 
-**Casting Time:** 1 hour 
+**Компоненты:** В
 
-**Range:** Touch 
+**Длительность:** Концентрация, до 10 минут
 
-**Components:** V, S, M (a silver rod worth 10+ GP) 
+Вы шепчете мощные слова, которые несут безумие. Выберите до трёх существ в пределах дистанции. Каждая цель совершает спасбросок Мудрости. При провале цель одержима вами на время действия заклинания. Одержимая цель атакует существо по вашему выбору бонусным действием в начале своего хода, если может видеть это существо.
 
-**Duration:** 24 hours
+При успехе цель получает 5d6 урона психической энергией и знает, что вы пытались подчинить её.
 
-You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
+В конце каждого хода одержимая цель повторяет спасбросок, оканчивая эффект при успехе.
 
-When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 5-го.
 
-The spell creates the effects below within the warded area. *Dispel Magic* has no effect on *Guards and Wards* itself, but each of the following effects can be dispelled. If all four are dispelled, *Guards and Wards* ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.
+#### Э
 
-**_Corridors._** Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses.
+#### Эхо смерти
 
-**_Doors._** All doors in the warded area are magically locked, as if sealed by the *Arcane Lock* spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
+*Иллюзия 9-го уровня (Колдун, Волшебник)*
 
-**_Stairs._** Webs fill all stairs in the warded area from top to bottom, as in the *Web* spell. These strands regrow in 10 minutes if they are destroyed while *Guards and Wards* lasts.
+**Время сотворения:** Действие
 
-**_Other Spell Effect._** Place one of the following magical effects within the warded area:
+**Дистанция:** 120 футов
 
-- *Dancing Lights* in four corridors, with a simple program that the lights repeat as long as *Guards and Wards* lasts
-- *Magic Mouth* in two locations
-- *Stinking Cloud* in two locations (the vapors return within 10 minutes if dispersed while *Guards and Wards* lasts)
-- *Gust of Wind* in one corridor or room (the wind blows continuously while the spell lasts)
-- *Suggestion* in one 5-foot square; any creature that enters that square receives the suggestion mentally
+**Компоненты:** В, С
 
-#### Guidance
+**Длительность:** Концентрация, до 1 минуты
 
-*Divination Cantrip (Cleric, Druid)*
+Вы пытаетесь создать иллюзорный ужас в разумах других. Каждое существо на ваш выбор в сфере радиусом 30 футов с центром в точке в пределах дистанции совершает спасбросок Мудрости. При провале цель получает 10d10 урона психической энергией и получает состояние «испуганный» на время действия заклинания. При успехе цель получает только половину этого урона.
 
-**Casting Time:** Action 
+Испуганная цель совершает спасбросок Мудрости в конце каждого своего хода. При провале она получает 5d10 урона психической энергией. При успехе заклинание заканчивается для этой цели.
 
-**Range:** Touch 
+#### Я
 
-**Component:** V, S 
+#### Языки
 
-**Duration:** Concentration, up to 1 minute
+*Прорицание 3-го уровня (Бард, Жрец, Чародей, Колдун, Волшебник)*
 
-You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
+**Время сотворения:** Действие
 
-#### Guiding Bolt
+**Дистанция:** Касание
 
-*Level 1 Evocation (Cleric)*
+**Компоненты:** В, М (миниатюрный зиккурат)
 
-**Casting Time:** Action 
+**Длительность:** 1 час
 
-**Range:** 120 feet 
+Это заклинание даёт существу, которого вы касаетесь, способность понимать любой устный или жестовый язык, который оно слышит или видит. Более того, когда цель общается устно или жестами, любое существо, знающее хотя бы один язык, может понять её, если это существо может слышать речь или видеть жесты.
 
-**Components:** V, S 
+#### Язвительная насмешка
 
-**Duration:** 1 round
+*Заговор очарования (Бард)*
 
-You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 Radiant damage, and the next attack roll made against it before the end of your next turn has Advantage.
+**Время сотворения:** Действие
 
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
+**Дистанция:** 60 футов
 
-#### Gust of Wind
+**Компоненты:** В
 
-*Level 2 Evocation (Druid, Ranger, Sorcerer, Wizard)*
+**Длительность:** Мгновенная
 
-**Casting Time:** Action 
+Вы обрушиваете поток оскорблений, наполненных тонкими чарами, на одно существо, которое видите или слышите в пределах дистанции. Цель должна преуспеть в спасброске Мудрости, иначе она получит 1d6 урона психической энергией и совершает с помехой следующий бросок атаки до конца своего следующего хода.
 
-**Range:** Self 
+**_Улучшение заговора._** Урон увеличивается на 1d6, когда вы достигаете 5-го уровня (2d6), 11-го уровня (3d6) и 17-го уровня (4d6).
 
-**Components:** V, S, M (a legume seed) 
+### Дополнительные заклинания
 
-**Duration:** Concentration, up to 1 minute
+#### Дыхание под водой
 
-A Line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the Line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the Line. A creature that ends its turn in the Line must make the same save.
+*Преобразование 3-го уровня (Друид, Следопыт, Чародей, Волшебник)*
 
-Any creature in the Line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
+**Время сотворения:** Действие или ритуал
 
-The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
+**Дистанция:** 30 футов
 
-As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
+**Компоненты:** В, С, М (короткая тростинка)
 
-### H Spells
+**Длительность:** 24 часа
 
-#### Hallow
+Это заклинание даёт до десяти согласным существам на ваш выбор в пределах дистанции способность дышать под водой до окончания заклинания. Затронутые существа также сохраняют свой обычный способ дыхания.
 
-*Level 5 Abjuration (Cleric)*
+#### Защитные узы
 
-**Casting Time:** 24 hours
+*Ограждение 2-го уровня (Жрец, Паладин)*
 
-**Range:** Touch
+**Время сотворения:** Действие
 
-**Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
+**Дистанция:** Касание
 
-**Duration:** Until dispelled
+**Компоненты:** В, С, М (пара платиновых колец стоимостью 50+ зм каждое, которые вы и цель должны носить на время действия заклинания)
 
-You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of *Hallow*. The affected area has the following effects.
+**Длительность:** 1 час
 
-**_Hallowed Ward._** Choose any of these creature types: Aberration, Celestial, Elemental, Fey, Fiend, or Undead. Creatures of the chosen types can't willingly enter the area, and any creature that is possessed by or that has the Charmed or Frightened condition from such creatures isn't possessed, Charmed, or Frightened by them while in the area.
+Вы касаетесь другого согласного существа и создаёте мистическую связь между вами и целью до окончания заклинания. Пока цель находится в пределах 60 футов от вас, она получает бонус +1 к КД и спасброскам и получает сопротивление ко всем видам урона. Также каждый раз, когда она получает урон, вы получаете такой же урон.
 
-**_Extra Effect._** You bind an extra effect to the area from the list below:
+Заклинание заканчивается, если ваши хиты падают до 0 или если вы и цель оказываетесь на расстоянии более 60 футов друг от друга. Оно также заканчивается, если заклинание сотворяется снова на любое из связанных существ.
 
-**_Courage._** Creatures of any types you choose can't gain the Frightened condition while in the area.
+#### Зона правды
 
-**_Darkness._** Darkness fills the area. Normal light, as well as magical light created by spells of a level lower than this spell, can't illuminate the area.
+*Очарование 2-го уровня (Бард, Жрец, Паладин)*
 
-**_Daylight._** Bright light fills the area. Magical Darkness created by spells of a level lower than this spell can't extinguish the light.
+**Время сотворения:** Действие
 
-**_Peaceful Rest._** Dead bodies interred in the area can't be turned into Undead.
+**Дистанция:** 60 футов
 
-**_Extradimensional Interference._** Creatures of any types you choose can't enter or exit the area using teleportation or interplanar travel.
+**Компоненты:** В, С
 
-**_Fear._** Creatures of any types you choose have the Frightened condition while in the area.
+**Длительность:** 10 минут
 
-**_Resistance._** Creatures of any types you choose have Resistance to one damage type of your choice while in the area.
+Вы создаёте магическую зону, защищающую от обмана, в сфере радиусом 15 футов с центром в точке в пределах дистанции. До окончания заклинания существо, которое впервые за ход входит в область заклинания или начинает там свой ход, совершает спасбросок Харизмы. При провале существо не может сознательно лгать, находясь в радиусе. Вы знаете, преуспело существо или провалило этот спасбросок.
 
-**_Silence._** No sound can emanate from within the area, and no sound can reach into it.
+Затронутое существо осознаёт заклинание и может избегать ответов на вопросы, на которые оно обычно отвечало бы ложью. Такое существо может быть уклончивым, но должно быть правдивым.
 
-**_Tongues._** Creatures of any types you choose can communicate with any other creature in the area even if they don't share a common language.
+#### Невидимый слуга
 
-**_Vulnerability._** Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
+*Вызов 1-го уровня (Бард, Колдун, Волшебник)*
 
-#### Hallucinatory Terrain
+**Время сотворения:** Действие или ритуал
 
-*Level 4 Illusion (Bard, Druid, Warlock, Wizard)*
+**Дистанция:** 60 футов
 
-**Casting Time:** 10 minutes 
+**Компоненты:** В, С, М (кусочек верёвки и деревяшка)
 
-**Range:** 300 feet 
+**Длительность:** 1 час
 
-**Components:** V, S, M (a mushroom) 
+Это заклинание создаёт невидимую, безмозглую, бесформенную силу размера Средний, которая выполняет простые задачи по вашей команде до окончания заклинания. Слуга появляется в свободном пространстве на земле в пределах дистанции. Он имеет КД 10, 1 хит и Силу 2, и он не может атаковать. Если его хиты падают до 0, заклинание заканчивается.
 
-**Duration:** 24 hours
+Один раз в каждый свой ход бонусным действием вы можете мысленно приказать слуге переместиться на расстояние до 15 футов и взаимодействовать с объектом. Слуга может выполнять простые задачи, которые мог бы сделать человек, такие как приносить вещи, убирать, чинить, складывать одежду, разжигать огонь, подавать еду и разливать напитки. Получив приказ, слуга выполняет задачу в меру своих способностей, пока не завершит её, затем ждёт вашего следующего приказа.
 
-You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed.
+Если вы приказываете слуге выполнить задачу, которая переместит его более чем на 60 футов от вас, заклинание заканчивается.
 
-The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn't obvious by touch, a creature examining the illusion can take the Study action to make an Intelligence (Investigation) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
+#### Прикосновение вампира
 
-#### Harm
+*Некромантия 3-го уровня (Чародей, Колдун, Волшебник)*
 
-*Level 6 Necromancy (Cleric)*
+**Время сотворения:** Действие
 
-**Casting Time:** Action 
+**Дистанция:** На себя
 
-**Range:** 60 feet 
+**Компоненты:** В, С
 
-**Components:** V, S 
+**Длительность:** Концентрация, до 1 минуты
 
-**Duration:** Instantaneous
+Прикосновение вашей руки, окутанной тенью, может выкачивать жизненную силу из других, чтобы исцелять ваши раны. Совершите атаку заклинанием ближнего боя против одного существа в пределах досягаемости. При попадании цель получает 3d6 урона некротической энергией, и вы восстанавливаете хиты, равные половине нанесённого урона некротической энергией.
 
-You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6
+До окончания заклинания вы можете повторять атаку в каждый свой ход действием Магия, нацеливаясь на то же существо или другое.
 
-Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Point maximum below 1.
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d6 за каждый уровень ячейки выше 3-го.
 
-#### Haste
+#### Слово возврата
 
-*Level 3 Transmutation (Sorcerer, Wizard)*
+*Вызов 6-го уровня (Жрец)*
 
-**Casting Time:** Action 
+**Время сотворения:** Действие
 
-**Range:** 30 feet 
+**Дистанция:** 5 футов
 
-**Components:** V, S, M (a shaving of licorice root) 
+**Компоненты:** В
 
-**Duration:** Concentration, up to 1 minute
+**Длительность:** Мгновенная
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
+Вы и до пяти согласных существ в пределах 5 футов от вас мгновенно телепортируетесь в заранее определённое убежище. Вы и все телепортирующиеся с вами существа появляетесь в ближайшем свободном пространстве к месту, которое вы указали при подготовке убежища (см. ниже). Если вы сотворяете это заклинание, не подготовив предварительно убежище, заклинание не действует.
 
-When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
+Вы должны указать место, такое как храм, в качестве убежища, сотворив там это заклинание.
 
-#### Heal
+#### Стена ветра
 
-*Level 6 Abjuration (Cleric, Druid)*
+*Воплощение 3-го уровня (Друид, Следопыт)*
 
-**Casting Time:** Action 
+**Время сотворения:** Действие
 
-**Range:** 60 feet 
+**Дистанция:** 120 футов
 
-**Components:** V, S 
+**Компоненты:** В, С, М (веер и перо)
 
-**Duration:** Instantaneous
+**Длительность:** Концентрация, до 1 минуты
 
-Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 Hit Points. This spell also ends the Blinded, Deafened, and Poisoned conditions on the target.
+Стена сильного ветра поднимается от земли в точке на ваш выбор в пределах дистанции. Вы можете сделать стену до 50 футов в длину, 15 футов в высоту и 1 фут в толщину. Вы можете придать стене любую форму, если она образует один непрерывный путь по земле. Стена существует на время действия заклинания.
 
-**_Using a Higher-Level Spell Slot._** The healing increases by 10 for each spell slot level above 6.
+Когда стена появляется, каждое существо в её области совершает спасбросок Силы, получая 4d8 дробящего урона при провале или половину этого урона при успехе.
 
-#### Healing Word
+Сильный ветер отгоняет туман, дым и другие газы. Существа или объекты размера Маленький или меньше с летающей скоростью не могут пройти через стену. Лёгкие, свободные материалы, принесённые в стену, взлетают вверх. Стрелы, болты и другие обычные снаряды, выпущенные в цели за стеной, отклоняются вверх и автоматически промахиваются. Валуны, брошенные великанами или осадными машинами, и подобные снаряды не затрагиваются. Существа в газообразной форме не могут пройти сквозь неё.
 
-*Level 1 Abjuration (Bard, Cleric, Druid)*
+#### Стена льда
 
-**Casting Time:** Bonus Action 
+*Воплощение 6-го уровня (Волшебник)*
 
-**Range:** 60 feet 
+**Время сотворения:** Действие
 
-**Components:** V 
+**Дистанция:** 120 футов
 
-**Duration:** Instantaneous
+**Компоненты:** В, С, М (кусочек кварца)
 
-A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
+**Длительность:** Концентрация, до 10 минут
 
-**_Using a Higher-Level Spell Slot._** The healing increases by 2d4 for each spell slot level above 1.
+Вы создаёте стену льда на твёрдой поверхности в пределах дистанции. Вы можете сформировать её в полусферический купол или сферу радиусом до 10 футов, или вы можете сформировать плоскую поверхность, состоящую из десяти панелей размером 10 на 10 футов. Каждая панель должна соприкасаться с другой панелью. В любой форме стена толщиной 1 фут и существует на время действия заклинания.
 
-#### Heat Metal
+Если стена разрезает пространство существа при появлении, существо выталкивается на одну сторону стены (на ваш выбор) и совершает спасбросок Ловкости, получая 10d6 урона холодом при провале или половину этого урона при успехе.
 
-*Level 2 Transmutation (Bard, Druid)*
+Стена — это объект, который можно повредить и пробить. Она имеет КД 12 и 30 хитов на каждую 10-футовую секцию, и она имеет иммунитет к урону холодом, ядом и психической энергией и уязвимость к урону огнём. Уменьшение хитов 10-футовой секции стены до 0 уничтожает её и оставляет после себя пелену ледяного воздуха в пространстве, которое занимала стена.
 
-**Casting Time:** Action 
+Существо, проходящее через пелену ледяного воздуха впервые за ход, совершает спасбросок Телосложения, получая 5d6 урона холодом при провале или половину этого урона при успехе.
 
-**Range:** 60 feet 
+**_Использование ячейки более высокого уровня._** Урон, который стена наносит при появлении, увеличивается на 2d6, а урон от прохождения через пелену ледяного воздуха увеличивается на 1d6 за каждый уровень ячейки выше 6-го.
 
-**Components:** V, S, M (a piece of iron and a flame) 
+#### Хождение по ветру
 
-**Duration:** Concentration, up to 1 minute
+*Преобразование 6-го уровня (Друид)*
 
-Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 Fire damage when you cast the spell. Until the spell ends, you can take a Bonus Action on each of your later turns to deal this damage again if the object is within range.
+**Время сотворения:** 1 минута
 
-If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has Disadvantage on attack rolls and ability checks until the start of your next turn.
+**Дистанция:** 30 футов
 
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 2.
+**Компоненты:** В, С, М (свеча)
 
-#### Hellish Rebuke
+**Длительность:** 8 часов
 
-*Level 1 Evocation (Warlock)*
+Вы и до десяти согласных существ на ваш выбор в пределах дистанции принимаете газообразную форму на время действия заклинания, выглядя как клочья облака. Находясь в этой облачной форме, цель имеет скорость полёта 300 футов и может парить; она имеет иммунитет к состоянию «лежащий»; и она имеет сопротивление к дробящему, колющему и рубящему урону. Единственные действия, которые цель может совершать в этой форме — это действие Рывок или действие Магия, чтобы начать возвращение к нормальной форме. Возвращение занимает 1 минуту, в течение которой цель получает состояние «ошеломлённый». До окончания заклинания цель может вернуться в облачную форму, что также требует действия Магия с последующим 1-минутным преобразованием.
 
-**Casting Time:** Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself
+Если цель находится в облачной форме и летит, когда эффект заканчивается, цель спускается со скоростью 60 футов за раунд в течение 1 минуты, пока не приземлится, что происходит безопасно. Если она не может приземлиться через 1 минуту, она падает на оставшееся расстояние.
 
-**Range:** 60 feet 
+#### Электрошок
 
-**Components:** V, S 
+*Воплощение 1-го уровня (Бард, Друид, Чародей, Волшебник)*
 
-**Duration:** Instantaneous
+**Время сотворения:** Действие
 
-The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
+**Дистанция:** На себя
 
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 1.
+**Компоненты:** В, С
 
-#### Heroes' Feast
+**Длительность:** Мгновенная
 
-*Level 6 Conjuration (Bard, Cleric, Druid)*
+Вы высвобождаете волну громовой энергии. Каждое существо в кубе с ребром 15 футов, исходящем от вас, совершает спасбросок Телосложения. При провале существо получает 2d8 урона звуком и отталкивается на 10 футов от вас. При успехе существо получает только половину урона.
 
-**Casting Time:** 10 minutes 
+Кроме того, незакреплённые объекты, которые полностью находятся в кубе, отталкиваются на 10 футов от вас, и громовой раскат слышен в пределах 300 футов.
 
-**Range:** Self 
-
-**Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
-
-**Duration:** Instantaneous
-
-You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
-
-A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the Frightened and Poisoned conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
-
-#### Heroism
-
-*Level 1 Enchantment (Bard, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** Touch
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
-
-#### Hex
-
-*Level 1 Enchantment (Warlock)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S, M (the petrified eye of a newt) 
-
-**Duration:** Concentration, up to 1 hour
-
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has Disadvantage on ability checks made with the chosen ability.
-
-If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
-
-**_Using a Higher-Level Spell Slot._** Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3–4 (up to 8 hours), or 5+ (24 hours).
-
-#### Hideous Laughter
-
-*Level 1 Enchantment (Bard, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a tart and a feather) 
-
-**Duration:** Concentration, up to 1 minute
-
-One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.
-
-At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
-
-#### Hold Monster
-
-*Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet
-
-**Components:** V, S, M (a straight piece of iron) 
-
-**Duration:** Concentration, up to 1 minute
-
-Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 5.
-
-#### Hold Person
-
-*Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a straight piece of iron) 
-
-**Duration:** Concentration, up to 1 minute
-
-Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional Humanoid for each spell slot level above 2.
-
-#### Holy Aura
-
-*Level 8 Abjuration (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a reliquary worth 1,000+ GP) 
-
-**Duration:** Concentration, up to 1 minute
-
-For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
-
-#### Hunter's Mark
-
-*Level 1 Divination (Ranger)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** 90 feet 
-
-**Components:** V 
-
-**Duration:** Concentration, up to 1 hour
-
-You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.
-
-If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
-
-**_Using a Higher-Level Spell Slot._** Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours).
-
-#### Hypnotic Pattern
-
-*Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** S, M (a pinch of confetti) 
-
-**Duration:** Concentration, up to 1 minute
-
-You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.
-
-The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
-
-### I Spells
-
-#### Ice Knife
-
-*Level 1 Conjuration (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** S, M (a drop of water or a piece of ice) 
-
-**Duration:** Instantaneous
-
-You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 Cold damage.
-
-**_Using a Higher-Level Spell Slot._** The Cold damage increases by 1d6 for each spell slot level above 1.
-
-#### Ice Storm
-
-*Level 4 Evocation (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 300 feet 
-
-**Components:** V, S, M (a mitten) 
-
-**Duration:** Instantaneous
-
-Hail falls in a 20-foot-radius, 40-foot-high Cylinder centered on a point within range. Each creature in the Cylinder makes a Dexterity saving throw. A creature takes 2d10 Bludgeoning damage and 4d6 Cold damage on a failed save or half as much damage on a successful one.
-
-Hailstones turn ground in the Cylinder into Difficult Terrain until the end of your next turn.
-
-**_Using a Higher-Level Spell Slot._** The Bludgeoning damage increases by 1d10 for each spell slot level above 4.
-
-#### Identify
-
-*Level 1 Divination (Bard, Wizard)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a pearl worth 100+ GP) 
-
-**Duration:** Instantaneous
-
-You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.
-
-If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.
-
-#### Illusory Script
-
-*Level 1 Illusion (Bard, Warlock, Wizard)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Touch 
-
-**Components:** S, M (ink worth 10+ GP, which the spell consumes) 
-
-**Duration:** 10 days
-
-You write on parchment, paper, or another suitable material and imbue it with an illusion that lasts for the duration. To you and any creatures you designate when you cast the spell, the writing appears normal, seems to be written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, the illusion can alter the meaning, handwriting, and language of the text, though the language must be one you know.
-
-If the spell is dispelled, the original script and the illusion both disappear.
-
-A creature that has Truesight can read the hidden message.
-
-#### Imprisonment
-
-*Level 9 Abjuration (Warlock, Wizard)*
-
-**Casting Time:** 1 minute 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a statuette of the target worth 5,000+ GP) 
-
-**Duration:** Until dispelled
-
-You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this
-
-spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the imprisoned target, and the target can't teleport.
-
-Until the spell ends, the target is also affected by one of the following effects of your choice:
-
-**Burial.** The target is entombed beneath the earth in a hollow globe of magical force that is just large enough to contain the target. Nothing can pass into or out of the globe.
-**Chaining.** Chains firmly rooted in the ground hold the target in place. The target has the Restrained condition and can't be moved by any means.
-**Hedged Prison.** The target is trapped in a demiplane that is warded against teleportation and planar travel. The demiplane is your choice of a labyrinth, a cage, a tower, or the like.
-**Minimus Containment.** The target becomes 1 inch tall and is trapped inside an indestructible gemstone or a similar object. Light can pass through the gemstone (allowing the target to see out and other creatures to see in), but nothing else can pass through by any means.
-**Slumber.** The target has the Unconscious condition and can't be awoken.
-
-**_Ending the Spell._** When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the GM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
-
-A *Dispel Magic* spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
-
-#### Incendiary Cloud
-
-*Level 8 Conjuration (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by *Gust of Wind*) disperses it.
-
-When the cloud appears, each creature in it makes a Dexterity saving throw, taking 10d8 Fire damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
-
-The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns.
-
-#### Inflict Wounds
-
-*Level 1 Necromancy (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 1.
-
-#### Insect Plague
-
-*Level 5 Conjuration (Cleric, Druid, Sorcerer)*
-
-**Casting Time:** Action 
-
-**Range:** 300 feet 
-
-**Components:** V, S, M (a locust) 
-
-**Duration:** Concentration, up to 10 minutes
-
-Swarming locusts fill a 20-foot-radius Sphere centered on a point you choose within range. The Sphere remains for the duration, and its area is Lightly Obscured and Difficult Terrain.
-
-When the swarm appears, each creature in it makes a Constitution saving throw, taking 4d10 Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 5.
-
-#### Instant Summons
-
-*Level 6 Conjuration (Wizard)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a sapphire worth 1,000+ GP) 
-
-**Duration:** Until dispelled
-
-You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
-
-Thereafter, you can take a Magic action to speak the object's name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.
-
-If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
-
-#### Irresistible Dance
-
-*Level 6 Enchantment (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V 
-
-**Duration:** Concentration, up to 1 minute
-
-One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
-
-On a failed save, the target has the Charmed condition for the duration. While Charmed, the target dances comically, must use all its movement to dance in place, and has Disadvantage on Dexterity saving throws and attack rolls, and other creatures have Advantage on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
-
-#### Invisibility
-
-*Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (an eyelash in gum arabic) 
-
-**Duration:** Concentration, up to 1 hour
-
-A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 2.
-
-### J,K and L Spells
-
-#### Jump
-
-*Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Touch 
-
-**Component:** V, S, M (a grasshopper's hind leg) 
-
-**Duration:** 1 minute
-
-You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
-
-#### Knock
-
-*Level 2 Transmutation (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
-
-A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
-
-If the target is held shut by *Arcane Lock*, that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
-
-When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
-
-#### Legend Lore
-
-*Level 5 Divination (Bard, Cleric, Wizard)*
-
-**Casting Time:** 10 minutes
-
-**Range:** Self
-
-**Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
-
-**Duration:** Instantaneous
-
-Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the GM.
-
-The lore might consist of important details, amusing revelations, or even secret lore that has never been widely known. The more information you already know about the thing, the more precise and detailed the information you receive is. That information is accurate but might be couched in figurative language or poetry, as determined by the GM.
-
-If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
-
-#### Lesser Restoration
-
-*Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
-
-#### Levitate
-
-*Level 2 Transmutation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a metal spring) 
-
-**Duration:** Concentration, up to 10 minutes
-
-One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
-
-The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a Magic action to move the target, which must remain within the spell's range.
-
-When the spell ends, the target floats gently to the ground if it is still aloft.
-
-#### Light
-
-*Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, M (a firefly or phosphorescent moss) 
-
-**Duration:** 1 hour
-
-You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like.
-
-Covering the object with something opaque blocks the light. The spell ends if you cast it again.
-
-#### Lightning Bolt
-
-*Level 3 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a bit of fur and a crystal rod) 
-
-**Duration:** Instantaneous
-
-A stroke of lightning forming a 100-foot-long, 5-foot-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 3.
-
-#### Locate Animals or Plants
-
-*Level 2 Divination (Bard, Druid, Ranger)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S, M (fur from a bloodhound) 
-
-**Duration:** Instantaneous
-
-Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
-
-#### Locate Creature
-
-*Level 4 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (fur from a bloodhound) 
-
-**Duration:** Concentration, up to 1 hour
-
-Describe or name a creature that is familiar to you. You sense the direction to the creature's location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
-
-The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close—within 30 feet—at least once. If the creature you described or named is in a different form, such as under the effects of a *Flesh to Stone* or *Polymorph* spell, this spell doesn't locate the creature.
-
-This spell can't locate a creature if any thickness of lead blocks a direct path between you and the creature.
-
-#### Locate Object
-
-*Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a forked twig) 
-
-**Duration:** Concentration, up to 10 minutes
-
-Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
-
-The spell can locate a specific object known to you if you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
-
-This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
-
-#### Longstrider
-
-*Level 1 Transmutation (Bard, Druid, Ranger, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a pinch of dirt) 
-
-**Duration:** 1 hour
-
-You touch a creature. The target's Speed increases by 10 feet until the spell ends.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
-
-### M and N Spells
-
-#### **Mage Armor**
-
-*Level 1 Abjuration (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a piece of cured leather) 
-
-**Duration:** 8 hours
-
-You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
-
-#### Mage Hand
-
-*Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** 1 minute
-
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
-
-When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.
-
-As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.
-
-The hand can't attack, activate magic items, or carry more than 10 pounds.
-
-#### Magic Circle
-
-*Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
-
-**Casting Time:** 1 minute
-
-**Range:** 10 feet
-
-**Components:** V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes)
-
-**Duration:** 1 hour
-
-You create a 10-foot-radius, 20-foot-tall Cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the Cylinder intersects with the floor or other surface.
-
-Choose one or more of the following types of creatures: Celestials, Elementals, Fey, Fiends, or Undead. The circle affects a creature of the chosen type in the following ways:
-
-- The creature can't willingly enter the Cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.
-- The creature has Disadvantage on attack rolls against targets within the Cylinder.
-- Targets within the Cylinder can't be possessed by or gain the Charmed or Frightened condition from the creature.
-
-Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the Cylinder and protecting targets outside it.
-
-**_Using a Higher-Level Spell Slot._** The duration increases by 1 hour for each spell slot level above 3.
-
-#### Magic Jar
-
-*Level 6 Necromancy (Wizard)*
-
-**Casting Time:** 1 minute
-
-**Range:** Self 
-
-**Components:** V, S, M (a gem, crystal, or reliquary worth 500+ GP)
-
-**Duration:** Until dispelled
-
-Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.
-
-You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a *Protection from Evil and Good* or *Magic Circle* spell can't be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
-
-Once you possess a creature's body, you control it. Your Hit Points, Hit Point Dice, Strength, Dexterity, Constitution, Speed, and senses are replaced by the creature's. You otherwise keep your game statistics.
-
-Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is Incapacitated.
-
-While possessing a body, you can take a Magic action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
-
-If the container is destroyed or the spell ends, your soul returns to your body. If your body is more than 100 feet away from you or if your body is dead, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
-
-When the spell ends, the container is destroyed.
-
-#### Magic Missile
-
-*Level 1 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
-
-**_Using a Higher-Level Spell Slot._** The spell creates one more dart for each spell slot level above 1.
-
-#### Magic Mouth
-
-*Level 2 Illusion (Bard, Wizard)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (jade dust worth 10+ GP, which the spell consumes)
-
-**Duration:** Until dispelled
-
-You implant a message within an object in range—a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
-
-When that trigger occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there, so the words appear to come from the object's mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
-
-The trigger can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
-
-#### Magic Weapon
-
-*Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Touch
-
-**Components:** V, S 
-
-**Duration:** 1 hour
-
-You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. The spell ends early if you cast it again.
-
-**_Using a Higher-Level Spell Slot._** The bonus increases to +2 with a level 3–5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
-
-#### Magnificent Mansion
-
-*Level 7 Conjuration (Bard, Wizard)*
-
-**Casting Time:** 1 minute 
-
-**Range:** 300 feet 
-
-**Components:** V, S, M (a miniature door worth 15+ GP) 
-
-**Duration:** 24 hours
-
-You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 30 feet of it. While closed, the door is imperceptible.
-
-Beyond the door is a magnificent foyer with numerous chambers beyond. The dwelling's atmosphere is clean, fresh, and warm.
-
-You can create any floor plan you like for the dwelling, but it can't exceed 50 contiguous 10-foot Cubes. The place is furnished and decorated as you choose. It contains sufficient food to serve a ninecourse banquet for up to 100 people. Furnishings and other objects created by this spell dissipate into smoke if removed from it.
-
-A staff of 100 near-transparent servants attends all who enter. You determine the appearance of these servants and their attire. They are invulnerable and obey your commands. Each servant can perform tasks that a human could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can't leave the dwelling.
-
-When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
-
-#### Major Image
-
-*Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a bit of fleece) 
-
-**Duration:** Concentration, up to 10 minutes
-
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot Cube. The image appears at a spot that you can see within range and lasts for the duration. It seems real, including sounds, smells, and temperature appropriate to the thing depicted, but it can't deal damage or cause conditions.
-
-If you are within range of the illusion, you can take a Magic action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
-
-Physical interaction with the image reveals it to be an illusion, for things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
-
-**_Using a Higher-Level Spell Slot._** The spell lasts until dispelled, without requiring Concentration, if cast with a level 4+ spell slot.
-
-#### Mass Cure Wounds
-
-*Level 5 Abjuration (Bard, Cleric, Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 plus your spellcasting ability modifier.
-
-**_Using a Higher-Level Spell Slot._** The healing increases by 1d8 for each spell slot level above 5.
-
-#### Mass Heal
-
-*Level 9 Abjuration (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-A flood of healing energy flows from you into creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the Blinded, Deafened, and Poisoned conditions removed from them.
-
-#### Mass Healing Word
-
-*Level 3 Abjuration (Bard, Cleric)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** 60 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-Up to six creatures of your choice that you can see within range regain Hit Points equal to 2d4 plus your spellcasting ability modifier.
-
-**_Using a Higher-Level Spell Slot._** The healing increases by 1d4 for each spell slot level above 3.
-
-#### Mass Suggestion
-
-*Level 6 Enchantment (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, M (a snake's tongue) 
-
-**Duration:** 24 hours
-
-You suggest a course of activity—described in no more than 25 words—to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
-
-Each target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. Each Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
-
-**_Using a Higher-Level Spell Slot._** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
-
-#### Maze
-
-*Level 8 Conjuration (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
-
-The target can take a Study action to try to escape. When it does so, it makes a DC 20 Intelligence (Investigation) check. If it succeeds, it escapes, and the spell ends.
-
-When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
-
-#### Meld into Stone
-
-*Level 3 Transmutation (Cleric, Druid, Ranger)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** 8 hours
-
-You step into a stone object or surface large enough to fully contain your body, merging yourself and your equipment with the stone for the duration. You must touch the stone to do so. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
-
-While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with Disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use 5 feet of movement to leave the stone where you entered it, which ends the spell. You otherwise can't move.
-
-Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 Force damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 Force damage to you. If expelled, you move into an unoccupied space closest to where you first entered and have the Prone condition.
-
-#### Mending
-
-*Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** 1 minute 
-
-**Range:** Touch 
-
-**Components:** V, S, M (two lodestones) 
-
-**Duration:** Instantaneous
-
-This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
-
-This spell can physically repair a magic item, but it can't restore magic to such an object.
-
-#### Message
-
-*Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** S, M (a copper wire) 
-
-**Duration:** 1 round
-
-You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
-
-You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
-
-#### Meteor Swarm
-
-*Level 9 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 1 mile 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius Sphere centered on each of those points makes a Dexterity saving throw. A creature takes 20d6 Fire damage and 20d6 Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery Sphere is affected only once.
-
-A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts burning if it's flammable.
-
-#### Mind Blank
-
-*Level 8 Abjuration (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** 24 hours
-
-Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even *Wish*—can gather information about the target, observe it remotely, or control its mind.
-
-#### Mind Spike
-
-*Level 2 Divination (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** S 
-
-**Duration:** Concentration, up to 1 hour
-
-You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it has the Invisible condition, it gains no benefit from that condition against you.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 2.
-
-#### Minor Illusion
-
-*Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** S, M (a bit of fleece) 
-
-**Duration:** 1 minute
-
-You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
-
-If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
-
-**_Sound._** If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
-
-**_Image._** If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot Cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
-
-#### Mirage Arcane
-
-*Level 7 Illusion (Bard, Druid, Wizard)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** Sight 
-
-**Components:** V, S 
-
-**Duration:** 10 days
-
-You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other rough or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
-
-Similarly, you can alter the appearance of structures or add them where none are present. The spell doesn't disguise, conceal, or add creatures.
-
-The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into Difficult Terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.
-
-Creatures with Truesight can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
-
-#### Mirror Image
-
-*Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** 1 minute
-
-Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
-
-Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
-
-A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
-
-#### Mislead
-
-*Level 5 Illusion (Bard, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** S 
-
-**Duration:** Concentration, up to 1 hour
-
-You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
-
-As a Magic action, you can move the illusory double up to twice your Speed and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
-
-You can see through its eyes and hear through its ears as if you were located where it is.
-
-#### Misty Step
-
-*Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Self 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
-
-#### Modify Memory
-
-*Level 5 Enchantment (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has Advantage on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
-
-While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity, change its memory of the event's details, or create a memory of some other event.
-
-You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you finish describing the modified memories, the creature's memory isn't altered. Otherwise, the modified memories take hold when the spell ends.
-
-A modified memory doesn't necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as a false memory of how much the creature enjoyed swimming in acid, is dismissed as a bad dream. The GM might deem a modified memory too nonsensical to affect a creature.
-
-A *Remove Curse* or *Greater Restoration* spell cast on the target restores the creature's true memory.
-
-**_Using a Higher-Level Spell Slot._** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
-
-#### Moonbeam
-
-*Level 2 Evocation (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a moonseed leaf) 
-
-**Duration:** Concentration, up to 1 minute A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high Cylinder centered on a point within range. Until the spell ends, Dim Light fills the Cylinder, and you can take a Magic action on later turns to move the Cylinder up to 60 feet.
-
-When the Cylinder appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the *Polymorph* spell, for example), it reverts to its true form and can't shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell's area moves into its space and when it enters the spell's area or ends its turn there. A creature makes this save only once per turn.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 2.
-
-#### Move Earth
-
-*Level 6 Transmutation (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a miniature shovel) 
-
-**Duration:** Concentration, up to 2 hours
-
-Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement.
-
-At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect within range.
-
-This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.
-
-Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
-
-#### Nondetection
-
-*Level 3 Abjuration (Bard, Ranger, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch
-
-**Components:** V, S, M (a pinch of diamond dust worth 25+ GP, which the spell consumes) 
-
-**Duration:** 8 hours
-
-For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.
-
-### P Spells
-
-#### **Passwall**
-
-*Level 5 Transmutation (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a pinch of sesame seeds) 
-
-**Duration:** 1 hour
-
-A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
-
-When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
-
-#### Pass without Trace
-
-*Level 2 Abjuration (Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (ashes from burned mistletoe) 
-
-**Duration:** Concentration, up to 1 hour
-
-You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
-
-#### Phantasmal Force
-
-*Level 2 Illusion (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a bit of fleece) 
-
-**Duration:** Concentration, up to 1 minute
-
-You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
-
-The target can take a Study action to examine the phantasm with an Intelligence (Investigation) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
-
-While affected by the spell, the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it. For example, if the target steps through a phantasmal bridge and survives the fall, it believes the bridge exists and something else caused it to fall.
-
-An affected target can even take damage from the illusion if the phantasm represents a dangerous creature or hazard. On each of your turns, such a phantasm can deal 2d8 Psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm. The target perceives the damage as a type appropriate to the illusion.
-
-#### Phantasmal Killer
-
-*Level 4 Illusion (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes 4d10 Psychic damage and has Disadvantage on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
-
-For the duration, the target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes the Psychic damage again. On a successful save, the spell ends.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 4.
-
-#### Phantom Steed
-
-*Level 3 Illusion (Wizard)*
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** 1 hour
-
-A Large, quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.
-
-For the duration, you or a creature you choose can ride the steed. The steed uses the **Riding Horse**  stat block (see "Monsters"), except it has a Speed of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage.
-
-#### Planar Ally
-
-*Level 6 Conjuration (Cleric)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You beseech an otherworldly entity for aid. The being must be known to you: a god, a demon prince, or some other being of cosmic power. That entity sends a Celestial, an Elemental, or a Fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (GM's choice).
-
-When the creature appears, it is under no compulsion to behave a particular way. You can ask it to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.
-
-Payment can take a variety of forms. A Celestial might require a sizable donation of gold or magic items to an allied temple, while a Fiend might demand a living sacrifice or a gift of treasure. Some creatures might exchange their service for a quest undertaken by you.
-
-A task that can be measured in minutes requires a payment worth 100 GP per minute. A task measured in hours requires 1,000 GP per hour. And a task measured in days (up to 10 days) requires 10,000 GP per day. The GM can adjust these payments based on the circumstances under which you cast the spell. If the task is aligned with the creature's ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.
-
-After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
-
-#### Planar Binding
-
-*Level 5 Abjuration (Bard, Cleric, Druid, Warlock, Wizard)*
-
-**Casting Time:** 1 hour 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a jewel worth 1,000+ GP, which the spell consumes) 
-
-**Duration:** 24 hours
-
-You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the *Magic Circle* spell to trap it while this spell is cast.) At the completion of the casting, the target must succeed on a Charisma saving throw or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.
-
-A bound creature must follow your commands to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. If the creature is Hostile, it strives to twist your commands to achieve its own objectives. If the creature carries out your commands completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane, it returns to the place where you bound it and remains there until the spell ends.
-
-**_Using a Higher-Level Spell Slot._** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
-
-#### Plane Shift
-
-*Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a forked, metal rod worth 250+ GP and attuned to a plane of existence) 
-
-**Duration:** Instantaneous
-
-You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as a specific city on the Elemental Plane of Fire or palace on the second level of the Nine Hells, and you appear in or near that destination, as determined by the GM.
-
-Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.
-
-#### Plant Growth
-
-*Level 3 Transmutation (Bard, Druid, Ranger)*
-
-**Casting Time:** Action (Overgrowth) or 8 hours (Enrichment) 
-
-**Range:** 150 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.
-
-**_Overgrowth._** Choose a point within range. All normal plants in a 100-foot-radius Sphere centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
-
-**_Enrichment._** All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one *Plant Growth* per year.
-
-#### Poison Spray
-
-*Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
-
-**_Cantrip Upgrade._** The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
-
-#### Polymorph
-
-*Level 4 Transmutation (Bard, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a caterpillar cocoon) 
-
-**Duration:** Concentration, up to 1 hour
-
-You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into a Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target's level if it doesn't have a Challenge Rating). The target's game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. See the "Animals" section of "Monsters" for a sample of Beast stat blocks.
-
-The target gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the spell ends. The spell ends early on the target if it has no Temporary Hit Points left.
-
-The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
-
-The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
-
-#### Power Word Heal
-
-*Level 9 Enchantment (Bard, Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Component:** V 
-
-**Duration:** Instantaneous
-
-A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzed, Poisoned, or Stunned condition, the condition ends. If the creature has the Prone condition, it can use its Reaction to stand up.
-
-#### Power Word Kill
-
-*Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Component:** V 
-
-**Duration:** Instantaneous
-
-You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
-
-#### Power Word Stun
-
-*Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-You overwhelm the mind of one creature you can see within range. If the target has 150 Hit Points or fewer, it has the Stunned condition. Otherwise, its Speed is 0 until the start of your next turn.
-
-The Stunned target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
-
-#### Prayer of Healing
-
-*Level 2 Abjuration (Cleric, Paladin)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** 30 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
-
-**_Using a Higher-Level Spell Slot._** The healing increases by 1d8 for each spell slot level above 2.
-
-#### Prestidigitation
-
-*Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 10 feet 
-
-**Components:** V, S 
-
-**Duration:** Up to 1 hour
-
-You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
-
-**_Sensory Effect._** You create an instantaneous, harmless sensory effect, such as a shower of sparks,
-
-a puff of wind, faint musical notes, or an odd odor. *Fire Play.* You instantaneously light or snuff out a candle, a torch, or a small campfire.
-
-**_Clean or Soil._** You instantaneously clean or soil an object no larger than 1 cubic foot.
-
-**_Minor Sensation._** You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-
-**_Magic Mark._** You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-
-**_Minor Creation._** You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
-
-#### Prismatic Spray
-
-*Level 7 Evocation (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.
-
-Table: Prismatic Rays
-
-| 1d8 | Ray                                                                                       |
-|-----|-------------------------------------------------------------------------------------------|
-| 1   | **Red.** *Failed Save:* 12d6 Fire damage. *Successful Save:* Half as much damage.         |
-| 2   | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage.      |
-| 3   | **Yellow.** *Failed Save:* 12d6 Lightning damage. *Successful Save:* Half as much damage. |
-| 4   | **Green.** *Failed Save:* 12d6 Poison damage. *Successful Save:* Half as much damage.     |
-| 5   | **Blue.** *Failed Save:* 12d6 Cold damage. *Successful Save:* Half as much damage.        |
-| 6   | **Indigo.** *Failed Save:* The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the *Greater Restoration* spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. |
-| 7   | **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (GM's choice). |
-| 8   | **Special.** The target is struck by two rays. Roll twice, rerolling any 8.               |
-
-#### Prismatic Wall
-
-*Level 9 Abjuration (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** 10 minutes
-
-A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.
-
-The wall sheds Bright Light within 100 feet and Dim Light for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the Blinded condition for 1 minute.
-
-The wall consists of seven layers, each with a different color. When a creature reaches into or passes through the wall, it does so one layer at a time through all the layers. Each layer forces the creature to make a Dexterity saving throw or be affected by that layer's properties as described in the Prismatic Layers table.
-
-The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. *Antimagic Field* has no effect on the wall, and *Dispel Magic* can affect only the violet layer.
-
-Table: Prismatic Layers
-
-| Order | Effects                      |
-|-------|------------------------------|
-| 1     | **Red.** *Failed Save:* 12d6 Fire damage. *Successful Save:* Half as much damage. *Additional Effects*: Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage. |
-| 2     | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by *Gust of Wind*). |
-| 3     | **Yellow.** *Failed Save:* 12d6 Lightning damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 60 Force damage. |
-| 4     | **Green.** *Failed Save:* 12d6 Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A *Passwall* spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |
-| 5     | **Blue.** *Failed Save:* 12d6 Cold damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 25 Fire damage. |
-| 6     | **Indigo.** *Failed Save:* The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the *Greater Restoration* spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can't be cast through this layer, which is destroyed by Bright Light shed by the *Daylight* spell. |
-| 7     | **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (GM's choice). *Additional Effects:* This layer is destroyed by *Dispel Magic*. |
-
-#### Private Sanctum
-
-*Level 4 Abjuration (Wizard)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a thin sheet of lead) 
-
-**Duration:** 24 hours
-
-You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
-
-When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:
-
-- Sound can't pass through the barrier at the edge of the warded area.
-- The barrier of the warded area appears dark and foggy, preventing vision (including Darkvision) through it.
-- Sensors created by Divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
-- Creatures in the area can't be targeted by Divination spells.
-- Nothing can teleport into or out of the warded area.
-- Planar travel is blocked within the warded area.
-
-Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
-
-**_Using a Higher-Level Spell Slot._** You can increase the size of the Cube by 100 feet for each spell slot level above 4.
-
-#### Produce Flame
-
-*Conjuration Cantrip (Druid)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** 10 minutes
-
-A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
-
-Until the spell ends, you can take a Magic action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
-
-**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
-
-#### Programmed Illusion
-
-*Level 6 Illusion (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet
-
-**Components:** V, S, M (jade dust worth 25+ GP) 
-
-**Duration:** Until dispelled
-
-You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific trigger occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot Cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
-
-When the trigger you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes, after which the illusion can be activated again.
-
-The trigger can be as general or as detailed as you like, though it must be based on visual or audible phenomena that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door.
-
-Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
-
-#### Project Image
-
-*Level 7 Illusion (Bard, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 500 miles 
-
-**Components:** V, S, M (a statuette of yourself worth 5+ GP)
-
-**Duration:** Concentration, up to 1 day
-
-You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you, but it is intangible. If the illusion takes any damage, it disappears, and the spell ends.
-
-You can see through the illusion's eyes and hear through its ears as if you were in its space. As a Magic action, you can move it up to 60 feet and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
-
-Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
-
-#### Protection from Energy
-
-*Level 3 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 hour
-
-For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
-
-#### Protection from Evil and Good
-
-*Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes) 
-
-**Duration:** Concentration up to 10 minutes
-
-Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
-
-#### Protection from Poison
-
-*Level 2 Abjuration (Cleric, Druid, Paladin, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** 1 hour
-
-You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
-
-#### Purify Food and Drink
-
-*Level 1 Transmutation (Cleric, Druid, Paladin)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** 10 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.
-
-### R Spells
-
-#### Raise Dead
-
-*Level 5 Necromancy (Bard, Cleric, Paladin)*
-
-**Casting Time:** 1 hour 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes) 
-
-**Duration:** Instantaneous
-
-With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn't Undead when it died.
-
-The creature returns to life with 1 Hit Point. This spell also neutralizes any poisons that affected the creature at the time of death.
-
-This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival its head, for instance—the spell automatically fails.
-
-Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
-
-#### Ray of Enfeeblement
-
-*Level 2 Necromancy (Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn.
-
-On a failed save, the target has Disadvantage on Strength-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
-
-#### Ray of Frost
-
-*Evocation Cantrip (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
-
-**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
-
-#### Regenerate
-
-*Level 7 Transmutation (Bard, Cleric, Druid)*
-
-**Casting Time:** 1 minute 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a prayer wheel) 
-
-**Duration:** 1 hour
-
-A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
-
-#### Ray of Sickness
-
-*Level 1 Necromancy (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and has the Poisoned condition until the end of your next turn.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 1.
-
-#### Reincarnate
-
-*Level 5 Necromancy (Druid)*
-
-**Casting Time:** 1 hour 
-
-**Range:** Touch 
-
-**Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes) 
-
-**Duration:** Instantaneous
-
-You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table below to determine the body's species, or the GM chooses another playable species.
-
-| 1d10 | Species     |
-|------|-------------|
-| 1    | Roll again. |
-| 2    | Dragonborn  |
-| 3    | Dwarf       |
-| 4    | Elf         |
-| 5    | Gnome       |
-| 6    | Goliath     |
-| 7    | Halfling    |
-| 8    | Human       |
-| 9    | Orc         |
-| 10   | Tiefling    |
-
-The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
-
-#### Remove Curse
-
-*Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's Attunement to the object so it can be removed or discarded.
-
-#### Resilient Sphere
-
-*Level 4 Abjuration (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a glass sphere) 
-
-**Duration:** Concentration, up to 1 minute
-
-A shimmering sphere encloses a Large or smaller creature or object within range. An unwilling creature must succeed on a Dexterity saving throw or be enclosed for the duration.
-
-Nothing—not physical objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
-
-The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's Speed. Similarly, the globe can be picked up and moved by other creatures.
-
-A *Disintegrate* spell targeting the globe destroys it without harming anything inside.
-
-#### Resistance
-
-*Abjuration Cantrip (Cleric, Druid)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Component:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
-
-#### Resurrection
-
-*Level 7 Necromancy (Bard, Cleric)*
-
-**Casting Time:** 1 hour 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes) 
-
-**Duration:** Instantaneous
-
-With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
-
-The creature returns to life with all its Hit Points. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
-
-Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
-
-Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a Long Rest, you can't cast spells again, and you have Disadvantage on D20 Tests.
-
-#### Reverse Gravity
-
-*Level 7 Transmutation (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 100 feet 
-
-**Components:** V, S, M (a lodestone and iron filings) 
-
-**Duration:** Concentration, up to 1 minute
-
-This spell reverses gravity in a 50-foot-radius, 100 foot high Cylinder centered on a point within range. All creatures and objects in that area that aren't anchored to the ground fall upward and reach the top of the Cylinder. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward.
-
-If a ceiling or an anchored object is encountered in this upward fall, creatures and objects strike it just as they would during a downward fall. If an affected creature or object reaches the Cylinder's top without striking anything, it hovers there for the duration. When the spell ends, affected objects and creatures fall downward.
-
-#### Revivify
-
-*Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a diamond worth 300+ GP, which the spell consumes) 
-
-**Duration:** Instantaneous
-
-You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
-
-#### Rope Trick
-
-*Level 2 Transmutation (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a segment of rope) 
-
-**Duration:** 1 hour
-
-You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope's upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it.
-
-The space can hold up to eight Medium or smaller creatures. Attacks, spells, and other effects can't pass into or out of the space, but creatures inside it can see through the portal. Anything inside the space drops out when the spell ends.
-
-### S Spells
-
-#### Sacred Flame
-
-*Evocation Cantrip (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
-
-**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
-
-#### Sanctuary
-
-*Level 1 Abjuration (Cleric)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a shard of glass from a mirror) 
-
-**Duration:** 1 minute
-
-You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect. The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
-
-#### Scorching Ray
-
-*Level 2 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.
-
-**_Using a Higher-Level Spell Slot._** You create one additional ray for each spell slot level above 2.
-
-#### Scrying
-
-*Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
-
-**Casting Time:** 10 minutes 
-
-**Range:** Self
-
-**Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font) 
-
-**Duration:** Concentration, up to 10 minutes
-
-You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn't know what it is making the save against, only that it feels uneasy.
-
-| Your Knowledge of the Target Is …       | Save Modifier |
-|-----------------------------------------|---------------|
-| Secondhand (heard of the target)        | +5            |
-| Firsthand (met the target)              | +0            |
-| Extensive (know the target well)        | −5            |
-
-| You Have the Target's …                 | Save Modifier |
-|-----------------------------------------|---------------|
-| Picture or other likeness               | −2            |
-| Garment or other possession             | −4            |
-| Body part, lock of hair, or bit of nail | −10           |
-
-On a successful save, the target isn't affected, and you can't use this spell on it again for 24 hours.
-
-On a failed save, the spell creates an Invisible, intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
-
-Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
-
-#### Searing Smite
-
-*Level 1 Evocation (Paladin)*
-
-**Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
-
-**Range:** Self 
-
-**Component:** V 
-
-**Duration:** 1 minute
-
-As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
-
-**_Using a Higher-Level Spell Slot._** All the damage increases by 1d6 for each spell slot level above 1.
-
-#### Secret Chest
-
-*Level 4 Conjuration (Wizard)*
-
-**Casting Time:** Action
-
-**Range:** Touch
-
-**Components:** V, S, M (a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ GP, and a Tiny replica of the chest made from the same materials worth 50+ GP)
-
-**Duration:** Until dispelled
-
-You hide a chest and all its contents on the Ethereal Plane. You must touch the chest and the miniature replica that serve as Material components for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
-
-While the chest remains on the Ethereal Plane, you can take a Magic action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by taking a Magic action to touch the chest and the replica.
-
-After 60 days, there is a cumulative 5 percent chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
-
-#### See Invisibility
-
-*Level 2 Divination (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a pinch of talc) 
-
-**Duration:** 1 hour
-
-For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
-
-#### Seeming
-
-*Level 5 Illusion (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S 
-
-**Duration:** 8 hours
-
-You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
-
-You can give the same appearance or different ones to the targets. The spell can change the appearance of the targets' bodies and equipment. You can make each creature seem 1 foot shorter or taller and appear heavier or lighter. A target's new appearance must have the same basic arrangement of limbs as the target, but the extent of the illusion is otherwise up to you. The spell lasts for the duration.
-
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.
-
-A creature that takes the Study action to examine a target can make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
-
-#### Sending
-
-*Level 3 Divination (Bard, Cleric, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Unlimited 
-
-**Components:** V, S, M (a copper wire) 
-
-**Duration:** Instantaneous
-
-You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message.
-
-You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive. You know if the delivery fails.
-
-Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails.
-
-#### Sequester
-
-*Level 7 Transmutation (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (gem dust worth 5,000+ GP, which the spell consumes) 
-
-**Duration:** Until dispelled
-
-With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can't be targeted by Divination spells, detected by magic, or viewed remotely with magic.
-
-If the target is a creature, it enters a state of suspended animation; it has the Unconscious condition, doesn't age, and doesn't need food, water, or air.
-
-You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage.
-
-#### Shapechange
-
-*Level 9 Transmutation (Druid, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a jade circlet worth 1,500+ GP) 
-
-**Duration:** Concentration, up to 1 hour
-
-You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
-
-When you cast the spell, you gain a number of Temporary Hit Points equal to the Hit Points of the first form into which you shape-shift. These Temporary Hit Points vanish if any remain when the spell ends.
-
-Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.
-
-Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
-
-#### Shatter
-
-*Level 2 Evocation (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a chip of mica) 
-
-**Duration:** Instantaneous
-
-A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.
-
-A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 2.
-
-#### Shield
-
-*Level 1 Abjuration (Sorcerer, Wizard)*
-
-**Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the *Magic Missile* spell
-
-**Range:** Self
-
-**Components:** V, S 
-
-**Duration:** 1 round
-
-An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *Magic Missile*.
-
-#### Shield of Faith
-
-*Level 1 Abjuration (Cleric, Paladin)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a prayer scroll) 
-
-**Duration:** Concentration, up to 10 minutes
-
-A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
-
-#### Shillelagh
-
-*Transmutation Cantrip (Druid)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (mistletoe) 
-
-**Duration:** 1 minute
-
-A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).
-
-The spell ends early if you cast it again or if you let go of the weapon.
-
-**_Cantrip Upgrade._** The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
-
-#### Shining Smite
-
-*Level 2 Transmutation (Paladin)*
-
-**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
-
-**Range:** Self
-
-**Component:** V
-
-**Duration:** Concentration, up to 1 minute
-
-The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can't benefit from the Invisible condition.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 2.
-
-#### Shocking Grasp
-
-*Evocation Cantrip (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
-
-**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
-
-#### Silence
-
-*Level 2 Illusion (Bard, Cleric, Ranger)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-For the duration, no sound can be created within or pass through a 20-foot-radius Sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the Deafened condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
-
-#### Silent Image
-
-*Level 1 Illusion (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a bit of fleece) 
-
-**Duration:** Concentration, up to 10 minutes
-
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
-
-As a Magic action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
-
-Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
-
-#### Simulacrum
-
-*Level 7 Illusion (Wizard)*
-
-**Casting Time:** 12 hours 
-
-**Range:** Touch
-
-**Components:** V, S, M (powdered ruby worth 1,500+ GP, which the spell consumes) 
-
-**Duration:** Until dispelled
-
-You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Point maximum is half as much, and it can't cast this spell.
-
-The simulacrum is Friendly to you and creatures you designate. It obeys your commands and acts on your turn in combat. The simulacrum can't gain levels, and it can't take Short or Long Rests.
-
-If the simulacrum takes damage, the only way to restore its Hit Points is to repair it as you take a Long Rest, during which you expend components worth 100 GP per Hit Point restored. The simulacrum must stay within 5 feet of you for the repair.
-
-The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
-
-#### Sleep
-
-*Level 1 Enchantment (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet
-
-**Components:** V, S, M (a pinch of sand or rose petals) 
-
-**Duration:** Concentration, up to 1 minute
-
-Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
-
-Creatures that don't sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.
-
-#### Sleet Storm
-
-*Level 3 Conjuration (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (a miniature umbrella) 
-
-**Duration:** Concentration, up to 1 minute
-
-Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused.
-
-Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a
-
-Dexterity saving throw or have the Prone condition and lose Concentration.
-
-#### Slow
-
-*Level 3 Transmutation (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a drop of molasses) 
-
-**Duration:** Concentration, up to 1 minute
-
-You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
-
-An affected target's Speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.
-
-An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
-
-#### Sorcerous Burst
-
-*Evocation Cantrip (Sorcerer)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Component:** V, S 
-
-**Duration:** Instantaneous
-
-You cast sorcerous energy at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.
-
-If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier.
-
-**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
-
-#### Spare the Dying
-
-*Necromancy Cantrip (Cleric, Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 15 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
-
-**_Cantrip Upgrade._** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
-
-#### Speak with Animals
-
-*Level 1 Divination (Bard, Druid, Ranger, Warlock)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** 10 minutes
-
-For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
-
-Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
-
-#### Speak with Dead
-
-*Level 3 Necromancy (Bard, Cleric, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 10 feet 
-
-**Components:** V, S, M (burning incense) 
-
-**Duration:** 10 minutes
-
-You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.
-
-Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
-
-#### Speak with Plants
-
-*Level 3 Transmutation (Bard, Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** 10 minutes
-
-You imbue plants in an immobile 30-foot Emanation with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
-
-You can also turn Difficult Terrain caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into Difficult Terrain that lasts for the duration.
-
-The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.
-
-If a Plant creature is in the area, you can communicate with it as if you shared a common language.
-
-#### Spider Climb
-
-*Level 2 Transmutation (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (a drop of bitumen and a spider) 
-
-**Duration:** Concentration, up to 1 hour
-
-Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and along ceilings, while leaving its hands free. The target also gains a Climb Speed equal to its Speed.
-
-**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 2.
-
-#### Spike Growth
-
-*Level 2 Transmutation (Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (seven thorns) 
-
-**Duration:** Concentration, up to 10 minutes
-
-The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels.
-
-The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
-
-#### Spirit Guardians
-
-*Level 3 Conjuration (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a prayer scroll) 
-
-**Duration:** Concentration, up to 10 minutes
-
-Protective spirits flit around you in a 15-foot Emanation for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
-
-When you cast this spell, you can designate creatures to be unaffected by it. Any other creature's Speed is halved in the Emanation, and whenever the Emanation enters a creature's space and whenever a creature enters the Emanation or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes 3d8 Radiant damage (if you are good or neutral) or 3d8 Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 3.
-
-#### Spiritual Weapon
-
-*Level 2 Evocation (Cleric)*
-
-**Casting Time:** Bonus Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The force appears within range in a space of your choice, and you can immediately make one melee spell attack against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to 1d8 plus your spellcasting ability modifier.
-
-As a Bonus Action on your later turns, you can move the force up to 20 feet and repeat the attack against a creature within 5 feet of it.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for every slot level above 2.
-
-#### Starry Wisp
-
-*Evocation Cantrip (Bard, Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
-
-**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
-
-#### Stinking Cloud
-
-*Level 3 Conjuration (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 90 feet 
-
-**Components:** V, S, M (a rotten egg) 
-
-**Duration:** Concentration, up to 1 minute
-
-You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by *Gust of Wind*) disperses it.
-
-Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a Bonus Action.
-
-#### Stone Shape
-
-*Level 4 Transmutation (Cleric, Druid, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (soft clay) 
-
-**Duration:** Instantaneous
-
-You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. For example, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
-
-#### Stoneskin
-
-*Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes) 
-
-**Duration:** Concentration, up to 1 hour
-
-Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
-
-#### Storm of Vengeance
-
-*Level 9 Conjuration (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 1 mile 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the Deafened condition for the duration.
-
-At the start of each of your later turns, the storm produces different effects, as detailed below.
-
-**_Turn 2._** Acidic rain falls. Each creature and object under the cloud takes 4d6 Acid damage.
-
-**_Turn 3._** You call six bolts of lightning from the cloud to strike six different creatures or objects beneath it. Each target makes a Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one.
-
-**_Turn 4._** Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeoning damage.
-
-**_Turns 5–10._** Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.
-
-#### Suggestion
-
-*Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, M (a drop of honey) 
-
-**Duration:** Concentration, up to 8 hours
-
-You suggest a course of activity—described in no more than 25 words—to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, "Fetch the key to the cult's treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don't return."
-
-The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
-
-#### Summon Dragon
-
-*Level 5 Conjuration (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)
-
-**Duration:** Concentration, up to 1 hour
-
-You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the **Draconic Spirit** stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
-
-The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
-
-**_Using a Higher-Level Spell Slot._** Use the spell slot's level for the spell's level in the stat block.
-
-> #### Draconic Spirit
->
-> *Large Dragon, Neutral*
-> 
-> **AC** 14 + the spell's level
->
-> **HP** 50 + 10 for each spell level above 5
->
-> **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
->
-> | Attribute | Score | Mod | Save |
-> |-----------|-------|-----|------|
-> | Str       | 19    | +4  | +4   |
-> | Dex       | 14    | +2  | +2   |
-> | Con       | 17    | +3  | +3   |
-> | Int       | 10    | +0  | +0   |
-> | Wis       | 14    | +2  | +2   |
-> | Cha       | 14    | +2  | +2   |
->
-> **Resistances** Acid, Cold, Fire, Lightning, Poison 
->
-> **Immunities** Charmed, Frightened, Poisoned 
->
-> **Senses** Blindsight 30 ft., Darkvision 60 ft.; Passive Perception 12
->
-> **Languages** Draconic, understands the languages you know **CR** None (XP 0; PB equals your Proficiency Bonus)
->
-> ##### Traits
->
-> **_Shared Resistances._** When you summon the spirit, choose one of its Resistances. You have Resistance to the chosen damage type until the spell ends.
->
-> ##### Actions
->
-> **_Multiattack._** The spirit makes a number of Rend attacks equal to half the spell's level (round down), and it uses Breath Weapon.
->
-> **_Rend. Melee Attack Roll:_** Bonus equals your spell attack modifier, reach 10 feet. *Hit:* 1d6 + 4 + the spell's level Piercing damage.
->
-> **_Breath Weapon. Dexterity Saving Throw:_** DC equals your spell save DC, each creature in a 30-foot Cone. *Failure:* 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:*  Half damage.
-
-#### Sunbeam
-
-*Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S, M (a magnifying glass) 
-
-**Duration:** Concentration, up to 1 minute
-
-You launch a sunbeam in a 5-foot-wide, 60-foot-long Line. Each creature in the Line makes a Constitution saving throw. On a failed save, a creature takes 6d8 Radiant damage and has the Blinded condition until the start of your next turn. On a successful save, it takes half as much damage only.
-
-Until the spell ends, you can take a Magic action to create a new Line of radiance.
-
-For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This light is sunlight.
-
-#### Sunburst
-
-*Level 8 Evocation (Cleric, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (a piece of sunstone) 
-
-**Duration:** Instantaneous
-
-Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes 12d6 Radiant damage and has the Blinded condition for 1 minute. On a successful save, it takes half as much damage only.
-
-A creature Blinded by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-This spell dispels Darkness in its area that was created by any spell.
-
-#### Symbol
-
-*Level 7 Abjuration (Bard, Cleric, Druid, Wizard)*
-
-**Casting Time:** 1 minute
-
-**Range:** Touch
-
-**Components:** V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)
-
-**Duration:** Until dispelled or triggered
-
-You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
-
-The glyph is nearly imperceptible and requires a successful Wisdom (Perception) check against your spell save DC to notice.
-
-When you inscribe the glyph, you set its trigger and choose which effect the symbol bears: Death, Discord, Fear, Pain, Sleep, or Stunning. Each one is explained below.
-
-**_Set the Trigger._** You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph.
-
-You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
-
-Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light for 10 minutes, after which time the spell ends. Each creature in the Sphere when the glyph activates is targeted by its effect, as is a creature that enters the Sphere for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
-
-**_Death._** Each target makes a Constitution saving throw, taking 10d10 Necrotic damage on a failed save or half as much damage on a successful save.
-
-**_Discord._** Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has Disadvantage on attack rolls and ability checks.
-
-**_Fear._** Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute. While Frightened, the target must move at least 30 feet away from the glyph on each of its turns, if able.
-
-**_Pain._** Each target must succeed on a Constitution saving throw or have the Incapacitated condition for 1 minute.
-
-**_Sleep._** Each target must succeed on a Wisdom saving throw or have the Unconscious condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
-
-**_Stunning._** Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.
-
-### T Spells
-
-#### Telekinesis
-
-*Level 5 Transmutation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 10 minutes
-
-You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell and as a Magic action on your later turns before the spell ends, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
-
-**_Creature._** You can try to move a Huge or smaller creature. The target must succeed on a Strength saving throw, or you move it up to 30 feet in any direction within the spell's range. Until the end of your next turn, the creature has the Restrained condition, and if you lift it into the air, it is suspended there. It falls at the end of your next turn unless you use this option on it again and it fails the save.
-
-**_Object._** You can try to move a Huge or smaller object. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction within the spell's range.
-
-If the object is worn or carried by a creature, that creature must succeed on a Strength saving throw, or you pull the object away and move it up to 30 feet in any direction within the spell's range.
-
-You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool,
-
-#### Telepathic Bond
-
-*Level 5 Divination (Bard, Wizard)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (two eggs) 
-
-**Duration:** 1 hour
-
-You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can't communicate in any languages aren't affected by this spell.
-
-Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence.
-
-#### Teleport
-
-*Level 7 Conjuration (Bard, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 10 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can't be held or carried by an unwilling creature.
-
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
-
-Table: Teleportation Outcome
-
-| Familiarity              | Mishap | Similar Area | Off Target | On Target |
-|--------------------------|--------|--------------|------------|-----------|
-| Permanent circle         | —      | —            | —          | 01–00     |
-| Linked object            | —      | —            | —          | 01–00     |
-| Very familiar            | 01–05  | 06–13        | 14–24      | 25–00     |
-| Seen casually            | 01–33  | 34–43        | 44–53      | 54–00     |
-| Viewed once or described | 01–43  | 44–53        | 54–73      | 74–00     |
-| False destination        | 01–50  | 51–00        | —          | —         |
-
-**_Familiarity._** Here are the meanings of the terms in the table's Familiarity column:
-
-- "Permanent circle" means a permanent teleportation circle whose sigil sequence you know.
-- "Linked object" means you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library.
-- "Very familiar" is a place you have visited often, a place you have carefully studied, or a place you can see when you cast the spell.
-- "Seen casually" is a place you have seen more than once but with which you aren't very familiar.
-- "Viewed once or described" is a place you have seen once, possibly using magic, or a place you know through someone else's description, perhaps from a map.
-- "False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a location that no longer exists.
-
-**_Mishap._** The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 Force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
-
-**_Similar Area._** You and your group (or the target object) appear in a different area that's visually or thematically similar to the target area. You appear in the closest similar place. If you are heading for your home laboratory, for example, you might appear in another person's laboratory in the same city.
-
-**_Off Target._** You and your group (or the target object) appear 2d12 miles away from the destination in a random direction. Roll 1d8 for the direction: 1, east; 2, southeast; 3, south; 4, southwest; 5, west; 6, northwest; 7, north; or 8, northeast.
-
-**_On Target._** You and your group (or the target object) appear where you intended.
-
-#### **Teleportation Circle**
-
-*Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** 1 minute
-
-**Range:** 10 feet
-
-**Components:** V, M (rare inks worth 50+ GP, which the spell consumes)
-
-**Duration:** 1 round
-
-As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
-
-Many major temples, guildhalls, and other important places have permanent teleportation circles. Each circle includes a unique sigil sequence—a string of runes arranged in a particular pattern.
-
-When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You might learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
-
-You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
-
-#### Thaumaturgy
-
-*Transmutation Cantrip (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V 
-
-**Duration:** Up to 1 minute
-
-You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
-
-**_Altered Eyes._** You alter the appearance of your eyes for 1 minute.
-
-**_Booming Voice._** Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.
-
-**_Fire Play._** You cause flames to flicker, brighten, dim, or change color for 1 minute.
-
-**_Invisible Hand._** You instantaneously cause an unlocked door or window to fly open or slam shut.
-
-**_Phantom Sound._** You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
-
-**_Tremors._** You cause harmless tremors in the ground for 1 minute.
-
-#### Thunderwavea
-
-*Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Instantaneous
-
-You unleash a wave of thunderous energy. Each creature in a 15-foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.
-
-In addition, unsecured objects that are entirely within the Cube are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 1.
-
-#### Time Stop
-
-*Level 9 Transmutation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.
-
-This spell ends if one of the actions you use during this period, or any effects that you create during it, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
-
-#### Tiny Hut
-
-*Level 3 Evocation (Bard, Wizard)* 
-
-**Casting Time:** 1 minute or Ritual 
-
-**Range:** Self
-
-**Components:** V, S, M (a crystal bead) 
-
-**Duration:** 8 hours
-
-A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn't big enough to fully encapsulate all creatures in its area.
-
-Creatures and objects within the Emanation when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
-
-The atmosphere inside the Emanation is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have Dim Light or Darkness (no action required). The Emanation is opaque from the outside and of any color you choose, but it's transparent from the inside.
-
-The spell ends early if you leave the Emanation or if you cast it again.
-
-#### Tongues
-
-*Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, M (a miniature ziggurat) 
-
-**Duration:** 1 hour
-
-This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that
-
-knows at least one language can understand it if that creature can hear the speech or see the signing.
-
-#### Transport via Plants
-
-*Level 6 Conjuration (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 10 feet 
-
-**Components:** V, S 
-
-**Duration:** 1 minute
-
-This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
-
-#### Tree Stride
-
-*Level 5 Conjuration (Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
-
-You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
-
-#### True Polymorph
-
-*Level 9 Transmutation (Bard, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
-
-**Duration:** Concentration, up to 1 hour
-
-Choose one creature or nonmagical object that you can see within range. The creature shape-shifts into a different creature or a nonmagical object, or the object shape-shifts into a creature (the object must be neither worn nor carried). The transformation lasts for the duration or until the target dies or is destroyed, but if you maintain Concentration on this spell for the full duration, the spell lasts until dispelled.
-
-An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.
-
-**_Creature into Creature._** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target's Challenge Rating or level. The target's game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.
-
-The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. These Temporary Hit Points vanish if any remain when the spell ends.
-
-The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
-
-The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
-
-**_Object into Creature._** You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature has a Challenge Rating of 9 or lower. The creature is Friendly to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
-
-If the spell lasts more than an hour, you no longer control the creature. It might remain Friendly to you, depending on how you have treated it.
-
-**_Creature into Object._** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.
-
-#### True Resurrection
-
-*Level 9 Necromancy (Cleric, Druid)*
-
-**Casting Time:** 1 hour 
-
-**Range:** Touch 
-
-**Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes) 
-
-**Duration:** Instantaneous
-
-You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its Hit Points.
-
-This spell closes all wounds, neutralizes any poison, cures all magical contagions, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was Undead, it is restored to its non-Undead form.
-
-The spell can provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
-
-#### True Seeing
-
-*Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Touch 
-
-**Components:** V, S, M (mushroom powder worth 25+ GP, which the spell consumes) 
-
-**Duration:** 1 hour
-
-For the duration, the willing creature you touch has Truesight with a range of 120 feet.
-
-#### True Strike
-
-*Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action
-
-**Range:** Self
-
-**Components:** S, M (a weapon with which you have proficiency and that is worth 1+ CP)
-
-**Duration:** Instantaneous
-
-Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
-
-**_Cantrip Upgrade._** Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
-
-#### Tsunami
-
-*Level 8 Conjuration (Druid)*
-
-**Casting Time:** 1 minute 
-
-**Range:** 1 mile 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 6 rounds
-
-A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration.
-
-When the wall appears, each creature in its area makes a Strength saving throw, taking 6d10 Bludgeoning damage on a failed save or half as much damage on a successful one.
-
-At the start of each of your turns after the wall appears, the wall, along with any creatures in it, moves 50 feet away from you. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a Strength saving throw or take 5d10 Bludgeoning damage. A creature can take this damage only once per round. At the end of the turn, the wall's height is reduced by 50 feet, and the damage the wall deals on later rounds is reduced by 1d10. When the wall reaches 0 feet in height, the spell ends.
-
-A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength (Athletics) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
-
-### U-Z Spells
-
-#### Unseen Servant
-
-*Level 1 Conjuration (Bard, Warlock, Wizard)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a bit of string and of wood) 
-
-**Duration:** 1 hour
-
-This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.
-
-Once on each of your turns as a Bonus Action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
-
-If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
-
-#### Vampiric Touch
-
-*Level 3 Necromancy (Sorcerer, Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes 3d6 Necrotic damage, and you regain Hit Points equal to half the amount of Necrotic damage dealt.
-
-Until the spell ends, you can make the attack again on each of your turns as a Magic action, targeting the same creature or a different one.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 3.
-
-#### Vicious Mockery
-
-*Enchantment Cantrip (Bard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
-
-**_Cantrip Upgrade._** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
-
-#### Vitriolic Sphere
-
-*Level 4 Evocation (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 150 feet 
-
-**Components:** V, S, M (a drop of bile) 
-
-**Duration:** Instantaneous
-
-You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius Sphere. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes 10d4 Acid damage and another 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
-
-**_Using a Higher-Level Spell Slot._** The initial damage increases by 2d4 for each spell slot level above 4.
-
-#### Wall of Fire
-
-*Level 4 Evocation (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a piece of charcoal) 
-
-**Duration:** Concentration, up to 1 minute
-
-You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
-
-When the wall appears, each creature in its area makes a Dexterity saving throw, taking 5d8 Fire damage on a failed save or half as much damage on a successful one.
-
-One side of the wall, selected by you when you cast this spell, deals 5d8 Fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
-
-**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 4.
-
-#### Wall of Force
-
-*Level 5 Evocation (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a shard of glass) 
-
-**Duration:** Concentration, up to 10 minutes
-
-An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
-
-Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by *Dispel Magic.* A *Disintegrate* spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
-
-#### Wall of Ice
-
-*Level 6 Evocation (Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a piece of quartz) 
-
-**Duration:** Concentration, up to 10 minutes
-
-You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
-
-If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side) and makes a Dexterity saving throw, taking 10d6 Cold damage on a failed save or half as much damage on a successful one.
-
-The wall is an object that can be damaged and thus breached. It has AC 12 and 30 Hit Points per 10-foot section, and it has Immunity to Cold, Poison, and Psychic damage and Vulnerability to Fire damage. Reducing a 10-foot section of wall to 0 Hit Points destroys it and leaves behind a sheet of frigid air in the space the wall occupied.
-
-A creature moving through the sheet of frigid air for the first time on a turn makes a Constitution saving throw, taking 5d6 Cold damage on a failed save or half as much damage on a successful one.
-
-**_Using a Higher-Level Spell Slot._** The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
-
-#### Wall of Stone
-
-*Level 5 Evocation (Druid, Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a cube of granite) 
-
-**Duration:** Concentration, up to 10 minutes
-
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-footby-20-foot panels that are only 3 inches thick.
-
-If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its Reaction to move up to its Speed so that it is no longer enclosed by the wall.
-
-The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on a firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.
-
-If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create battlements and the like.
-
-The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 Hit Points per inch of thickness, and it has Immunity to Poison and Psychic damage. Reducing a panel to 0 Hit Points destroys it and might cause connected panels to collapse at the GM's discretion.
-
-If you maintain your Concentration on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
-
-#### Wall of Thorns
-
-*Level 6 Conjuration (Druid)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a handful of thorns) 
-
-**Duration:** Concentration, up to 10 minutes
-
-You create a wall of tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.
-
-When the wall appears, each creature in its area makes a Dexterity saving throw, taking 7d8 Piercing damage on a failed save or half as much damage on a successful one.
-
-A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters a space in the wall on a turn or ends its turn there, the creature makes a Dexterity saving throw, taking 7d8 Slashing damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
-
-**_Using a Higher-Level Spell Slot._** Both types of damage increase by 1d8 for each spell slot level above 6.
-
-#### Warding Bond
-
-*Level 2 Abjuration (Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** Touch
-
-**Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)
-
-**Duration:** 1 hour
-
-You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has Resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
-
-The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
-
-#### Water Breathing
-
-*Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a short reed) 
-
-**Duration:** 24 hours
-
-This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
-
-#### Water Walk
-
-*Level 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)*
-
-**Casting Time:** Action or Ritual 
-
-**Range:** 30 feet
-
-**Components:** V, S, M (a piece of cork) 
-
-**Duration:** 1 hour
-
-This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
-
-An affected target must take a Bonus Action to pass from the liquid's surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
-
-#### Web
-
-*Level 2 Conjuration (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S, M (a bit of spiderweb) 
-
-**Duration:** Concentration, up to 1 hour
-
-You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot Cube there for the duration. The webs are Difficult Terrain, and the area within them is Lightly Obscured.
-
-If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
-
-The first time a creature enters the webs on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the Restrained condition while in the webs or until it breaks free.
-
-A creature Restrained by the webs can take an action to make a Strength (Athletics) check against your spell save DC. If it succeeds, it is no longer Restrained.
-
-The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 round, dealing 2d4 Fire damage to any creature that starts its turn in the fire.
-
-#### Weird
-
-*Level 9 Illusion (Warlock, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S 
-
-**Duration:** Concentration, up to 1 minute
-
-You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes 10d10 Psychic damage and has the Frightened condition for the duration. On a successful save, a target takes half as much damage only.
-
-A Frightened target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes 5d10 Psychic damage. On a successful save, the spell ends on that target.
-
-#### Wind Walk
-
-*Level 6 Transmutation (Druid)*
-
-**Casting Time:** 1 minute 
-
-**Range:** 30 feet 
-
-**Components:** V, S, M (a candle) 
-
-**Duration:** 8 hours
-
-You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a Fly Speed of 300 feet and can hover; it has Immunity to the Prone condition; and it has Resistance to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the Dash action or a Magic action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the Stunned condition. Until the spell ends, the target can revert to cloud form, which also requires a Magic action followed by a 1-minute transformation.
-
-If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
-
-#### Wind Wall
-
-*Level 3 Evocation (Druid, Ranger)*
-
-**Casting Time:** Action 
-
-**Range:** 120 feet 
-
-**Components:** V, S, M (a fan and a feather) 
-
-**Duration:** Concentration, up to 1 minute
-
-A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
-
-When the wall appears, each creature in its area makes a Strength saving throw, taking 4d8 Bludgeoning damage on a failed save or half as much damage on a successful one.
-
-The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in gaseous form can't pass through it.
-
-#### Wish
-
-*Level 9 Conjuration (Sorcerer, Wizard)*
-
-**Casting Time:** Action 
-
-**Range:** Self 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-*Wish* is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.
-
-The basic use of this spell is to duplicate any other spell of level 8 or lower. If you use it this way, you don't need to meet any requirements to cast that spell, including costly components. The spell simply takes effect.
-
-Alternatively, you can create one of the following effects of your choice:
-
-**_Object Creation._** You create one object of up to 25,000 GP in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space that you can see on the ground.
-**_Instant Health._** You allow yourself and up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them listed in the *Greater Restoration* spell.
-**_Resistance._** You grant up to ten creatures that you can see Resistance to one damage type that you choose. This Resistance is permanent.
-**_Spell Immunity._** You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
-**_Sudden Learning._** You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can't replace a feat that is a prerequisite for any of your other feats or features.
-**_Roll Redo._** You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *Wish* spell could undo an ally's failed saving throw or a foe's Critical Hit. You can force the reroll to be made with Advantage or Disadvantage, and you choose whether to use the reroll or the original roll.
-**_Reshape Reality._** You may wish for something not included in any of the other effects. To do so, state your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game.
-
-Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item's current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god's divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, your wish fails.
-
-The stress of casting *Wish* to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a Long Rest, you take 1d10 Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.
-
-#### Word of Recall
-
-*Level 6 Conjuration (Cleric)*
-
-**Casting Time:** Action 
-
-**Range:** 5 feet 
-
-**Components:** V 
-
-**Duration:** Instantaneous
-
-You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.
-
-You must designate a location, such as a temple, as a sanctuary by casting this spell there.
-
-#### Zone of Truth
-
-*Level 2 Enchantment (Bard, Cleric, Paladin)*
-
-**Casting Time:** Action 
-
-**Range:** 60 feet 
-
-**Components:** V, S 
-
-**Duration:** 10 minutes
-
-You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
-
-An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
+**_Использование ячейки более высокого уровня._** Урон увеличивается на 1d8 за каждый уровень ячейки выше 1-го.

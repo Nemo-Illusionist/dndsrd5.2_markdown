@@ -1,451 +1,448 @@
-## Sorcerer
+## Чародей
 
-Table: Core Sorcerer Traits
+Таблица: Основные черты чародея
 
 |                            |                                                                                                 |
 |----------------------------|-------------------------------------------------------------------------------------------------|
-| Primary Ability            | Charisma                                                                                        |
-| Hit Point Die              | D6 per Sorcerer level                                                                           |
-| Saving Throw Proficiencies | Constitution and Charisma                                                                       |
-| Skill Proficiencies        | Choose 2: Arcana, Deception, Insight, Intimidation, Persua sion, or Religion                    |
-| Weapon Proficiencies       | Simple weapons                                                                                  |
-| Armor Training             | None                                                                                            |
-| Starting Equipment         | Choose A or B: (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 28 GP; or (B) 50 GP |
+| Основная характеристика    | Харизма                                                                                         |
+| Кость Хитов                | d6 за каждый уровень чародея                                                                    |
+| Владение спасбросками      | Телосложение и Харизма                                                                          |
+| Владение навыками          | Выберите 2: Магия, Обман, Проницательность, Запугивание, Убеждение или Религия                  |
+| Владение оружием           | Простое оружие                                                                                  |
+| Владение доспехами         | Нет                                                                                             |
+| Начальное снаряжение       | Выберите А или Б: (А) Копьё, 2 кинжала, магическая фокусировка (кристалл), набор исследователя подземелий и 28 зм; или (Б) 50 зм |
 
-### Becoming a Sorcerer …
+### Как стать чародеем…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-- Gain all the traits in the Core Sorcerer Traits table.
-- Gain the Sorcerer's level 1 features, which are listed in the Sorcerer Features table.
+- Получите все черты из таблицы Основные черты чародея.
+- Получите умения чародея 1-го уровня, перечисленные в таблице Умения чародея.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the Hit Point Die from the Core Sorcerer Traits table.
-- Gain the Sorcerer's level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
+- Получите Кость Хитов из таблицы Основные черты чародея.
+- Получите умения чародея 1-го уровня, перечисленные в таблице Умения чародея. Смотрите правила мультиклассирования в разделе «Создание персонажа», чтобы определить доступные ячейки заклинаний.
 
-### **Sorcerer Class Features**
+### Умения чародея
 
-As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
+Как чародей, вы получаете следующие классовые умения, когда достигаете указанных уровней чародея. Эти умения перечислены в таблице Умения чародея.
 
-Table: Sorcerer Features:  ——Spell Slots per Spell Level——
+Таблица: Умения чародея: ——Ячейки заклинаний по уровням——
 
-| Level | Proficiency Bonus | Class Features                  | Sorcery Points | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|---------------------------------|----------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
-| 1     | +2                | Spellcasting, Innate Sorcery    | —              | 4        | 2               | 2 | — | — | — | — | — | — | — | — |
-| 2     | +2                | Font of Magic, Metamagic        | 2              | 4        | 4               | 3 | — | — | — | — | — | — | — | — |
-| 3     | +2                | Sorcerer Subclass               | 3              | 4        | 6               | 4 | 2 | — | — | — | — | — | — | — |
-| 4     | +2                | Ability Score Improvement       | 4              | 5        | 7               | 4 | 3 | — | — | — | — | — | — | — |
-| 5     | +3                | Sorcerous Restoration           | 5              | 5        | 9               | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6     | +3                | Subclass feature                | 6              | 5        | 10              | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7     | +3                | Sorcery Incarnate               | 7              | 5        | 11              | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8     | +3                | Ability Score Improvement       | 8              | 5        | 12              | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9     | +4                | —                               | 9              | 5        | 14              | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10    | +4                | Metamagic                       | 10             | 6        | 15              | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11    | +4                | —                               | 11             | 6        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12    | +4                | Ability Score Improvement       | 12             | 6        | 16              | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13    | +5                | —                               | 13             | 6        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14    | +5                | Subclass feature                | 14             | 6        | 17              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15    | +5                | —                               | 15             | 6        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16    | +5                | Ability Score Improvement       | 16             | 6        | 18              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17    | +6                | Metamagic                       | 17             | 6        | 19              | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18    | +6                | Subclass feature                | 18             | 6        | 20              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | +6                | Epic Boon                       | 19             | 6        | 21              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20    | +6                | Arcane Apotheosis               | 20             | 6        | 22              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Уровень | Бонус мастерства | Классовые умения                            | Очки чародейства | Заговоры | Подготовленные заклинания | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---------|------------------|---------------------------------------------|------------------|----------|---------------------------|---|---|---|---|---|---|---|---|---|
+| 1       | +2               | Использование заклинаний, Врождённое чародейство | —            | 4        | 2                         | 2 | — | — | — | — | — | — | — | — |
+| 2       | +2               | Источник магии, Метамагия                   | 2                | 4        | 4                         | 3 | — | — | — | — | — | — | — | — |
+| 3       | +2               | Подкласс чародея                            | 3                | 4        | 6                         | 4 | 2 | — | — | — | — | — | — | — |
+| 4       | +2               | Увеличение характеристик                    | 4                | 5        | 7                         | 4 | 3 | — | — | — | — | — | — | — |
+| 5       | +3               | Чародейское восстановление                  | 5                | 5        | 9                         | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6       | +3               | Умение подкласса                            | 6                | 5        | 10                        | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7       | +3               | Воплощение чародейства                      | 7                | 5        | 11                        | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8       | +3               | Увеличение характеристик                    | 8                | 5        | 12                        | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9       | +4               | —                                           | 9                | 5        | 14                        | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10      | +4               | Метамагия                                   | 10               | 6        | 15                        | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11      | +4               | —                                           | 11               | 6        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12      | +4               | Увеличение характеристик                    | 12               | 6        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13      | +5               | —                                           | 13               | 6        | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14      | +5               | Умение подкласса                            | 14               | 6        | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15      | +5               | —                                           | 15               | 6        | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16      | +5               | Увеличение характеристик                    | 16               | 6        | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17      | +6               | Метамагия                                   | 17               | 6        | 19                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18      | +6               | Умение подкласса                            | 18               | 6        | 20                        | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19      | +6               | Эпический дар                               | 19               | 6        | 21                        | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20      | +6               | Магический апофеоз                          | 20               | 6        | 22                        | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-#### Level 1: Spellcasting
+#### Уровень 1: Использование заклинаний
 
-Drawing from your innate magic, you can cast spells. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class's description.
+Черпая из врождённой магии, вы можете творить заклинания. Смотрите раздел «Заклинания» для правил использования заклинаний. Информация ниже описывает, как вы используете эти правила с заклинаниями чародея, которые приведены в списке заклинаний чародея далее в описании класса.
 
-**Cantrips.** You know four Sorcerer cantrips of your choice. *Light*, *Prestidigitation*, *Shocking Grasp*, and *Sorcerous Burst* are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+**Заговоры.** Вы знаете четыре заговора чародея на свой выбор. Рекомендуются *Свет*, *Фокусы*, *Шокирующее касание* и *Чародейский всплеск*. Каждый раз, когда вы получаете уровень чародея, вы можете заменить один из заговоров этого умения другим заговором чародея на свой выбор.
 
-When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
+Когда вы достигаете 4-го и 10-го уровня чародея, вы узнаёте ещё один заговор чародея на свой выбор, как показано в столбце Заговоры таблицы Умения чародея.
 
-**Spell Slots.** The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Ячейки заклинаний.** Таблица Умения чародея показывает, сколько у вас есть ячеек заклинаний для сотворения заклинаний 1-го уровня и выше. Вы восстанавливаете все потраченные ячейки, когда заканчиваете продолжительный отдых.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. *Burning Hands* and *Detect Magic* are recommended.
+**Подготовленные заклинания 1-го уровня и выше.** Вы подготавливаете список заклинаний 1-го уровня и выше, которые доступны вам для сотворения с помощью этого умения. Для начала выберите два заклинания чародея 1-го уровня. Рекомендуются *Горящие руки* и *Обнаружение магии*.
 
-The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
+Количество заклинаний в вашем списке увеличивается по мере получения уровней чародея, как показано в столбце Подготовленные заклинания таблицы Умения чародея. Каждый раз, когда это число увеличивается, выбирайте дополнительные заклинания чародея, пока количество заклинаний в вашем списке не сравняется с числом в таблице Умения чародея. Выбранные заклинания должны быть того уровня, для которого у вас есть ячейки заклинаний. Например, если вы чародей 3-го уровня, ваш список подготовленных заклинаний может включать шесть заклинаний чародея 1-го или 2-го уровня в любой комбинации.
 
-If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you.
+Если другое умение чародея даёт вам заклинания, которые вы всегда держите подготовленными, эти заклинания не учитываются в количестве заклинаний, которые вы можете подготовить с помощью этого умения, но в остальном считаются заклинаниями чародея для вас.
 
-**Changing Your Prepared Spells.** Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
+**Изменение подготовленных заклинаний.** Каждый раз, когда вы получаете уровень чародея, вы можете заменить одно заклинание в своём списке другим заклинанием чародея, для которого у вас есть ячейки заклинаний.
 
-**Spellcasting Ability.** Charisma is your spellcasting ability for your Sorcerer spells.
+**Базовая характеристика заклинаний.** Харизма является вашей базовой характеристикой для заклинаний чародея.
 
-**Spellcasting Focus.** You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
+**Фокусировка заклинаний.** Вы можете использовать магическую фокусировку в качестве фокусировки для заклинаний чародея.
 
-#### Level 1: Innate Sorcery
+#### Уровень 1: Врождённое чародейство
 
-An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
+Событие в вашем прошлом оставило неизгладимый след, наполнив вас тлеющей магией. Как Бонусное действие, вы можете высвободить эту магию на 1 минуту, в течение которой получаете следующие преимущества:
 
-- The spell save DC of your Sorcerer spells increases by 1.
-- You have Advantage on the attack rolls of Sorcerer spells you cast.
+- СЛ спасброска ваших заклинаний чародея увеличивается на 1.
+- Вы получаете преимущество на броски атаки заклинаний чародея, которые вы творите.
 
-You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
+Вы можете использовать это умение дважды и восстанавливаете все потраченные использования, когда заканчиваете продолжительный отдых.
 
-#### Level 2: Font of Magic
+#### Уровень 2: Источник магии
 
-You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
+Вы можете черпать из источника магии внутри себя. Этот источник представлен очками чародейства, которые позволяют создавать различные магические эффекты.
 
-You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
+У вас есть 2 очка чародейства, и вы получаете больше по мере достижения более высоких уровней, как показано в столбце Очки чародейства таблицы Умения чародея. У вас не может быть больше очков чародейства, чем указано в таблице для вашего уровня. Вы восстанавливаете все потраченные очки чародейства, когда заканчиваете продолжительный отдых.
 
-You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
+Вы можете использовать очки чародейства для активации опций ниже, а также других умений, таких как Метамагия, которые используют эти очки.
 
-**Converting Spell Slots to Sorcery Points.** You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
+**Преобразование ячеек заклинаний в очки чародейства.** Вы можете потратить ячейку заклинания, чтобы получить количество очков чародейства, равное уровню ячейки (действие не требуется).
 
-**Creating Spell Slots.** As a Bonus Action, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
+**Создание ячеек заклинаний.** Как Бонусное действие, вы можете преобразовать неизрасходованные очки чародейства в одну ячейку заклинания. Таблица Создание ячеек заклинаний показывает стоимость создания ячейки заклинания данного уровня и минимальный уровень чародея, которого вы должны достичь, чтобы создать ячейку. Вы не можете создать ячейку выше 5-го уровня.
 
-Any spell slot you create with this feature vanishes when you finish a Long Rest.
+Любая ячейка заклинания, созданная с помощью этого умения, исчезает, когда вы заканчиваете продолжительный отдых.
 
-Table: Creating Spell Slots
+Таблица: Создание ячеек заклинаний
 
-| Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level |
-|------------------|--------------------|---------------------|
-| 1                | 2                  | 2                   |
-| 2                | 3                  | 3                   |
-| 3                | 5                  | 5                   |
-| 4                | 6                  | 7                   |
-| 5                | 7                  | 9                   |
+| Уровень ячейки | Стоимость в очках | Мин. уровень чародея |
+|----------------|-------------------|----------------------|
+| 1              | 2                 | 2                    |
+| 2              | 3                 | 3                    |
+| 3              | 5                 | 5                    |
+| 4              | 6                 | 7                    |
+| 5              | 7                 | 9                    |
 
-#### Level 2: Metamagic
+#### Уровень 2: Метамагия
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Поскольку ваша магия течёт изнутри, вы можете изменять заклинания под свои нужды; вы получаете две опции Метамагии на свой выбор из раздела «Опции Метамагии» далее в описании этого класса. Вы используете выбранные опции для временной модификации заклинаний, которые творите. Чтобы использовать опцию, вы должны потратить указанное количество очков чародейства.
 
-You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
+Вы можете использовать только одну опцию Метамагии на заклинание при его сотворении, если иное не указано в описании опции.
 
-Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+Каждый раз, когда вы получаете уровень чародея, вы можете заменить одну из опций Метамагии на другую, которой вы не знаете. Вы получаете ещё две опции на 10-м уровне чародея и ещё две на 17-м уровне.
 
-#### Level 3: Sorcerer Subclass
+#### Уровень 3: Подкласс чародея
 
-You gain a Sorcerer subclass of your choice. The Draconic Sorcery subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower.
+Вы получаете подкласс чародея на свой выбор. Подкласс Драконье чародейство описан после описания этого класса. Подкласс — это специализация, которая даёт вам умения на определённых уровнях чародея. До конца вашей карьеры вы получаете каждое умение своего подкласса, которое соответствует вашему уровню чародея или ниже.
 
-#### Level 4: Ability Score Improvement
+#### Уровень 4: Увеличение характеристик
 
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
+Вы получаете черту Увеличение характеристик (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях чародея.
 
-#### Level 5: Sorcerous Restoration
+#### Уровень 5: Чародейское восстановление
 
-When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a Long Rest.
+Когда вы заканчиваете короткий отдых, вы можете восстановить потраченные очки чародейства, но не более количества, равного половине вашего уровня чародея (с округлением вниз). После использования этого умения вы не можете использовать его снова, пока не закончите продолжительный отдых.
 
-#### Level 7: Sorcery Incarnate
+#### Уровень 7: Воплощение чародейства
 
-If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
+Если у вас не осталось использований Врождённого чародейства, вы можете использовать его, потратив 2 очка чародейства, когда совершаете Бонусное действие для его активации.
 
-In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
+Кроме того, пока ваше умение Врождённое чародейство активно, вы можете использовать до двух опций Метамагии на каждое заклинание, которое творите.
 
-#### Level 19: Epic Boon
+#### Уровень 19: Эпический дар
 
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Dimensional Travel is recommended.
+Вы получаете черту Эпический дар (смотрите раздел «Черты») или другую черту на свой выбор, для которой вы соответствуете требованиям. Рекомендуется Дар межпространственного перемещения.
 
-#### Level 20: Arcane Apotheosis
+#### Уровень 20: Магический апофеоз
 
-While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turns without spending Sorcery Points on it.
+Пока ваше умение Врождённое чародейство активно, вы можете использовать одну опцию Метамагии в каждый свой ход без траты очков чародейства на неё.
 
-### Metamagic Options
+### Опции Метамагии
 
-The following options are available to your Metamagic feature. The options are presented in alphabetical order.
+Следующие опции доступны для вашего умения Метамагия. Опции представлены в алфавитном порядке.
 
-#### Careful Spell
+#### Осторожное заклинание
 
-*Cost: 1 Sorcery Point*
+*Стоимость: 1 очко чародейства*
 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and
+Когда вы творите заклинание, которое заставляет других существ совершать спасбросок, вы можете защитить некоторых из этих существ от полной силы заклинания. Для этого потратьте 1 очко чародейства и выберите количество этих существ, не превышающее вашего модификатора Харизмы (минимум одно существо). Выбранное существо автоматически преуспевает в спасброске против заклинания и не получает урона, если обычно получало бы половину урона при успешном спасброске.
 
-it takes no damage if it would normally take half damage on a successful save.
+#### Дальнее заклинание
 
-#### Distant Spell
+*Стоимость: 1 очко чародейства*
 
-*Cost: 1 Sorcery Point*
+Когда вы творите заклинание с дистанцией не менее 5 футов, вы можете потратить 1 очко чародейства, чтобы удвоить дистанцию заклинания. Или когда вы творите заклинание с дистанцией Касание, вы можете потратить 1 очко чародейства, чтобы сделать дистанцию заклинания 30 футов.
 
-When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell's range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell's range 30 feet.
+#### Усиленное заклинание
 
-#### Empowered Spell
+*Стоимость: 1 очко чародейства*
 
-*Cost: 1 Sorcery Point*
+Когда вы бросаете урон для заклинания, вы можете потратить 1 очко чародейства, чтобы перебросить количество костей урона, не превышающее вашего модификатора Харизмы (минимум одна), и вы должны использовать новые результаты.
 
-When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls.
+Вы можете использовать Усиленное заклинание, даже если уже использовали другую опцию Метамагии при сотворении заклинания.
 
-You can use Empowered Spell even if you've already used a different Metamagic option during the casting of the spell.
+#### Продлённое заклинание
 
-#### Extended Spell
+*Стоимость: 1 очко чародейства*
 
-*Cost: 1 Sorcery Point*
+Когда вы творите заклинание с длительностью 1 минута или дольше, вы можете потратить 1 очко чародейства, чтобы удвоить его длительность до максимума 24 часа.
 
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
+Если затронутое заклинание требует концентрации, вы получаете преимущество на любой спасбросок, который вы совершаете для поддержания этой концентрации.
 
-If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration.
+#### Усложнённое заклинание
 
-#### Heightened Spell
+*Стоимость: 2 очка чародейства*
 
-*Cost: 2 Sorcery Points*
+Когда вы творите заклинание, которое заставляет существо совершать спасбросок, вы можете потратить 2 очка чародейства, чтобы дать одной цели заклинания помеху на спасброски против заклинания.
 
-When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell Disadvantage on saves against the spell.
+#### Ускоренное заклинание
 
-#### Quickened Spell
+*Стоимость: 2 очка чародейства*
 
-*Cost: 2 Sorcery Points*
+Когда вы творите заклинание со временем накладывания одно действие, вы можете потратить 2 очка чародейства, чтобы изменить время накладывания на Бонусное действие для этого сотворения. Вы не можете модифицировать заклинание таким образом, если уже сотворили заклинание 1-го уровня или выше в текущий ход, и вы не можете сотворить заклинание 1-го уровня или выше в этот ход после модификации заклинания таким образом.
 
-When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+#### Ищущее заклинание
 
-#### Seeking Spell
+*Стоимость: 1 очко чародейства*
 
-*Cost: 1 Sorcery Point*
+Если вы совершаете бросок атаки для заклинания и промахиваетесь, вы можете потратить 1 очко чародейства, чтобы перебросить d20, и вы должны использовать новый результат.
 
-If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll.
+Вы можете использовать Ищущее заклинание, даже если уже использовали другую опцию Метамагии при сотворении заклинания.
 
-You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.
+#### Тонкое заклинание
 
-#### Subtle Spell
+*Стоимость: 1 очко чародейства*
 
-*Cost: 1 Sorcery Point*
+Когда вы творите заклинание, вы можете потратить 1 очко чародейства, чтобы сотворить его без вербальных, соматических или материальных компонентов, за исключением материальных компонентов, которые поглощаются заклинанием или имеют указанную стоимость.
 
-When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
+#### Преобразованное заклинание
 
-#### Transmuted Spell
+*Стоимость: 1 очко чародейства*
 
-*Cost: 1 Sorcery Point*
+Когда вы творите заклинание, наносящее один из следующих типов урона, вы можете потратить 1 очко чародейства, чтобы изменить этот тип урона на другой из списка: Кислота, Холод, Огонь, Электричество, Яд, Звук.
 
-When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
+#### Раздвоенное заклинание
 
-#### Twinned Spell
+*Стоимость: 1 очко чародейства*
 
-*Cost: 1 Sorcery Point*
+Когда вы творите заклинание, такое как *Очарование личности*, которое может быть сотворено с использованием ячейки заклинания более высокого уровня, чтобы нацелиться на дополнительное существо, вы можете потратить 1 очко чародейства, чтобы увеличить эффективный уровень заклинания на 1.
 
-When you cast a spell, such as *Charm Person*, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+### Список заклинаний чародея
 
-### Sorcerer Spell List
+В этом разделе представлен список заклинаний чародея. Заклинания организованы по уровню заклинания, а затем в алфавитном порядке, и для каждого заклинания указана школа магии. В столбце Особое: *К* означает, что заклинание требует концентрации, *Р* — что это ритуал, *М* — что требуется особый материальный компонент.
 
-This section presents the Sorcerer spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
+Таблица: Заговоры (заклинания чародея 0-го уровня)
 
-Table: Cantrips (Level 0 Sorcerer Spells)
+| Заклинание         | Школа         | Особое |
+|--------------------|---------------|--------|
+| Брызги кислоты     | Воплощение    | —      |
+| Леденящее касание  | Некромантия   | —      |
+| Огненный снаряд    | Воплощение    | —      |
+| Луч холода         | Воплощение    | —      |
+| Свет               | Воплощение    | —      |
+| Магическая рука    | Вызов         | —      |
+| Малая иллюзия      | Иллюзия       | —      |
+| Починка            | Преобразование | —     |
+| Послание           | Преобразование | —     |
+| Фокусы             | Преобразование | —     |
+| Пляшущие огоньки   | Иллюзия       | К      |
+| Шокирующее касание | Воплощение    | —      |
+| Чародейский всплеск | Воплощение   | —      |
+| Истинный удар      | Прорицание    | —      |
+| Ядовитые брызги    | Некромантия   | —      |
+| Элементализм       | Преобразование | —     |
 
-| Spell            | School        | Special |
-|------------------|---------------|---------|
-| Acid Splash      | Evocation     | —       |
-| Chill Touch      | Necromancy    | —       |
-| Dancing Lights   | Illusion      | C       |
-| Elementalism     | Transmutation | —       |
-| Fire Bolt        | Evocation     | —       |
-| Light            | Evocation     | —       |
-| Mage Hand        | Conjuration   | —       |
-| Mending          | Transmutation | —       |
-| Message          | Transmutation | —       |
-| Minor Illusion   | Illusion      | —       |
-| Poison Spray     | Necromancy    | —       |
-| Prestidigitation | Transmutation | —       |
-| Ray of Frost     | Evocation     | —       |
-| Shocking Grasp   | Evocation     | —       |
-| Sorcerous Burst  | Evocation     | —       |
-| True Strike      | Divination    | —       |
+Таблица: Заклинания чародея 1-го уровня
 
-Table: Level 1 Sorcerer Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Волна грома            | Воплощение    | —      |
+| Горящие руки           | Воплощение    | —      |
+| Жир                    | Вызов         | —      |
+| Ледяной нож            | Вызов         | —      |
+| Ложная жизнь           | Некромантия   | —      |
+| Луч болезни            | Некромантия   | —      |
+| Магическая стрела      | Воплощение    | —      |
+| Магические доспехи     | Ограждение    | —      |
+| Маскировка             | Иллюзия       | —      |
+| Немое изображение      | Иллюзия       | К      |
+| Обнаружение магии      | Прорицание    | К, Р   |
+| Очарование личности    | Очарование    | —      |
+| Падение пёрышком       | Преобразование | —     |
+| Понимание языков       | Прорицание    | Р      |
+| Прыжок                 | Преобразование | —     |
+| Стремительное отступление | Преобразование | К   |
+| Туманное облако        | Вызов         | К      |
+| Усыпление              | Очарование    | К      |
+| Хроматическая сфера    | Воплощение    | М      |
+| Цветные брызги         | Иллюзия       | —      |
+| Щит                    | Ограждение    | —      |
 
-| Spell                | School        | Special |
-|----------------------|---------------|---------|
-| Burning Hands        | Evocation     | —       |
-| Charm Person         | Enchantment   | —       |
-| Chromatic Orb        | Evocation     | M       |
-| Color Spray          | Illusion      | —       |
-| Comprehend Languages | Divination    | R       |
-| Detect Magic         | Divination    | C, R    |
-| Disguise Self        | Illusion      | —       |
-| Expeditious Retreat  | Transmutation | C       |
-| False Life           | Necromancy    | –       |
-| Feather Fall         | Transmutation | —       |
-| Fog Cloud            | Conjuration   | C       |
-| Grease               | Conjuration   | —       |
-| Ice Knife            | Conjuration   | —       |
-| Jump                 | Transmutation | —       |
-| Mage Armor           | Abjuration    | —       |
-| Magic Missile        | Evocation     | —       |
-| Ray of Sickness      | Necromancy    | —       |
-| Shield               | Abjuration    | —       |
-| Silent Image         | Illusion      | C       |
-| Sleep                | Enchantment   | C       |
-| Thunderwave          | Evocation     | —       |
+Таблица: Заклинания чародея 2-го уровня
 
-Table: Level 2 Sorcerer Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Дыхание дракона        | Преобразование | К     |
+| Левитация              | Преобразование | К     |
+| Невидимость            | Иллюзия       | К      |
+| Обездвиживание личности | Очарование   | К      |
+| Обнаружение мыслей     | Прорицание    | К      |
+| Огненный клинок        | Воплощение    | К      |
+| Огненный шар (малый)   | Воплощение    | К      |
+| Опаляющий луч          | Воплощение    | —      |
+| Открывание             | Преобразование | —     |
+| Паутина                | Вызов         | К      |
+| Внушение               | Очарование    | К      |
+| Порыв ветра            | Воплощение    | К      |
+| Превращение            | Преобразование | К     |
+| Размытие               | Иллюзия       | К      |
+| Раскол                 | Воплощение    | —      |
+| Слепота/глухота        | Преобразование | —     |
+| Увеличение/уменьшение  | Преобразование | К     |
+| Улучшение характеристики | Преобразование | К   |
+| Тёмное зрение          | Преобразование | —     |
+| Тьма                   | Воплощение    | К      |
+| Хождение по паутине    | Преобразование | К     |
+| Туманный шаг           | Вызов         | —      |
+| Магическое оружие      | Преобразование | —     |
+| Зеркальное изображение | Иллюзия       | —      |
+| Видеть невидимое       | Прорицание    | —      |
 
-| Spell              | School        | Special |
-|--------------------|---------------|---------|
-| Alter Self         | Transmutation | C       |
-| Blindness/Deafness | Transmutation | —       |
-| Blur               | Illusion      | C       |
-| Darkness           | Evocation     | C       |
-| Darkvision         | Transmutation | —       |
-| Detect Thoughts    | Divination    | C       |
-| Dragon's Breath    | Transmutation | C       |
-| Enhance Ability    | Transmutation | C       |
-| Enlarge/Reduce     | Transmutation | C       |
-| Flame Blade        | Evocation     | C       |
-| Flaming Sphere     | Evocation     | C       |
-| Gust of Wind       | Evocation     | C       |
-| Hold Person        | Enchantment   | C       |
-| Invisibility       | Illusion      | C       |
-| Knock              | Transmutation | —       |
-| Levitate           | Transmutation | C       |
-| Magic Weapon       | Transmutation | —       |
-| Mirror Image       | Illusion      | —       |
-| Misty Step         | Conjuration   | —       |
-| Scorching Ray      | Evocation     | —       |
-| See Invisibility   | Divination    | —       |
-| Shatter            | Evocation     | —       |
-| Spider Climb       | Transmutation | C       |
-| Suggestion         | Enchantment   | C       |
-| Web                | Conjuration   | C       |
+Таблица: Заклинания чародея 3-го уровня
 
-Table: Level 3 Sorcerer Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Вампирическое касание  | Некромантия   | К      |
+| Газообразная форма     | Преобразование | К     |
+| Гипнотический узор    | Иллюзия       | К      |
+| Дневной свет           | Воплощение    | —      |
+| Дыхание воды           | Преобразование | Р     |
+| Замедление             | Преобразование | К     |
+| Защита от энергии      | Ограждение    | К      |
+| Зловонное облако       | Вызов         | К      |
+| Контрзаклинание        | Ограждение    | —      |
+| Метель                 | Вызов         | К      |
+| Молния                 | Воплощение    | —      |
+| Мерцание               | Преобразование | —     |
+| Огненный шар           | Воплощение    | —      |
+| Основательное изображение | Иллюзия    | К      |
+| Полёт                  | Преобразование | К     |
+| Рассеивание магии      | Ограждение    | —      |
+| Страх                  | Иллюзия       | К      |
+| Ускорение              | Преобразование | К     |
+| Хождение по воде       | Преобразование | Р     |
+| Ясновидение            | Прорицание    | К, М   |
+| Языки                  | Прорицание    | —      |
 
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Blink                  | Transmutation | —       |
-| Clairvoyance           | Divination    | C, M    |
-| Counterspell           | Abjuration    | —       |
-| Daylight               | Evocation     | —       |
-| Dispel Magic           | Abjuration    | —       |
-| Fear                   | Illusion      | C       |
-| Fireball               | Evocation     | —       |
-| Fly                    | Transmutation | C       |
-| Gaseous Form           | Transmutation | C       |
-| Haste                  | Transmutation | C       |
-| Hypnotic Pattern       | Illusion      | C       |
-| Lightning Bolt         | Evocation     | —       |
-| Major Image            | Illusion      | C       |
-| Protection from Energy | Abjuration    | C       |
-| Sleet Storm            | Conjuration   | C       |
-| Slow                   | Transmutation | C       |
-| Stinking Cloud         | Conjuration   | C       |
-| Tongues                | Divination    | —       |
-| Vampiric Touch         | Necromancy    | C       |
-| Water Breathing        | Transmutation | R       |
-| Water Walk             | Transmutation | R       |
+Таблица: Заклинания чародея 4-го уровня
 
-Table: Level 4 Sorcerer Spells
+| Заклинание               | Школа         | Особое |
+|--------------------------|---------------|--------|
+| Врата измерений          | Вызов         | —      |
+| Господство над зверем    | Очарование    | К      |
+| Едкая сфера              | Воплощение    | —      |
+| Изгнание                 | Ограждение    | К      |
+| Каменная кожа            | Преобразование | К, М  |
+| Ледяной шторм            | Воплощение    | —      |
+| Огненный щит             | Воплощение    | —      |
+| Очарование чудовища      | Очарование    | —      |
+| Полиморф                 | Преобразование | К     |
+| Порча                    | Некромантия   | —      |
+| Превосходная невидимость | Иллюзия       | К      |
+| Смятение                 | Очарование    | К      |
+| Стена огня               | Воплощение    | К      |
 
-| Spell                | School        | Special |
-|----------------------|---------------|---------|
-| Banishment           | Abjuration    | C       |
-| Blight               | Necromancy    | —       |
-| Charm Monster        | Enchantment   | —       |
-| Confusion            | Enchantment   | C       |
-| Dimension Door       | Conjuration   | —       |
-| Dominate Beast       | Enchantment   | C       |
-| Fire Shield          | Evocation     | —       |
-| Greater Invisibility | Illusion      | C       |
-| Ice Storm            | Evocation     | —       |
-| Polymorph            | Transmutation | C       |
-| Stoneskin            | Transmutation | C, M    |
-| Vitriolic Sphere     | Evocation     | —       |
-| Wall of Fire         | Evocation     | C       |
+Таблица: Заклинания чародея 5-го уровня
 
-Table: Level 5 Sorcerer Spells
+| Заклинание                | Школа         | Особое |
+|---------------------------|---------------|--------|
+| Власть над личностью      | Очарование    | К      |
+| Конус холода              | Воплощение    | —      |
+| Круг телепортации         | Вызов         | М      |
+| Магическая рука Бигби     | Воплощение    | К      |
+| Нашествие насекомых       | Вызов         | К      |
+| Обездвиживание чудовища   | Очарование    | К      |
+| Оживление предметов       | Преобразование | К     |
+| Подобие                   | Иллюзия       | —      |
+| Смертельное облако        | Вызов         | К      |
+| Сотворение                | Иллюзия       | —      |
+| Стена камня               | Воплощение    | К      |
+| Телекинез                 | Преобразование | К     |
 
-| Spell                | School        | Special |
-|----------------------|---------------|---------|
-| Animate Objects      | Transmutation | C       |
-| Arcane Hand          | Evocation     | C       |
-| Cloudkill            | Conjuration   | C       |
-| Cone of Cold         | Evocation     | —       |
-| Creation             | Illusion      | —       |
-| Dominate Person      | Enchantment   | C       |
-| Hold Monster         | Enchantment   | C       |
-| Insect Plague        | Conjuration   | C       |
-| Seeming              | Illusion      | —       |
-| Telekinesis          | Transmutation | C       |
-| Teleportation Circle | Conjuration   | M       |
-| Wall of Stone        | Evocation     | C       |
+Таблица: Заклинания чародея 6-го уровня
 
-Table: Level 6 Sorcerer Spells
+| Заклинание               | Школа         | Особое |
+|--------------------------|---------------|--------|
+| Взгляд                   | Некромантия   | К      |
+| Глобус неуязвимости      | Ограждение    | К      |
+| Дезинтеграция            | Преобразование | —     |
+| Истинное зрение          | Прорицание    | М      |
+| Круг смерти              | Некромантия   | М      |
+| Массовое внушение        | Очарование    | —      |
+| Перемещение земли        | Преобразование | К     |
+| Плоть в камень           | Преобразование | К     |
+| Солнечный луч            | Воплощение    | К      |
+| Цепная молния            | Воплощение    | —      |
+| Шар холода               | Воплощение    | —      |
 
-| Spell                    | School        | Special |
-|--------------------------|---------------|---------|
-| Chain Lightning          | Evocation     | —       |
-| Circle of Death          | Necromancy    | M       |
-| Disintegrate             | Transmutation | —       |
-| Eyebite                  | Necromancy    | C       |
-| Flesh to Stone           | Transmutation | C       |
-| Freezing Sphere          | Evocation     | —       |
-| Globe of Invulnerability | Abjuration    | C       |
-| Mass Suggestion          | Enchantment   | —       |
-| Move Earth               | Transmutation | C       |
-| Sunbeam                  | Evocation     | C       |
-| True Seeing              | Divination    | M       |
-|                          |               |         |
+Таблица: Заклинания чародея 7-го уровня
 
-Table: Level 7 Sorcerer Spells
+| Заклинание                  | Школа         | Особое |
+|-----------------------------|---------------|--------|
+| Обратная гравитация         | Преобразование | К     |
+| Огненный шар замедленного действия | Воплощение | К |
+| Огненный шторм              | Воплощение    | —      |
+| Палец смерти                | Некромантия   | —      |
+| Переход между планами       | Вызов         | М      |
+| Призматические брызги       | Воплощение    | —      |
+| Телепортация                | Вызов         | —      |
+| Эфирность                   | Вызов         | —      |
 
-| Spell                  | School        | Special |
-|------------------------|---------------|---------|
-| Delayed Blast Fireball | Evocation     | C       |
-| Etherealness           | Conjuration   | —       |
-| Finger of Death        | Necromancy    | —       |
-| Fire Storm             | Evocation     | —       |
-| Plane Shift            | Conjuration   | M       |
-| Prismatic Spray        | Evocation     | —       |
-| Reverse Gravity        | Transmutation | C       |
-| Teleport               | Conjuration   | —       |
+Таблица: Заклинания чародея 8-го уровня
 
-Table: Level 8 Sorcerer Spells
+| Заклинание               | Школа         | Особое |
+|--------------------------|---------------|--------|
+| Власть над чудовищем     | Очарование    | К      |
+| Землетрясение            | Преобразование | К     |
+| Огненное облако          | Вызов         | К      |
+| Полупространство         | Вызов         | —      |
+| Слово силы: оглушение    | Очарование    | —      |
+| Солнечный взрыв          | Воплощение    | —      |
 
-| Spell            | School        | Special |
-|------------------|---------------|---------|
-| Demiplane        | Conjuration   | —       |
-| Dominate Monster | Enchantment   | C       |
-| Earthquake       | Transmutation | C       |
-| Incendiary Cloud | Conjuration   | C       |
-| Power Word Stun  | Enchantment   | —       |
-| Sunburst         | Evocation     | —       |
+Таблица: Заклинания чародея 9-го уровня
 
-Table: Level 9 Sorcerer Spells
+| Заклинание             | Школа         | Особое |
+|------------------------|---------------|--------|
+| Врата                  | Вызов         | К, М   |
+| Исполнение желаний     | Вызов         | —      |
+| Метеоритный дождь      | Воплощение    | —      |
+| Остановка времени      | Преобразование | —     |
+| Слово силы: смерть     | Очарование    | —      |
 
-| Spell           | School        | Special |
-|-----------------|---------------|---------|
-| Gate            | Conjuration   | C, M    |
-| Meteor Swarm    | Evocation     | —       |
-| Power Word Kill | Enchantment   | —       |
-| Time Stop       | Transmutation | —       |
-| Wish            | Conjuration   | —       |
+### Подкласс чародея: Драконье чародейство
 
-### Sorcerer Subclass: Draconic Sorcery
+*Дышите магией драконов*
 
-*Breathe the Magic of Dragons*
+Ваша врождённая магия происходит от дара дракона. Возможно, древний дракон перед смертью завещал часть своей магической силы вам или вашему предку. Вы могли впитать магию из места, пропитанного силой драконов. Или, возможно, вы держали в руках сокровище из драконьего клада, насыщенное драконьей силой. Или у вас может быть дракон в числе предков.
 
-Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
+#### Уровень 3: Драконья стойкость
 
-#### Level 3: Draconic Resilience
+Магия в вашем теле проявляет физические черты вашего драконьего дара. Ваш максимум хитов увеличивается на 3 и увеличивается на 1 каждый раз, когда вы получаете ещё один уровень чародея.
 
-The magic in your body manifests physical traits of your draconic gift. Your Hit Point maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+Части вашего тела также покрыты чешуёй, похожей на драконью. Пока вы не носите доспехи, ваш базовый Класс Доспеха равен 10 + ваш модификатор Ловкости + ваш модификатор Харизмы.
 
-Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base Armor Class equals 10 plus your Dexterity and Charisma modifiers.
+#### Уровень 3: Драконьи заклинания
 
-#### Level 3: Draconic Spells
+Когда вы достигаете уровня чародея, указанного в таблице Драконьи заклинания, у вас с этого момента всегда подготовлены перечисленные заклинания.
 
-When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.
+Таблица: Драконьи заклинания
 
-Table: Draconic Spells
+| Уровень чародея | Заклинания                                                |
+|-----------------|-----------------------------------------------------------|
+| 3               | Превращение, Хроматическая сфера, Приказ, Дыхание дракона |
+| 5               | Страх, Полёт                                              |
+| 7               | Магический глаз, Очарование чудовища                      |
+| 9               | Легенда, Призыв дракона                                   |
 
-| Sorcerer Level    | Spells                                                 |
-|-------------------|--------------------------------------------------------|
-| 3                 | Alter Self, Chromatic Orb, Command, Dragon's Breath    |
-| 5                 | Fear, Fly                                              |
-| 7                 | Arcane Eye, Charm Monster                              |
-| 9                 | Legend Lore, Summon Dragon                             |
+#### Уровень 6: Стихийная близость
 
-#### Level 6: Elemental Affinity
+Ваша драконья магия имеет близость с типом урона, связанным с драконами. Выберите один из этих типов: Кислота, Холод, Огонь, Электричество или Яд.
 
-Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
+Вы получаете сопротивление к этому типу урона, и когда вы творите заклинание, наносящее урон этого типа, вы можете добавить свой модификатор Харизмы к одному броску урона этого заклинания.
 
-You have Resistance to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
+#### Уровень 14: Драконьи крылья
 
-#### Level 14: Dragon Wings
+Как Бонусное действие, вы можете заставить драконьи крылья появиться на вашей спине. Крылья существуют 1 час или пока вы не развеете их (действие не требуется). В течение этого времени у вас есть скорость полёта 60 футов.
 
-As a Bonus Action, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
+После использования этого умения вы не можете использовать его снова, пока не закончите продолжительный отдых, если только вы не потратите 3 очка чародейства (действие не требуется), чтобы восстановить использование.
 
-Once you use this feature, you can't use it again until you finish a Long Rest unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+#### Уровень 18: Драконий спутник
 
-#### Level 18: Dragon Companion
+Вы можете сотворить *Призыв дракона* без материального компонента. Вы также можете сотворить его один раз без ячейки заклинания и восстанавливаете способность сотворить его таким образом, когда заканчиваете продолжительный отдых.
 
-You can cast *Summon Dragon* without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
-
-Whenever you start casting the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
+Каждый раз, когда вы начинаете творить заклинание, вы можете модифицировать его так, чтобы оно не требовало концентрации. Если вы это делаете, длительность заклинания становится 1 минута для этого сотворения.

@@ -1,346 +1,345 @@
-## Bard
+## Бард
 
-Table: Core Bard Traits
+Таблица: Основные черты Барда
 
-|                               |                                                                                                                              |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Primary Ability               | Charisma                                                                                                                     |
-| Hit Point Die                 | D8 per Bard level                                                                                                            |
-| Saving Throw Proficiencies    | Dexterity and Charisma                                                                                                       |
-| Skill Proficiencies           | Choose any 3 skills (see "Playing the Game")                                                                                 |
-| Weapon Proficiencies          | Simple weapons                                                                                                               |
-| Tool Proficiencies            | Choose 3 Musical Instruments (see "Equipment")                                                                               |
-| Armor Training                | Light armor                                                                                                                  |
-| Starting Equipment            | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, En tertainer's Pack, and 19 GP; or (B) 90 GP |
+|                               |                                                                                                                                  |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Основная характеристика       | Харизма                                                                                                                          |
+| Кость Хитов                   | d8 за каждый уровень Барда                                                                                                       |
+| Владение спасбросками         | Ловкость и Харизма                                                                                                               |
+| Владение навыками             | Выберите любые 3 навыка (см. «Как играть»)                                                                                       |
+| Владение оружием              | Простое оружие                                                                                                                   |
+| Владение инструментами        | Выберите 3 музыкальных инструмента (см. «Снаряжение»)                                                                            |
+| Владение доспехами            | Лёгкие доспехи                                                                                                                   |
+| Начальное снаряжение          | Выберите А или Б: (А) Кожаные доспехи, 2 кинжала, музыкальный инструмент по вашему выбору, набор артиста и 19 зм; или (Б) 90 зм  |
 
-### Becoming a Bard …
+### Как стать Бардом…
 
-#### As a Level 1 Character
+#### Как персонаж 1-го уровня
 
-• Gain all the traits in the Core Bard Traits table.
+• Получите все черты из таблицы Основные черты Барда.
 
-• Gain the Bard's level 1 features, which are listed in the Bard Features table.
+• Получите умения Барда 1-го уровня, перечисленные в таблице Умения Барда.
 
-#### As a Multiclass Character
+#### Как мультиклассовый персонаж
 
-- Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
-- Gain the Bard's level 1 features, which are listed in the Bard Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
+- Получите следующие черты из таблицы Основные черты Барда: Кость Хитов, владение одним навыком по вашему выбору, владение одним музыкальным инструментом по вашему выбору и владение лёгкими доспехами.
+- Получите умения Барда 1-го уровня, перечисленные в таблице Умения Барда. См. правила мультиклассирования в «Создании персонажа» для определения доступных ячеек заклинаний.
 
-### Bard Class Features
+### Классовые умения Барда
 
-As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
+Как Бард вы получаете следующие классовые умения при достижении указанных уровней Барда. Эти умения перечислены в таблице Умения Барда.
 
-Table: Bard Features: ——Spell Slots per Spell Level——
+Таблица: Умения Барда: ——Ячейки заклинаний по уровням——
 
-| Level | Proficiency Bonus | Class Features                      | Bardic Die | Cantrips | Prepared Spells   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|-------------------|-------------------------------------|------------|----------|-------------------|---|---|---|---|---|---|---|---|---|
-| 1     | +2                | Bardic Inspiration, Spellcasting    | D6         | 2        | 4                 | 2 | — | — | — | — | — | — | — | — |
-| 2     | +2                | Expertise, Jack of All Trades       | D6         | 2        | 5                 | 3 | — | — | — | — | — | — | — | — |
-| 3     | +2                | Bard Subclass                       | D6         | 2        | 6                 | 4 | 2 | — | — | — | — | — | — | — |
-| 4     | +2                | Ability Score Improvement           | D6         | 3        | 7                 | 4 | 3 | — | — | — | — | — | — | — |
-| 5     | +3                | Font of Inspiration                 | D8         | 3        | 9                 | 4 | 3 | 2 | — | — | — | — | — | — |
-| 6     | +3                | Subclass feature                    | D8         | 3        | 10                | 4 | 3 | 3 | — | — | — | — | — | — |
-| 7     | +3                | Countercharm                        | D8         | 3        | 11                | 4 | 3 | 3 | 1 | — | — | — | — | — |
-| 8     | +3                | Ability Score Improvement           | D8         | 3        | 12                | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9     | +4                | Expertise                           | D8         | 3        | 14                | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
-| 10    | +4                | Magical Secrets                     | D10        | 4        | 15                | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
-| 11    | +4                | —                                   | D10        | 4        | 16                | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 12    | +4                | Ability Score Improvement           | D10        | 4        | 16                | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
-| 13    | +5                | —                                   | D10        | 4        | 17                | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 14    | +5                | Subclass feature                    | D10        | 4        | 17                | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
-| 15    | +5                | —                                   | D12        | 4        | 18                | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 16    | +5                | Ability Score Improvement           | D12        | 4        | 18                | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
-| 17    | +6                | —                                   | D12        | 4        | 19                | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18    | +6                | Superior Inspiration                | D12        | 4        | 20                | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | +6                | Epic Boon                           | D12        | 4        | 21                | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20    | +6                | Words of Creation                   | D12        | 4        | 22                | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Уровень | Бонус мастерства | Классовые умения                             | Кость барда | Заговоры | Подготовленные заклинания | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---------|------------------|----------------------------------------------|-------------|----------|---------------------------|---|---|---|---|---|---|---|---|---|
+| 1       | +2               | Вдохновение барда, Использование заклинаний  | d6          | 2        | 4                         | 2 | — | — | — | — | — | — | — | — |
+| 2       | +2               | Компетентность, Мастер на все руки           | d6          | 2        | 5                         | 3 | — | — | — | — | — | — | — | — |
+| 3       | +2               | Подкласс Барда                               | d6          | 2        | 6                         | 4 | 2 | — | — | — | — | — | — | — |
+| 4       | +2               | Улучшение характеристик                      | d6          | 3        | 7                         | 4 | 3 | — | — | — | — | — | — | — |
+| 5       | +3               | Источник вдохновения                         | d8          | 3        | 9                         | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6       | +3               | Умение подкласса                             | d8          | 3        | 10                        | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7       | +3               | Контрочарование                              | d8          | 3        | 11                        | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8       | +3               | Улучшение характеристик                      | d8          | 3        | 12                        | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9       | +4               | Компетентность                               | d8          | 3        | 14                        | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10      | +4               | Тайны магии                                  | d10         | 4        | 15                        | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11      | +4               | —                                            | d10         | 4        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12      | +4               | Улучшение характеристик                      | d10         | 4        | 16                        | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13      | +5               | —                                            | d10         | 4        | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14      | +5               | Умение подкласса                             | d10         | 4        | 17                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15      | +5               | —                                            | d12         | 4        | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16      | +5               | Улучшение характеристик                      | d12         | 4        | 18                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17      | +6               | —                                            | d12         | 4        | 19                        | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18      | +6               | Высшее вдохновение                           | d12         | 4        | 20                        | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19      | +6               | Эпическое благо                              | d12         | 4        | 21                        | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20      | +6               | Слова творения                               | d12         | 4        | 22                        | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-#### Level 1: Bardic Inspiration
+#### Уровень 1: Вдохновение барда
 
-You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
+Вы можете сверхъестественно вдохновлять других словами, музыкой или танцем. Это вдохновение представлено вашей костью Вдохновения барда, которая является d6.
 
-**Using Bardic Inspiration.** As a Bonus Action, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
+**Использование Вдохновения барда.** Бонусным действием вы можете вдохновить другое существо в пределах 60 футов от вас, которое может видеть или слышать вас. Это существо получает одну из ваших костей Вдохновения барда. Существо может иметь только одну кость Вдохновения барда за раз.
 
-Once within the next hour when the creature fails a D20 Test, the creature can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
+Один раз в течение следующего часа, когда существо проваливает проверку d20, оно может бросить кость Вдохновения барда и добавить выпавшее число к d20, потенциально превращая провал в успех. Кость Вдохновения барда расходуется при броске.
 
-**Number of Uses.** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+**Количество использований.** Вы можете давать кость Вдохновения барда количество раз, равное вашему модификатору Харизмы (минимум один раз), и восстанавливаете все использования после продолжительного отдыха.
 
-**At Higher Levels.** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
+**На высоких уровнях.** Ваша кость Вдохновения барда меняется при достижении определённых уровней Барда, как показано в столбце Кость барда таблицы Умения Барда. Кость становится d8 на 5-м уровне, d10 на 10-м уровне и d12 на 15-м уровне.
 
-#### Level 1: Spellcasting
+#### Уровень 1: Использование заклинаний
 
-You have learned to cast spells through your bardic arts. See "Spells" for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the Bard spell list later in the class's description.
+Вы научились творить заклинания через своё искусство барда. См. «Заклинания» для правил использования заклинаний. Информация ниже описывает, как вы используете эти правила с заклинаниями Барда, которые представлены в списке заклинаний Барда далее в описании класса.
 
-**Cantrips.** You know two cantrips of your choice from the Bard spell list. *Dancing Lights* and *Vicious Mockery* are recommended.
+**Заговоры.** Вы знаете два заговора по вашему выбору из списка заклинаний Барда. Рекомендуются *пляшущие огоньки* и *злая насмешка*.
 
-Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
+Каждый раз, получая уровень Барда, вы можете заменить один из заговоров другим заговором по выбору из списка заклинаний Барда.
 
-When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the Bard Features table.
+При достижении 4-го и 10-го уровней Барда вы изучаете ещё один заговор по выбору из списка заклинаний Барда, как показано в столбце Заговоры таблицы Умения Барда.
 
-**Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Ячейки заклинаний.** Таблица Умения Барда показывает, сколько у вас ячеек заклинаний для сотворения заклинаний 1-го уровня и выше. Вы восстанавливаете все ячейки после продолжительного отдыха.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. *Charm Person*, *Color Spray*, *Dissonant Whispers*, and *Healing Word* are recommended.
+**Подготовленные заклинания 1-го уровня и выше.** Вы подготавливаете список заклинаний 1-го уровня и выше, доступных для сотворения с этим умением. Для начала выберите четыре заклинания 1-го уровня из списка заклинаний Барда. Рекомендуются *очарование личности*, *сверкающие брызги*, *диссонирующий шёпот* и *лечащее слово*.
 
-The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+Количество заклинаний в вашем списке увеличивается с ростом уровня Барда, как показано в столбце Подготовленные заклинания таблицы Умения Барда. При увеличении этого числа выбирайте дополнительные заклинания из списка заклинаний Барда, пока количество заклинаний в списке не сравняется с числом в таблице. Выбранные заклинания должны быть уровня, для которого у вас есть ячейки. Например, если вы Бард 3-го уровня, ваш список подготовленных заклинаний может включать шесть заклинаний 1-го и 2-го уровней в любой комбинации.
 
-If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+Если другое умение Барда даёт вам заклинания, которые вы всегда держите подготовленными, эти заклинания не учитываются в количестве заклинаний, которые вы можете подготовить с этим умением, но в остальном считаются заклинаниями Барда.
 
-**Changing Your Prepared Spells.** Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots.
+**Смена подготовленных заклинаний.** При получении уровня Барда вы можете заменить одно заклинание в списке другим заклинанием Барда, для которого у вас есть ячейки.
 
-**Spellcasting Ability.** Charisma is your spellcasting ability for your Bard spells.
+**Заклинательная характеристика.** Харизма — ваша заклинательная характеристика для заклинаний Барда.
 
-**Spellcasting Focus.** You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
+**Заклинательный фокус.** Вы можете использовать музыкальный инструмент как заклинательный фокус для заклинаний Барда.
 
-#### Level 2: Expertise
+#### Уровень 2: Компетентность
 
-You gain Expertise (see "Rules Glossary") in two of your skill proficiencies of your choice. Performance and Persuasion are recommended if you have proficiency in them.
+Вы получаете Компетентность (см. «Глоссарий правил») в двух из ваших владений навыками по вашему выбору. Рекомендуются Выступление и Убеждение, если вы ими владеете.
 
-At Bard level 9, you gain Expertise in two more of your skill proficiencies of your choice.
+На 9-м уровне Барда вы получаете Компетентность ещё в двух владениях навыками по вашему выбору.
 
-#### Level 2: Jack of All Trades
+#### Уровень 2: Мастер на все руки
 
-You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
+Вы можете добавлять половину бонуса мастерства (округляя вниз) к любой проверке характеристики с навыком, которым вы не владеете и который иначе не использует ваш бонус мастерства.
 
-For example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.
+Например, если вы совершаете проверку Силы (Атлетика) и не владеете Атлетикой, вы можете добавить половину бонуса мастерства к проверке.
 
-#### Level 3: Bard Subclass
+#### Уровень 3: Подкласс Барда
 
-You gain a Bard subclass of your choice. The College of Lore subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass's features that are of your Bard level or lower.
+Вы получаете подкласс Барда по вашему выбору. Подкласс Коллегия знаний описан после описания этого класса. Подкласс — это специализация, дающая вам умения на определённых уровнях Барда. До конца карьеры вы получаете каждое умение подкласса, соответствующее вашему уровню Барда или ниже.
 
-#### Level 4: Ability Score Improvement
-
-You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
-
-#### Level 5: Font of Inspiration
-
-You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
+#### Уровень 4: Улучшение характеристик
+
+Вы получаете черту Улучшение характеристик (см. «Черты») или другую черту по вашему выбору, для которой вы подходите. Вы получаете это умение снова на 8-м, 12-м и 16-м уровнях Барда.
+
+#### Уровень 5: Источник вдохновения
+
+Теперь вы восстанавливаете все использования Вдохновения барда после короткого или продолжительного отдыха.
 
-In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
-
-#### Level 7: Countercharm
-
-You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can take a Reaction to cause the save to be rerolled, and the new roll has Advantage.
-
-#### Level 10: Magical Secrets
-
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the Bard, Cleric, Druid, and Wizard spell lists, and the chosen spells count as Bard spells for you (see a class's section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
-
-#### Level 18: Superior Inspiration
-
-When you roll Initiative, you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
-
-#### Level 19: Epic Boon
-
-You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
-
-#### Level 20: Words of Creation
-
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the *Power Word Heal* and *Power Word Kill*  spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
-
-### Bard Spell List
-
-This section presents the Bard spell list. The spells are organized by spell level and then alphabetized, and each spell's school of magic is listed. In the Special column, *C* means the spell requires Concentration, *R* means it's a Ritual, and *M* means it requires a specific Material component.
-
-Table: Cantrips (Level 0 Bard Spells)
-
-| Spell            | School        | Special |
-|------------------|---------------|---------|
-| Dancing Lights   | Illusion      | C       |
-| Light            | Evocation     | —       |
-| Mage Hand        | Conjuration   | —       |
-| Mending          | Transmutation | —       |
-| Message          | Transmutation | —       |
-| Minor Illusion   | Illusion      | —       |
-| Prestidigitation | Transmutation | —       |
-| Starry Wisp      | Evocation     | —       |
-| True Strike      | Divination    | —       |
-| Vicious Mockery  | Enchantment   | —       |
-
-Table: Level 1 Bard Spells
-
-| Spell                | School        | Special |
-|----------------------|---------------|---------|
-| Animal Friendship    | Enchantment   | —       |
-| Bane                 | Enchantment   | C       |
-| Charm Person         | Enchantment   | —       |
-| Color Spray          | Illusion      | —       |
-| Command              | Enchantment   | —       |
-| Comprehend Languages | Divination    | R       |
-| Cure Wounds          | Abjuration    | —       |
-| Detect Magic         | Divination    | C, R    |
-| Disguise Self        | Illusion      | —       |
-| Dissonant Whispers   | Enchantment   | —       |
-| Faerie Fire          | Evocation     | C       |
-| Feather Fall         | Transmutation | —       |
-| Healing Word         | Abjuration    | —       |
-| Heroism              | Enchantment   | C       |
-| Hideous Laughter     | Enchantment   | C       |
-| Identify             | Divination    | R, M    |
-| Illusory Script      | Illusion      | R, M    |
-| Longstrider          | Transmutation | —       |
-| Silent Image         | Illusion      | C       |
-| Sleep                | Enchantment   | C       |
-| Speak with Animals   | Divination    | R       |
-| Thunderwave          | Evocation     | —       |
-| Unseen Servant       | Conjuration   | R       |
-
-Table: Level 2 Bard Spells
-
-| Spell                    | School        | Special |
-|--------------------------|---------------|---------|
-| Aid                      | Abjuration    | —       |
-| Animal Messenger         | Enchantment   | R       |
-| Blindness/Deafness       | Transmutation | —       |
-| Calm Emotions            | Enchantment   | C       |
-| Detect Thoughts          | Divination    | C       |
-| Enhance Ability          | Transmutation | C       |
-| Enlarge/Reduce           | Transmutation | C       |
-| Enthrall                 | Enchantment   | C       |
-| Heat Metal               | Transmutation | C       |
-| Hold Person              | Enchantment   | C       |
-| Invisibility             | Illusion      | C       |
-| Knock                    | Transmutation | —       |
-| Lesser Restoration       | Abjuration    | —       |
-| Locate Animals or Plants | Divination    | R       |
-| Locate Object            | Divination    | C       |
-| Magic Mouth              | Illusion      | R, M    |
-| Mirror Image             | Illusion      | —       |
-| See Invisibility         | Divination    | —       |
-| Shatter                  | Evocation     | —       |
-| Silence                  | Illusion      | C, R    |
-| Suggestion               | Enchantment   | C       |
-| Zone of Truth            | Enchantment   | —       |
-
-Table: Level 3 Bard Spells
-
-| Spell             | School        | Special |
-|-------------------|---------------|---------|
-| Bestow Curse      | Necromancy    | C       |
-| Clairvoyance      | Divination    | C, M    |
-| Dispel Magic      | Abjuration    | —       |
-| Fear              | Illusion      | C       |
-| Glyph of Warding  | Abjuration    | M       |
-| Hypnotic Pattern  | Illusion      | C       |
-| Major Image       | Illusion      | C       |
-| Mass Healing Word | Abjuration    | —       |
-| Nondetection      | Abjuration    | M       |
-| Plant Growth      | Transmutation | —       |
-| Sending           | Divination    | —       |
-| Slow              | Transmutation | C       |
-| Speak with Dead   | Necromancy    | —       |
-| Speak with Plants | Transmutation | —       |
-| Stinking Cloud    | Conjuration   | C       |
-| Tiny Hut          | Evocation     | R       |
-| Tongues           | Divination    | —       |
-|                   |               |         |
-
-Table: Level 4 Bard Spells
-
-| Spell                 | School        | Special |
-|-----------------------|---------------|---------|
-| Charm Monster         | Enchantment   | —       |
-| Compulsion            | Enchantment   | C       |
-| Confusion             | Enchantment   | C       |
-| Dimension Door        | Conjuration   | —       |
-| Freedom of Movement   | Abjuration    | —       |
-| Greater Invisibility  | Illusion      | C       |
-| Hallucinatory Terrain | Illusion      | —       |
-| Locate Creature       | Divination    | C       |
-| Phantasmal Killer     | Illusion      | C       |
-| Polymorph             | Transmutation | C       |
-
-Table: Level 5 Bard Spells
-
-| Spell                | School        | Special |
-|----------------------|---------------|---------|
-| Animate Objects      | Transmutation | C       |
-| Awaken               | Transmutation | M       |
-| Dominate Person      | Enchantment   | C       |
-| Dream                | Illusion      | —       |
-| Geas                 | Enchantment   | —       |
-| Greater Restoration  | Abjuration    | M       |
-| Hold Monster         | Enchantment   | C       |
-| Legend Lore          | Divination    | M       |
-| Mass Cure Wounds     | Abjuration    | —       |
-| Mislead              | Illusion      | C       |
-| Modify Memory        | Enchantment   | C       |
-| Planar Binding       | Abjuration    | M       |
-| Raise Dead           | Necromancy    | M       |
-| Scrying              | Divination    | C, M    |
-| Seeming              | Illusion      | —       |
-| Telepathic Bond      | Divination    | R       |
-| Teleportation Circle | Conjuration   | M       |
-
-Table: Level 6 Bard Spells
-
-| Spell               | School      | Special |
-|---------------------|-------------|---------|
-| Eyebite             | Necromancy  | C       |
-| Find the Path       | Divination  | C, M    |
-| Guards and Wards    | Abjuration  | M       |
-| Heroes' Feast       | Conjuration | M       |
-| Irresistible Dance  | Enchantment | C       |
-| Mass Suggestion     | Enchantment | —       |
-| Programmed Illusion | Illusion    | M       |
-| True Seeing         | Divination  | M       |
-
-Table: Level 7 Bard Spells
-
-| Spell               | School        | Special |
-|---------------------|---------------|---------|
-| Arcane Sword        | Evocation     | C, M    |
-| Etherealness        | Conjuration   | —       |
-| Forcecage           | Evocation     | C, M    |
-| Magnificent Mansion | Conjuration   | M       |
-| Mirage Arcane       | Illusion      | —       |
-| Prismatic Spray     | Evocation     | —       |
-| Project Image       | Illusion      | C, M    |
-| Regenerate          | Transmutation | —       |
-| Resurrection        | Necromancy    | M       |
-| Symbol              | Abjuration    | M       |
-| Teleport            | Conjuration   | —       |
-
-Table: Level 8 Bard Spells
-
-| Spell              | School      | Special |
-|--------------------|-------------|---------|
-| Antipathy/Sympathy | Enchantment | —       |
-| Befuddlement       | Enchantment | —       |
-| Dominate Monster   | Enchantment | C       |
-| Glibness           | Enchantment | —       |
-| Mind Blank         | Abjuration  | —       |
-| Power Word Stun    | Enchantment | —       |
-
-Table: Level 9 Bard Spells
-
-| Spell           | School        | Special |
-|-----------------|---------------|---------|
-| Foresight       | Divination    | —       |
-| Power Word Heal | Enchantment   | —       |
-| Power Word Kill | Enchantment   | —       |
-| Prismatic Wall  | Abjuration    | —       |
-| True Polymorph  | Transmutation | C       |
-
-### **Bard Subclass: College of Lore**
-
-*Plumb the Depths of Magical Knowledge*
-
-Bards of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college's members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
-
-#### Level 3: Bonus Proficiencies
-
-You gain proficiency with three skills of your choice.
-
-#### Level 3: Cutting Words
-
-You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a Reaction to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
-
-#### Level 6: Magical Discoveries
-
-You learn two spells of your choice. These spells can come from the Cleric, Druid, or Wizard spell list or any combination thereof (see a class's section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.
-
-You always have the chosen spells prepared, and whenever you gain a Bard level, you can replace one of the spells with another spell that meets these requirements.
-
-#### Level 14: Peerless Skill
-
-When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20, potentially turning a failure into a success. On a failure, the Bardic Inspiration isn't expended.
+Кроме того, вы можете потратить ячейку заклинания (действие не требуется), чтобы восстановить одно использование Вдохновения барда.
+
+#### Уровень 7: Контрочарование
+
+Вы можете использовать музыкальные ноты или слова силы, чтобы прервать влияющие на разум эффекты. Если вы или существо в пределах 30 футов от вас проваливает спасбросок против эффекта, накладывающего состояние очарованный или испуганный, вы можете использовать реакцию, чтобы перебросить спасбросок, и новый бросок получает Преимущество.
+
+#### Уровень 10: Тайны магии
+
+Вы узнали тайны различных магических традиций. Каждый раз при достижении уровня Барда (включая этот), когда число в столбце Подготовленные заклинания увеличивается, вы можете выбирать любые из новых подготовленных заклинаний из списков заклинаний Барда, Жреца, Друида и Волшебника, и выбранные заклинания считаются заклинаниями Барда (см. раздел класса для его списка заклинаний). Кроме того, при замене подготовленного заклинания вы можете заменить его заклинанием из этих списков.
+
+#### Уровень 18: Высшее вдохновение
+
+Когда вы бросаете инициативу, вы восстанавливаете использования Вдохновения барда, пока у вас не будет двух, если у вас меньше.
+
+#### Уровень 19: Эпическое благо
+
+Вы получаете черту Эпическое благо (см. «Черты») или другую черту по вашему выбору, для которой вы подходите. Рекомендуется Благо воспоминания заклинаний.
+
+#### Уровень 20: Слова творения
+
+Вы овладели двумя Словами творения: словами жизни и смерти. Поэтому вы всегда держите подготовленными заклинания *слово силы: исцеление* и *слово силы: смерть*. Когда вы творите любое из этих заклинаний, вы можете нацелить второе существо, если оно находится в пределах 10 футов от первой цели.
+
+### Список заклинаний Барда
+
+Этот раздел представляет список заклинаний Барда. Заклинания организованы по уровню, затем в алфавитном порядке, и указана школа магии каждого заклинания. В столбце Особое *К* означает, что заклинание требует концентрации, *Р* — что это ритуал, *М* — что требуется особый материальный компонент.
+
+Таблица: Заговоры (Заклинания Барда 0-го уровня)
+
+| Заклинание        | Школа         | Особое |
+|-------------------|---------------|--------|
+| Пляшущие огоньки  | Иллюзия       | К      |
+| Свет              | Воплощение    | —      |
+| Волшебная рука    | Вызов         | —      |
+| Починка           | Преобразование| —      |
+| Сообщение         | Преобразование| —      |
+| Малая иллюзия     | Иллюзия       | —      |
+| Фокусы            | Преобразование| —      |
+| Звёздный огонёк   | Воплощение    | —      |
+| Точный удар       | Прорицание    | —      |
+| Злая насмешка     | Очарование    | —      |
+
+Таблица: Заклинания Барда 1-го уровня
+
+| Заклинание           | Школа         | Особое |
+|----------------------|---------------|--------|
+| Дружба с животными  | Очарование    | —      |
+| Проклятие           | Очарование    | К      |
+| Очарование личности | Очарование    | —      |
+| Сверкающие брызги   | Иллюзия       | —      |
+| Приказ              | Очарование    | —      |
+| Понимание языков    | Прорицание    | Р      |
+| Лечение ран         | Ограждение    | —      |
+| Обнаружение магии   | Прорицание    | К, Р   |
+| Маскировка          | Иллюзия       | —      |
+| Диссонирующий шёпот | Очарование    | —      |
+| Огонь фей           | Воплощение    | К      |
+| Падение пёрышком    | Преобразование| —      |
+| Лечащее слово       | Ограждение    | —      |
+| Героизм             | Очарование    | К      |
+| Жуткий смех         | Очарование    | К      |
+| Опознание           | Прорицание    | Р, М   |
+| Невидимое письмо    | Иллюзия       | Р, М   |
+| Скороход            | Преобразование| —      |
+| Безмолвный образ    | Иллюзия       | К      |
+| Усыпление           | Очарование    | К      |
+| Разговор с животными| Прорицание    | Р      |
+| Волна грома         | Воплощение    | —      |
+| Невидимый слуга     | Вызов         | Р      |
+
+Таблица: Заклинания Барда 2-го уровня
+
+| Заклинание               | Школа         | Особое |
+|--------------------------|---------------|--------|
+| Подмога                  | Ограждение    | —      |
+| Посланник животных       | Очарование    | Р      |
+| Слепота/Глухота          | Преобразование| —      |
+| Успокоение эмоций        | Очарование    | К      |
+| Обнаружение мыслей       | Прорицание    | К      |
+| Улучшение характеристики | Преобразование| К      |
+| Увеличение/Уменьшение    | Преобразование| К      |
+| Очаровывающая речь       | Очарование    | К      |
+| Раскалённый металл       | Преобразование| К      |
+| Удержание личности       | Очарование    | К      |
+| Невидимость              | Иллюзия       | К      |
+| Открывание               | Преобразование| —      |
+| Малое восстановление     | Ограждение    | —      |
+| Поиск животных или растений | Прорицание | Р      |
+| Поиск предмета           | Прорицание    | К      |
+| Волшебные уста           | Иллюзия       | Р, М   |
+| Отражения                | Иллюзия       | —      |
+| Видение невидимого       | Прорицание    | —      |
+| Дребезги                 | Воплощение    | —      |
+| Тишина                   | Иллюзия       | К, Р   |
+| Внушение                 | Очарование    | К      |
+| Область истины           | Очарование    | —      |
+
+Таблица: Заклинания Барда 3-го уровня
+
+| Заклинание         | Школа         | Особое |
+|--------------------|---------------|--------|
+| Проклятие          | Некромантия   | К      |
+| Ясновидение        | Прорицание    | К, М   |
+| Рассеивание магии  | Ограждение    | —      |
+| Страх              | Иллюзия       | К      |
+| Охранные руны      | Ограждение    | М      |
+| Гипнотический узор | Иллюзия       | К      |
+| Образ              | Иллюзия       | К      |
+| Массовое лечащее слово | Ограждение| —      |
+| Необнаружимость    | Ограждение    | М      |
+| Рост растений      | Преобразование| —      |
+| Послание           | Прорицание    | —      |
+| Замедление         | Преобразование| К      |
+| Разговор с мёртвыми| Некромантия   | —      |
+| Разговор с растениями | Преобразование| —   |
+| Зловонное облако   | Вызов         | К      |
+| Крошечная хижина   | Воплощение    | Р      |
+| Языки              | Прорицание    | —      |
+
+Таблица: Заклинания Барда 4-го уровня
+
+| Заклинание              | Школа         | Особое |
+|-------------------------|---------------|--------|
+| Очарование чудовища     | Очарование    | —      |
+| Принуждение             | Очарование    | К      |
+| Смятение                | Очарование    | К      |
+| Дверь измерений         | Вызов         | —      |
+| Свобода перемещения     | Ограждение    | —      |
+| Высшая невидимость      | Иллюзия       | К      |
+| Иллюзорная местность    | Иллюзия       | —      |
+| Поиск существа          | Прорицание    | К      |
+| Призрачный убийца       | Иллюзия       | К      |
+| Превращение             | Преобразование| К      |
+
+Таблица: Заклинания Барда 5-го уровня
+
+| Заклинание            | Школа         | Особое |
+|-----------------------|---------------|--------|
+| Оживление предметов   | Преобразование| К      |
+| Пробуждение           | Преобразование| М      |
+| Подчинение личности   | Очарование    | К      |
+| Сон                   | Иллюзия       | —      |
+| Обет                  | Очарование    | —      |
+| Высшее восстановление | Ограждение    | М      |
+| Удержание чудовища    | Очарование    | К      |
+| Легенды и предания    | Прорицание    | М      |
+| Массовое лечение ран  | Ограждение    | —      |
+| Обманчивый двойник    | Иллюзия       | К      |
+| Изменение памяти      | Очарование    | К      |
+| Планарные узы         | Ограждение    | М      |
+| Оживление             | Некромантия   | М      |
+| Наблюдение            | Прорицание    | К, М   |
+| Иллюзия существа      | Иллюзия       | —      |
+| Телепатическая связь  | Прорицание    | Р      |
+| Круг телепортации     | Вызов         | М      |
+
+Таблица: Заклинания Барда 6-го уровня
+
+| Заклинание                | Школа       | Особое |
+|---------------------------|-------------|--------|
+| Дурной глаз               | Некромантия | К      |
+| Поиск пути                | Прорицание  | К, М   |
+| Охранники и стражи        | Ограждение  | М      |
+| Пир героев                | Вызов       | М      |
+| Неотразимый танец         | Очарование  | К      |
+| Массовое внушение         | Очарование  | —      |
+| Запрограммированная иллюзия | Иллюзия   | М      |
+| Истинное зрение           | Прорицание  | М      |
+
+Таблица: Заклинания Барда 7-го уровня
+
+| Заклинание           | Школа         | Особое |
+|----------------------|---------------|--------|
+| Волшебный меч        | Воплощение    | К, М   |
+| Эфирность            | Вызов         | —      |
+| Силовая клетка       | Воплощение    | К, М   |
+| Великолепный особняк | Вызов         | М      |
+| Иллюзия местности    | Иллюзия       | —      |
+| Радужные брызги      | Воплощение    | —      |
+| Проецирование образа | Иллюзия       | К, М   |
+| Регенерация          | Преобразование| —      |
+| Воскрешение          | Некромантия   | М      |
+| Символ               | Ограждение    | М      |
+| Телепортация         | Вызов         | —      |
+
+Таблица: Заклинания Барда 8-го уровня
+
+| Заклинание            | Школа       | Особое |
+|-----------------------|-------------|--------|
+| Антипатия/Симпатия    | Очарование  | —      |
+| Замешательство        | Очарование  | —      |
+| Подчинение чудовища   | Очарование  | К      |
+| Красноречие           | Очарование  | —      |
+| Пустой разум          | Ограждение  | —      |
+| Слово силы: оглушение | Очарование  | —      |
+
+Таблица: Заклинания Барда 9-го уровня
+
+| Заклинание                | Школа         | Особое |
+|---------------------------|---------------|--------|
+| Предвидение               | Прорицание    | —      |
+| Слово силы: исцеление     | Очарование    | —      |
+| Слово силы: смерть        | Очарование    | —      |
+| Радужная стена            | Ограждение    | —      |
+| Истинное превращение      | Преобразование| К      |
+
+### Подкласс Барда: Коллегия знаний
+
+*Постигай глубины магических знаний*
+
+Барды Коллегии знаний собирают заклинания и секреты из разнообразных источников — учёных трактатов, мистических ритуалов и крестьянских сказок. Члены коллегии собираются в библиотеках и университетах, чтобы делиться знаниями друг с другом. Они также встречаются на праздниках или государственных мероприятиях, где могут разоблачать коррупцию, распутывать ложь и высмеивать самодовольных властителей.
+
+#### Уровень 3: Дополнительные владения
+
+Вы получаете владение тремя навыками по вашему выбору.
+
+#### Уровень 3: Острое слово
+
+Вы учитесь использовать остроумие для сверхъестественного отвлечения, смущения и подрыва уверенности и компетенции других. Когда существо, которое вы видите в пределах 60 футов, совершает бросок урона или преуспевает в проверке характеристики или броске атаки, вы можете использовать реакцию, чтобы потратить одно использование Вдохновения барда; бросьте кость Вдохновения барда и вычтите выпавшее число из броска существа, уменьшая урон или потенциально превращая успех в провал.
+
+#### Уровень 6: Магические открытия
+
+Вы изучаете два заклинания по вашему выбору. Эти заклинания могут быть из списка заклинаний Жреца, Друида или Волшебника или любой их комбинации (см. раздел класса для его списка заклинаний). Выбранное заклинание должно быть заговором или заклинанием, для которого у вас есть ячейки, как показано в таблице Умения Барда.
+
+Вы всегда держите выбранные заклинания подготовленными, и при получении уровня Барда вы можете заменить одно из заклинаний другим заклинанием, соответствующим этим требованиям.
+
+#### Уровень 14: Несравненное мастерство
+
+Когда вы совершаете проверку характеристики или бросок атаки и проваливаете, вы можете потратить одно использование Вдохновения барда; бросьте кость Вдохновения барда и добавьте выпавшее число к d20, потенциально превращая провал в успех. При провале Вдохновение барда не расходуется.
