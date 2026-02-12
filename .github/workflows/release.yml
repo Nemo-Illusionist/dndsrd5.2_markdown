@@ -15,13 +15,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
-
       - name: Build combined document
-        run: deno run --allow-read --allow-write concat_all_files_into_one.ts
+        run: |
+          # Concatenate all markdown files from src/ except glossary
+          # Files are sorted alphabetically to maintain order
+          find src -name "*.md" ! -name "14_Glossary.md" | sort | xargs cat > DND-SRD-5.2.1-RU.md
+
+      - name: Install pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-extra texlive-lang-cyrillic fonts-liberation
+
+      - name: Convert to PDF
+        run: |
+          pandoc DND-SRD-5.2.1-RU.md \
+            -o DND-SRD-5.2.1-RU.pdf \
+            --pdf-engine=xelatex \
+            -V mainfont="Liberation Serif" \
+            -V sansfont="Liberation Sans" \
+            -V monofont="Liberation Mono" \
+            -V geometry:margin=2cm \
+            -V documentclass=report \
+            -V lang=ru \
+            --toc \
+            --toc-depth=2 \
+            -V toc-title="Содержание"
 
       - name: Get current date
         id: date
@@ -38,8 +56,14 @@ jobs:
 
             Дата сборки: ${{ steps.date.outputs.date }}
             Коммит: ${{ github.sha }}
+
+            ## Файлы
+            - `DND-SRD-5.2.1-RU.md` — Markdown
+            - `DND-SRD-5.2.1-RU.pdf` — PDF
           prerelease: true
-          files: DND-SRD-5.2.1-RU.md
+          files: |
+            DND-SRD-5.2.1-RU.md
+            DND-SRD-5.2.1-RU.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -53,6 +77,9 @@ jobs:
 
             ## Скачать
             - `DND-SRD-5.2.1-RU.md` — объединённый документ в формате Markdown
-          files: DND-SRD-5.2.1-RU.md
+            - `DND-SRD-5.2.1-RU.pdf` — документ в формате PDF
+          files: |
+            DND-SRD-5.2.1-RU.md
+            DND-SRD-5.2.1-RU.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
