@@ -21,7 +21,8 @@ jobs:
         run: |
           # Concatenate all markdown files from src/ except glossary
           # Files are sorted alphabetically to maintain order
-          find src -name "*.md" ! -name "14_Glossary.md" | sort | xargs cat > DND-SRD-5.2.1-RU.md
+          # Add empty line between files for proper heading recognition
+          find src -name "*.md" ! -name "14_Glossary.md" | sort | while read f; do cat "$f"; echo; done > DND-SRD-5.2.1-RU.md
 
       - name: Install pandoc and LaTeX
         run: |
