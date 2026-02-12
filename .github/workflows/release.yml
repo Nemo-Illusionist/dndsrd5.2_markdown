@@ -1,0 +1,58 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Build combined document
+        run: deno run --allow-read --allow-write concat_all_files_into_one.ts
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Update latest release
+        if: github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          name: "Последняя версия (${{ steps.date.outputs.date }})"
+          body: |
+            Автоматически собранная версия из ветки main.
+
+            Дата сборки: ${{ steps.date.outputs.date }}
+            Коммит: ${{ github.sha }}
+          prerelease: true
+          files: DND-SRD-5.2.1-RU.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create versioned release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v1
+        with:
+          name: "D&D SRD 5.2.1 RU ${{ github.ref_name }}"
+          body: |
+            Русский перевод D&D System Reference Document 5.2.1
+
+            ## Скачать
+            - `DND-SRD-5.2.1-RU.md` — объединённый документ в формате Markdown
+          files: DND-SRD-5.2.1-RU.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
