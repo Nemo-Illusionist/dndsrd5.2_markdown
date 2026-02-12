@@ -4,7 +4,7 @@
 
 ## О проекте
 
-Этот перевод основан на английской версии SRD 5.2 в формате Markdown из репозитория [dndsrd5.2_markdown](https://github.com/springbov/dndsrd5.2_markdown). Обновления до версии 5.2.1 взяты из [форка yuvalsapir](https://github.com/yuvalsapir/dndsrd5.2_markdown).
+Этот перевод основан на английской версии SRD 5.2 в формате Markdown из репозитория [dndsrd5.2_markdown](https://github.com/springbov/dndsrd5.2_markdown). Обновления до версии 5.2.1 взяты из [форка yuvalsapir](https://github.com/yuvalsapir/dndsrd5.2_markdown). Недостающие статблоки драконов взяты из [dnd-5e-srd-markdown](https://github.com/downfallx/dnd-5e-srd-markdown).
 
 Перевод выполнен с соблюдением устоявшейся терминологии русскоязычного сообщества D&D.
 
