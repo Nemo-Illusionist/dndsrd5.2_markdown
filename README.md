@@ -1,81 +1,22 @@
-# DND 5.2.1 SRD на русском языке в формате Markdown
+# TTRPG SRD Markdown
 
-Данный проект представляет собой перевод на русский язык документа System Reference Document 5.2.1 (SRD 5.2.1) для Dungeons & Dragons в формате Markdown.
+Коллекция System Reference Document (SRD) для настольных ролевых игр в формате Markdown.
 
-## О проекте
+## Источники
 
-Этот перевод основан на английской версии SRD 5.2 в формате Markdown из репозитория [dndsrd5.2_markdown](https://github.com/springbov/dndsrd5.2_markdown). Обновления до версии 5.2.1 взяты из [форка yuvalsapir](https://github.com/yuvalsapir/dndsrd5.2_markdown). Недостающие статблоки драконов взяты из [dnd-5e-srd-markdown](https://github.com/downfallx/dnd-5e-srd-markdown).
+### D&D
 
-Перевод выполнен с соблюдением устоявшейся терминологии русскоязычного сообщества D&D.
-
-## Структура файлов
-
-```
-src/
-├── 00_Legal.md              — Правовая информация
-├── 01_PlayingTheGame.md     — Игровой процесс
-├── 02_CharacterCreation.md  — Создание персонажа
-├── 03_Classes/              — Классы
-│   ├── 00_Classes.md
-│   ├── 01_Barbarian.md      — Варвар
-│   ├── 02_Bard.md           — Бард
-│   ├── 03_Cleric.md         — Жрец
-│   ├── 04_Druid.md          — Друид
-│   ├── 05_Fighter.md        — Воин
-│   ├── 06_Monk.md           — Монах
-│   ├── 07_Paladin.md        — Паладин
-│   ├── 08_Ranger.md         — Следопыт
-│   ├── 09_Rogue.md          — Плут
-│   ├── 10_Sorcerer.md       — Чародей
-│   ├── 11_Warlock.md        — Колдун
-│   └── 12_Wizard.md         — Волшебник
-├── 04_CharacterOrigins.md   — Происхождение персонажа
-├── 05_Feats.md              — Черты
-├── 06_Equipment.md          — Снаряжение
-├── 07_Spells.md             — Заклинания
-├── 08_RulesGlossary.md      — Глоссарий правил
-├── 09_GameplayToolbox.md    — Инструменты игрового процесса
-├── 10_MagicItems.md         — Магические предметы
-├── 11_Monsters.md           — Монстры (введение)
-├── 12_MonstersA-Z.md        — Монстры от А до Я
-├── 13_Animals.md            — Животные
-└── 14_Glossary.md           — Глоссарий терминов перевода*
-```
-
-\* Глоссарий терминов — справочный файл, не включается в объединённый документ.
-
-## Изменения форматирования
-
-По сравнению с оригиналом были внесены следующие изменения:
-
-- Нумерованный список в разделе «Игровой процесс» в подразделе «Проверки d20», который в оригинале начинался с 4 и заканчивался 6, изменён на 1-3, поскольку это явно было задумано изначально.
-
-- Таблицы классов, содержащие ячейки заклинаний, были адаптированы: заголовок `--Ячейки заклинаний по уровням--` вынесен в подпись таблицы.
-
-- Раздел «Монстры от A до Z» выделен в отдельную главу, как и раздел «Животные» в оригинальном PDF.
-
-- Подразделы для отдельных групп монстров (например, «Анимированные объекты») не создавались — существа перечислены индивидуально.
-
-## Процесс создания
-
-Английская версия была создана с использованием инструмента [marker](https://github.com/VikParuchuri/marker) для первоначальной конвертации из PDF в Markdown, после чего была проведена ручная корректировка форматирования.
-
-Данные о монстрах взяты из репозитория [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) Майка Ши с сайта [slyflourish.com](https://slyflourish.com/).
-
-## Расширения Markdown
-
-Подписи таблиц обозначаются строкой `Table: Текст подписи` перед таблицей.
-
-## Вклад в проект
-
-Если вы заметили ошибки в переводе или хотите предложить улучшения, не стесняйтесь создавать issues или pull requests.
+- [SRD 5.2.1](https://www.dndbeyond.com/srd) — System Reference Document 5.2.1 от Wizards of the Coast LLC, лицензия [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+- [dndsrd5.2_markdown](https://github.com/springbov/dndsrd5.2_markdown) — английская версия SRD 5.2 в формате Markdown
+- [dndsrd5.2_markdown (yuvalsapir)](https://github.com/yuvalsapir/dndsrd5.2_markdown) — обновления до версии 5.2.1
+- [dnd-5e-srd-markdown](https://github.com/downfallx/dnd-5e-srd-markdown) — недостающие статблоки драконов
+- [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) / [slyflourish.com](https://slyflourish.com/) — данные о монстрах
+- [marker](https://github.com/VikParuchuri/marker) — инструмент конвертации PDF в Markdown
 
 ## Правовое уведомление
 
-Данная работа включает материалы из System Reference Document 5.2.1 («SRD 5.2.1») от Wizards of the Coast LLC, доступного по адресу https://www.dndbeyond.com/srd. SRD 5.2.1 лицензирован под лицензией Creative Commons Attribution 4.0 International, доступной по адресу https://creativecommons.org/licenses/by/4.0/legalcode.
-
-Перевод на русский язык выполнен в соответствии с условиями данной лицензии. В случае расхождений между переводом и оригиналом приоритет имеет оригинальный английский текст.
+Данная работа включает материалы из System Reference Document 5.2.1 («SRD 5.2.1») от Wizards of the Coast LLC. SRD 5.2.1 лицензирован под лицензией Creative Commons Attribution 4.0 International.
 
 ---
 
-*Это неофициальный фанатский перевод. Dungeons & Dragons и D&D являются товарными знаками Wizards of the Coast LLC.*
+*Это неофициальный фанатский проект. Dungeons & Dragons и D&D являются товарными знаками Wizards of the Coast LLC.*

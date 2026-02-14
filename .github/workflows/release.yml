@@ -15,10 +15,10 @@ jobs:
 
       - name: Build combined document
         run: |
-          # Concatenate all markdown files from src/ru-new/
+          # Concatenate all markdown files from src/dnd-srd-5.2.1-ru-v2/
           # Files are sorted alphabetically to maintain order
           # Add empty line between files for proper heading recognition
-          find src/ru-new -name "*.md" | sort | while read f; do cat "$f"; echo; done > DND-SRD-5.2.1-RU.md
+          find src/dnd-srd-5.2.1-ru-v2 -name "*.md" | sort | while read f; do cat "$f"; echo; done > DND-SRD-5.2.1-RU.md
 
       - name: Install pandoc and LaTeX
         run: |
