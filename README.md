@@ -11,7 +11,10 @@
 - [dndsrd5.2_markdown (yuvalsapir)](https://github.com/yuvalsapir/dndsrd5.2_markdown) — обновления до версии 5.2.1
 - [dnd-5e-srd-markdown](https://github.com/downfallx/dnd-5e-srd-markdown) — недостающие статблоки драконов
 - [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) / [slyflourish.com](https://slyflourish.com/) — данные о монстрах
-- [marker](https://github.com/VikParuchuri/marker) — инструмент конвертации PDF в Markdown
+
+### Инструменты
+
+- [marker](https://github.com/VikParuchuri/marker) — конвертация PDF в Markdown
 
 ## Правовое уведомление
 
