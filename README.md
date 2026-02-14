@@ -16,9 +16,11 @@
 
 - [marker](https://github.com/VikParuchuri/marker) — конвертация PDF в Markdown
 
-## Правовое уведомление
+## Лицензии
 
-Данная работа включает материалы из System Reference Document 5.2.1 («SRD 5.2.1») от Wizards of the Coast LLC. SRD 5.2.1 лицензирован под лицензией Creative Commons Attribution 4.0 International.
+Каждый SRD распространяется под собственной лицензией. См. `LICENSE.md` в соответствующей папке.
+
+- D&D SRD 5.2 — CC BY 4.0: [LICENSE.md](src/dnd/srd-5.2/LICENSE.md) | [LICENSE-RU.md](src/dnd/srd-5.2/LICENSE-RU.md)
 
 ---
 
