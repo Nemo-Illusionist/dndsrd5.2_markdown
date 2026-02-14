@@ -162,7 +162,7 @@
 | Psychic | Психический |
 | Radiant | Излучение |
 | Slashing | Рубящий |
-| Thunder | Звук |
+| Thunder | Гром |
 
 ---
 
@@ -210,7 +210,7 @@
 | Cone | Конус | |
 | Cube | Куб | |
 | Cylinder | Цилиндр | |
-| Emanation | Излучение | исходит от точки |
+| Emanation | Эманация | исходит от точки |
 | Line | Линия | |
 | Sphere | Сфера | |
 | Target | Цель | |
@@ -418,9 +418,9 @@
 | Dim Light | Тусклый свет |
 | Darkness | Тьма |
 | Difficult Terrain | Труднопроходимая местность |
-| Obscured | Заслонённый |
-| Lightly Obscured | Слабо заслонённый |
-| Heavily Obscured | Сильно заслонённый |
+| Obscured | Затемнённый |
+| Lightly Obscured | Слабо затемнённый |
+| Heavily Obscured | Сильно затемнённый |
 
 ---
 
