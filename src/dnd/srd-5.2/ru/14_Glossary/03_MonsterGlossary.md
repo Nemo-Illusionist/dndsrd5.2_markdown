@@ -49,8 +49,8 @@
 | Bone Devil | Костяной дьявол | 9 |
 | Brass Dragon Wyrmling | Детёныш латунного дракона | 1 |
 | Bronze Dragon Wyrmling | Детёныш бронзового дракона | 2 |
-| Bugbear Stalker | Медвежатник-охотник | 3 |
-| Bugbear Warrior | Медвежатник-воин | 1 |
+| Bugbear Stalker | Багбир-охотник | 3 |
+| Bugbear Warrior | Багбир-воин | 1 |
 | Bulette | Бюлетт | 5 |
 | Centaur Trooper | Кентавр-солдат | 2 |
 | Chain Devil | Цепной дьявол | 8 |
@@ -62,11 +62,11 @@
 | Cockatrice | Кокатрис | 1/2 |
 | Commoner | Обыватель | 0 |
 | Copper Dragon Wyrmling | Детёныш медного дракона | 1 |
-| Couatl | Кутатль | 4 |
+| Couatl | Коатль | 4 |
 | Cultist Fanatic | Фанатик-культист | 2 |
 | Cultist | Культист | 1/8 |
-| Darkmantle | Тёмный плащ | 1/2 |
-| Death Dog | Адский пёс | 1 |
+| Darkmantle | Тёмная мантия | 1/2 |
+| Death Dog | Пёс смерти | 1 |
 | Deva | Дэва | 10 |
 | Djinni | Джинн | 11 |
 | Doppelganger | Доппельгангер | 3 |
@@ -90,7 +90,7 @@
 | Ghast | Гаст | 2 |
 | Ghost | Призрак | 4 |
 | Ghoul | Упырь | 1 |
-| Gibbering Mouther | Пожиратель разума | 2 |
+| Gibbering Mouther | Бормочущая пасть | 2 |
 | Glabrezu | Глабрезу | 9 |
 | Gladiator | Гладиатор | 5 |
 | Gnoll Warrior | Гнолл-воин | 1/2 |
@@ -158,7 +158,7 @@
 | Phase Spider | Фазовый паук | 3 |
 | Pirate Captain | Капитан пиратов | 6 |
 | Pirate | Пират | 1 |
-| Pit Fiend | Дьявол бездны | 20 |
+| Pit Fiend | Ямный дьявол | 20 |
 | Planetar | Планетар | 16 |
 | Priest Acolyte | Жрец-послушник | 1/4 |
 | Priest | Жрец | 2 |
@@ -166,7 +166,7 @@
 | Purple Worm | Пурпурный червь | 15 |
 | Quasit | Квазит | 1 |
 | Rakshasa | Ракшас | 13 |
-| Red Dragon Wyrmling | Красный дракончик | 4 |
+| Red Dragon Wyrmling | Детёныш красного дракона | 4 |
 | Remorhaz | Реморхаз | 11 |
 | Roc | Рух | 11 |
 | Roper | Веревник | 5 |
@@ -177,10 +177,10 @@
 | Scout | Разведчик | 1/2 |
 | Sea Hag | Морская карга | 2 |
 | Shadow | Тень | 1/2 |
-| Shambling Mound | Топляк | 5 |
+| Shambling Mound | Шатающийся холм | 5 |
 | Shield Guardian | Страж-щит | 7 |
 | Shrieker Fungus | Визгун | 0 |
-| Silver Dragon Wyrmling | Серебряный дракончик | 2 |
+| Silver Dragon Wyrmling | Детёныш серебряного дракона | 2 |
 | Skeleton | Скелет | 1/4 |
 | Solar | Солар | 21 |
 | Specter | Спектр | 1 |
@@ -217,12 +217,12 @@
 | Wererat | Веркрыса | 2 |
 | Weretiger | Вертигр | 4 |
 | Werewolf | Вервольф | 3 |
-| White Dragon Wyrmling | Вирмлинг белого дракона | 2 |
+| White Dragon Wyrmling | Детёныш белого дракона | 2 |
 | Wight | Умертвие | 3 |
 | Will-o'-Wisp | Блуждающий огонёк | 2 |
 | Winter Wolf | Зимний волк | 3 |
 | Worg | Ворг | 1/2 |
-| Wraith | Привидение | 5 |
+| Wraith | Тень смерти | 5 |
 | Wyvern | Виверна | 6 |
 | Xorn | Зорн | 5 |
 | Young Black Dragon | Молодой чёрный дракон | 7 |
