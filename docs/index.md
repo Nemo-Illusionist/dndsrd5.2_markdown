@@ -6,7 +6,7 @@ hide:
 
 ## Dungeons & Dragons
 
-- **[SRD 5.2.1](dnd/srd-5.2/00_Legal.md)** — Базовые правила D&D 5-й редакции (2024), опубликованные по лицензии [Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode).
+- **[SRD 5.2.1](dnd/srd-5.2/00_Legal.md)** — Базовые правила D&D 5-й редакции (2024), опубликованные по лицензии [Creative Commons](https://creativecommons.org/licenses/by/4.0/legalcode).<br>
   [:material-download: Скачать](https://github.com/Nemo-Illusionist/ttrpg_srd_markdown/releases/latest)
 
 ---
