@@ -1,0 +1,105 @@
+site_name: TTRPG SRD
+site_url: https://nemo-illusionist.github.io/ttrpg_srd_markdown/
+site_description: System Reference Documents for tabletop role-playing games
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Тёмная тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Светлая тема
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+plugins:
+  - search:
+      lang:
+        - ru
+        - en
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 2
+  - tables
+  - attr_list
+
+nav:
+  - Главная: index.md
+  - D&D:
+      - SRD 5.2.1 (RU):
+          - Правовая информация: dnd/srd-5.2/ru/00_Legal.md
+          - Как играть: dnd/srd-5.2/ru/01_PlayingTheGame.md
+          - Создание персонажа: dnd/srd-5.2/ru/02_CharacterCreation.md
+          - Классы:
+              - Обзор: dnd/srd-5.2/ru/03_Classes/00_Classes.md
+              - Варвар: dnd/srd-5.2/ru/03_Classes/01_Barbarian.md
+              - Бард: dnd/srd-5.2/ru/03_Classes/02_Bard.md
+              - Жрец: dnd/srd-5.2/ru/03_Classes/03_Cleric.md
+              - Друид: dnd/srd-5.2/ru/03_Classes/04_Druid.md
+              - Воин: dnd/srd-5.2/ru/03_Classes/05_Fighter.md
+              - Монах: dnd/srd-5.2/ru/03_Classes/06_Monk.md
+              - Паладин: dnd/srd-5.2/ru/03_Classes/07_Paladin.md
+              - Следопыт: dnd/srd-5.2/ru/03_Classes/08_Ranger.md
+              - Плут: dnd/srd-5.2/ru/03_Classes/09_Rogue.md
+              - Чародей: dnd/srd-5.2/ru/03_Classes/10_Sorcerer.md
+              - Колдун: dnd/srd-5.2/ru/03_Classes/11_Warlock.md
+              - Волшебник: dnd/srd-5.2/ru/03_Classes/12_Wizard.md
+          - Происхождение персонажа: dnd/srd-5.2/ru/04_CharacterOrigins.md
+          - Черты: dnd/srd-5.2/ru/05_Feats.md
+          - Снаряжение: dnd/srd-5.2/ru/06_Equipment.md
+          - Заклинания: dnd/srd-5.2/ru/07_Spells.md
+          - Глоссарий правил: dnd/srd-5.2/ru/08_RulesGlossary.md
+          - Инструментарий: dnd/srd-5.2/ru/09_GameplayToolbox.md
+          - Магические предметы: dnd/srd-5.2/ru/10_MagicItems.md
+          - Монстры: dnd/srd-5.2/ru/11_Monsters.md
+          - Монстры от А до Я: dnd/srd-5.2/ru/12_MonstersA-Z.md
+          - Животные: dnd/srd-5.2/ru/13_Animals.md
+      - SRD 5.2.1 (EN):
+          - Legal Information: dnd/srd-5.2/en/00_Legal.md
+          - Playing the Game: dnd/srd-5.2/en/01_PlayingTheGame.md
+          - Character Creation: dnd/srd-5.2/en/02_CharacterCreation.md
+          - Classes:
+              - Overview: dnd/srd-5.2/en/03_Classes/00_Classes.md
+              - Barbarian: dnd/srd-5.2/en/03_Classes/01_Barbarian.md
+              - Bard: dnd/srd-5.2/en/03_Classes/02_Bard.md
+              - Cleric: dnd/srd-5.2/en/03_Classes/03_Cleric.md
+              - Druid: dnd/srd-5.2/en/03_Classes/04_Druid.md
+              - Fighter: dnd/srd-5.2/en/03_Classes/05_Fighter.md
+              - Monk: dnd/srd-5.2/en/03_Classes/06_Monk.md
+              - Paladin: dnd/srd-5.2/en/03_Classes/07_Paladin.md
+              - Ranger: dnd/srd-5.2/en/03_Classes/08_Ranger.md
+              - Rogue: dnd/srd-5.2/en/03_Classes/09_Rogue.md
+              - Sorcerer: dnd/srd-5.2/en/03_Classes/10_Sorcerer.md
+              - Warlock: dnd/srd-5.2/en/03_Classes/11_Warlock.md
+              - Wizard: dnd/srd-5.2/en/03_Classes/12_Wizard.md
+          - Character Origins: dnd/srd-5.2/en/04_CharacterOrigins.md
+          - Feats: dnd/srd-5.2/en/05_Feats.md
+          - Equipment: dnd/srd-5.2/en/06_Equipment.md
+          - Spells: dnd/srd-5.2/en/07_Spells.md
+          - Rules Glossary: dnd/srd-5.2/en/08_RulesGlossary.md
+          - Gameplay Toolbox: dnd/srd-5.2/en/09_GameplayToolbox.md
+          - Magic Items: dnd/srd-5.2/en/10_MagicItems.md
+          - Monsters: dnd/srd-5.2/en/11_Monsters.md
+          - "Monsters A\u2013Z": dnd/srd-5.2/en/12_MonstersA-Z.md
+          - Animals: dnd/srd-5.2/en/13_Animals.md
