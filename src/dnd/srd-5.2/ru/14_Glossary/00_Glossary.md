@@ -16,7 +16,7 @@
 | CN | ХН | Chaotic Neutral | Хаотично-нейтральный |
 | Con. | Тел. | Constitution | Телосложение |
 | CP | мм | Copper Piece(s) | медная монета |
-| CR | ПО | Challenge Rating | Показатель Опасности |
+| CR | ПО | Challenge Rating | Показатель опасности |
 | DC | СЛ | Difficulty Class | Сложность |
 | Dex. | Лов. | Dexterity | Ловкость |
 | EP | эм | Electrum Piece(s) | электрумовая монета |
@@ -40,7 +40,7 @@
 | Str. | Сил. | Strength | Сила |
 | V | В | Verbal component | Вербальный компонент |
 | Wis. | Мдр. | Wisdom | Мудрость |
-| XP | ОО | Experience Point(s) | Очки Опыта |
+| XP | ОО | Experience Point(s) | Очки опыта |
 
 ---
 
