@@ -27,7 +27,7 @@ The Weapons table in this section shows the game's main weapons. The table lists
 - **Mastery.** Each weapon has a mastery property, which is defined in the "Mastery Properties" section. To use that property, you must have a feature that lets you use it.
 
 > ### Selling Equipment
-> 
+>
 > Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. "Magic Items" has prices for magic items.
 
 ### Weapon Proficiency
@@ -135,7 +135,8 @@ Table: Simple Melee Weapons
 | Sickle                 | 1d4 Slashing    | Light                                                     | Nick    | 2 lb.   | 1 GP   |
 | Spear                  | 1d6 Piercing    | Thrown (Range 20/60), Versatile (1d8)                     | Sap     | 3 lb.   | 1 GP   |
 
-Table: Simple Ranged Weapons 
+Table: Simple Ranged Weapons
+
 | Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
 |------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
 | Dart                   | 1d4 Piercing    | Finesse, Thrown (Range 20/60)                             | Vex     | 1/4 lb. | 5 CP   |
@@ -143,7 +144,7 @@ Table: Simple Ranged Weapons
 | Shortbow               | 1d6 Piercing    | Ammunition (Range 80/320; Arrow), Two-Handed              | Vex     | 2 lb.   | 25 GP  |
 | Sling                  | 1d4 Bludgeoning | Ammunition (Range 30/120; Bullet)                         | Slow    | —       | 1 SP   |
 
-Table: Martial Melee Weapons 
+Table: Martial Melee Weapons
 
 | Name                   | Damage          | Properties                                                | Mastery | Weight  | Cost   |
 |------------------------|-----------------|-----------------------------------------------------------|---------|---------|--------|
@@ -166,7 +167,7 @@ Table: Martial Melee Weapons
 | War Pick               | 1d8 Piercing    | Versatile (1d10)                                          | Sap     | 2 lb.   | 5 GP   |
 | Whip                   | 1d4 Slashing    | Finesse, Reach                                            | Slow    | 3 lb.   | 2 GP   |
 
-Table: Martial Ranged Weapons 
+Table: Martial Ranged Weapons
 
 | Name           | Damage          | Properties                                                   | Mastery | Weight  | Cost   |
 |----------------|-----------------|--------------------------------------------------------------|---------|---------|--------|
@@ -256,39 +257,39 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Alchemist's Supplies (50 GP)
 
-**Ability:** Intelligence 
+**Ability:** Intelligence
 
-**Weight:** 8 lb. 
+**Weight:** 8 lb.
 
-**Utilize:** Identify a substance (DC 15), or start a fire (DC 15) 
+**Utilize:** Identify a substance (DC 15), or start a fire (DC 15)
 
 **Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
 
 #### Brewer's Supplies (20 GP)
 
-**Ability:** Intelligence 
+**Ability:** Intelligence
 
-**Weight:** 9 lb. 
+**Weight:** 9 lb.
 
-**Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10) 
+**Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10)
 
 **Craft:** Antitoxin
 
 #### Calligrapher's Supplies (10 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
-**Utilize:** Write text with impressive flourishes that guard against forgery (DC 15) 
+**Utilize:** Write text with impressive flourishes that guard against forgery (DC 15)
 
 **Craft:** Ink, *Spell Scroll*
 
 #### Carpenter's Tools (8 GP)
 
-**Ability:** Strength 
+**Ability:** Strength
 
-**Weight:** 6 lb. 
+**Weight:** 6 lb.
 
 **Utilize:** Seal or pry open a door or container (DC 20)
 
@@ -296,109 +297,109 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Cartographer's Tools (15 GP)
 
-**Ability:** Wisdom 
+**Ability:** Wisdom
 
-**Weight:** 6 lb. 
+**Weight:** 6 lb.
 
-**Utilize:** Draft a map of a small area (DC 15) 
+**Utilize:** Draft a map of a small area (DC 15)
 
 **Craft:** Map
 
 #### Cobbler's Tools (5 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
-**Utilize:** Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10) 
+**Utilize:** Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)
 
 **Craft:** Climber's Kit
 
 #### Cook's Utensils (1 GP)
 
-**Ability:** Wisdom 
+**Ability:** Wisdom
 
-**Weight:** 8 lb. 
+**Weight:** 8 lb.
 
-**Utilize:** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15) 
+**Utilize:** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)
 
 **Craft:** Rations
 
 #### Glassblower's Tools (30 GP)
 
-**Ability:** Intelligence 
+**Ability:** Intelligence
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
-**Utilize:** Discern what a glass object held in the past 24 hours (DC 15) 
+**Utilize:** Discern what a glass object held in the past 24 hours (DC 15)
 
 **Craft:** Glass Bottle, Magnifying Glass, Spyglass, Vial
 
 #### Jeweler's Tools (25 GP)
 
-**Ability:** Intelligence 
+**Ability:** Intelligence
 
-**Weight:** 2 lb. 
+**Weight:** 2 lb.
 
-**Utilize:** Discern a gem's value (DC 15) 
+**Utilize:** Discern a gem's value (DC 15)
 
 **Craft:** Arcane Focus, Holy Symbol
 
 #### Leatherworker's Tools (5 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
-**Utilize:** Add a design to a leather item (DC 10) 
+**Utilize:** Add a design to a leather item (DC 10)
 
 **Craft:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
 
 #### Mason's Tools (10 GP)
 
-**Ability:** Strength 
+**Ability:** Strength
 
-**Weight:** 8 lb. 
+**Weight:** 8 lb.
 
-**Utilize:** Chisel a symbol or hole in stone (DC 10) 
+**Utilize:** Chisel a symbol or hole in stone (DC 10)
 
 **Craft:** Block and Tackle
 
 #### Painter's Supplies (10 GP)
 
-**Ability:** Wisdom 
+**Ability:** Wisdom
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
-**Utilize:** Paint a recognizable image of something you've seen (DC 10) 
+**Utilize:** Paint a recognizable image of something you've seen (DC 10)
 
 **Craft:** Druidic Focus, Holy Symbol
 
 #### Potter's Tools (10 GP)
 
-**Ability:** Intelligence 
+**Ability:** Intelligence
 
-**Weight:** 3 lb. 
+**Weight:** 3 lb.
 
-**Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15) 
+**Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15)
 
 **Craft:** Jug, Lamp
 
 #### Smith's Tools (20 GP)
 
-**Ability:** Strength 
+**Ability:** Strength
 
-**Weight:** 8 lb. 
+**Weight:** 8 lb.
 
-**Utilize:** Pry open a door or container (DC 20) 
+**Utilize:** Pry open a door or container (DC 20)
 
 **Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
 
 #### Tinker's Tools (50 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 10 lb. 
+**Weight:** 10 lb.
 
 **Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
 
@@ -406,9 +407,9 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Weaver's Tools (1 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
 **Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
 
@@ -416,11 +417,11 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Woodcarver's Tools (1 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
-**Utilize:** Carve a pattern in wood (DC 10) 
+**Utilize:** Carve a pattern in wood (DC 10)
 
 **Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
 
@@ -428,75 +429,75 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Disguise Kit (25 GP)
 
-**Ability:** Charisma 
+**Ability:** Charisma
 
-**Weight:** 3 lb. 
+**Weight:** 3 lb.
 
-**Utilize:** Apply makeup (DC 10) 
+**Utilize:** Apply makeup (DC 10)
 
 **Craft:** Costume
 
 #### Forgery Kit (15 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 5 lb. 
+**Weight:** 5 lb.
 
 **Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
 
 #### Gaming Set (Varies)
 
-**Ability:** Wisdom 
+**Ability:** Wisdom
 
-**Weight:** — 
+**Weight:** —
 
-**Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20) 
+**Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
 
 **Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
 
-#### **Herbalism Kit (5 GP)**
+#### Herbalism Kit (5 GP)
 
-**Ability:** Intelligence 
+**Ability:** Intelligence
 
-**Weight:** 3 lb. 
+**Weight:** 3 lb.
 
-**Utilize:** Identify a plant (DC 10) 
+**Utilize:** Identify a plant (DC 10)
 
 **Craft:** Antitoxin, Candle, Healer's Kit, *Potion of Healing*
 
-#### **Musical Instrument (Varies)**
+#### Musical Instrument (Varies)
 
-**Ability:** Charisma 
+**Ability:** Charisma
 
-**Weight:** Varies 
+**Weight:** Varies
 
-**Utilize:** Play a known tune (DC 10), or improvise a song (DC 15) 
+**Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
 
 **Variants:** Bagpipes (30 GP, 6 lb.), drum (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flute (2 GP, 1 lb.), horn (3 GP, 2 lb.), lute (35 GP, 2 lb.), lyre (30 GP, 2 lb.), pan flute (12 GP, 2 lb.), shawm (2 GP, 1 lb.), viol (30 GP, 1 lb.)
 
 #### Navigator's Tools (25 GP)
 
-**Ability:** Wisdom 
+**Ability:** Wisdom
 
-**Weight:** 2 lb. 
+**Weight:** 2 lb.
 
 **Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
 
 #### Poisoner's Kit (50 GP)
 
-**Ability:** Intelligence 
+**Ability:** Intelligence
 
-**Weight:** 2 lb. 
+**Weight:** 2 lb.
 
-**Utilize:** Detect a poisoned object (DC 10) 
+**Utilize:** Detect a poisoned object (DC 10)
 
 **Craft:** Basic Poison
 
 #### Thieves' Tools (25 GP)
 
-**Ability:** Dexterity 
+**Ability:** Dexterity
 
-**Weight:** 1 lb. 
+**Weight:** 1 lb.
 
 **Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
 
@@ -536,13 +537,13 @@ Table: Adventuring Gear
 | Book                   | 5 lb.        | 25 GP    |
 | Bottle, Glass          | 2 lb.        | 2 GP     |
 | Bucket                 | 2 lb.        | 5 CP     |
-| Burglar's Pack         | 42 lb.       | 16 GP    |  
+| Burglar's Pack         | 42 lb.       | 16 GP    |
 | Caltrops               | 2 lb.        | 1 GP     |
 | Candle                 | —            | 1 CP     |
 | Case, Crossbow Bolt    | 1 lb.        | 1 GP     |
 | Case, Map or Scroll    | 1 lb.        | 1 GP     |
 | Chain                  | 10 lb.       | 5 GP     |
-| Chest                  | 25 lb.       | 5 GP     |  
+| Chest                  | 25 lb.       | 5 GP     |
 | Climber's Kit          | 12 lb.       | 25 GP    |
 | Clothes, Fine          | 6 lb.        | 15 GP    |
 | Clothes, Traveler's    | 4 lb.        | 2 GP     |
@@ -557,7 +558,7 @@ Table: Adventuring Gear
 | Flask                  | 1 lb.        | 2 CP     |
 | Grappling Hook         | 4 lb.        | 2 GP     |
 | Healer's Kit           | 3 lb.        | 5 GP     |
-| Holy Symbol            | Varies       | Varies   |  
+| Holy Symbol            | Varies       | Varies   |
 | Holy Water             | 1 lb.        | 25 GP    |
 | Hunting Trap           | 25 lb.       | 5 GP     |
 | Ink                    | —            | 10 GP    |
@@ -745,9 +746,7 @@ Table: Druidic Focuses
 
 #### Dungeoneer's Pack (12 GP)
 
-A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10
-
-days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
 
 #### Entertainer's Pack (40 GP)
 
@@ -831,9 +830,7 @@ A Magnifying Glass grants Advantage on any ability check made to appraise or ins
 
 #### Manacles (2 GP)
 
-As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13
-
-Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
+As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within 5 feet of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.
 
 Each set of Manacles comes with a key. Without the key, a creature can use Thieves' Tools to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 
@@ -983,9 +980,7 @@ An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up t
 
 ### Barding
 
-Barding is armor designed for a mount. Any type of armor on the Armor table in "Equipment" can
-
-be purchased as barding. The cost is four times the normal cost, and it weighs twice as much.
+Barding is armor designed for a mount. Any type of armor on the Armor table in "Equipment" can be purchased as barding. The cost is four times the normal cost, and it weighs twice as much.
 
 ### Saddles
 
@@ -1122,7 +1117,7 @@ Table: Inn Stay per Day
 | Wealthy          | 2 GP |
 | Aristocratic     | 4 GP |
 
-## **Hirelings**
+## Hirelings
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, an artisan, a scribe, or the like. The pay shown on the Hirelings table is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for work that requires no particular proficiencies; they include laborers and porters.
 
@@ -1146,8 +1141,8 @@ Table: Spellcasting Services
 | 1           | Village, town, or city | 50 GP      |
 | 2           | Village, town, or city | 200 GP     |
 | 3           | Town or city only      | 300 GP     |
-| 4–5         | Town or city only      | 2,000 GP   |
-| 6–8         | City only              | 20,000 GP  |
+| 4—5         | Town or city only      | 2,000 GP   |
+| 6—8         | City only              | 20,000 GP  |
 | 9           | City only              | 100,000 GP |
 
 ## Magic Items
@@ -1178,9 +1173,7 @@ You can be attuned to no more than three magic items at a time. Any attempt to a
 
 #### Ending Attunement
 
-Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to
-
-the item. You can also voluntarily end Attunement by spending another Short Rest focused on the item unless the item is cursed.
+Your Attunement to an item ends if you no longer satisfy the prerequisites for Attunement, if the item has been more than 100 feet away for at least 24 hours, if you die, or if another creature attunes to the item. You can also voluntarily end Attunement by spending another Short Rest focused on the item unless the item is cursed.
 
 ### Wearing and Wielding Items
 
@@ -1222,7 +1215,7 @@ Characters can combine their efforts to shorten the crafting time. Divide the ti
 
 A character who has proficiency with the Herbalism Kit can create a *Potion of Healing*. Doing so requires using that kit and 25 GP of raw material over the course of 1 day (8 hours of work).
 
-## **Scribing Spell Scrolls**
+## Scribing Spell Scrolls
 
 A spellcaster can transfer a spell to a scroll and create a *Spell Scroll*, using the rules below.
 
@@ -1234,7 +1227,7 @@ Scribing a scroll takes an amount of time and money based on the level of the sp
 
 To scribe a scroll, you must have proficiency in the Arcana skill or with Calligrapher's Supplies and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
 
-## **Cantrips**
+## Cantrips
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
 
