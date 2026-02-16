@@ -4,13 +4,13 @@
 
 The three main pillars of D&D play are social interaction, exploration, and combat. Whichever one you’re experiencing, the game unfolds according to this basic pattern:
 
-1. **The Game Master Describes a Scene.**  The GM tells the players where their adventurers are and what’s around them (how many doors lead out of a room, what’s on a table, and so on).
+1. **The Game Master Describes a Scene.** The GM tells the players where their adventurers are and what’s around them (how many doors lead out of a room, what’s on a table, and so on).
 
 2. **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the GM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.
 
 3. **The GM Narrates the Results of the Adventurers’ Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the GM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the GM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.
 
-This pattern holds during every game session (each time you sit down to play D&D), whether the  adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations—particularly combat—the action is more structured, and everyone takes turns.
+This pattern holds during every game session (each time you sit down to play D&D), whether the adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations—particularly combat—the action is more structured, and everyone takes turns.
 
 > **Exceptions Supersede General Rules**
 > 
@@ -35,14 +35,11 @@ Table: Ability Descriptions
 
 ### Ability Scores
 
-Each ability has a score from 1 to 20, although some
-monsters have a score as high as 30. The score
-represents the magnitude of an ability. The Ability
-Scores table summarizes what the scores mean.
+Each ability has a score from 1 to 20, although some monsters have a score as high as 30. The score represents the magnitude of an ability. The Ability Scores table summarizes what the scores mean.
 
 Table: Ability Scores
 
-| Score | Meaning                                      | 
+| Score | Meaning                                      |
 |-------|----------------------------------------------|
 | 1     | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
 | 2–9   | This represents a weak capability.           |
@@ -87,9 +84,9 @@ When the outcome of an action is uncertain, the game uses a d20 roll to determin
 1. **Roll 1d20.** You always want to roll high. If the roll has Advantage or Disadvantage (described later in “Playing the Game”), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.
 
 2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
-  * **The Relevant Ability Modifier.** “Playing the Game” and “Rules Glossary” explain which ability modifiers to use for various D20 Tests.
-  * **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See “Proficiency” later in “Playing the Game.”
-  * **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
+ * **The Relevant Ability Modifier.** “Playing the Game” and “Rules Glossary” explain which ability modifiers to use for various D20 Tests.
+ * **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. See “Proficiency” later in “Playing the Game.”
+ * **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
 
 3. **Compare the Total to a Target Number.** If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Game Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an Armor Class (AC), which appears on a character sheet or in a stat block (see “Rules Glossary”).
 
@@ -128,7 +125,7 @@ Table: Typical Difficulty Classes
 | Easy              | 10 |
 | Medium            | 15 |
 | Hard              | 20 |
-| Very hard         | 25 | 
+| Very hard         | 25 |
 | Nearly impossible | 30 |
 
 ### Saving Throws
@@ -187,9 +184,10 @@ You add your Proficiency Bonus to your attack roll when you attack using a weapo
 A creature’s Armor Class represents how well the creature avoids being wounded in combat. The AC of a character is determined at character creation (see “Character Creation”), whereas the AC of a monster appears in its stat block.
 
 **Calculating AC.** All creatures start with the same base AC calculation:
- Base AC = 10 + the creature’s Dexterity modifier
 
-A creature’s AC can then be modified by armor, magic items, spells, and more.
+Base AC = 10 + the creature's Dexterity modifier
+
+A creature's AC can then be modified by armor, magic items, spells, and more.
 
 **Only One Base AC.** Some spells and class features give characters a different way to calculate their AC. A character with multiple features that give different ways to calculate AC must choose which one to use; only one base calculation can be in effect for a creature.
 
@@ -271,7 +269,7 @@ Table: Skills
 | Arcana          | Intelligence | Recall lore about spells, magic items, and the planes of existence.       |
 | Athletics       | Strength     | Jump farther than normal, stay afloat in rough water, or break something. |
 | Deception       | Charisma     | Tell a convincing lie, or wear a disguise convincingly.                   |
-| History         | Intelligence | Recall lore about historical events, people, nations, and cultures.       | 
+| History         | Intelligence | Recall lore about historical events, people, nations, and cultures.       |
 | Insight         | Wisdom       | Discern a person’s mood and intentions.                                   |
 | Intimidation    | Charisma     | Awe or threaten someone into doing what you want.                         |
 | Investigation   | Intelligence | Find obscure information in books, or deduce how something works.         |
@@ -295,17 +293,9 @@ A character’s starting skill proficiencies are determined at character creatio
 
 ### Saving Throw Proficiencies
 
-Proficiency in a saving throw lets a character add
-their Proficiency Bonus to saves that use a partic-
-ular ability. For example, proficiency in Wisdom
-saves lets you add your Proficiency Bonus to your
-Wisdom saves. Some monsters also have saving
-throw proficiencies, as noted in their stat blocks.
-  Each class gives proficiency in at least two saving
-throws, representing that class’s training in evading
-or resisting certain threats. Wizards, for example,
-are proficient in Intelligence and Wisdom saves;
-they train to resist mental assault.
+Proficiency in a saving throw lets a character add their Proficiency Bonus to saves that use a particular ability. For example, proficiency in Wisdom saves lets you add your Proficiency Bonus to your Wisdom saves. Some monsters also have saving throw proficiencies, as noted in their stat blocks.
+
+Each class gives proficiency in at least two saving throws, representing that class's training in evading or resisting certain threats. Wizards, for example, are proficient in Intelligence and Wisdom saves; they train to resist mental assault.
 
 ### Equipment Proficiencies
 
@@ -414,9 +404,7 @@ The presence or absence of light determines the category of illumination in an a
 
 **Dim Light.** Dim Light, also called shadows, creates a Lightly Obscured area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light. A full moon might bathe the land in Dim Light.
 
-**Darkness.**
-
-Darkness creates a Heavily Obscured area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon, or in an area of magical Darkness.
+**Darkness.** Darkness creates a Heavily Obscured area. Characters face Darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon, or in an area of magical Darkness.
 
 #### Special Senses
 
@@ -481,12 +469,12 @@ If you need to know how fast you can move when every second matters, see the mov
 While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a Short or Long Rest before they can move at that increased pace again (see “Equipment” for a selection of mounts for sale). “Gameplay Toolbox” has rules that affect which pace you can choose in certain types of terrain.
 
 Table: Travel Pace - Distance Traveled Per …
+
 | Pace   | Minute   | Hour    | Day      |
 |--------|----------|---------|----------|
 | Fast   | 400 feet | 4 miles | 30 miles |
 | Normal | 300 feet | 3 miles | 24 miles |
 | Slow   | 200 feet | 2 miles | 18 miles |
-
 
 Each travel pace has a game effect, as defined below.
 
@@ -607,14 +595,11 @@ Table: Creature Size and Space
 
 #### Moving around Other Creatures
 
-During your move, you can pass through the space of an ally, a creature that has the Incapacitated
-condition (see “Rules Glossary”), a Tiny creature, or a creature that is two sizes larger or smaller than
-you.
+During your move, you can pass through the space of an ally, a creature that has the Incapacitated condition (see “Rules Glossary”), a Tiny creature, or a creature that is two sizes larger or smaller than you.
 
 Another creature’s space is Difficult Terrain for you unless that creature is Tiny or your ally.
 
-You can’t willingly end a move in a space occupied by another creature. If you somehow end a turn in
-a space with another creature, you have the Prone condition (see “Rules Glossary”) unless you are Tiny or are of a larger size than the other creature.
+You can’t willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the Prone condition (see “Rules Glossary”) unless you are Tiny or are of a larger size than the other creature.
 
 ### Making an Attack
 
@@ -649,72 +634,37 @@ Table: Cover
 
 ### Ranged Attacks
 
-When you make a ranged attack, you fire a bow,
-hurl an axe, or otherwise send projectiles to strike a
-foe at a distance. Many spells also involve making a
-ranged attack.
+When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send projectiles to strike a foe at a distance. Many spells also involve making a ranged attack.
 
 #### Range
 
-You can make ranged attacks only against targets
-within a specified range. If a ranged attack, such as
-one made with a spell, has a single range, you can’t
-attack a target beyond this range.
+You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can’t attack a target beyond this range.
 
-  Some ranged attacks, such as those made with a
-Longbow, have two ranges. The smaller number is
-the normal range, and the larger number is the long
-range. Your attack roll has Disadvantage when your
-target is beyond normal range, and you can’t attack
-a target beyond long range.
+Some ranged attacks, such as those made with a Longbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has Disadvantage when your target is beyond normal range, and you can’t attack a target beyond long range.
 
 #### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe
-is next to you. When you make a ranged attack roll
-with a weapon, a spell, or some other means, you
-have Disadvantage on the roll if you are within 5
-feet of an enemy who can see you and doesn’t have
-the Incapacitated condition (see “Rules Glossary”).
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have Disadvantage on the roll if you are within 5 feet of an enemy who can see you and doesn’t have the Incapacitated condition (see “Rules Glossary”).
 
 ### Melee Attacks
 
-A melee attack allows you to attack a target within
-your reach. A melee attack typically uses a hand-
-held weapon or an Unarmed Strike. Many monsters
-make melee attacks with claws, teeth, or other body
-parts. A few spells also involve melee attacks.
+A melee attack allows you to attack a target within your reach. A melee attack typically uses a hand-held weapon or an Unarmed Strike. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
 
 #### Reach
 
-A creature has a 5-foot reach and can thus attack
-targets within 5 feet when making a melee attack.
-Certain creatures have melee attacks with a reach
-greater than 5 feet, as noted in their descriptions.
+A creature has a 5-foot reach and can thus attack targets within 5 feet when making a melee attack. Certain creatures have melee attacks with a reach greater than 5 feet, as noted in their descriptions.
 
 #### Opportunity Attacks
 
-Combatants watch for enemies to drop their guard.
-If you move heedlessly past your foes, you put your-
-self in danger by provoking an Opportunity Attack.
+Combatants watch for enemies to drop their guard. If you move heedlessly past your foes, you put yourself in danger by provoking an Opportunity Attack.
 
-**Avoiding Opportunity Attacks.** You can avoid
-provoking an Opportunity Attack by taking the
-Disengage action. You also don’t provoke an Oppor-
-tunity Attack when you Teleport or when you are
-moved without using your movement, action, Bonus
-Action, or Reaction. For example, you don’t provoke
-an Opportunity Attack if an explosion hurls you out
-of a foe’s reach or if you fall past an enemy.
+**Avoiding Opportunity Attacks.** You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don’t provoke an Opportunity Attack when you Teleport or when you are moved without using your movement, action, Bonus Action, or Reaction. For example, you don’t provoke an Opportunity Attack if an explosion hurls you out of a foe’s reach or if you fall past an enemy.
 
-**Making an Opportunity Attack.** You can make an Opportunity Attack when a creature that you can
-see leaves your reach. To make the attack, take a Reaction to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
+**Making an Opportunity Attack.** You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a Reaction to make one melee attack with a weapon or an Unarmed Strike against that creature. The attack occurs right before it leaves your reach.
 
 ### Mounted Combat
 
-A willing creature that is at least one size larger
-than a rider and that has an appropriate anatomy
-can serve as a mount, using the following rules.
+A willing creature that is at least one size larger than a rider and that has an appropriate anatomy can serve as a mount, using the following rules.
 
 #### Mounting and Dismounting
 
@@ -740,14 +690,9 @@ A fight underwater follows these rules.
 
 #### Impeded Weapons
 
-When making a melee attack roll with a weapon
-underwater, a creature that lacks a Swim Speed has
-Disadvantage on the attack roll unless the weapon
-deals Piercing damage.
-  A ranged attack roll with a weapon underwater
-automatically misses a target beyond the weapon’s
-normal range, and the attack roll has Disadvantage
-against a target within normal range.
+When making a melee attack roll with a weapon underwater, a creature that lacks a Swim Speed has Disadvantage on the attack roll unless the weapon deals Piercing damage.
+
+A ranged attack roll with a weapon underwater automatically misses a target beyond the weapon's normal range, and the attack roll has Disadvantage against a target within normal range.
 
 #### Fire Resistance
 
@@ -755,14 +700,11 @@ Anything underwater has Resistance to Fire damage (explained in “Damage and He
 
 ## Damage and Healing
 
-Injury and death are frequent threats, as detailed in
-the following rules.
+Injury and death are frequent threats, as detailed in the following rules.
 
 ### Hit Points
 
-Hit Points represent durability and the will to live. Creatures with more Hit Points are more difficult to kill. Your Hit Point maximum is the number of
-
-Hit Points you have when uninjured. Your current Hit Points can be any number from that maximum down to 0, which is the lowest Hit Points can go.
+Hit Points represent durability and the will to live. Creatures with more Hit Points are more difficult to kill. Your Hit Point maximum is the number of Hit Points you have when uninjured. Your current Hit Points can be any number from that maximum down to 0, which is the lowest Hit Points can go.
 
 Whenever you take damage, subtract it from your Hit Points. Hit Point loss has no effect on your capabilities until you reach 0 Hit Points.
 
@@ -817,7 +759,8 @@ For example, a creature has Resistance to all damage and Vulnerability to Fire d
 Some creatures and objects have Immunity to certain damage types and conditions. Immunity to a damage type means you don’t take damage of that type, and Immunity to a condition means you aren’t affected by it.
 
 ### Healing
-Hit Points can be restored by magic, such as the *Cure Wounds* or by a *Potion of Healing*,  spell or a Short or Long Rest (see “Rules Glossary”).
+
+Hit Points can be restored by magic, such as the *Cure Wounds* or by a *Potion of Healing*, spell or a Short or Long Rest (see “Rules Glossary”).
 
 When you receive healing, add the restored Hit Points to your current Hit Points. Your Hit Points can’t exceed your Hit Point maximum, so any Hit Points regained in excess of the maximum are lost. For example, if you receive 8 Hit Points of healing and have 14 Hit Points and a Hit Point maximum of 20, you regain 6 Hit Points, not 8.
 
@@ -845,7 +788,7 @@ If your character dies, others might find a magical way to revive your character
 
 #### Falling Unconscious
 
-If you reach 0 Hit Points and don’t die instantly, you have the Unconscious condition (see “Rules Glos- sary”) until you regain any Hit Points, and you now face making Death Saving Throws (see below).
+If you reach 0 Hit Points and don’t die instantly, you have the Unconscious condition (see "Rules Glossary") until you regain any Hit Points, and you now face making Death Saving Throws (see below).
 
 #### Death Saving Throws
 
