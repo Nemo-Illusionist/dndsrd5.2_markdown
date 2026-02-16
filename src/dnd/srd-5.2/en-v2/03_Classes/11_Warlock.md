@@ -10,7 +10,7 @@ Table: Core Warlock Traits
 | Skill Proficiencies        | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion               |
 | Weapon Proficiencies       | Simple weapons                                                                                       |
 | Armor Training             | Light armor                                                                                          |
-| Starting Equipment         | Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Ar cane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP |
+| Starting Equipment         | Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or (B) 100 GP |
 
 ### Becoming a Warlock …
 
@@ -225,7 +225,7 @@ When you cast *Find Familiar*, you infuse the summoned familiar with a measure o
 
 **Resistance.** When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
 
-#### **Lessons of the First Ones**
+#### Lessons of the First Ones
 
 *Prerequisite: Level 2+ Warlock*
 
@@ -309,7 +309,7 @@ You gain the Extra Attack feature for your pact weapon only. With that feature, 
 
 #### Visions of Distant Realms
 
-*Prerequisite: Level 9+ Warlock* 
+*Prerequisite: Level 9+ Warlock*
 
 You can cast *Arcane Eye* without expending a spell slot.
 
