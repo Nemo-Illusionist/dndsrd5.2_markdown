@@ -1950,7 +1950,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 **_Using a Higher-Level Spell Slot._** Use the spell slot's level for the spell's level in the stat block.
 
-> #### **Otherworldly Steed**
+> #### Otherworldly Steed
 >
 > *Large Celestial, Fey, or Fiend (Your Choice), Neutral*
 >
@@ -4088,7 +4088,7 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 >
 > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
-> #### Actions
+> ##### Actions
 >
 > **Slam.** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).
 
