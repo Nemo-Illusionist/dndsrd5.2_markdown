@@ -50,7 +50,6 @@ plugins:
             Как играть: Playing the Game
             Создание персонажа: Character Creation
             Классы: Classes
-            Обзор: Overview
             Варвар: Barbarian
             Бард: Bard
             Жрец: Cleric
@@ -96,7 +95,6 @@ nav:
           - Как играть: dnd/srd-5.2/01_PlayingTheGame.md
           - Создание персонажа: dnd/srd-5.2/02_CharacterCreation.md
           - Классы:
-              - Обзор: dnd/srd-5.2/03_Classes/00_Classes.md
               - Варвар: dnd/srd-5.2/03_Classes/01_Barbarian.md
               - Бард: dnd/srd-5.2/03_Classes/02_Bard.md
               - Жрец: dnd/srd-5.2/03_Classes/03_Cleric.md
