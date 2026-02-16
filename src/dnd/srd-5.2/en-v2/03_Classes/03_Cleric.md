@@ -28,7 +28,7 @@ Table: Core Cleric Traits
 
 As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
 
-Table: Cleric Class Features: ——Spell Slots per Spell Level—— 
+Table: Cleric Class Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------|-------------------|-----------------------------|------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
@@ -221,7 +221,7 @@ Table: Level 3 Cleric Spells
 | Tongues                | Divination    | —       |
 | Water Walk             | Transmutation | R       |
 
-#### Level 4 Cleric Spells
+Table: Level 4 Cleric Spells
 
 | Spell               | School        | Special |
 |---------------------|---------------|---------|
@@ -235,7 +235,7 @@ Table: Level 3 Cleric Spells
 | Locate Creature     | Divination    | C       |
 | Stone Shape         | Transmutation | —       |
 
-#### Level 5 Cleric Spells
+Table: Level 5 Cleric Spells
 
 | Spell                | School      | Special |
 |----------------------|-------------|---------|
@@ -253,7 +253,7 @@ Table: Level 3 Cleric Spells
 | Raise Dead           | Necromancy  | M       |
 | Scrying              | Divination  | C, M    |
 
-#### Level 6 Cleric Spells
+Table: Level 6 Cleric Spells
 
 | Spell          | School      | Special |
 |----------------|-------------|---------|
@@ -269,7 +269,7 @@ Table: Level 3 Cleric Spells
 | True Seeing    | Divination  | M       |
 | Word of Recall | Conjuration | —       |
 
-#### Level 7 Cleric Spells
+Table: Level 7 Cleric Spells
 
 | Spell             | School        | Special |
 |-------------------|---------------|---------|
@@ -282,7 +282,7 @@ Table: Level 3 Cleric Spells
 | Resurrection      | Necromancy    | M       |
 | Symbol            | Abjuration    | M       |
 
-#### Level 8 Cleric Spells
+Table: Level 8 Cleric Spells
 
 | Spell           | School        | Special |
 |-----------------|---------------|---------|
@@ -292,7 +292,7 @@ Table: Level 3 Cleric Spells
 | Holy Aura       | Abjuration    | C, M    |
 | Sunburst        | Evocation     | —       |
 
-#### Level 9 Cleric Spells
+Table: Level 9 Cleric Spells
 
 | Spell             | School      | Special |
 |-------------------|-------------|---------|
