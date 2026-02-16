@@ -10,7 +10,7 @@ Table: Core Ranger Traits
 | Skill Proficiencies        | Choose 3: Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, or Survival |
 | Weapon Proficiencies       | Simple and Martial weapons                                                                       |
 | Armor Training             | Light and Medium armor and Shields                                                               |
-| Starting Equipment         | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Ar rows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP |
+| Starting Equipment         | Choose A or B: (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 7 GP; or (B) 150 GP |
 
 ### Becoming a Ranger …
 
