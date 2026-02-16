@@ -11,7 +11,7 @@ Table: Core Bard Traits
 | Weapon Proficiencies          | Simple weapons                                                                                                               |
 | Tool Proficiencies            | Choose 3 Musical Instruments (see "Equipment")                                                                               |
 | Armor Training                | Light armor                                                                                                                  |
-| Starting Equipment            | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, En tertainer's Pack, and 19 GP; or (B) 90 GP |
+| Starting Equipment            | Choose A or B: (A) Leather Armor, 2 Daggers, Musical Instrument of your choice, Entertainer's Pack, and 19 GP; or (B) 90 GP |
 
 ### Becoming a Bard …
 
@@ -135,7 +135,7 @@ You gain an Epic Boon feat (see "Feats") or another feat of your choice for whic
 
 #### Level 20: Words of Creation
 
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the *Power Word Heal* and *Power Word Kill*  spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the *Power Word Heal* and *Power Word Kill* spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
 
 ### Bard Spell List
 
@@ -232,7 +232,6 @@ Table: Level 3 Bard Spells
 | Stinking Cloud    | Conjuration   | C       |
 | Tiny Hut          | Evocation     | R       |
 | Tongues           | Divination    | —       |
-|                   |               |         |
 
 Table: Level 4 Bard Spells
 
