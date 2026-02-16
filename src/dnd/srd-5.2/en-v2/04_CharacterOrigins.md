@@ -32,9 +32,9 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 #### Acolyte
 
-**Ability Scores:** Intelligence, Wisdom, Charisma 
+**Ability Scores:** Intelligence, Wisdom, Charisma
 
-**Feat:** Magic Initiate (Cleric) (see "Feats") 
+**Feat:** Magic Initiate (Cleric) (see "Feats")
 
 **Skill Proficiencies:** Insight and Religion
 
@@ -44,7 +44,7 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 #### Criminal
 
-**Ability Scores:** Dexterity, Constitution, Intelligence 
+**Ability Scores:** Dexterity, Constitution, Intelligence
 
 **Feat:** Alert (see "Feats")
 
@@ -56,9 +56,9 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 #### Sage
 
-**Ability Scores:** Constitution, Intelligence, Wisdom 
+**Ability Scores:** Constitution, Intelligence, Wisdom
 
-**Feat:** Magic Initiate (Wizard) (see "Feats") 
+**Feat:** Magic Initiate (Wizard) (see "Feats")
 
 **Skill Proficiencies:** Arcana and History
 
@@ -66,7 +66,7 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 **Equipment:** *Choose A or B:* (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
 
-## **Soldier**
+#### Soldier
 
 **Ability Scores:** Strength, Dexterity, Constitution
 
@@ -100,11 +100,11 @@ A character's species determines the character's creature type, which is describ
 
 Your character's species determines the character's size. Individuals within a species cover a wide range of heights, and some species include such diversity of size that you can choose whether your character is Small or Medium.
 
-#### **Speed**
+#### Speed
 
 Your character's species determines the character's Speed.
 
-#### **Special Traits**
+#### Special Traits
 
 Each species gives a character special traits unique characteristics based on the species' physiology or magical nature. When you choose a species, your character gets all the special traits listed for it. Some traits involve making a choice from a handful of options.
 
@@ -112,9 +112,9 @@ Each species gives a character special traits unique characteristics based on th
 
 #### Dragonborn
 
-**Creature Type:** Humanoid 
+**Creature Type:** Humanoid
 
-**Size:** Medium (about 5–7 feet tall) 
+**Size:** Medium (about 5–7 feet tall)
 
 **Speed:** 30 feet
 
@@ -127,7 +127,7 @@ Table: Draconic Ancestors
 | Dragon | Damage Type |
 |--------|-------------|
 | Black  | Acid        |
-| Blue   | Lightning   | 
+| Blue   | Lightning   |
 | Brass  | Fire        |
 | Bronze | Lightning   |
 | Copper | Acid        |
@@ -149,9 +149,9 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 #### Dwarf
 
-**Creature Type:** Humanoid 
+**Creature Type:** Humanoid
 
-**Size:** Medium (about 4–5 feet tall) 
+**Size:** Medium (about 4–5 feet tall)
 
 **Speed:** 30 feet
 
@@ -169,7 +169,7 @@ You can use this Bonus Action a number of times equal to your Proficiency Bonus,
 
 #### Elf
 
-**Creature Type:** Humanoid 
+**Creature Type:** Humanoid
 
 **Size:** Medium (about 5–6 feet tall)
 
@@ -201,7 +201,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 #### Gnome
 
-**Creature Type:** Humanoid 
+**Creature Type:** Humanoid
 
 **Size:** Small (about 3–4 feet tall)
 
@@ -221,7 +221,7 @@ As a Gnome, you have these special traits.
 
 #### Goliath
 
-**Creature Type:** Humanoid 
+**Creature Type:** Humanoid
 
 **Size:** Medium (about 7–8 feet tall)
 
@@ -249,9 +249,9 @@ As a Goliath, you have these special traits.
 
 #### Halfling
 
-**Creature Type:** Humanoid 
+**Creature Type:** Humanoid
 
-**Size:** Small (about 2–3 feet tall) 
+**Size:** Small (about 2–3 feet tall)
 
 **Speed:** 30 feet
 
@@ -283,7 +283,7 @@ As a Human, you have these special traits.
 
 #### Orc
 
-**Creature Type:** Humanoid 
+**Creature Type:** Humanoid
 
 **Size:** Medium (about 6–7 feet tall)
 
@@ -307,7 +307,7 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 
 **Speed:** 30 feet
 
-As a Tiefling, you have the following special traits. 
+As a Tiefling, you have the following special traits.
 
 **Darkvision.** You have Darkvision with a range of 60 feet.
 
