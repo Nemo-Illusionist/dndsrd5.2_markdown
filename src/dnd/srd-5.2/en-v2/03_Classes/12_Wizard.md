@@ -7,7 +7,7 @@ Table: Core Wizard Traits
 | Primary Ability            | Intelligence                                                                                         |
 | Hit Point Die              | D6 per Wizard level                                                                                  |
 | Saving Throw Proficiencies | Intelligence and Wisdom                                                                              |
-| Skill Proficiencies        | Choose 2: Arcana, History, In sight, Investigation, Medicine, Nature, or Religion                    |
+| Skill Proficiencies        | Choose 2: Arcana, History, Insight, Investigation, Medicine, Nature, or Religion                     |
 | Weapon Proficiencies       | Simple weapons                                                                                       |
 | Armor Training             | None                                                                                                 |
 | Starting Equipment         | Choose A or B: (A) 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 5 GP; or (B) 55 GP |
@@ -28,7 +28,7 @@ Table: Core Wizard Traits
 
 As a Wizard, you gain the following class features when you reach the specified Wizard levels. These features are listed in the Wizard Features table.
 
-Table: Wizard Features: ——Spell Slots per Spell Level—— 
+Table: Wizard Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features                                 | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------|-------------------|------------------------------------------------|----------|-----------------|---|---|---|---|---|---|---|---|---|
@@ -100,11 +100,11 @@ While studying magic, you also specialized in another field of study. Choose one
 You gain a Wizard subclass of your choice. The Evoker subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass's features that are of your Wizard level or lower.
 
 > ### Expanding and Replacing a Spellbook
-> 
+>
 > The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a *Spell Scroll*, for example, and then copy it into your spellbook.
 >
 > **Copying a Spell into the Book.** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
-> 
+>
 > **Copying the Book.** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
 >
 > If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
@@ -168,7 +168,7 @@ Table: Level 1 Wizard Spells
 | Detect Magic                  | Divination    | C, R    |
 | Disguise Self                 | Illusion      | —       |
 | Expeditious Retreat           | Transmutation | C       |
-| False Life                    | Necromancy    | –       |
+| False Life                    | Necromancy    | —       |
 | Feather Fall                  | Transmutation | —       |
 | Find Familiar                 | Conjuration   | R, M    |
 | Floating Disk                 | Conjuration   | R       |
