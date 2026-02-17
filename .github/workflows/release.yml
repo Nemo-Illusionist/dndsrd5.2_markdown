@@ -16,7 +16,7 @@ jobs:
       - name: Build combined RU document
         uses: ./.github/actions/build-markdown
         with:
-          source-dir: src/dnd/srd-5.2/ru-v2
+          source-dir: src/dnd/srd-5.2/ru
           output-file: DND-SRD-5.2.1-RU.md
 
       - name: Build combined EN document

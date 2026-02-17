@@ -35,7 +35,7 @@ jobs:
         run: |
           mkdir -p docs/ru/dnd/srd-5.2/03_Classes
           mkdir -p docs/en/dnd/srd-5.2/03_Classes
-          cp -r src/dnd/srd-5.2/ru-v2/* docs/ru/dnd/srd-5.2/
+          cp -r src/dnd/srd-5.2/ru/* docs/ru/dnd/srd-5.2/
           cp -r src/dnd/srd-5.2/en-v2/* docs/en/dnd/srd-5.2/
 
       - name: Build site
