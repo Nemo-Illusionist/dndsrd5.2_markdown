@@ -31,6 +31,12 @@ jobs:
           source-dir: src/dnd/srd-5.1/en
           output-file: DND-SRD-5.1-EN.md
 
+      - name: Build Converting to SRD 5.2.1 document
+        uses: ./.github/actions/build-markdown
+        with:
+          source-dir: src/dnd/converting-srd-5.2/en
+          output-file: Converting-to-SRD-5.2.1.md
+
       - name: Install pandoc and LaTeX
         run: |
           sudo apt-get update
@@ -60,6 +66,14 @@ jobs:
           lang: en
           toc-title: "Table of Contents"
 
+      - name: Convert Converting to SRD 5.2.1 to PDF
+        uses: ./.github/actions/build-pdf
+        with:
+          input-file: Converting-to-SRD-5.2.1.md
+          output-file: Converting-to-SRD-5.2.1.pdf
+          lang: en
+          toc-title: "Table of Contents"
+
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
@@ -76,6 +90,10 @@ jobs:
             ## SRD 5.1
             - `DND-SRD-5.1-EN.md` — Markdown (English)
             - `DND-SRD-5.1-EN.pdf` — PDF (English)
+
+            ## Converting to SRD 5.2.1
+            - `Converting-to-SRD-5.2.1.md` — Markdown (English)
+            - `Converting-to-SRD-5.2.1.pdf` — PDF (English)
           files: |
             DND-SRD-5.2.1-RU.md
             DND-SRD-5.2.1-RU.pdf
@@ -83,5 +101,7 @@ jobs:
             DND-SRD-5.2.1-EN.pdf
             DND-SRD-5.1-EN.md
             DND-SRD-5.1-EN.pdf
+            Converting-to-SRD-5.2.1.md
+            Converting-to-SRD-5.2.1.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

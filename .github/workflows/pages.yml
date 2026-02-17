@@ -41,6 +41,9 @@ jobs:
           mkdir -p docs/ru/dnd/srd-5.1/06_Classes
           cp -r src/dnd/srd-5.1/en/* docs/en/dnd/srd-5.1/
           cp -r src/dnd/srd-5.1/en/* docs/ru/dnd/srd-5.1/
+          mkdir -p docs/en/dnd/converting-srd-5.2 docs/ru/dnd/converting-srd-5.2
+          cp src/dnd/converting-srd-5.2/en/* docs/en/dnd/converting-srd-5.2/
+          cp src/dnd/converting-srd-5.2/en/* docs/ru/dnd/converting-srd-5.2/
 
       - name: Build site
         run: mkdocs build --strict
