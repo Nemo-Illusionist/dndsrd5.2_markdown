@@ -9,7 +9,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 19 (3d8 + 6)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -39,7 +39,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 168 (16d12 + 64)
 - **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +5 (15)
+- **Initiative:** +5 (15)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -60,7 +60,7 @@
 
 ***Fist.*** *Melee Attack Roll:* +9, reach 10 ft. 22 (3d10 + 6) Bludgeoning damage.
 
-***Boulder Toss (Recharge 6).*** The ape hurls a boulder at a point it can see within 90 feet. *Dexterity Saving Throw*: DC 17, each creature in a 5-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on that point. *Failure:*  24 (7d6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. *Success:*  Half damage only.
+***Boulder Toss (Recharge 6).*** The ape hurls a boulder at a point it can see within 90 feet. *Dexterity Saving Throw*: DC 17, each creature in a 5-foot-radius Sphere [Area of Effect]|XPHB|Sphere centered on that point. *Failure:* 24 (7d6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. *Success:* Half damage only.
 
 #### Bonus Actions
 
@@ -75,7 +75,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 3 (1d6)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -106,7 +106,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 5 (1d4 + 3)
 - **Speed:** 20 ft., Burrow 5 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -133,7 +133,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 15 (2d8 + 6)
 - **Speed:** 30 ft., Burrow 10 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -162,7 +162,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 5 ft., Fly 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -187,7 +187,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 22 (4d10)
 - **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -212,7 +212,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 11 (2d10)
 - **Speed:** 5 ft., Fly 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -245,7 +245,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d8 + 6)
 - **Speed:** 30 ft., Climb 30 ft., Swim 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -273,7 +273,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 22 (3d10 + 6)
 - **Speed:** 40 ft., Climb 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -303,7 +303,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 42 (5d10 + 15)
 - **Speed:** 40 ft., Swim 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -334,7 +334,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 13 (2d8 + 4)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -363,7 +363,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 42 (5d10 + 15)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -394,7 +394,7 @@
 - **Armor Class:** 10
 - **Hit Points:** 17 (2d10 + 6)
 - **Speed:** 50 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -419,7 +419,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 2 (1d4)
 - **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -451,7 +451,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 3 (1d4 + 1)
 - **Speed:** 20 ft., Swim 20 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -481,7 +481,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 13 (3d8)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -513,7 +513,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 13 (2d10 + 2)
 - **Speed:** 20 ft., Swim 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -543,7 +543,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 85 (9d12 + 27)
 - **Speed:** 30 ft., Swim 50 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -579,7 +579,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 4 (1d8)
 - **Speed:** 50 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -611,7 +611,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 51 (6d10 + 18)
 - **Speed:** 60 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -639,7 +639,7 @@
 - **Armor Class:** 15
 - **Hit Points:** 68 (8d12 + 16)
 - **Speed:** 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -666,7 +666,7 @@
 - **Armor Class:** 17
 - **Hit Points:** 90 (12d12 + 12)
 - **Speed:** 20 ft., Swim 80 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -698,7 +698,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 68 (8d10 + 24)
 - **Speed:** 20 ft., Swim 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -728,7 +728,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 13 (3d8)
 - **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -758,7 +758,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 114 (12d12 + 36)
 - **Speed:** 50 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -785,7 +785,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 136 (13d12 + 52)
 - **Speed:** 50 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -817,7 +817,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 4 (1d6 + 1)
 - **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -843,7 +843,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 10 ft., Fly 80 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -875,7 +875,7 @@
 - **Armor Class:** 12
 - **Hit Points:** 76 (8d12 + 24)
 - **Speed:** 40 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -897,7 +897,7 @@
 
 #### Bonus Actions
 
-***Trample.*** *Dexterity Saving Throw*: DC 16, one creature within 5 feet that has the Prone condition. *Failure:*  17 (2d10 + 6) Bludgeoning damage. *Success:*  Half damage.
+***Trample.*** *Dexterity Saving Throw*: DC 16, one creature within 5 feet that has the Prone condition. *Failure:* 17 (2d10 + 6) Bludgeoning damage. *Success:* Half damage.
 
 ### Mammoth
 
@@ -906,7 +906,7 @@
 - **Armor Class:** 13
 - **Hit Points:** 126 (11d12 + 55)
 - **Speed:** 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -928,7 +928,7 @@
 
 #### Bonus Actions
 
-***Trample.*** *Dexterity Saving Throw*: DC 18, one creature within 5 feet that has the Prone condition. *Failure:*  29 (4d10 + 7) Bludgeoning damage. *Success:*  Half damage.
+***Trample.*** *Dexterity Saving Throw*: DC 18, one creature within 5 feet that has the Prone condition. *Failure:* 29 (4d10 + 7) Bludgeoning damage. *Success:* Half damage.
 
 ## Animals: Elks
 
@@ -939,7 +939,7 @@
 - **Armor Class:** 10
 - **Hit Points:** 11 (2d10)
 - **Speed:** 50 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -965,7 +965,7 @@
 - **Armor Class:** 14
 - **Hit Points:** 42 (5d12 + 10)
 - **Speed:** 60 ft.
-- **Initiative**: +6 (16)
+- **Initiative:** +6 (16)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -995,7 +995,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 20 ft., Swim 20 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1027,7 +1027,7 @@
 - **Armor Class:** 11
 - **Hit Points:** 18 (4d8)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1062,7 +1062,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 39 (6d10 + 6)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1097,7 +1097,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 9 (2d6 + 2)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1122,7 +1122,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 4 (1d6 + 1)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1152,7 +1152,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 22 (5d8)
 - **Speed:** 10 ft., Fly 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1183,7 +1183,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 40 ft., Climb 30 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1209,7 +1209,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 4 (1d8)
 - **Speed:** 40 ft., Climb 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1237,7 +1237,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 82 (11d10 + 22)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: -2 (8)
+- **Initiative:** -2 (8)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1271,7 +1271,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 7 (2d6)
 - **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1301,7 +1301,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1329,7 +1329,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 15 (2d10 + 4)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1354,7 +1354,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1383,7 +1383,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1408,7 +1408,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 13 (2d10 + 2)
 - **Speed:** 60 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1433,7 +1433,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 60 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1460,7 +1460,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1490,7 +1490,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 5 (1d8 + 1)
 - **Speed:** 50 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1522,7 +1522,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 3 (1d6)
 - **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1550,7 +1550,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 90 (12d12 + 12)
 - **Speed:** 5 ft., Swim 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1582,7 +1582,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 22 (4d10)
 - **Speed:** 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1609,7 +1609,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Rend.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Slashing damage.
 
-***Roar.*** *Wisdom Saving Throw*: DC 11, one creature within 15 feet. *Failure:*  The target has the Frightened condition until the start of the lion's next turn.
+***Roar.*** *Wisdom Saving Throw*: DC 11, one creature within 15 feet. *Failure:* The target has the Frightened condition until the start of the lion's next turn.
 
 ## Animals: Lizards
 
@@ -1620,7 +1620,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1649,7 +1649,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 2 (1d4)
 - **Speed:** 20 ft., Climb 20 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1680,7 +1680,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 5 (1d8 + 1)
 - **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1708,7 +1708,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 45 (7d10 + 7)
 - **Speed:** 10 ft., Swim 60 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1738,7 +1738,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 3 (1d6)
 - **Speed:** 5 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1752,7 +1752,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Skills**: Perception +2, Stealth +6
 - **Senses**: darkvision 30 ft.; Passive Perception 12
 - **Languages**: None
-- **CR** 0 (XP 0 10; PB +2)
+- **CR** 0 (XP 0 or 10; PB +2)
 
 #### Traits
 
@@ -1777,7 +1777,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 19 (3d10 + 3)
 - **Speed:** 5 ft., Fly 60 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1806,6 +1806,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 - **At Will:** *Detect Evil and Good*, *Detect Magic*
 - **1/Day Each:** *Clairvoyance*
+
 ### Owl
 
 *Small Beast, Unaligned*
@@ -1813,7 +1814,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 5 ft., Fly 60 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1845,7 +1846,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 13 (3d8)
 - **Speed:** 50 ft., Climb 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1877,7 +1878,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 5 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1906,7 +1907,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 28 (8d8 - 8)
 - **Speed:** 5 ft., Swim 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1941,7 +1942,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 40 ft.
-- **Initiative**: -1 (9)
+- **Initiative:** -1 (9)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1968,7 +1969,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 7 (2d6)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -1998,7 +1999,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 20 ft., Climb 20 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2028,7 +2029,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 14 (4d8 - 4)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2061,7 +2062,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 2 (1d4)
 - **Speed:** 10 ft., Fly 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2091,7 +2092,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 10 ft., Fly 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2116,7 +2117,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Beaks.*** *Melee Attack Roll:* +4, reach 5 ft. 5 (1d6 + 2) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
 
-***Cacophony (Recharge 6).*** *Wisdom Saving Throw*: DC 10, one creature in the swarm's space. *Failure:*  The target has the Deafened condition until the start of the swarm's next turn. While Deafened, the target also has Disadvantage on ability checks and attack rolls.
+***Cacophony (Recharge 6).*** *Wisdom Saving Throw*: DC 10, one creature in the swarm's space. *Failure:* The target has the Deafened condition until the start of the swarm's next turn. While Deafened, the target also has Disadvantage on ability checks and attack rolls.
 
 ## Animals: S
 
@@ -2127,7 +2128,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 19 (3d8 + 6)
 - **Speed:** 20 ft., Choose ? ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2162,7 +2163,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 15
 - **Hit Points:** 52 (7d10 + 14)
 - **Speed:** 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2191,7 +2192,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 11
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 10 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2218,7 +2219,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 16 (3d10)
 - **Speed:** 5 ft., Swim 40 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2251,7 +2252,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 5 ft., Swim 20 ft.
-- **Initiative**: +1 (11)
+- **Initiative:** +1 (11)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2283,7 +2284,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 92 (8d12 + 40)
 - **Speed:** 5 ft., Swim 60 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2315,7 +2316,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 5 ft., Swim 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2345,7 +2346,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 5 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2379,7 +2380,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 13 (2d10 + 2)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2398,7 +2399,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. 6 (1d8 + 2) Piercing damage.
 
-***Constrict.*** *Strength Saving Throw*: DC 12, one Medium or smaller creature the snake can see within 5 feet. *Failure:*  7 (3d4) Bludgeoning damage, and the target has the Grappled condition (escape DC 12).
+***Constrict.*** *Strength Saving Throw*: DC 12, one Medium or smaller creature the snake can see within 5 feet. *Failure:* 7 (3d4) Bludgeoning damage, and the target has the Grappled condition (escape DC 12).
 
 ### Flying Snake
 
@@ -2407,7 +2408,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 5 (2d4)
 - **Speed:** 30 ft., Fly 60 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2436,7 +2437,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 60 (8d12 + 8)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2457,7 +2458,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Bite.*** *Melee Attack Roll:* +6, reach 10 ft. 11 (2d6 + 4) Piercing damage.
 
-***Constrict.*** *Strength Saving Throw*: DC 14, one Large or smaller creature the snake can see within 10 feet. *Failure:*  13 (2d8 + 4) Bludgeoning damage, and the target has the Grappled condition (escape DC 14).
+***Constrict.*** *Strength Saving Throw*: DC 14, one Large or smaller creature the snake can see within 10 feet. *Failure:* 13 (2d8 + 4) Bludgeoning damage, and the target has the Grappled condition (escape DC 14).
 
 ### Giant Venomous Snake
 
@@ -2466,7 +2467,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft., Swim 40 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2492,7 +2493,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 36 (8d8)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +4 (14)
+- **Initiative:** +4 (14)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2523,7 +2524,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 5 (2d4)
 - **Speed:** 30 ft., Swim 30 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2550,7 +2551,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 26 (4d10 + 4)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2575,7 +2576,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage.
 
-***Web (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, one creature the spider can see within 60 feet. *Failure:*  The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
+***Web (Recharge 5-6).*** *Dexterity Saving Throw*: DC 13, one creature the spider can see within 60 feet. *Failure:* The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
 
 ### Giant Wolf Spider
 
@@ -2584,7 +2585,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft., Climb 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2614,7 +2615,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 20 ft., Climb 20 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2648,7 +2649,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 52 (7d10 + 14)
 - **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2684,7 +2685,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 30 (4d10 + 8)
 - **Speed:** 40 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2716,7 +2717,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 25 (3d10 + 9)
 - **Speed:** 10 ft., Fly 60 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2748,7 +2749,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 10
 - **Hit Points:** 5 (1d8 + 1)
 - **Speed:** 10 ft., Fly 50 ft.
-- **Initiative**: +0 (10)
+- **Initiative:** +0 (10)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2780,7 +2781,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 9 (2d8)
 - **Speed:** 40 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2806,7 +2807,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 13
 - **Hit Points:** 1 (1d4 - 1)
 - **Speed:** 30 ft., Climb 30 ft.
-- **Initiative**: +3 (13)
+- **Initiative:** +3 (13)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2834,7 +2835,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 14
 - **Hit Points:** 22 (3d10 + 6)
 - **Speed:** 50 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
@@ -2864,7 +2865,7 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 - **Armor Class:** 12
 - **Hit Points:** 11 (2d8 + 2)
 - **Speed:** 40 ft.
-- **Initiative**: +2 (12)
+- **Initiative:** +2 (12)
 
 |STAT|SCORE|MOD|SAVE|
 | --- | --- | --- | ---- |
