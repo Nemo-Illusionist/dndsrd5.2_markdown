@@ -60,7 +60,7 @@ A monster's Armor Class (AC) includes its natural armor, Dexterity, gear, and ot
 
 The Initiative entry specifies the monster's Initiative modifier followed by the monster's Initiative score in parentheses. Use the modifier when you roll to determine a monster's Initiative. A monster's Initiative modifier is typically equal to its Dexterity modifier, but some monsters have additional modifiers, such as Proficiency Bonus, applied to that number.
 
-If you don't want to roll a monster's Initiative, use the Initiative score as the monster's Initiative in combat. Initiative is further detailed in "Playing the Game*."*
+If you don't want to roll a monster's Initiative, use the Initiative score as the monster's Initiative in combat. Initiative is further detailed in "Playing the Game."
 
 ### Hit Points
 
@@ -81,15 +81,15 @@ Table: Hit Dice by Size
 
 A monster's Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its Hit Points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 Hit Points (average 11).
 
-For more on Hit Points, see "Playing the Game*."*
+For more on Hit Points, see "Playing the Game."
 
 ### Speed
 
-The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: Burrow, Climb, Fly, Swim. Rules for Speed and these specials speeds appear in "Rules Glossary*."*
+The Speed entry specifies a monster's Speed. Some monsters have one or more of the following speeds: Burrow, Climb, Fly, Swim. Rules for Speed and these specials speeds appear in "Rules Glossary."
 
 ### Ability Scores
 
-Every monster has six ability scores along with corresponding ability score modifiers and saving throw modifiers. For more information on ability scores and saving throws, see "Playing the Game*."*
+Every monster has six ability scores along with corresponding ability score modifiers and saving throw modifiers. For more information on ability scores and saving throws, see "Playing the Game."
 
 ### Skills
 
@@ -102,7 +102,7 @@ These entries list a monster's Resistances and Vulnerabilities, if any. See "Pla
 > ### Running a Monster
 >
 > To ensure a monster acts in accordance with its Challenge Rating, follow these rules during combat:
-> 
+>
 > - **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.
 > - **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.
 > - **Bonus Actions, Reactions, Legendary Actions.** If the monster has Bonus Actions, Reactions, or Legendary Actions in its stat block, make sure it uses them as often as it can.
