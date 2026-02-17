@@ -78,6 +78,14 @@ plugins:
             "Магические предметы (справочник)": "Magic Items (Reference)"
             "Монстры (справочник)": "Monsters (Reference)"
             "Животные (справочник)": "Animals (Reference)"
+            Способности: Abilities
+            Приключения: Adventuring
+            Бой: Combat
+            Расы: Races
+            Детали персонажа: Character Details
+            Мультиклассирование: Multiclassing
+            Состояния: Conditions
+            Инструментарий мастера: Gamemastering Toolbox
   - search:
       lang:
         - ru
@@ -129,3 +137,32 @@ nav:
               - Магические предметы (справочник): dnd/srd-5.2/14_Glossary/03_MagicItems.md
               - Монстры (справочник): dnd/srd-5.2/14_Glossary/04_Monsters.md
               - Животные (справочник): dnd/srd-5.2/14_Glossary/05_Animals.md
+      - SRD 5.1:
+          - Правовая информация: dnd/srd-5.1/00_Legal.md
+          - Способности: dnd/srd-5.1/01_Abilities.md
+          - Приключения: dnd/srd-5.1/02_Adventuring.md
+          - Бой: dnd/srd-5.1/03_Combat.md
+          - Расы: dnd/srd-5.1/04_Races.md
+          - Детали персонажа: dnd/srd-5.1/05_CharacterDetails.md
+          - Классы:
+              - Варвар: dnd/srd-5.1/06_Classes/01_Barbarian.md
+              - Бард: dnd/srd-5.1/06_Classes/02_Bard.md
+              - Жрец: dnd/srd-5.1/06_Classes/03_Cleric.md
+              - Друид: dnd/srd-5.1/06_Classes/04_Druid.md
+              - Воин: dnd/srd-5.1/06_Classes/05_Fighter.md
+              - Монах: dnd/srd-5.1/06_Classes/06_Monk.md
+              - Паладин: dnd/srd-5.1/06_Classes/07_Paladin.md
+              - Следопыт: dnd/srd-5.1/06_Classes/08_Ranger.md
+              - Плут: dnd/srd-5.1/06_Classes/09_Rogue.md
+              - Чародей: dnd/srd-5.1/06_Classes/10_Sorcerer.md
+              - Колдун: dnd/srd-5.1/06_Classes/11_Warlock.md
+              - Волшебник: dnd/srd-5.1/06_Classes/12_Wizard.md
+          - Мультиклассирование: dnd/srd-5.1/07_Multiclassing.md
+          - Черты: dnd/srd-5.1/08_Feats.md
+          - Снаряжение: dnd/srd-5.1/09_Equipment.md
+          - Заклинания: dnd/srd-5.1/10_Spells.md
+          - Состояния: dnd/srd-5.1/11_Conditions.md
+          - Инструментарий мастера: dnd/srd-5.1/12_GamemasteringToolbox.md
+          - Магические предметы: dnd/srd-5.1/13_MagicItems.md
+          - Монстры: dnd/srd-5.1/14_Monsters.md
+          - "Монстры от А до Я": dnd/srd-5.1/15_MonstersA-Z.md

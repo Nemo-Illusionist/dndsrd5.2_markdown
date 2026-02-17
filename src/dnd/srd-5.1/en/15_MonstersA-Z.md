@@ -9208,8 +9208,6 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 ***Bite***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 7 (1d6+4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
-[Nightmare](new/Nightmare.md)
-
 ## Sprite
 
 *Tiny fey, neutral good*

@@ -25,6 +25,12 @@ jobs:
           source-dir: src/dnd/srd-5.2/en
           output-file: DND-SRD-5.2.1-EN.md
 
+      - name: Build combined SRD 5.1 EN document
+        uses: ./.github/actions/build-markdown
+        with:
+          source-dir: src/dnd/srd-5.1/en
+          output-file: DND-SRD-5.1-EN.md
+
       - name: Install pandoc and LaTeX
         run: |
           sudo apt-get update
@@ -46,22 +52,36 @@ jobs:
           lang: en
           toc-title: "Table of Contents"
 
+      - name: Convert SRD 5.1 EN to PDF
+        uses: ./.github/actions/build-pdf
+        with:
+          input-file: DND-SRD-5.1-EN.md
+          output-file: DND-SRD-5.1-EN.pdf
+          lang: en
+          toc-title: "Table of Contents"
+
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
-          name: "D&D SRD 5.2.1 — RU + EN ${{ github.ref_name }}"
+          name: "D&D SRD — RU + EN ${{ github.ref_name }}"
           body: |
-            D&D System Reference Document 5.2.1
+            D&D System Reference Documents
 
-            ## Скачать / Download
+            ## SRD 5.2.1
             - `DND-SRD-5.2.1-RU.md` — Markdown (русский)
             - `DND-SRD-5.2.1-RU.pdf` — PDF (русский)
             - `DND-SRD-5.2.1-EN.md` — Markdown (English)
             - `DND-SRD-5.2.1-EN.pdf` — PDF (English)
+
+            ## SRD 5.1
+            - `DND-SRD-5.1-EN.md` — Markdown (English)
+            - `DND-SRD-5.1-EN.pdf` — PDF (English)
           files: |
             DND-SRD-5.2.1-RU.md
             DND-SRD-5.2.1-RU.pdf
             DND-SRD-5.2.1-EN.md
             DND-SRD-5.2.1-EN.pdf
+            DND-SRD-5.1-EN.md
+            DND-SRD-5.1-EN.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
