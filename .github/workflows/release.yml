@@ -22,7 +22,7 @@ jobs:
       - name: Build combined EN document
         uses: ./.github/actions/build-markdown
         with:
-          source-dir: src/dnd/srd-5.2/en-v2
+          source-dir: src/dnd/srd-5.2/en
           output-file: DND-SRD-5.2.1-EN.md
 
       - name: Install pandoc and LaTeX
