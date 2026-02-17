@@ -9,6 +9,7 @@
 - [SRD 5.2.1](https://www.dndbeyond.com/srd) — System Reference Document 5.2.1 от Wizards of the Coast LLC, лицензия [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 - [dndsrd5.2_markdown](https://github.com/springbov/dndsrd5.2_markdown) — английская версия SRD 5.2 в формате Markdown
 - [dndsrd5.2_markdown (yuvalsapir)](https://github.com/yuvalsapir/dndsrd5.2_markdown) — обновления до версии 5.2.1
+- [DND.SRD.Wiki](https://github.com/oldmanumby/DND.SRD.Wiki) — SRD 5.1 в формате Markdown (wiki)
 - [dnd-5e-srd-markdown](https://github.com/downfallx/dnd-5e-srd-markdown) — недостающие статблоки драконов
 - [Lazy GM Tools](https://github.com/mshea/lazy_gm_tools) / [slyflourish.com](https://slyflourish.com/) — данные о монстрах
 
