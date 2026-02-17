@@ -1416,13 +1416,13 @@ Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 | 51–55 | You have the Stunned condition until the end of your next turn, believing something awesome just happened.      |
 | 56–60 | A harmless swarm of butterflies fills a 10-foot Cube within 30 feet of yourself. The swarm disperses after 1 minute.       |
 | 61–65 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a vial of Acid; on a **2**, a flask of Alchemist's Fire; on a **3**, a Crowbar; on a **4**, a lit Torch. |
-| 66–70 | TreeYou suffer a bout of "magic sickness" and have the Poisoned condition for 1 hour.      |
+| 66–70 | You suffer a bout of "magic sickness" and have the Poisoned condition for 1 hour.      |
 | 71–75 | You have the Petrified condition until the end of your next turn.      |
-| 76-80 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a Dagger; on a **2**, a Rope with a Grappling Hook tied to one end; on a **3**, a bag of Caltrops; on a **4**, a gem worth 50 GP. |
-| 81-85 | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a **1**, a **Camel**; on a **2**, a **Constrictor Snake**; on a **3**, an **Elephant**; on a **4**, a **Mule**.|
-| 86-90 | A Hostile **Swarm of Bats** flies out of the hat, occupies your space, and attacks you. |
-| 91-95 | A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The GM determines where it leads. |
-| 96-00 | You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a **1–3**, Common; on a **4–5**, Uncommon; on a **6**, Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.|
+| 76–80 | You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a Dagger; on a **2**, a Rope with a Grappling Hook tied to one end; on a **3**, a bag of Caltrops; on a **4**, a gem worth 50 GP. |
+| 81–85 | A creature appears in an unoccupied space as close to you as possible. The creature isn't under your control and acts as it normally would, and it disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine the creature: on a **1**, a **Camel**; on a **2**, a **Constrictor Snake**; on a **3**, an **Elephant**; on a **4**, a **Mule**.|
+| 86–90 | A Hostile **Swarm of Bats** flies out of the hat, occupies your space, and attacks you. |
+| 91–95 | A vertical, 10-foot-diameter, two-way portal to another plane of existence opens in an unoccupied space within 30 feet of you and remains open until the end of your next turn. The GM determines where it leads. |
+| 96–00 | You pull a magic item out of the hat. Roll 1d6 to determine the item's rarity: on a **1–3**, Common; on a **4–5**, Uncommon; on a **6**, Rare. The GM chooses the item, which disappears after 1 hour if it's not consumed or destroyed before then.|
 
 #### Headband of Intellect
 
@@ -2462,7 +2462,7 @@ In addition, the robe has 4d4 other patches. The GM chooses the patches or deter
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01–08 | Bag of 100 GP                                                                                                                                           |
 | 09–15 | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 GP                                                                                        |
-| 16–22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it con forms to fit the opening, attaching and hinging itself |
+| 16–22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23–30 | 10 gems worth 100 GP each                                                                                                                               |
 | 31–44 | Wooden ladder (24 feet long)                                                                                                                            |
 | 45–51 | Riding Horse with a Riding Saddle                                                                                                                       |
@@ -2706,7 +2706,7 @@ This staff has 10 charges. While holding the staff, you can use any of its prope
 
 **Cast Spell.** You can expend 1 of the staff's charges to cast *Charm Person*, *Command*, or *Comprehend Languages* from it using your spell save DC.
 
-**Reflect Enchantment.*** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
+**Reflect Enchantment.** If you succeed on a saving throw against an Enchantment spell that targets only you, you can take a Reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
 
 **Resist Enchantment.** If you fail a saving throw against an Enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn.
 
