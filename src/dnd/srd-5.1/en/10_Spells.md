@@ -1231,7 +1231,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 ### Acid Arrow
 
-*2nd-level evocation*
+*2nd-level evocation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1247,7 +1247,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 ### Acid Splash
 
-*Conjuration cantrip*
+*Conjuration cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1263,7 +1263,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 ### Aid
 
-*2nd-level abjuration*
+*2nd-level abjuration (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -1279,7 +1279,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 ### Alarm
 
-*1st-level abjuration (ritual)*
+*1st-level abjuration (ritual) (Ranger, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -1297,7 +1297,7 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 
 ### Alter Self
 
-*2nd-level transmutation*
+*2nd-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1317,7 +1317,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 ### Animal Friendship
 
-*1st-level enchantment*
+*1st-level enchantment (Bard, Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -1333,7 +1333,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 ### Animal Messenger
 
-*2nd-level enchantment (ritual)*
+*2nd-level enchantment (ritual) (Bard, Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -1351,7 +1351,7 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 ### Animal Shapes
 
-*8th-level transmutation*
+*8th-level transmutation (Druid)*
 
 **Casting Time:** 1 action
 
@@ -1369,7 +1369,7 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 
 ### Animate Dead
 
-*3rd-level necromancy*
+*3rd-level necromancy (Cleric, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -1389,7 +1389,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 ### Animate Objects
 
-*5th-level transmutation*
+*5th-level transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1423,7 +1423,7 @@ If you command an object to attack, it can make a single melee attack against a 
 
 ### Antilife Shell
 
-*5th-level abjuration*
+*5th-level abjuration (Druid)*
 
 **Casting Time:** 1 action
 
@@ -1441,7 +1441,7 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 ### Antimagic Field
 
-*8th-level abjuration*
+*8th-level abjuration (Cleric, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1473,7 +1473,7 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 ### Antipathy/Sympathy
 
-*8th-level enchantment*
+*8th-level enchantment (Druid, Wizard)*
 
 **Casting Time:** 1 hour
 
@@ -1497,7 +1497,7 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ### Arcane Eye
 
-*4th-level divination*
+*4th-level divination (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1515,7 +1515,7 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 ### Arcane Hand
 
-*5th-level evocation*
+*5th-level evocation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1545,7 +1545,7 @@ Make a check with the hand's Strength contested by the Strength (Athletics) chec
 
 ### Arcane Lock
 
-*2nd-level abjuration*
+*2nd-level abjuration (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1561,7 +1561,7 @@ While affected by this spell, the object is more difficult to break or force ope
 
 ### Arcane Sword
 
-*7th-level evocation*
+*7th-level evocation (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1577,7 +1577,7 @@ When the sword appears, you make a melee spell attack against a target of your c
 
 ### Arcanist's Magic Aura
 
-*2nd-level illusion*
+*2nd-level illusion (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1597,7 +1597,7 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 ### Astral Projection
 
-*9th-level necromancy*
+*9th-level necromancy (Cleric, Warlock, Wizard)*
 
 **Casting Time:** 1 hour
 
@@ -1621,7 +1621,7 @@ If you are returned to your body prematurely, your companions remain in their as
 
 ### Augury
 
-*2nd-level divination (ritual)*
+*2nd-level divination (ritual) (Cleric)*
 
 **Casting Time:** 1 minute
 
@@ -1644,7 +1644,7 @@ If you cast the spell two or more times before completing your next long rest, t
 
 ### Awaken
 
-*5th-level transmutation*
+*5th-level transmutation (Bard, Druid)*
 
 **Casting Time:** 8 hours
 
@@ -1660,7 +1660,7 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 
 ### Bane
 
-*1st-level enchantment*
+*1st-level enchantment (Bard, Cleric)*
 
 **Casting Time:** 1 action
 
@@ -1676,7 +1676,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 ### Banishment
 
-*4th-level abjuration*
+*4th-level abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1696,7 +1696,7 @@ If the target is native to a different plane of existence than the one you're on
 
 ### Barkskin
 
-*2nd-level transmutation*
+*2nd-level transmutation (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -1710,7 +1710,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 ### Beacon of Hope
 
-*3rd-level abjuration*
+*3rd-level abjuration (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -1724,7 +1724,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 ### Bestow Curse
 
-*3rd-level necromancy*
+*3rd-level necromancy (Bard, Cleric, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1747,7 +1747,7 @@ A *remove curse* spell ends this effect. At the GM's option, you may choose an a
 
 ### Black Tentacles
 
-*4th-level conjuration*
+*4th-level conjuration (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1765,7 +1765,7 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 
 ### Blade Barrier
 
-*6th-level evocation*
+*6th-level evocation (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -1781,7 +1781,7 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 ### Bless
 
-*1st-level enchantment*
+*1st-level enchantment (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -1797,7 +1797,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 ### Blight
 
-*4th-level necromancy*
+*4th-level necromancy (Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1817,7 +1817,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 ### Blindness/Deafness
 
-*2nd-level necromancy*
+*2nd-level necromancy (Bard, Cleric, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1833,7 +1833,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 ### Blink
 
-*3rd-level transmutation*
+*3rd-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1849,7 +1849,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 ### Blur
 
-*2nd-level illusion*
+*2nd-level illusion (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1863,7 +1863,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 ### Branding Smite
 
-*2nd-level evocation*
+*2nd-level evocation (Paladin)*
 
 **Casting Time:** 1 bonus action
 
@@ -1879,7 +1879,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 ### Burning Hands
 
-*1st-level evocation*
+*1st-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1897,7 +1897,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 ### Call Lightning
 
-*3rd-level conjuration*
+*3rd-level conjuration (Druid)*
 
 **Casting Time:** 1 action
 
@@ -1917,7 +1917,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 ### Calm Emotions
 
-*2nd-level enchantment*
+*2nd-level enchantment (Bard, Cleric)*
 
 **Casting Time:** 1 action
 
@@ -1935,7 +1935,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 ### Chain Lightning
 
-*6th-level evocation*
+*6th-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1953,7 +1953,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 ### Charm Person
 
-*1st-level enchantment*
+*1st-level enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1969,7 +1969,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 ### Chill Touch
 
-*Necromancy cantrip*
+*Necromancy cantrip (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -1987,7 +1987,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 ### Circle of Death
 
-*6th-level necromancy*
+*6th-level necromancy (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2003,7 +2003,7 @@ A sphere of negative energy ripples out in a 60-foot radius sphere from a point 
 
 ### Clairvoyance
 
-*3rd-level divination*
+*3rd-level divination (Bard, Cleric, Sorcerer, Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -2021,7 +2021,7 @@ A creature that can see the sensor (such as a creature benefiting from *see invi
 
 ### Clone
 
-*8th-level necromancy*
+*8th-level necromancy (Wizard)*
 
 **Casting Time:** 1 hour
 
@@ -2039,7 +2039,7 @@ The clone is physically identical to the original and has the same personality, 
 
 ### Cloudkill
 
-*5th-level conjuration*
+*5th-level conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2059,7 +2059,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 ### Color Spray
 
-*1st-level illusion*
+*1st-level illusion (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2077,7 +2077,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 ### Command
 
-*1st-level enchantment*
+*1st-level enchantment (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -2107,7 +2107,7 @@ A flying creature stays aloft, provided that it is able to do so. If it must mov
 
 ### Commune with Nature
 
-*5th-level divination (ritual)*
+*5th-level divination (ritual) (Druid, Ranger)*
 
 **Casting Time:** 1 minute
 
@@ -2131,7 +2131,7 @@ For example, you could determine the location of powerful undead in the area, th
 
 ### Commune
 
-*5th-level divination (ritual)*
+*5th-level divination (ritual) (Cleric)*
 
 **Casting Time:** 1 minute
 
@@ -2149,7 +2149,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 ### Comprehend Languages
 
-*1st-level divination (ritual)*
+*1st-level divination (ritual) (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2165,7 +2165,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 ### Compulsion
 
-*4th-level enchantment*
+*4th-level enchantment (Bard)*
 
 **Casting Time:** 1 action
 
@@ -2181,7 +2181,7 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 ### Cone of Cold
 
-*5th-level evocation*
+*5th-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2199,7 +2199,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 ### Confusion
 
-*4th-level enchantment*
+*4th-level enchantment (Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2228,7 +2228,7 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 ### Conjure Animals
 
-*3rd-level conjuration*
+*3rd-level conjuration (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -2255,7 +2255,7 @@ The GM has the creatures' statistics.
 
 ### Conjure Celestial
 
-*7th-level conjuration*
+*7th-level conjuration (Cleric)*
 
 **Casting Time:** 1 minute
 
@@ -2275,7 +2275,7 @@ The GM has the celestial's statistics.
 
 ### Conjure Elemental
 
-*5th-level conjuration*
+*5th-level conjuration (Druid, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -2297,7 +2297,7 @@ The GM has the elemental's statistics.
 
 ### Conjure Fey
 
-*6th-level conjuration*
+*6th-level conjuration (Druid, Warlock)*
 
 **Casting Time:** 1 minute
 
@@ -2319,7 +2319,7 @@ The GM has the fey creature's statistics.
 
 ### Conjure Minor Elementals
 
-*4th-level conjuration*
+*4th-level conjuration (Druid, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -2346,7 +2346,7 @@ The GM has the creatures' statistics.
 
 ### Conjure Woodland Beings
 
-*4th-level conjuration*
+*4th-level conjuration (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -2373,7 +2373,7 @@ The GM has the creatures' statistics.
 
 ### Contact Other Plane
 
-*5th-level divination (ritual)*
+*5th-level divination (ritual) (Warlock, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -2389,7 +2389,7 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 ### Contagion
 
-*5th-level necromancy*
+*5th-level necromancy (Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -2418,7 +2418,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ### Contingency
 
-*6th-level evocation*
+*6th-level evocation (Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -2436,7 +2436,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 ### Continual Flame
 
-*2nd-level evocation*
+*2nd-level evocation (Cleric, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2450,7 +2450,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 ### Control Water
 
-*4th-level transmutation*
+*4th-level transmutation (Cleric, Druid, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2480,7 +2480,7 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 ### Control Weather
 
-*8th-level transmutation*
+*8th-level transmutation (Cleric, Druid, Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -2529,7 +2529,7 @@ Table: Control Weather (Wind)
 
 ### Counterspell
 
-*3rd-level abjuration*
+*3rd-level abjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
 
@@ -2545,7 +2545,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 ### Create Food and Water
 
-*3rd-level conjuration*
+*3rd-level conjuration (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -2559,7 +2559,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 ### Create Undead
 
-*6th-level necromancy*
+*6th-level necromancy (Cleric, Warlock, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -2579,7 +2579,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 ### Create or Destroy Water
 
-*1st-level transmutation*
+*1st-level transmutation (Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -2599,7 +2599,7 @@ You either create or destroy water.
 
 ### Creation
 
-*5th-level illusion*
+*5th-level illusion (Sorcerer, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -2630,7 +2630,7 @@ Using any material created by this spell as another spell's material component c
 
 ### Cure Wounds
 
-*1st-level evocation*
+*1st-level evocation (Bard, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -2646,7 +2646,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 ### Dancing Lights
 
-*Evocation cantrip*
+*Evocation cantrip (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2662,7 +2662,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 ### Darkness
 
-*2nd-level evocation*
+*2nd-level evocation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2680,7 +2680,7 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 ### Darkvision
 
-*2nd-level transmutation*
+*2nd-level transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2694,7 +2694,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 ### Daylight
 
-*3rd-level evocation*
+*3rd-level evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)*
 
 **Casting Time:** 1 action
 
@@ -2712,7 +2712,7 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 ### Death Ward
 
-*4th-level abjuration*
+*4th-level abjuration (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -2730,7 +2730,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 ### Delayed Blast Fireball
 
-*7th-level evocation*
+*7th-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2752,7 +2752,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 ### Demiplane
 
-*8th-level conjuration*
+*8th-level conjuration (Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2768,7 +2768,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 ### Detect Evil and Good
 
-*1st-level divination*
+*1st-level divination (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -2784,7 +2784,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ### Detect Magic
 
-*1st-level divination (ritual)*
+*1st-level divination (ritual) (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2800,7 +2800,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ### Detect Poison and Disease
 
-*1st-level divination (ritual)*
+*1st-level divination (ritual) (Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -2816,7 +2816,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 ### Detect Thoughts
 
-*2nd-level divination*
+*2nd-level divination (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2838,7 +2838,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 ### Dimension Door
 
-*4th-level conjuration*
+*4th-level conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2856,7 +2856,7 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 ### Disguise Self
 
-*1st-level illusion*
+*1st-level illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2874,7 +2874,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 ### Disintegrate
 
-*6th-level transmutation*
+*6th-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2896,7 +2896,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 ### Dispel Evil and Good
 
-*5th-level abjuration*
+*5th-level abjuration (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -2916,7 +2916,7 @@ You can end the spell early by using either of the following special functions.
 
 ### Dispel Magic
 
-*3rd-level abjuration*
+*3rd-level abjuration (Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -2932,7 +2932,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 ### Divination
 
-*4th-level divination (ritual)*
+*4th-level divination (ritual) (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -2950,7 +2950,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 ### Divine Favor
 
-*1st-level evocation*
+*1st-level evocation (Paladin)*
 
 **Casting Time:** 1 bonus action
 
@@ -2964,7 +2964,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 ### Divine Word
 
-*7th-level evocation*
+*7th-level evocation (Cleric)*
 
 **Casting Time:** 1 bonus action
 
@@ -2983,7 +2983,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 ### Dominate Beast
 
-*4th-level enchantment*
+*4th-level enchantment (Druid, Sorcerer)*
 
 **Casting Time:** 1 action
 
@@ -3005,7 +3005,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 ### Dominate Monster
 
-*8th-level enchantment*
+*8th-level enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3027,7 +3027,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 ### Dominate Person
 
-*5th-level enchantment*
+*5th-level enchantment (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3049,7 +3049,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 ### Dream
 
-*5th-level illusion*
+*5th-level illusion (Bard, Warlock, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -3069,7 +3069,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 ### Druidcraft
 
-*Transmutation cantrip*
+*Transmutation cantrip (Druid)*
 
 **Casting Time:** 1 action
 
@@ -3088,7 +3088,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 ### Earthquake
 
-*8th-level evocation*
+*8th-level evocation (Cleric, Druid, Sorcerer)*
 
 **Casting Time:** 1 action
 
@@ -3116,7 +3116,7 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 ### Eldritch Blast
 
-*Evocation cantrip*
+*Evocation cantrip (Warlock)*
 
 **Casting Time:** 1 action
 
@@ -3132,7 +3132,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 ### Enhance Ability
 
-*2nd-level transmutation*
+*2nd-level transmutation (Bard, Cleric, Druid, Sorcerer)*
 
 **Casting Time:** 1 action
 
@@ -3160,7 +3160,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ### Enlarge/Reduce
 
-*2nd-level transmutation*
+*2nd-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3180,7 +3180,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 ### Entangle
 
-*1st-level conjuration*
+*1st-level conjuration (Druid)*
 
 **Casting Time:** 1 action
 
@@ -3198,7 +3198,7 @@ When the spell ends, the conjured plants wilt away.
 
 ### Enthrall
 
-*2nd-level enchantment*
+*2nd-level enchantment (Bard, Warlock)*
 
 **Casting Time:** 1 action
 
@@ -3212,7 +3212,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 ### Etherealness
 
-*7th-level transmutation*
+*7th-level transmutation (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3236,7 +3236,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 ### Expeditious Retreat
 
-*1st-level transmutation*
+*1st-level transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 bonus action
 
@@ -3250,7 +3250,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 ### Eyebite
 
-*6th-level necromancy*
+*6th-level necromancy (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3270,7 +3270,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ### Fabricate
 
-*4th-level transmutation*
+*4th-level transmutation (Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -3288,7 +3288,7 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 
 ### Faerie Fire
 
-*1st-level evocation*
+*1st-level evocation (Bard, Druid)*
 
 **Casting Time:** 1 action
 
@@ -3304,7 +3304,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 ### Faithful Hound
 
-*4th-level conjuration*
+*4th-level conjuration (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3322,7 +3322,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 ### False Life
 
-*1st-level necromancy*
+*1st-level necromancy (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3338,7 +3338,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 ### Fear
 
-*3rd-level illusion*
+*3rd-level illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3354,7 +3354,7 @@ While frightened by this spell, a creature must take the Dash action and move aw
 
 ### Feather Fall
 
-*1st-level transmutation*
+*1st-level transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 reaction, which you take when you or a creature within 60 feet of you falls
 
@@ -3368,7 +3368,7 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 ### Feeblemind
 
-*8th-level enchantment*
+*8th-level enchantment (Bard, Druid, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3388,7 +3388,7 @@ The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 
 ### Find Familiar
 
-*1st-level conjuration (ritual)*
+*1st-level conjuration (ritual) (Wizard)*
 
 **Casting Time:** 1 hour
 
@@ -3414,7 +3414,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 ### Find Steed
 
-*2nd-level conjuration*
+*2nd-level conjuration (Paladin)*
 
 **Casting Time:** 10 minutes
 
@@ -3436,7 +3436,7 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 ### Find Traps
 
-*2nd-level divination*
+*2nd-level divination (Cleric, Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -3454,7 +3454,7 @@ You don't learn the location of each trap, but you do learn the general nature o
 
 ### Find the Path
 
-*6th-level divination*
+*6th-level divination (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 minute
 
@@ -3470,7 +3470,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 ### Finger of Death
 
-*7th-level necromancy*
+*7th-level necromancy (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3486,7 +3486,7 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 ### Fire Bolt
 
-*Evocation cantrip*
+*Evocation cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3502,7 +3502,7 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 ### Fire Shield
 
-*4th-level evocation*
+*4th-level evocation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3520,7 +3520,7 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 ### Fire Storm
 
-*7th-level evocation*
+*7th-level evocation (Cleric, Druid, Sorcerer)*
 
 **Casting Time:** 1 action
 
@@ -3536,7 +3536,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 ### Fireball
 
-*3rd-level evocation*
+*3rd-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3554,7 +3554,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 ### Flame Blade
 
-*2nd-level evocation*
+*2nd-level evocation (Druid)*
 
 **Casting Time:** 1 bonus action
 
@@ -3574,7 +3574,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 ### Flame Strike
 
-*5th-level evocation*
+*5th-level evocation (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -3590,7 +3590,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 ### Flaming Sphere
 
-*2nd-level conjuration*
+*2nd-level conjuration (Druid, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3610,7 +3610,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 ### Flesh to Stone
 
-*6th-level transmutation*
+*6th-level transmutation (Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3630,7 +3630,7 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 ### Floating Disk
 
-*1st-level conjuration (ritual)*
+*1st-level conjuration (ritual) (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3648,7 +3648,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 ### Fly
 
-*3rd-level transmutation*
+*3rd-level transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3664,7 +3664,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 ### Fog Cloud
 
-*1st-level conjuration*
+*1st-level conjuration (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3680,7 +3680,7 @@ You create a 20-foot radius sphere of fog centered on a point within range. The 
 
 ### Forbiddance
 
-*6th-level abjuration (ritual)*
+*6th-level abjuration (ritual) (Cleric)*
 
 **Casting Time:** 10 minutes
 
@@ -3700,7 +3700,7 @@ The spell's area can't overlap with the area of another *forbiddance* spell. If 
 
 ### Forcecage
 
-*7th-level evocation*
+*7th-level evocation (Bard, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3724,7 +3724,7 @@ This spell can't be dispelled by *dispel magic*.
 
 ### Foresight
 
-*9th-level divination*
+*9th-level divination (Bard, Druid, Warlock, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -3740,7 +3740,7 @@ This spell immediately ends if you cast it again before its duration ends.
 
 ### Freedom of Movement
 
-*4th-level abjuration*
+*4th-level abjuration (Bard, Cleric, Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -3756,7 +3756,7 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 ### Freezing Sphere
 
-*6th-level evocation*
+*6th-level evocation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3776,7 +3776,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 ### Gaseous Form
 
-*3rd-level transmutation*
+*3rd-level transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3794,7 +3794,7 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 
 ### Gate
 
-*9th-level conjuration*
+*9th-level conjuration (Cleric, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3814,7 +3814,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 ### Geas
 
-*5th-level enchantment*
+*5th-level enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -3834,7 +3834,7 @@ You can end the spell early by using an action to dismiss it. A *remove curse*, 
 
 ### Gentle Repose
 
-*2nd-level necromancy (ritual)*
+*2nd-level necromancy (ritual) (Cleric, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3850,7 +3850,7 @@ The spell also effectively extends the time limit on raising the target from the
 
 ### Giant Insect
 
-*4th-level transmutation*
+*4th-level transmutation (Druid)*
 
 **Casting Time:** 1 action
 
@@ -3870,7 +3870,7 @@ The GM might allow you to choose different targets. For example, if you transfor
 
 ### Glibness
 
-*8th-level transmutation*
+*8th-level transmutation (Bard, Warlock)*
 
 **Casting Time:** 1 action
 
@@ -3884,7 +3884,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 ### Globe of Invulnerability
 
-*6th-level abjuration*
+*6th-level abjuration (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3902,7 +3902,7 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 
 ### Glyph of Warding
 
-*3rd-level abjuration*
+*3rd-level abjuration (Bard, Cleric, Wizard)*
 
 **Casting Time:** 1 hour
 
@@ -3930,7 +3930,7 @@ When you inscribe the glyph, choose *explosive runes* or a *spell glyph*.
 
 ### Goodberry
 
-*1st-level transmutation*
+*1st-level transmutation (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -3947,7 +3947,7 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 ### Grease
 
-*1st-level conjuration*
+*1st-level conjuration (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3963,7 +3963,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 ### Greater Invisibility
 
-*4th-level illusion*
+*4th-level illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -3977,7 +3977,7 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 ### Greater Restoration
 
-*5th-level abjuration*
+*5th-level abjuration (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -3996,7 +3996,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 ### Guardian of Faith
 
-*4th-level conjuration*
+*4th-level conjuration (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -4012,7 +4012,7 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 
 ### Guards and Wards
 
-*6th-level abjuration*
+*6th-level abjuration (Bard, Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -4048,7 +4048,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 ### Guidance
 
-*Divination cantrip*
+*Divination cantrip (Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -4062,7 +4062,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ### Guiding Bolt
 
-*1st-level evocation*
+*1st-level evocation (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -4078,7 +4078,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 ### Gust of Wind
 
-*2nd-level evocation*
+*2nd-level evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4098,7 +4098,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 ### Hallow
 
-*5th-level evocation*
+*5th-level evocation (Cleric)*
 
 **Casting Time:** 24 hours
 
@@ -4136,7 +4136,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 ### Hallucinatory Terrain
 
-*4th-level illusion*
+*4th-level illusion (Bard, Druid, Warlock, Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -4152,7 +4152,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 ### Harm
 
-*6th-level necromancy*
+*6th-level necromancy (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -4166,7 +4166,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 ### Haste
 
-*3rd-level transmutation*
+*3rd-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4182,7 +4182,7 @@ When the spell ends, the target can't move or take actions until after its next 
 
 ### Heal
 
-*6th-level evocation*
+*6th-level evocation (Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -4198,7 +4198,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 ### Healing Word
 
-*1st-level evocation*
+*1st-level evocation (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 bonus action
 
@@ -4214,7 +4214,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 ### Heat Metal
 
-*2nd-level transmutation*
+*2nd-level transmutation (Bard, Druid)*
 
 **Casting Time:** 1 action
 
@@ -4232,7 +4232,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 ### Hellish Rebuke
 
-*1st-level evocation*
+*1st-level evocation (Warlock)*
 
 **Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
 
@@ -4248,7 +4248,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 ### Heroes' Feast
 
-*6th-level conjuration*
+*6th-level conjuration (Cleric, Druid)*
 
 **Casting Time:** 10 minutes
 
@@ -4264,7 +4264,7 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 ### Heroism
 
-*1st-level enchantment*
+*1st-level enchantment (Bard, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -4280,7 +4280,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 ### Hideous Laughter
 
-*1st-level enchantment*
+*1st-level enchantment (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4296,7 +4296,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 ### Hold Monster
 
-*5th-level enchantment*
+*5th-level enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4312,7 +4312,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 ### Hold Person
 
-*2nd-level enchantment*
+*2nd-level enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4328,7 +4328,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 ### Holy Aura
 
-*8th-level abjuration*
+*8th-level abjuration (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -4342,7 +4342,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 ### Hunter's Mark
 
-*1st-level divination*
+*1st-level divination (Ranger)*
 
 **Casting Time:** 1 bonus action
 
@@ -4358,7 +4358,7 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 ### Hypnotic Pattern
 
-*3rd-level illusion*
+*3rd-level illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4374,7 +4374,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 ### Ice Storm
 
-*4th-level evocation*
+*4th-level evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4392,7 +4392,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 ### Identify
 
-*1st-level divination (ritual)*
+*1st-level divination (ritual) (Bard, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4408,7 +4408,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 ### Illusory Script
 
-*1st-level illusion (ritual)*
+*1st-level illusion (ritual) (Bard, Warlock, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4428,7 +4428,7 @@ A creature with truesight can read the hidden message.
 
 ### Imprisonment
 
-*9th-level abjuration*
+*9th-level abjuration (Warlock, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4468,7 +4468,7 @@ You can use a particular special component to create only one prison at a time. 
 
 ### Incendiary Cloud
 
-*8th-level conjuration*
+*8th-level conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4486,7 +4486,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 ### Inflict Wounds
 
-*1st-level necromancy*
+*1st-level necromancy (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -4502,7 +4502,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 ### Insect Plague
 
-*5th-level conjuration*
+*5th-level conjuration (Cleric, Druid, Sorcerer)*
 
 **Casting Time:** 1 action
 
@@ -4520,7 +4520,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 ### Instant Summons
 
-*6th-level conjuration (ritual)*
+*6th-level conjuration (ritual) (Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4540,7 +4540,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 ### Invisibility
 
-*2nd-level illusion*
+*2nd-level illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4556,7 +4556,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 ### Irresistible Dance
 
-*6th-level enchantment*
+*6th-level enchantment (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4572,7 +4572,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 
 ### Jump
 
-*1st-level transmutation*
+*1st-level transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4586,7 +4586,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 ### Knock
 
-*2nd-level transmutation*
+*2nd-level transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4606,7 +4606,7 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 ### Legend Lore
 
-*5th-level divination*
+*5th-level divination (Bard, Cleric, Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -4622,7 +4622,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 ### Lesser Restoration
 
-*2nd-level abjuration*
+*2nd-level abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -4636,7 +4636,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ### Levitate
 
-*2nd-level transmutation*
+*2nd-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4654,7 +4654,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 ### Light
 
-*Evocation cantrip*
+*Evocation cantrip (Bard, Cleric, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4670,7 +4670,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 ### Lightning Bolt
 
-*3rd-level evocation*
+*3rd-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4688,7 +4688,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 ### Locate Animals or Plants
 
-*2nd-level divination (ritual)*
+*2nd-level divination (ritual) (Bard, Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -4702,7 +4702,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 ### Locate Creature
 
-*4th-level divination*
+*4th-level divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4720,7 +4720,7 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 ### Locate Object
 
-*2nd-level divination*
+*2nd-level divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4738,7 +4738,7 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 
 ### Longstrider
 
-*1st-level transmutation*
+*1st-level transmutation (Bard, Druid, Ranger, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4754,7 +4754,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 ### Mage Armor
 
-*1st-level abjuration*
+*1st-level abjuration (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4768,7 +4768,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 ### Mage Hand
 
-*Conjuration cantrip*
+*Conjuration cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4786,7 +4786,7 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 ### Magic Circle
 
-*3rd-level abjuration*
+*3rd-level abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4810,7 +4810,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 ### Magic Jar
 
-*6th-level necromancy*
+*6th-level necromancy (Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4836,7 +4836,7 @@ When the spell ends, the container is destroyed.
 
 ### Magic Missile
 
-*1st-level evocation*
+*1st-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4852,7 +4852,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 ### Magic Mouth
 
-*2nd-level illusion (ritual)*
+*2nd-level illusion (ritual) (Bard, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4870,7 +4870,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 ### Magic Weapon
 
-*2nd-level transmutation*
+*2nd-level transmutation (Paladin, Wizard)*
 
 **Casting Time:** 1 bonus action
 
@@ -4886,7 +4886,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ### Magnificent Mansion
 
-*7th-level conjuration*
+*7th-level conjuration (Bard, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -4904,7 +4904,7 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 
 ### Major Image
 
-*3rd-level illusion*
+*3rd-level illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4924,7 +4924,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 ### Mass Cure Wounds
 
-*5th-level evocation*
+*5th-level evocation (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -4940,7 +4940,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 ### Mass Heal
 
-*9th-level evocation*
+*9th-level evocation (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -4954,7 +4954,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 ### Mass Healing Word
 
-*3rd-level evocation*
+*3rd-level evocation (Cleric)*
 
 **Casting Time:** 1 bonus action
 
@@ -4970,7 +4970,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 ### Mass Suggestion
 
-*6th-level enchantment*
+*6th-level enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -4992,7 +4992,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 ### Maze
 
-*8th-level conjuration*
+*8th-level conjuration (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5010,7 +5010,7 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 ### Meld into Stone
 
-*3rd-level transmutation (ritual)*
+*3rd-level transmutation (ritual) (Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -5028,7 +5028,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 ### Mending
 
-*Transmutation cantrip*
+*Transmutation cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -5044,7 +5044,7 @@ This spell can physically repair a magic item or construct, but the spell can't 
 
 ### Message
 
-*Transmutation cantrip*
+*Transmutation cantrip (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5060,7 +5060,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 ### Meteor Swarm
 
-*9th-level evocation*
+*9th-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5076,7 +5076,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 ### Mind Blank
 
-*8th-level abjuration*
+*8th-level abjuration (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5090,7 +5090,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 ### Minor Illusion
 
-*Illusion cantrip*
+*Illusion cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5110,7 +5110,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 ### Mirage Arcane
 
-*7th-level illusion*
+*7th-level illusion (Bard, Druid, Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -5130,7 +5130,7 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 ### Mirror Image
 
-*2nd-level illusion*
+*2nd-level illusion (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5152,7 +5152,7 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 ### Mislead
 
-*5th-level illusion*
+*5th-level illusion (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5170,7 +5170,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 ### Misty Step
 
-*2nd-level conjuration*
+*2nd-level conjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 bonus action
 
@@ -5184,7 +5184,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 ### Modify Memory
 
-*5th-level enchantment*
+*5th-level enchantment (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5208,7 +5208,7 @@ A *remove curse* or *greater restoration* spell cast on the target restores the 
 
 ### Moonbeam
 
-*2nd-level evocation*
+*2nd-level evocation (Druid)*
 
 **Casting Time:** 1 action
 
@@ -5230,7 +5230,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 ### Move Earth
 
-*6th-level transmutation*
+*6th-level transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5252,7 +5252,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 ### Nondetection
 
-*3rd-level abjuration*
+*3rd-level abjuration (Bard, Ranger, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5266,7 +5266,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 ### Pass without Trace
 
-*2nd-level abjuration*
+*2nd-level abjuration (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -5280,7 +5280,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 ### Passwall
 
-*5th-level transmutation*
+*5th-level transmutation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5296,7 +5296,7 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 ### Phantasmal Killer
 
-*4th-level illusion*
+*4th-level illusion (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5312,7 +5312,7 @@ You tap into the nightmares of a creature you can see within range and create an
 
 ### Phantom Steed
 
-*3rd-level illusion (ritual)*
+*3rd-level illusion (ritual) (Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -5328,7 +5328,7 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 ### Planar Ally
 
-*6th-level conjuration*
+*6th-level conjuration (Cleric)*
 
 **Casting Time:** 10 minutes
 
@@ -5352,7 +5352,7 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 ### Planar Binding
 
-*5th-level abjuration*
+*5th-level abjuration (Bard, Cleric, Druid, Wizard)*
 
 **Casting Time:** 1 hour
 
@@ -5370,7 +5370,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 ### Plane Shift
 
-*7th-level conjuration*
+*7th-level conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5388,7 +5388,7 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 ### Plant Growth
 
-*3rd-level transmutation*
+*3rd-level transmutation (Bard, Druid, Ranger)*
 
 **Casting Time:** 1 action or 8 hours
 
@@ -5408,7 +5408,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 ### Poison Spray
 
-*Conjuration cantrip*
+*Conjuration cantrip (Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5424,7 +5424,7 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 ### Polymorph
 
-*4th-level transmutation*
+*4th-level transmutation (Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5446,7 +5446,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 ### Power Word Kill
 
-*9th-level enchantment*
+*9th-level enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5460,7 +5460,7 @@ You utter a word of power that can compel one creature you can see within range 
 
 ### Power Word Stun
 
-*8th-level enchantment*
+*8th-level enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5476,7 +5476,7 @@ The stunned target must make a Constitution saving throw at the end of each of i
 
 ### Prayer of Healing
 
-*2nd-level evocation*
+*2nd-level evocation (Cleric)*
 
 **Casting Time:** 10 minutes
 
@@ -5492,7 +5492,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 ### Prestidigitation
 
-*Transmutation cantrip*
+*Transmutation cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5515,7 +5515,7 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 ### Prismatic Spray
 
-*7th-level evocation*
+*7th-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5538,7 +5538,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 ### Prismatic Wall
 
-*9th-level abjuration*
+*9th-level abjuration (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5568,7 +5568,7 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 ### Private Sanctum
 
-*4th-level abjuration*
+*4th-level abjuration (Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -5593,7 +5593,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 ### Produce Flame
 
-*Conjuration cantrip*
+*Conjuration cantrip (Druid)*
 
 **Casting Time:** 1 action
 
@@ -5611,7 +5611,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 ### Programmed Illusion
 
-*6th-level illusion*
+*6th-level illusion (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5631,7 +5631,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 ### Project Image
 
-*7th-level illusion*
+*7th-level illusion (Bard, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5653,7 +5653,7 @@ creature that uses its action to examine the image can determine that it is an i
 
 ### Protection from Energy
 
-*3rd-level abjuration*
+*3rd-level abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5667,7 +5667,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 ### Protection from Evil and Good
 
-*1st-level abjuration*
+*1st-level abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5683,7 +5683,7 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 ### Protection from Poison
 
-*2nd-level abjuration*
+*2nd-level abjuration (Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -5699,7 +5699,7 @@ For the duration, the target has advantage on saving throws against being poison
 
 ### Purify Food and Drink
 
-*1st-level transmutation (ritual)*
+*1st-level transmutation (ritual) (Cleric, Druid, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -5713,7 +5713,7 @@ All nonmagical food and drink within a 5-foot radius sphere centered on a point 
 
 ### Raise Dead
 
-*5th-level necromancy*
+*5th-level necromancy (Bard, Cleric, Paladin)*
 
 **Casting Time:** 1 hour
 
@@ -5733,7 +5733,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 
 ### Ray of Enfeeblement
 
-*2nd-level necromancy*
+*2nd-level necromancy (Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5749,7 +5749,7 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 
 ### Ray of Frost
 
-*Evocation cantrip*
+*Evocation cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5765,7 +5765,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 ### Regenerate
 
-*7th-level transmutation*
+*7th-level transmutation (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 minute
 
@@ -5781,7 +5781,7 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 
 ### Reincarnate
 
-*5th-level transmutation*
+*5th-level transmutation (Druid)*
 
 **Casting Time:** 1 hour
 
@@ -5820,7 +5820,7 @@ The reincarnated creature recalls its former life and experiences. It retains th
 
 ### Remove Curse
 
-*3rd-level abjuration*
+*3rd-level abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5834,7 +5834,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 ### Resilient Sphere
 
-*4th-level evocation*
+*4th-level evocation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5854,7 +5854,7 @@ A *disintegrate* spell targeting the globe destroys it without harming anything 
 
 ### Resistance
 
-*Abjuration cantrip*
+*Abjuration cantrip (Cleric, Druid)*
 
 **Casting Time:** 1 action
 
@@ -5868,7 +5868,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ### Resurrection
 
-*7th-level necromancy*
+*7th-level necromancy (Bard, Cleric)*
 
 **Casting Time:** 1 hour
 
@@ -5890,7 +5890,7 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 ### Reverse Gravity
 
-*7th-level transmutation*
+*7th-level transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5908,7 +5908,7 @@ At the end of the duration, affected objects and creatures fall back down.
 
 ### Revivify
 
-*3rd-level necromancy*
+*3rd-level necromancy (Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
@@ -5922,7 +5922,7 @@ You touch a creature that has died within the last minute. That creature returns
 
 ### Rope Trick
 
-*2nd-level transmutation*
+*2nd-level transmutation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5942,7 +5942,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 ### Sacred Flame
 
-*Evocation cantrip*
+*Evocation cantrip (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -5958,7 +5958,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 ### Sanctuary
 
-*1st-level abjuration*
+*1st-level abjuration (Cleric)*
 
 **Casting Time:** 1 bonus action
 
@@ -5974,7 +5974,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 
 ### Scorching Ray
 
-*2nd-level evocation*
+*2nd-level evocation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -5992,7 +5992,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 ### Scrying
 
-*5th-level divination*
+*5th-level divination (Bard, Cleric, Druid, Warlock, Wizard)*
 
 **Casting Time:** 10 minutes
 
@@ -6024,7 +6024,7 @@ Instead of targeting a creature, you can choose a location you have seen before 
 
 ### Secret Chest
 
-*4th-level conjuration*
+*4th-level conjuration (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6042,7 +6042,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 ### See Invisibility
 
-*2nd-level divination*
+*2nd-level divination (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6056,7 +6056,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 ### Seeming
 
-*5th-level illusion*
+*5th-level illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6076,7 +6076,7 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 
 ### Sending
 
-*3rd-level evocation*
+*3rd-level evocation (Bard, Cleric, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6092,7 +6092,7 @@ You can send the message across any distance and even to other planes of existen
 
 ### Sequester
 
-*7th-level transmutation*
+*7th-level transmutation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6110,7 +6110,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 ### Shapechange
 
-*9th-level transmutation*
+*9th-level transmutation (Druid, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6134,7 +6134,7 @@ During this spell's duration, you can use your action to assume a different form
 
 ### Shatter
 
-*2nd-level evocation*
+*2nd-level evocation (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6152,7 +6152,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 ### Shield of Faith
 
-*1st-level abjuration*
+*1st-level abjuration (Cleric, Paladin)*
 
 **Casting Time:** 1 bonus action
 
@@ -6166,7 +6166,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 ### Shield
 
-*1st-level abjuration*
+*1st-level abjuration (Sorcerer, Wizard)*
 
 **Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the *magic missile* spell
 
@@ -6180,7 +6180,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 ### Shillelagh
 
-*Transmutation cantrip*
+*Transmutation cantrip (Druid)*
 
 **Casting Time:** 1 bonus action
 
@@ -6194,7 +6194,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 ### Shocking Grasp
 
-*Evocation cantrip*
+*Evocation cantrip (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6210,7 +6210,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 ### Silence
 
-*2nd-level illusion (ritual)*
+*2nd-level illusion (ritual) (Bard, Cleric, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -6224,7 +6224,7 @@ For the duration, no sound can be created within or pass through a 20-foot radiu
 
 ### Silent Image
 
-*1st-level illusion*
+*1st-level illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6242,7 +6242,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 ### Simulacrum
 
-*7th-level illusion*
+*7th-level illusion (Wizard)*
 
 **Casting Time:** 12 hours
 
@@ -6262,7 +6262,7 @@ If you cast this spell again, any currently active duplicates you created with t
 
 ### Sleep
 
-*1st-level enchantment*
+*1st-level enchantment (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6282,7 +6282,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 ### Sleet Storm
 
-*3rd-level conjuration*
+*3rd-level conjuration (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6300,7 +6300,7 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 
 ### Slow
 
-*3rd-level transmutation*
+*3rd-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6320,7 +6320,7 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 ### Spare the Dying
 
-*Necromancy cantrip*
+*Necromancy cantrip (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -6334,7 +6334,7 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 ### Speak with Animals
 
-*1st-level divination (ritual)*
+*1st-level divination (ritual) (Bard, Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -6348,7 +6348,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 ### Speak with Dead
 
-*3rd-level necromancy*
+*3rd-level necromancy (Bard, Cleric)*
 
 **Casting Time:** 1 action
 
@@ -6364,7 +6364,7 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 ### Speak with Plants
 
-*3rd-level transmutation*
+*3rd-level transmutation (Bard, Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -6386,7 +6386,7 @@ This spell can cause the plants created by the *entangle* spell to release a res
 
 ### Spider Climb
 
-*2nd-level transmutation*
+*2nd-level transmutation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6400,7 +6400,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ### Spike Growth
 
-*2nd-level transmutation*
+*2nd-level transmutation (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -6416,7 +6416,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 ### Spirit Guardians
 
-*3rd-level conjuration*
+*3rd-level conjuration (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -6434,7 +6434,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 ### Spiritual Weapon
 
-*2nd-level evocation*
+*2nd-level evocation (Cleric)*
 
 **Casting Time:** 1 bonus action
 
@@ -6454,7 +6454,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 ### Stinking Cloud
 
-*3rd-level conjuration*
+*3rd-level conjuration (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6472,7 +6472,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 ### Stone Shape
 
-*4th-level transmutation*
+*4th-level transmutation (Cleric, Druid, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6486,7 +6486,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 ### Stoneskin
 
-*4th-level abjuration*
+*4th-level abjuration (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6500,7 +6500,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 ### Storm of Vengeance
 
-*9th-level conjuration*
+*9th-level conjuration (Druid)*
 
 **Casting Time:** 1 action
 
@@ -6524,7 +6524,7 @@ Each round you maintain concentration on this spell, the storm produces differen
 
 ### Suggestion
 
-*2nd-level enchantment*
+*2nd-level enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6544,7 +6544,7 @@ If you or any of your companions damage the target, the spell ends.
 
 ### Sunbeam
 
-*6th-level evocation*
+*6th-level evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6562,7 +6562,7 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 ### Sunburst
 
-*8th-level evocation*
+*8th-level evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6580,7 +6580,7 @@ This spell dispels any darkness in its area that was created by a spell.
 
 ### Symbol
 
-*7th-level abjuration*
+*7th-level abjuration (Bard, Cleric, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -6618,7 +6618,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 ### Telekinesis
 
-*5th-level transmutation*
+*5th-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6642,7 +6642,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ### Telepathic Bond
 
-*5th-level divination (ritual)*
+*5th-level divination (ritual) (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6658,7 +6658,7 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 ### Teleport
 
-*7th-level conjuration*
+*7th-level conjuration (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6700,7 +6700,7 @@ Table: Teleport Familiarity
 
 ### Teleportation Circle
 
-*5th-level conjuration*
+*5th-level conjuration (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -6718,7 +6718,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ### Thaumaturgy
 
-*Transmutation cantrip*
+*Transmutation cantrip (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -6739,7 +6739,7 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 ### Thunderwave
 
-*1st-level evocation*
+*1st-level evocation (Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6757,7 +6757,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 ### Time Stop
 
-*9th-level transmutation*
+*9th-level transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6773,7 +6773,7 @@ This spell ends if one of the actions you use during this period, or any effects
 
 ### Tiny Hut
 
-*3rd-level evocation (ritual)*
+*3rd-level evocation (ritual) (Bard, Wizard)*
 
 **Casting Time:** 1 minute
 
@@ -6791,7 +6791,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 ### Tongues
 
-*3rd-level divination*
+*3rd-level divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6805,7 +6805,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 ### Transport via Plants
 
-*6th-level conjuration*
+*6th-level conjuration (Druid)*
 
 **Casting Time:** 1 action
 
@@ -6819,7 +6819,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 ### Tree Stride
 
-*5th-level conjuration*
+*5th-level conjuration (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -6835,7 +6835,7 @@ You can use this transportation ability once per round for the duration. You mus
 
 ### True Polymorph
 
-*9th-level transmutation*
+*9th-level transmutation (Bard, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6865,7 +6865,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 ### True Resurrection
 
-*9th-level necromancy*
+*9th-level necromancy (Cleric, Druid)*
 
 **Casting Time:** 1 hour
 
@@ -6883,7 +6883,7 @@ The spell can even provide a new body if the original no longer exists, in which
 
 ### True Seeing
 
-*6th-level divination*
+*6th-level divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6897,7 +6897,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 ### True Strike
 
-*Divination cantrip*
+*Divination cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6911,7 +6911,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 ### Unseen Servant
 
-*1st-level conjuration (ritual)*
+*1st-level conjuration (ritual) (Bard, Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6929,7 +6929,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 ### Vampiric Touch
 
-*3rd-level necromancy*
+*3rd-level necromancy (Warlock, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6945,7 +6945,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 ### Vicious Mockery
 
-*Enchantment cantrip*
+*Enchantment cantrip (Bard)*
 
 **Casting Time:** 1 action
 
@@ -6961,7 +6961,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 ### Wall of Fire
 
-*4th-level evocation*
+*4th-level evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6981,7 +6981,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 
 ### Wall of Force
 
-*5th-level evocation*
+*5th-level evocation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -6997,7 +6997,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 ### Wall of Ice
 
-*6th-level evocation*
+*6th-level evocation (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -7017,7 +7017,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 ### Wall of Stone
 
-*5th-level evocation*
+*5th-level evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -7041,7 +7041,7 @@ If you maintain your concentration on this spell for its whole duration, the wal
 
 ### Wall of Thorns
 
-*6th-level conjuration*
+*6th-level conjuration (Druid)*
 
 **Casting Time:** 1 action
 
@@ -7061,7 +7061,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 ### Warding Bond
 
-*2nd-level abjuration*
+*2nd-level abjuration (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -7077,7 +7077,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 ### Water Breathing
 
-*3rd-level transmutation (ritual)*
+*3rd-level transmutation (ritual) (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -7091,7 +7091,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 ### Water Walk
 
-*3rd-level transmutation (ritual)*
+*3rd-level transmutation (ritual) (Cleric, Druid, Ranger, Sorcerer)*
 
 **Casting Time:** 1 action
 
@@ -7107,7 +7107,7 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 ### Web
 
-*2nd-level conjuration*
+*2nd-level conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -7131,7 +7131,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 ### Weird
 
-*9th-level illusion*
+*9th-level illusion (Wizard)*
 
 **Casting Time:** 1 action
 
@@ -7145,7 +7145,7 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 ### Wind Walk
 
-*6th-level transmutation*
+*6th-level transmutation (Druid)*
 
 **Casting Time:** 1 minute
 
@@ -7161,7 +7161,7 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 
 ### Wind Wall
 
-*3rd-level evocation*
+*3rd-level evocation (Druid, Ranger)*
 
 **Casting Time:** 1 action
 
@@ -7179,7 +7179,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 ### Wish
 
-*9th-level conjuration*
+*9th-level conjuration (Sorcerer, Wizard)*
 
 **Casting Time:** 1 action
 
@@ -7207,7 +7207,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 
 ### Word of Recall
 
-*6th-level conjuration*
+*6th-level conjuration (Cleric)*
 
 **Casting Time:** 1 action
 
@@ -7223,7 +7223,7 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 ### Zone of Truth
 
-*2nd-level enchantment*
+*2nd-level enchantment (Bard, Cleric, Paladin)*
 
 **Casting Time:** 1 action
 
