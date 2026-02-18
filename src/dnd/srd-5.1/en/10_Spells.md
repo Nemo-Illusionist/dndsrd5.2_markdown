@@ -232,7 +232,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 *Conjuration Cantrip (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -248,7 +248,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 *Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -266,7 +266,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 *Evocation Cantrip (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -282,7 +282,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 *Transmutation Cantrip (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -301,7 +301,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 *Evocation Cantrip (Warlock)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -317,7 +317,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 *Evocation Cantrip (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -333,7 +333,7 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 *Divination Cantrip (Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -347,7 +347,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 *Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -363,7 +363,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 *Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -397,7 +397,7 @@ This spell can physically repair a magic item or construct, but the spell can't 
 
 *Transmutation Cantrip (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -413,7 +413,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 *Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -433,7 +433,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 *Conjuration Cantrip (Druid, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 10 feet
 
@@ -449,7 +449,7 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 *Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 10 feet
 
@@ -472,7 +472,7 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 *Conjuration Cantrip (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -490,7 +490,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 *Evocation Cantrip (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -506,7 +506,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 *Abjuration Cantrip (Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -520,7 +520,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 *Evocation Cantrip (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -536,7 +536,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 *Transmutation Cantrip (Druid)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Touch
 
@@ -550,7 +550,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 *Evocation Cantrip (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -566,7 +566,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 *Necromancy Cantrip (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -580,7 +580,7 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 *Transmutation Cantrip (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -601,7 +601,7 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 *Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -615,7 +615,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 *Enchantment Cantrip (Bard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -651,7 +651,7 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 
 *Level 1 Enchantment (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -667,7 +667,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 *Level 1 Enchantment (Bard, Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -683,7 +683,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 *Level 1 Enchantment (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -699,7 +699,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (15-foot cone)
 
@@ -717,7 +717,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 *Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -733,7 +733,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 *Level 1 Illusion (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (15-foot cone)
 
@@ -751,7 +751,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 *Level 1 Enchantment (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -781,7 +781,7 @@ A flying creature stays aloft, provided that it is able to do so. If it must mov
 
 *Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -797,7 +797,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 *Level 1 Transmutation (Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -817,7 +817,7 @@ You either create or destroy water.
 
 *Level 1 Evocation (Bard, Cleric, Druid, Paladin, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -833,7 +833,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 *Level 1 Divination (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -849,7 +849,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 *Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -865,7 +865,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 *Level 1 Divination (Cleric, Druid, Paladin, Ranger)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -881,7 +881,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -899,7 +899,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 *Level 1 Evocation (Paladin)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Self
 
@@ -913,7 +913,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 *Level 1 Conjuration (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -931,7 +931,7 @@ When the spell ends, the conjured plants wilt away.
 
 *Level 1 Transmutation (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Self
 
@@ -945,7 +945,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 *Level 1 Evocation (Bard, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -961,7 +961,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 *Level 1 Necromancy (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -977,7 +977,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 *Level 1 Transmutation (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 reaction, which you take when you or a creature within 60 feet of you falls
+**Casting Time:** Reaction, which you take when you or a creature within 60 feet of you falls
 
 **Range:** 60 feet
 
@@ -1017,7 +1017,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 *Level 1 Conjuration (Wizard)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 30 feet
 
@@ -1035,7 +1035,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 *Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -1051,7 +1051,7 @@ You create a 20-foot radius sphere of fog centered on a point within range. The 
 
 *Level 1 Transmutation (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 
 **Range:** Touch
@@ -1068,7 +1068,7 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 *Level 1 Conjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1084,7 +1084,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 *Level 1 Evocation (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -1100,7 +1100,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 *Level 1 Evocation (Bard, Cleric, Druid)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 60 feet
 
@@ -1116,7 +1116,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 *Level 1 Evocation (Warlock)*
 
-**Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
+**Casting Time:** Reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
 
 **Range:** 60 feet
 
@@ -1132,7 +1132,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 *Level 1 Enchantment (Bard, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1148,7 +1148,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 *Level 1 Enchantment (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -1164,7 +1164,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 *Level 1 Divination (Ranger)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 90 feet
 
@@ -1216,7 +1216,7 @@ A creature with truesight can read the hidden message.
 
 *Level 1 Necromancy (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1232,7 +1232,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 *Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1246,7 +1246,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 *Level 1 Transmutation (Bard, Druid, Ranger, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1262,7 +1262,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 *Level 1 Abjuration (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1276,7 +1276,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -1292,7 +1292,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 *Level 1 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1308,7 +1308,7 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 *Level 1 Transmutation (Cleric, Druid, Paladin)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 10 feet
 
@@ -1322,7 +1322,7 @@ All nonmagical food and drink within a 5-foot radius sphere centered on a point 
 
 *Level 1 Abjuration (Cleric)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 30 feet
 
@@ -1338,7 +1338,7 @@ If the warded creature makes an attack, casts a spell that affects an enemy, or 
 
 *Level 1 Abjuration (Sorcerer, Wizard)*
 
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the *magic missile* spell
+**Casting Time:** Reaction, which you take when you are hit by an attack or targeted by the *magic missile* spell
 
 **Range:** Self
 
@@ -1352,7 +1352,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 *Level 1 Abjuration (Cleric, Paladin)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 60 feet
 
@@ -1366,7 +1366,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1384,7 +1384,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 *Level 1 Enchantment (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -1404,7 +1404,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 *Level 1 Divination (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -1418,7 +1418,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 *Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (15-foot cube)
 
@@ -1436,7 +1436,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 *Level 1 Conjuration (Bard, Warlock, Wizard)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 60 feet
 
@@ -1456,7 +1456,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 *Level 2 Evocation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -1472,7 +1472,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 *Level 2 Abjuration (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -1488,7 +1488,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -1508,7 +1508,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 *Level 2 Enchantment (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 30 feet
 
@@ -1526,7 +1526,7 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 *Level 2 Abjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1542,7 +1542,7 @@ While affected by this spell, the object is more difficult to break or force ope
 
 *Level 2 Illusion (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1585,7 +1585,7 @@ If you cast the spell two or more times before completing your next long rest, t
 
 *Level 2 Transmutation (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1599,7 +1599,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 *Level 2 Necromancy (Bard, Cleric, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -1615,7 +1615,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 *Level 2 Illusion (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -1629,7 +1629,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 *Level 2 Evocation (Paladin)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Self
 
@@ -1645,7 +1645,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 *Level 2 Enchantment (Bard, Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1663,7 +1663,7 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 
 *Level 2 Evocation (Cleric, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1677,7 +1677,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 *Level 2 Evocation (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1695,7 +1695,7 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 *Level 2 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1709,7 +1709,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 *Level 2 Divination (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -1731,7 +1731,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 *Level 2 Transmutation (Bard, Cleric, Druid, Sorcerer)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1759,7 +1759,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -1779,7 +1779,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 *Level 2 Enchantment (Bard, Warlock)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1815,7 +1815,7 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 *Level 2 Divination (Cleric, Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -1833,7 +1833,7 @@ You don't learn the location of each trap, but you do learn the general nature o
 
 *Level 2 Evocation (Druid)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Self
 
@@ -1853,7 +1853,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 *Level 2 Conjuration (Druid, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1873,7 +1873,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 *Level 2 Necromancy (Cleric, Wizard)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Touch
 
@@ -1889,7 +1889,7 @@ The spell also effectively extends the time limit on raising the target from the
 
 *Level 2 Evocation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (60-foot line)
 
@@ -1909,7 +1909,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 *Level 2 Transmutation (Bard, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1927,7 +1927,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 *Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1943,7 +1943,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 *Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1959,7 +1959,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 *Level 2 Transmutation (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -1979,7 +1979,7 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 *Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -1993,7 +1993,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 *Level 2 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -2011,7 +2011,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 *Level 2 Divination (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -2025,7 +2025,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 *Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -2061,7 +2061,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 *Level 2 Transmutation (Paladin, Wizard)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Touch
 
@@ -2077,7 +2077,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 *Level 2 Illusion (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -2099,7 +2099,7 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** Self
 
@@ -2113,7 +2113,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 *Level 2 Evocation (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -2135,7 +2135,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 *Level 2 Abjuration (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -2165,7 +2165,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 *Level 2 Abjuration (Cleric, Druid, Paladin, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2181,7 +2181,7 @@ For the duration, the target has advantage on saving throws against being poison
 
 *Level 2 Necromancy (Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -2197,7 +2197,7 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 
 *Level 2 Transmutation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2217,7 +2217,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 *Level 2 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -2235,7 +2235,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 *Level 2 Divination (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -2249,7 +2249,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 *Level 2 Evocation (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -2267,7 +2267,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 *Level 2 Illusion (Bard, Cleric, Ranger)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 120 feet
 
@@ -2281,7 +2281,7 @@ For the duration, no sound can be created within or pass through a 20-foot radiu
 
 *Level 2 Transmutation (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2295,7 +2295,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 *Level 2 Transmutation (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -2311,7 +2311,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 *Level 2 Evocation (Cleric)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 60 feet
 
@@ -2331,7 +2331,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 *Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -2351,7 +2351,7 @@ If you or any of your companions damage the target, the spell ends.
 
 *Level 2 Abjuration (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2367,7 +2367,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 *Level 2 Conjuration (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -2391,7 +2391,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 *Level 2 Enchantment (Bard, Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -2429,7 +2429,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 *Level 3 Abjuration (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -2443,7 +2443,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 *Level 3 Necromancy (Bard, Cleric, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2466,7 +2466,7 @@ A *remove curse* spell ends this effect. At the GM's option, you may choose an a
 
 *Level 3 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -2482,7 +2482,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 *Level 3 Conjuration (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -2520,7 +2520,7 @@ A creature that can see the sensor (such as a creature benefiting from *see invi
 
 *Level 3 Conjuration (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -2547,7 +2547,7 @@ The GM has the creatures' statistics.
 
 *Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
+**Casting Time:** Reaction, which you take when you see a creature within 60 feet of you casting a spell
 
 **Range:** 60 feet
 
@@ -2563,7 +2563,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 *Level 3 Conjuration (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -2577,7 +2577,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 *Level 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -2595,7 +2595,7 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 *Level 3 Abjuration (Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -2611,7 +2611,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (30-foot cone)
 
@@ -2627,7 +2627,7 @@ While frightened by this spell, a creature must take the Dash action and move aw
 
 *Level 3 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -2645,7 +2645,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2661,7 +2661,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2707,7 +2707,7 @@ When you inscribe the glyph, choose *explosive runes* or a *spell glyph*.
 
 *Level 3 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -2723,7 +2723,7 @@ When the spell ends, the target can't move or take actions until after its next 
 
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -2739,7 +2739,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 *Level 3 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (100-foot line)
 
@@ -2781,7 +2781,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -2801,7 +2801,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 *Level 3 Evocation (Cleric)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 60 feet
 
@@ -2817,7 +2817,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 *Level 3 Transmutation (Cleric, Druid)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Touch
 
@@ -2835,7 +2835,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 *Level 3 Abjuration (Bard, Ranger, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2865,7 +2865,7 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 *Level 3 Transmutation (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action or 8 hours
+**Casting Time:** Action or 8 hours
 
 **Range:** 150 feet
 
@@ -2885,7 +2885,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 *Level 3 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2899,7 +2899,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2913,7 +2913,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 *Level 3 Necromancy (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -2927,7 +2927,7 @@ You touch a creature that has died within the last minute. That creature returns
 
 *Level 3 Evocation (Bard, Cleric, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Unlimited
 
@@ -2943,7 +2943,7 @@ You can send the message across any distance and even to other planes of existen
 
 *Level 3 Conjuration (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -2961,7 +2961,7 @@ If a creature starts its turn in the spell's area and is concentrating on a spel
 
 *Level 3 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -2981,7 +2981,7 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 *Level 3 Necromancy (Bard, Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 10 feet
 
@@ -2997,7 +2997,7 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 *Level 3 Transmutation (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (30-foot radius)
 
@@ -3019,7 +3019,7 @@ This spell can cause the plants created by the *entangle* spell to release a res
 
 *Level 3 Conjuration (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (15-foot radius)
 
@@ -3037,7 +3037,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 *Level 3 Conjuration (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -3073,7 +3073,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 *Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -3087,7 +3087,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 *Level 3 Necromancy (Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -3103,7 +3103,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 *Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 30 feet
 
@@ -3117,7 +3117,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 *Level 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 30 feet
 
@@ -3133,7 +3133,7 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 *Level 3 Evocation (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -3153,7 +3153,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 *Level 4 Divination (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -3171,7 +3171,7 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 *Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -3191,7 +3191,7 @@ If the target is native to a different plane of existence than the one you're on
 
 *Level 4 Conjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -3209,7 +3209,7 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 
 *Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -3229,7 +3229,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 *Level 4 Enchantment (Bard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -3245,7 +3245,7 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 *Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -3301,7 +3301,7 @@ The GM has the creatures' statistics.
 
 *Level 4 Conjuration (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -3328,7 +3328,7 @@ The GM has the creatures' statistics.
 
 *Level 4 Transmutation (Cleric, Druid, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 300 feet
 
@@ -3358,7 +3358,7 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 *Level 4 Abjuration (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -3376,7 +3376,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 *Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 500 feet
 
@@ -3394,7 +3394,7 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 *Level 4 Divination (Cleric)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** Self
 
@@ -3412,7 +3412,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 *Level 4 Enchantment (Druid, Sorcerer)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -3452,7 +3452,7 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 
 *Level 4 Conjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -3470,7 +3470,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 *Level 4 Evocation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -3488,7 +3488,7 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 *Level 4 Abjuration (Bard, Cleric, Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -3504,7 +3504,7 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 *Level 4 Transmutation (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -3524,7 +3524,7 @@ The GM might allow you to choose different targets. For example, if you transfor
 
 *Level 4 Illusion (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -3538,7 +3538,7 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 *Level 4 Conjuration (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -3570,7 +3570,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 300 feet
 
@@ -3588,7 +3588,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 *Level 4 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -3606,7 +3606,7 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 *Level 4 Illusion (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -3622,7 +3622,7 @@ You tap into the nightmares of a creature you can see within range and create an
 
 *Level 4 Transmutation (Bard, Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -3669,7 +3669,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 *Level 4 Evocation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -3689,7 +3689,7 @@ A *disintegrate* spell targeting the globe destroys it without harming anything 
 
 *Level 4 Conjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -3707,7 +3707,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 *Level 4 Transmutation (Cleric, Druid, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -3721,7 +3721,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 *Level 4 Abjuration (Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -3735,7 +3735,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -3757,7 +3757,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 fire d
 
 *Level 5 Transmutation (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -3791,7 +3791,7 @@ If you command an object to attack, it can make a single melee attack against a 
 
 *Level 5 Abjuration (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (10-foot radius)
 
@@ -3809,7 +3809,7 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 *Level 5 Evocation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -3855,7 +3855,7 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 
 *Level 5 Conjuration (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -3917,7 +3917,7 @@ For example, you could determine the location of powerful undead in the area, th
 
 *Level 5 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (60-foot cone)
 
@@ -3973,7 +3973,7 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 *Level 5 Necromancy (Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 **Component:** V, S
@@ -4033,7 +4033,7 @@ Using any material created by this spell as another spell's material component c
 
 *Level 5 Abjuration (Cleric, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -4053,7 +4053,7 @@ You can end the spell early by using either of the following special functions.
 
 *Level 5 Enchantment (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4095,7 +4095,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 *Level 5 Evocation (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4131,7 +4131,7 @@ You can end the spell early by using an action to dismiss it. A *remove curse*, 
 
 *Level 5 Abjuration (Bard, Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -4188,7 +4188,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 *Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -4204,7 +4204,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 *Level 5 Conjuration (Cleric, Druid, Sorcerer)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 300 feet
 
@@ -4238,7 +4238,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 *Level 5 Evocation (Bard, Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4254,7 +4254,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 *Level 5 Illusion (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -4272,7 +4272,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 *Level 5 Enchantment (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -4296,7 +4296,7 @@ A *remove curse* or *greater restoration* spell cast on the target restores the 
 
 *Level 5 Transmutation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -4421,7 +4421,7 @@ Instead of targeting a creature, you can choose a location you have seen before 
 
 *Level 5 Illusion (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -4441,7 +4441,7 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 
 *Level 5 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4465,7 +4465,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 *Level 5 Divination (Wizard)*
 
-**Casting Time:** 1 action or Ritual
+**Casting Time:** Action or Ritual
 
 **Range:** 30 feet
 
@@ -4499,7 +4499,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 *Level 5 Conjuration (Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -4515,7 +4515,7 @@ You can use this transportation ability once per round for the duration. You mus
 
 *Level 5 Evocation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -4531,7 +4531,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -4557,7 +4557,7 @@ If you maintain your concentration on this spell for its whole duration, the wal
 
 *Level 6 Evocation (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 90 feet
 
@@ -4573,7 +4573,7 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 *Level 6 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -4591,7 +4591,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 *Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -4667,7 +4667,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 *Level 6 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4689,7 +4689,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 *Level 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -4725,7 +4725,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 *Level 6 Transmutation (Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4765,7 +4765,7 @@ The spell's area can't overlap with the area of another *forbiddance* spell. If 
 
 *Level 6 Evocation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 300 feet
 
@@ -4785,7 +4785,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 *Level 6 Abjuration (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (10-foot radius)
 
@@ -4839,7 +4839,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 *Level 6 Necromancy (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4853,7 +4853,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 *Level 6 Evocation (Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4905,7 +4905,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 *Level 6 Enchantment (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -4947,7 +4947,7 @@ When the spell ends, the container is destroyed.
 
 *Level 6 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -4969,7 +4969,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -5015,7 +5015,7 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 *Level 6 Illusion (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -5035,7 +5035,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 *Level 6 Evocation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (60-foot line)
 
@@ -5053,7 +5053,7 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 *Level 6 Conjuration (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 10 feet
 
@@ -5067,7 +5067,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 *Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -5081,7 +5081,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 *Level 6 Evocation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -5101,7 +5101,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 *Level 6 Conjuration (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -5137,7 +5137,7 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 
 *Level 6 Conjuration (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 5 feet
 
@@ -5155,7 +5155,7 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 *Level 7 Evocation (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -5191,7 +5191,7 @@ The GM has the celestial's statistics.
 
 *Level 7 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -5213,7 +5213,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 *Level 7 Evocation (Cleric)*
 
-**Casting Time:** 1 bonus action
+**Casting Time:** Bonus Action
 
 **Range:** 30 feet
 
@@ -5232,7 +5232,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 *Level 7 Transmutation (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -5256,7 +5256,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 *Level 7 Necromancy (Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -5272,7 +5272,7 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 *Level 7 Evocation (Cleric, Druid, Sorcerer)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -5288,7 +5288,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 *Level 7 Evocation (Bard, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 100 feet
 
@@ -5350,7 +5350,7 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 *Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -5368,7 +5368,7 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 *Level 7 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (60-foot cone)
 
@@ -5391,7 +5391,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 *Level 7 Illusion (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 500 miles
 
@@ -5451,7 +5451,7 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 *Level 7 Transmutation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 100 feet
 
@@ -5469,7 +5469,7 @@ At the end of the duration, affected objects and creatures fall back down.
 
 *Level 7 Transmutation (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -5545,7 +5545,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 *Level 7 Conjuration (Bard, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 10 feet
 
@@ -5589,7 +5589,7 @@ Table: Teleport Familiarity
 
 *Level 8 Transmutation (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -5607,7 +5607,7 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 
 *Level 8 Abjuration (Cleric, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self (10-foot radius sphere)
 
@@ -5730,7 +5730,7 @@ Table: Control Weather (Wind)
 
 *Level 8 Conjuration (Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -5746,7 +5746,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -5768,7 +5768,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 *Level 8 Evocation (Cleric, Druid, Sorcerer)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 500 feet
 
@@ -5796,7 +5796,7 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 *Level 8 Enchantment (Bard, Druid, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -5816,7 +5816,7 @@ The spell can also be ended by *greater restoration*, *heal*, or *wish*.
 
 *Level 8 Transmutation (Bard, Warlock)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -5830,7 +5830,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 *Level 8 Abjuration (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -5844,7 +5844,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 *Level 8 Conjuration (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -5862,7 +5862,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 *Level 8 Conjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -5880,7 +5880,7 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 *Level 8 Abjuration (Bard, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Touch
 
@@ -5894,7 +5894,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -5910,7 +5910,7 @@ The stunned target must make a Constitution saving throw at the end of each of i
 
 *Level 8 Evocation (Druid, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 150 feet
 
@@ -5970,7 +5970,7 @@ This spell immediately ends if you cast it again before its duration ends.
 
 *Level 9 Conjuration (Cleric, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -6030,7 +6030,7 @@ You can use a particular special component to create only one prison at a time. 
 
 *Level 9 Evocation (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -6044,7 +6044,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 *Level 9 Evocation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 1 mile
 
@@ -6060,7 +6060,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 *Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -6074,7 +6074,7 @@ You utter a word of power that can compel one creature you can see within range 
 
 *Level 9 Abjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 60 feet
 
@@ -6104,7 +6104,7 @@ The wall can be destroyed, also one layer at a time, in order from red to violet
 
 *Level 9 Transmutation (Druid, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -6128,7 +6128,7 @@ During this spell's duration, you can use your action to assume a different form
 
 *Level 9 Conjuration (Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Sight
 
@@ -6152,7 +6152,7 @@ Each round you maintain concentration on this spell, the storm produces differen
 
 *Level 9 Transmutation (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
@@ -6168,7 +6168,7 @@ This spell ends if one of the actions you use during this period, or any effects
 
 *Level 9 Transmutation (Bard, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 30 feet
 
@@ -6216,7 +6216,7 @@ The spell can even provide a new body if the original no longer exists, in which
 
 *Level 9 Illusion (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** 120 feet
 
@@ -6230,7 +6230,7 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 *Level 9 Conjuration (Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** Action
 
 **Range:** Self
 
