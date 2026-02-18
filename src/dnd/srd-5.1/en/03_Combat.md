@@ -28,7 +28,7 @@ If a tie occurs, the GM decides the order among tied GM-controlled creatures, an
 
 ## Your Turn
 
-On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed- sometimes called your walking speed-is noted on your character sheet.
+On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed—sometimes called your walking speed-is noted on your character sheet.
 
 The most common actions you can take are described in the "Actions in Combat" section later in this chapter. Many class features and other abilities provide additional options for your action.
 
@@ -86,7 +86,7 @@ For example, if you have a speed of 30 and a flying speed of 60 because a wizard
 
 ## Difficult Terrain
 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases-the setting of a typical fight contains difficult terrain.
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briar-choked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
 
 Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
 
@@ -266,7 +266,7 @@ Combatants often try to escape their foes' notice by hiding, casting the invisib
 
 When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
-When a creature can't see you, you have advantage on attack rolls against it. If you are hidden-both unseen and unheard-when you make an attack, you give away your location when the attack hits or misses.
+When a creature can't see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
 ## Ranged Attacks
 
@@ -354,7 +354,7 @@ Whenever a creature takes damage, that damage is subtracted from its hit points.
 
 Each weapon, spell, and harmful monster ability specifies the damage it deals. You roll the damage die or dice, add any modifiers, and apply the damage to your target. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
 
-When attacking with a **weapon**, you add your ability modifier-the same modifier used for the attack roll-to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
+When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts *fireball* or a cleric casts *flame strike*, the spell's damage is rolled once for all creatures caught in the blast.
 

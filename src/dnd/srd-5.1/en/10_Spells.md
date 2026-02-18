@@ -14,7 +14,7 @@ Uncounted thousands of spells have been created over the course of the multivers
 
 ## Spell Level
 
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) *magic missile* at 1st level and the earth-shaking *wish* at 9th. Cantrips-simple but powerful spells that characters can cast almost by rote-are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) *magic missile* at 1st level and the earth-shaking *wish* at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
 
 Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
 
@@ -28,7 +28,7 @@ In every case, the number of spells a caster can have fixed in mind at any given
 
 Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher level spells are even more so. Thus, each spellcasting class's description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
 
-When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size-small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts *magic missile*, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
+When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts *magic missile*, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
 
 Finishing a long rest restores any expended spell slots.
 
@@ -128,7 +128,7 @@ Casting some spells requires particular objects, specified in parentheses in the
 
 If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
 
-A spellcaster must have a hand free to access a spell's material components-or to hold a spellcasting focus-but it can be the same hand that he or she uses to perform somatic components.
+A spellcaster must have a hand free to access a spell's material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.
 
 ## Duration
 
@@ -220,7 +220,7 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 
 # Combining Magical Effects
 
-The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect-such as the highest bonus-from those castings applies while their durations overlap.
+The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
 
 For example, if two clerics cast *bless* on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
@@ -2872,7 +2872,7 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 **Duration:** 1 hour
 
-You make yourself-including your clothing, armor, weapons, and other belongings on your person- look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+You make yourself—including your clothing, armor, weapons, and other belongings on your person—look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
@@ -3180,7 +3180,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
 
-***Enlarge***. The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category- from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
+***Enlarge***. The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
 
 ***Reduce***. The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category-from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
 
@@ -3466,7 +3466,7 @@ You don't learn the location of each trap, but you do learn the general nature o
 
 **Range:** Self
 
-**Components:** V, S, M (a set of divinatory tools- such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)
+**Components:** V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)
 
 **Duration:** Concentration, up to 1 day
 
@@ -5853,7 +5853,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
 
-Nothing-not physical objects, energy, or other spell effects-can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
+Nothing—not physical objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 

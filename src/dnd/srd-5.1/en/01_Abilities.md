@@ -9,7 +9,7 @@ Six abilities provide a quick description of every creature's physical and menta
 - **Wisdom**, measuring perception and insight
 - **Charisma**, measuring force of personality
 
-Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses.
+Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature's assets as well as weaknesses.
 
 The three main rolls of the game-the ability check, the saving throw, and the attack roll-rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
@@ -95,7 +95,7 @@ To make an ability check, roll a d20 and add the relevant ability modifier. As w
 
 ## Contests
 
-Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal- for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a magic ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
 
 Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
 
@@ -143,7 +143,7 @@ The rules on hiding in the "Dexterity" section below rely on passive checks, as 
 
 ## Working Together
 
-Sometimes two or more characters team up to attempt a task. The character who's leading the effort-or the one with the highest ability modifier-can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
+Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
 
 A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
 
@@ -362,7 +362,7 @@ Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting abil
 
 # Saving Throws
 
-A saving throw-also called a save-represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+A saving throw—also called a save—represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
 
 To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
 

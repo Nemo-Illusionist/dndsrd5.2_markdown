@@ -8,7 +8,7 @@ As you advance in levels, you might primarily remain a member of your original c
 
 ## Prerequisites
 
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher- than-average ability scores.
+To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
 
 **Table- Multiclassing Prerequisites**
 
@@ -40,7 +40,7 @@ You add together the Hit Dice granted by all your classes to form your pool of H
 
 ## Proficiency Bonus
 
-Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th- level character, which is +3.
+Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
 
 ## Proficiencies
 
@@ -94,7 +94,7 @@ If a cantrip of yours increases in power at higher levels, the increase is based
 
 If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like *burning hands*, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know-and potentially enhance their effects.
+For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 
 ***Pact Magic***. If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 

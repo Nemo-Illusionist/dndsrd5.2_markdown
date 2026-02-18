@@ -2127,7 +2127,7 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 ***Teleport (Recharge 4-6)***. The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
 
-A **blink dog** takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long- standing hatred for displacer beasts and attack them on sight.
+A **blink dog** takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
 
 ### Blood Hawk
 
@@ -5655,7 +5655,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Languages**. The half-dragon speaks Draconic in addition to any other languages it knows.
 
-***New Action: Breath Weapon***. The half-dragon has the breath weapon of its dragon half. The half- dragon's size determines how this action functions.
+***New Action: Breath Weapon***. The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
 **Table- 115** - Monsters: Half-Dragon Template (Size)
 
@@ -7012,7 +7012,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ###### Actions
 
-***Multiattack***. The medusa makes either three melee attacks-one with its snake hair and two with its shortsword-or two ranged attacks with its longbow.
+***Multiattack***. The medusa makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.
 
 ***Snake Hair***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage plus 14 (4d6) poison damage.
 

@@ -24,7 +24,7 @@ These brief summaries of the nine alignments describe the typical behavior of a 
 
 ## Alignment in the Multiverse
 
-For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good- aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
+For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
 
 The evil deities who created other races, though, made those races to serve them. Those races have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even half-orcs feel the lingering pull of the orc god's influence.)
 

@@ -46,7 +46,7 @@ The game includes the following monster types, which have no rules of their own.
 
 **Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
 
-**Monstrosities** are monsters in the strictest sense-frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.
+**Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.
 
 **Oozes** are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. Black puddings and gelatinous cubes are among the most recognizable oozes.
 
@@ -226,7 +226,7 @@ A creature within the area of an *antimagic field* or in any other location wher
 
 A monster's **Challenge rating** tells you how great a threat the monster is. An appropriately equipped and well-rested party of four adventurers should be able to defeat a monster that has a challenge rating equal to its level without suffering any deaths. For example, a party of four 3rd-level characters should find a monster with a challenge rating of 3 to be a worthy challenge, but not a deadly one.
 
-Monsters that are significantly weaker than 1st- level characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each.
+Monsters that are significantly weaker than 1st-level characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each.
 
 Some monsters present a greater challenge than even a typical 20th-level party can handle. These monsters have a challenge rating of 21 or higher and are specifically designed to test player skill.
 
@@ -350,7 +350,7 @@ If a creature assumes the form of a legendary creature, such as through a spell,
 
 ## Legendary Actions
 
-A legendary creature can take a certain number of special actions-called legendary actions-outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while incapacitated or otherwise unable to take actions. If surprised, it can't use them until after its first turn in the combat.
+A legendary creature can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while incapacitated or otherwise unable to take actions. If surprised, it can't use them until after its first turn in the combat.
 
 ## A Legendary Creature's Lair
 

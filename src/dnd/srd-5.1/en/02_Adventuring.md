@@ -14,7 +14,7 @@ In combat and other fast-paced situations, the game relies on **rounds**, a 6-se
 
 # Movement
 
-Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope-all sorts of movement play a key role in fantasy gaming adventures.
+Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope—all sorts of movement play a key role in fantasy gaming adventures.
 
 The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
 
@@ -53,9 +53,9 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 ### Difficult Terrain
 
-The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground-all considered difficult terrain.
+The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered difficult terrain.
 
-You move at half speed in difficult terrain- moving 1 foot in difficult terrain costs 2 feet of speed-so you can cover only half the normal distance in a minute, an hour, or a day.
+You move at half speed in difficult terrain—moving 1 foot in difficult terrain costs 2 feet of speed-so you can cover only half the normal distance in a minute, an hour, or a day.
 
 ## Special Types of Movement
 
@@ -97,7 +97,7 @@ For example, a creature with a Constitution of 14 can hold its breath for 3 minu
 
 ## Vision and Light
 
-The most fundamental tasks of adventuring- noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few-rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
+The most fundamental tasks of adventuring—noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few-rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 

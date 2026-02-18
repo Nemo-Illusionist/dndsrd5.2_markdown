@@ -313,7 +313,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 41-50  | The character begins babbling and is incapable of normal speech or spellcasting.                                             |
 | 51-60  | The character must use his or her action each round to attack the nearest creature.                                          |
 | 61-70  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
-| 71-75  | The character does whatever anyone tells him or her to do that isn't obviously self- destructive.                            |
+| 71-75  | The character does whatever anyone tells him or her to do that isn't obviously self-destructive.                            |
 | 76-80  | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
 | 81-90  | The character is stunned.                                                                                                    |
 | 91-100 | The character falls unconscious.                                                                                             |
@@ -463,7 +463,7 @@ The gods of Olympus make themselves known with the gentle lap of waves against t
 
 ## The Egyptian Pantheon
 
-These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at-the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
+These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at—the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
@@ -543,7 +543,7 @@ Travel to the planes beyond the Material Plane can be accomplished in two ways: 
 
 ***Spells***. A number of spells allow direct or indirect access to other planes of existence. *Plane shift* and *gate* can transport adventurers directly to any other plane of existence, with different degrees of precision. *Etherealness* allows adventurers to enter the Ethereal Plane and travel from there to any of the planes it touches-such as the Elemental Planes. And the *astral projection* spell lets adventurers project themselves into the Astral Plane and travel to the Outer Planes.
 
-***Portals***. A portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals are like doorways, a clear window, or a fog- shrouded passage, and simply stepping through it effects the interplanar travel. Others are locations- circles of standing stones, soaring towers, sailing ships, or even whole towns-that exist in multiple planes at once or flicker from one plane to another in turn. Some are vortices, typically joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
+***Portals***. A portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals are like doorways, a clear window, or a fog-shrouded passage, and simply stepping through it effects the interplanar travel. Others are locations—circles of standing stones, soaring towers, sailing ships, or even whole towns—that exist in multiple planes at once or flicker from one plane to another in turn. Some are vortices, typically joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
 
 ### Transitive Planes
 
