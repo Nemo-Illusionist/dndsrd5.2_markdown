@@ -13,7 +13,7 @@ Table: Core Bard Traits
 | Tool Proficiencies            | Three Musical Instruments of your choice                                                                 |
 | Armor Training                | Light armor                                                                                              |
 
-### Starting Equipment
+#### Starting Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 

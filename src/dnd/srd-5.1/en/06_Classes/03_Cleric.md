@@ -13,7 +13,7 @@ Table: Core Cleric Traits
 | Tool Proficiencies            | None                                                                                                                     |
 | Armor Training                | Light armor, Medium armor, and Shields                                                                                   |
 
-### Starting Equipment
+#### Starting Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
