@@ -633,7 +633,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 *Level 1 Abjuration (Ranger, Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** 30 feet
 
@@ -781,7 +781,7 @@ A flying creature stays aloft, provided that it is able to do so. If it must mov
 
 *Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Self
 
@@ -849,7 +849,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 *Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Self
 
@@ -865,7 +865,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 *Level 1 Divination (Cleric, Druid, Paladin, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Self
 
@@ -991,7 +991,7 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 *Level 1 Conjuration (Wizard)*
 
-**Casting Time:** 1 hour
+**Casting Time:** 1 hour or Ritual
 
 **Range:** 10 feet
 
@@ -1017,7 +1017,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 *Level 1 Conjuration (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 30 feet
 
@@ -1180,7 +1180,7 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 *Level 1 Divination (Bard, Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Touch
 
@@ -1196,7 +1196,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 *Level 1 Illusion (Bard, Warlock, Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Touch
 
@@ -1308,7 +1308,7 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 *Level 1 Transmutation (Cleric, Druid, Paladin)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 10 feet
 
@@ -1404,7 +1404,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 *Level 1 Divination (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Self
 
@@ -1436,7 +1436,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 *Level 1 Conjuration (Bard, Warlock, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 60 feet
 
@@ -1508,7 +1508,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 *Level 2 Enchantment (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 30 feet
 
@@ -1562,7 +1562,7 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 *Level 2 Divination (Cleric)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Self
 
@@ -1873,7 +1873,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 *Level 2 Necromancy (Cleric, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Touch
 
@@ -2011,7 +2011,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 *Level 2 Divination (Bard, Druid, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Self
 
@@ -2043,7 +2043,7 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 
 *Level 2 Illusion (Bard, Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** 30 feet
 
@@ -2267,7 +2267,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 *Level 2 Illusion (Bard, Cleric, Ranger)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 120 feet
 
@@ -2817,7 +2817,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 *Level 3 Transmutation (Cleric, Druid)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Touch
 
@@ -2849,7 +2849,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 *Level 3 Illusion (Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** 30 feet
 
@@ -3055,7 +3055,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 *Level 3 Evocation (Bard, Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Self (10-foot radius hemisphere)
 
@@ -3103,7 +3103,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 *Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 30 feet
 
@@ -3117,7 +3117,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 *Level 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 30 feet
 
@@ -3394,7 +3394,7 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 *Level 4 Divination (Cleric)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** Self
 
@@ -3875,7 +3875,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 *Level 5 Divination (Cleric)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Self
 
@@ -3893,7 +3893,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 *Level 5 Divination (Druid, Ranger)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Self
 
@@ -3957,7 +3957,7 @@ The GM has the elemental's statistics.
 
 *Level 5 Divination (Warlock, Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Self
 
@@ -4465,7 +4465,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 *Level 5 Divination (Wizard)*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action or Ritual
 
 **Range:** 30 feet
 
@@ -4745,7 +4745,7 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 *Level 6 Abjuration (Cleric)*
 
-**Casting Time:** 10 minutes
+**Casting Time:** 10 minutes or Ritual
 
 **Range:** Touch
 
@@ -4885,7 +4885,7 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 *Level 6 Conjuration (Wizard)*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute or Ritual
 
 **Range:** Touch
 
