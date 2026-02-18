@@ -43,7 +43,6 @@ Table: Trap Dangers
 | Setback     | 10-11   | +3 to +5     |
 | Dangerous   | 12-15   | +6 to +8     |
 | Deadly      | 16-20   | +9 to +12    |
-|             |         |              |
 
 Table: Trap Severity
 
@@ -53,7 +52,6 @@ Table: Trap Severity
 | 5th-10th        | 2d10    | 4d10      | 10d10  |
 | 11th-16th       | 4d10    | 10d10     | 18d10  |
 | 17th-20th       | 10d10   | 18d10     | 24d10  |
-|                 |         |           |        |
 
 ### Complex Traps
 
@@ -207,7 +205,6 @@ Table: List of Poisons
 | Torpor             | Ingested | 600 gp     |
 | Truth serum        | Ingested | 150 gp     |
 | Wyvern poison      | Injury   | 1,200 gp   |
-|                    |          |            |
 
 ## Sample Poisons
 
@@ -317,7 +314,6 @@ Table: Madness Short-Term Effects
 | 76-80  | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
 | 81-90  | The character is stunned.                                                                                                    |
 | 91-100 | The character falls unconscious.                                                                                             |
-|        |                                                                                                                              |
 
 Table: Madness Long-Term Effects
 
@@ -335,7 +331,6 @@ Table: Madness Long-Term Effects
 | 86-90  | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.            |
 | 91-95  | The character loses the ability to speak.                                                                                                                                                                                            |
 | 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
-|        |                                                                                                                                                                                                                                      |
 
 Table: Madness Indefinite Flaws
 
@@ -353,7 +348,6 @@ Table: Madness Indefinite Flaws
 | 81-85  | "There's only one person I can trust. And only I can see this special friend."                                                           |
 | 86-95  | "I can't take anything seriously. The more serious the situation, the funnier I find it."                                                |
 | 96-100 | "I've discovered that I really like killing people."                                                                                     |
-|        |                                                                                                                                          |
 
 ### Curing Madness
 
@@ -382,7 +376,6 @@ Table: Object's Armor Class
 | Iron, steel         | 19 |
 | Mithral             | 21 |
 | Adamantine          | 23 |
-|                     |    |
 
 ***Hit Points***. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
@@ -394,7 +387,6 @@ Table: Object's Hit Points
 | Small (chest, lute)                 | 3 (1d6)  | 10 (3d6)  |
 | Medium (barrel, chandelier)         | 4 (1d8)  | 18 (4d8)  |
 | Large (cart, 10-ft-by-10-ft window) | 5 (1d10) | 27 (5d10) |
-|                                     |          |           |
 
 ***Huge and Gargantuan Objects***. Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an *earthquake* spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
 
@@ -430,7 +422,6 @@ Table: Celtic Deities
 | Nuada, god of war and warriors                    | N         | War               | Silver hand on black background    |
 | Oghma, god of speech and writing                  | NG        | Knowledge         | Unfurled scroll                    |
 | Silvanus, god of nature and forests               | N         | Nature            | Summer oak tree                    |
-|                                                   |           |                   |                                    |
 
 ## The Greek Pantheon
 
@@ -459,7 +450,6 @@ Table: Greek Deities
 | Pan, god of nature                         | CN        | Nature                 | Syrinx (pan pipes)                    |
 | Poseidon, god of the sea and earthquakes   | CN        | Tempest                | Trident                               |
 | Tyche, goddess of good fortune             | N         | Trickery               | Red pentagram                         |
-|                                            |           |                        |                                       |
 
 ## The Egyptian Pantheon
 
@@ -485,7 +475,6 @@ Table: Egyptian Deities
 | Set, god of darkness and desert storms         | CE        | Death, Tempest, Trickery | Coiled cobra                         |
 | Sobek, god of water and crocodiles             | LE        | Nature, Tempest          | Crocodile head with horns and plumes |
 | Thoth, god of knowledge and wisdom             | N         | Knowledge                | Ibis                                 |
-|                                                |           |                          |                                      |
 
 ## The Norse Pantheon
 
@@ -517,7 +506,6 @@ Table: Norse Deities
 | Thrym, god of frost giants and cold       | CE        | War               | White double-bladed axe           |
 | Tyr, god of courage and strategy          | LN        | Knowledge, War    | Sword                             |
 | Uller, god of hunting and winter          | CN        | Nature            | Longbow                           |
-|                                           |           |                   |                                   |
 
 # Planes
 

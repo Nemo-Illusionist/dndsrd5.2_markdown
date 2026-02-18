@@ -21,7 +21,6 @@ Table: Standard Exchange Rates
 | Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
 | Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
 | Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
-|               |       |      |      |       |         |
 
 # Expenses
 
@@ -46,7 +45,6 @@ Table: Lifestyle Expenses
 | Comfortable  | 2 gp          |
 | Wealthy      | 4 gp          |
 | Aristocratic | 10 gp minimum |
-|              |               |
 
 ***Wretched***. You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
 
@@ -94,7 +92,6 @@ Table: Food, Drink, and Lodging
 | *Wine*                 |       |
 | ~ Common (pitcher)     | 2 sp  |
 | ~ Fine (bottle)        | 10 gp |
-|                        |       |
 
 > **Self-Sufficiency**
 >
@@ -125,7 +122,6 @@ Table: Services
 | Messenger         | 2 cp per mile |
 | Road or gate toll | 1 cp          |
 | Ship's passage    | 1 sp per mile |
-|                   |               |
 
 ## Spellcasting Services
 
@@ -208,7 +204,6 @@ Table: Armor
 | Plate            | 1,500 gp | 18                        | Str 15   | Disadvantage | 65 lb. |
 | Shield           |          |                           |          |              |        |
 | Shield           | 10 gp    | +2                        | -        | -            | 6 lb.  |
-|                  |          |                           |          |              |        |
 
 ## Getting Into and Out of Armor
 
@@ -226,7 +221,6 @@ Table: Donning and Doffing Armor
 | Medium Armor | 5 minutes  | 1 minute  |
 | Heavy Armor  | 10 minutes | 5 minutes |
 | Shield       | 1 action   | 1 action  |
-|              |            |           |
 
 # Weapons
 
@@ -335,7 +329,6 @@ Table: Weapons
 | Crossbow, heavy            | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
 | Longbow                    | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
 | Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           |
-|                            |       |                 |         |                                                        |
 
 # Adventuring Gear
 
@@ -540,7 +533,6 @@ Table: Adventuring Gear
 | Vial                         | 1 gp     | -            |
 | Waterskin                    | 2 sp     | 5 lb. (full) |
 | Whetstone                    | 1 cp     | 1 lb.        |
-|                              |          |              |
 
 Table: Container Capacity
 
@@ -559,7 +551,6 @@ Table: Container Capacity
 | Sack             | 1 cubic foot/30 pounds of gear         |
 | Vial             | 4 ounces liquid                        |
 | Waterskin        | 4 pints liquid                         |
-|                  |                                        |
 
 \* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
@@ -610,7 +601,6 @@ Table: Tools
 | Poisoner's kit            | 50 gp | 2 lb.  |
 | Thieves' tools            | 25 gp | 1 lb.  |
 | Vehicles (land or water)  | *     | *      |
-|                           |       |        |
 
 \* See the "Mounts and Vehicles" section.
 
@@ -655,7 +645,6 @@ Table: Cost of Trade Goods
 | 15 gp  | 1 lb. of saffron or one ox                   |
 | 50 gp  | 1 lb. of gold                                |
 | 500 gp | 1 lb. of platinum                            |
-|        |                                              |
 
 # Mounts and Vehicles
 
@@ -685,7 +674,6 @@ Table: Mounts and Other Animals
 | Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
 | Pony           | 30 gp  | 40 ft. | 225 lb.           |
 | Warhorse       | 400 gp | 60 ft. | 540 lb.           |
-|                |        |        |                   |
 
 Table: Tack, Harness, and Drawn Vehicles
 
@@ -706,7 +694,6 @@ Table: Tack, Harness, and Drawn Vehicles
 | Sled               | 20 gp  | 300 lb. |
 | Stabling (per day) | 5 sp   | -       |
 | Wagon              | 35 gp  | 400 lb. |
-|                    |        |         |
 
 Table: Waterborne Vehicles
 
@@ -718,7 +705,6 @@ Table: Waterborne Vehicles
 | Rowboat      | 50 gp     | 1½ mph |
 | Sailing ship | 10,000 gp | 2 mph  |
 | Warship      | 25,000 gp | 2½ mph |
-|              |           |        |
 
 # Selling Treasure
 

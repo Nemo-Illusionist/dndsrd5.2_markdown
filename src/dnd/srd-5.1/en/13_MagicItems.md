@@ -81,7 +81,6 @@ Table: Sentient Magic Items: Communication
 | 01-60  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
 | 61-90  | The item can speak, read, and understand one or more languages.                                                                                                    |
 | 91-100 | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
-|        |                                                                                                                                                                    |
 
 ### Senses
 
@@ -95,7 +94,6 @@ Table: Sentient Magic Items: Senses
 | 2  | Hearing and normal vision out to 60 feet   |
 | 3  | Hearing and normal vision out to 120 feet. |
 | 4  | Hearing and darkvision out to 120 feet.    |
-|    |                                            |
 
 ### Alignment
 
@@ -114,7 +112,6 @@ Table: Sentient Magic Items: Alignment
 | 86-89  | Lawful evil     |
 | 90-96  | Neutral evil    |
 | 97-100 | Chaotic evil    |
-|        |                 |
 
 ### Special Purpose
 
@@ -134,7 +131,6 @@ Table: Sentient Magic Items: Special Purpose
 | 8   | Lore Seeker: The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.             |
 | 9   | Destiny Seeker: The item is convinced that it and its wielder have key roles to play in future events.                                 |
 | 10  | Creator Seeker: The item seeks its creator and wants to understand why it was created.                                                 |
-|     |                                                                                                                                        |
 
 ### Conflict
 
@@ -254,7 +250,6 @@ Table: Apparatus of the Crab
 | 8     | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet.                                  | The light turns off.                                                                                                                        |
 | 9     | The apparatus sinks as much as 20 feet in liquid.                                                                                | The apparatus rises up to 20 feet in liquid.                                                                                                |
 | 10    | The rear hatch unseals and opens.                                                                                                | The rear hatch closes and seals.                                                                                                            |
-|       |                                                                                                                                  |                                                                                                                                             |
 
 ### Armor of Invulnerability
 
@@ -282,7 +277,6 @@ Table: Armor of Resistance
 | 8   | Psychic     |
 | 9   | Radiant     |
 | 10  | Thunder     |
-|     |             |
 
 ### Armor of Vulnerability
 
@@ -339,7 +333,6 @@ Table: Bag of Beans
 | 81-90 | A nest of 1d4+3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.                              |
 | 91-99 | A pyramid with a 60-foot square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord's lair, and its sarcophagus contains treasure of the GM's choice.                                                                                                                                                       |
 | 100   | A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or a different plane of existence.                                                                                                                                                                            |
-|       |                                                                                                                                                                                                                                                                                                                                                                       |
 
 ### Bag of Devouring
 
@@ -387,7 +380,6 @@ Table: Gray Bag of Tricks
 | 6  | Giant badger |
 | 7  | Dire wolf    |
 | 8  | Giant elk    |
-|    |              |
 
 Table: Rust Bag of Tricks
 
@@ -401,7 +393,6 @@ Table: Rust Bag of Tricks
 | 6  | Giant boar |
 | 7  | Lion       |
 | 8  | Brown bear |
-|    |            |
 
 Table: Tan Bag of Tricks
 
@@ -415,7 +406,6 @@ Table: Tan Bag of Tricks
 | 6  | Giant weasel |
 | 7  | Giant hyena  |
 | 8  | Tiger        |
-|    |              |
 
 ### Bead of Force
 
@@ -461,7 +451,6 @@ Table: Belt of Strength
 | Fire giant        | 25       | Very rare |
 | Cloud giant       | 27       | Legendary |
 | Storm giant       | 29       | Legendary |
-|                   |          |           |
 
 ### Berserker Axe
 
@@ -570,7 +559,6 @@ Table: Candle of Invocation
 | 14-15 | Lawful evil     |
 | 16-17 | Lawful neutral  |
 | 18-20 | Lawful good     |
-|       |                 |
 
 The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
 
@@ -602,7 +590,6 @@ Table: Carpet of Flying
 | 21-55  | 4 ft. × 6 ft. | 400 lb.  | 60 feet      |
 | 56-80  | 5 ft. × 7 ft. | 600 lb.  | 40 feet      |
 | 81-100 | 6 ft. × 9 ft. | 800 lb.  | 30 feet      |
-|        |               |          |              |
 
 A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.
 
@@ -706,7 +693,6 @@ Table: Cube of Force Effects
 | 4    | 4       | Spell effects can't pass through the barrier.                                                                     |
 | 5    | 5       | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.            |
 | 6    | 0       | The barrier deactivates.                                                                                          |
-|      |         |                                                                                                                   |
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
 
@@ -719,7 +705,6 @@ Table: Cube of Force Charges Lost
 | Passwall         | 1d6          |
 | Prismatic spray  | 1d20         |
 | Wall of fire     | 1d4          |
-|                  |              |
 
 ### Cubic Gate
 
@@ -1042,7 +1027,6 @@ Table: Efreeti Bottle
 | 01-10  | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.                                                                                                                                                                                                                                          |
 | 11-90  | The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
 | 91-100 | The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.                                                                                                                                                                                                  |
-|        |                                                                                                                                                                                                                                                                                                                                                        |
 
 ### Elemental Gem
 
@@ -1058,7 +1042,6 @@ Table: Elemental Gem
 | Yellow diamond | Earth elemental    |
 | Red corundum   | Fire elemental     |
 | Emerald        | Water elemental    |
-|                |                    |
 
 ### Elven Chain
 
@@ -1364,7 +1347,6 @@ Table: Horn of Valhalla
 | 41-75 | Brass     | 3d4+3               | Proficiency with all simple weapons  |
 | 76-90 | Bronze    | 4d4+4               | Proficiency with all medium armor    |
 | 91-00 | Iron      | 5d4+5               | Proficiency with all martial weapons |
-|       |           |                     |                                      |
 
 If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
 
@@ -1492,7 +1474,6 @@ Table: Iron Flask
 | 96    | Solar             |
 | 97‒99 | Succubus/incubus  |
 | 100   | Xorn              |
-|       |                   |
 
 ### Javelin of Lightning
 
@@ -1574,7 +1555,6 @@ Table: Manual of Golems
 | 6-17  | Flesh | 60 days  | 50,000 gp  |
 | 18    | Iron  | 120 days | 100,000 gp |
 | 19-20 | Stone | 90 days  | 80,000 gp  |
-|       |       |          |            |
 
 To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
 
@@ -1662,7 +1642,6 @@ Table: Necklace of Prayer Beads
 | 17-18 | Smiting      | Branding smite                                |
 | 19    | Summons      | Planar ally                                   |
 | 20    | Wind walking | Wind walk                                     |
-|       |              |                                               |
 
 ### Nine Lives Stealer
 
@@ -1821,7 +1800,6 @@ Table: Potion of Giant Strength
 | Fire giant        | 25       | Rare      |
 | Cloud giant       | 27       | Very rare |
 | Storm giant       | 29       | Legendary |
-|                   |          |           |
 
 ### Potion of Growth
 
@@ -1843,7 +1821,6 @@ Table: Potions of Healing
 | Greater healing  | Uncommon  | 4d4+4       |
 | Superior healing | Rare      | 8d4+8       |
 | Supreme healing  | Very rare | 10d4+20     |
-|                  |           |             |
 
 ### Potion of Heroism
 
@@ -1891,7 +1868,6 @@ Table: Potion of Resistance
 | 8   | Psychic     |
 | 9   | Radiant     |
 | 10  | Thunder     |
-|     |             |
 
 ### Potion of Speed
 
@@ -2045,7 +2021,6 @@ Table: Ring of Resistance
 | 8   | Psychic     | Jade       |
 | 9   | Radiant     | Topaz      |
 | 10  | Thunder     | Spinel     |
-|     |             |            |
 
 ### Ring of Shooting Stars
 
@@ -2071,7 +2046,6 @@ Table: Ring of Shooting Stars
 | 3       | 2d6              |
 | 2       | 5d4              |
 | 1       | 4d12             |
-|         |                  |
 
 ***Shooting Stars***. You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one.
 
@@ -2200,7 +2174,6 @@ Table: Robe of Useful Items
 | 84-90  | 2 mastiffs                                                                                                                                                                                        |
 | 91-96  | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach                                                                                             |
 | 97-100 | Portable ram                                                                                                                                                                                      |
-|        |                                                                                                                                                                                                   |
 
 ### Robe of the Archmagi
 
@@ -2369,7 +2342,6 @@ Table: Spell Scroll
 | 7th         | Very rare | 18      | +10          |
 | 8th         | Very rare | 18      | +10          |
 | 9th         | Legendary | 19      | +11          |
-|             |           |         |              |
 
 A wizard spell on a *spell scroll* can be copied just as spells in spellbooks can be copied. When a spell is copied from a the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10+the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *spell scroll* is destroyed.
 
@@ -2400,7 +2372,6 @@ Table: Sphere of Annihilation
 | 01-50 | The sphere is destroyed.                                                                                                           |
 | 51-85 | The sphere moves through the portal or into the extradimensional space.                                                            |
 | 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence. |
-|       |                                                                                                                                    |
 
 ### Staff of Charming
 
@@ -2463,7 +2434,6 @@ Table: Staff of Power
 | 10 ft. away or closer | 8 × the number of charges in the staff |
 | 11 to 20 ft. away     | 6 × the number of charges in the staff |
 | 21 to 30 ft. away     | 4 × the number of charges in the staff |
-|                       |                                        |
 
 ### Staff of Striking
 
@@ -2532,7 +2502,6 @@ Table: Staff of the Magi
 | 10 ft. away or closer | 8 × the number of charges in the staff |
 | 11 to 20 ft. away     | 6 × the number of charges in the staff |
 | 21 to 30 ft. away     | 4 × the number of charges in the staff |
-|                       |                                        |
 
 ### Staff of the Python
 
@@ -2800,7 +2769,6 @@ Table: Wand of Wonder
 | 91-95  | A burst of colorful shimmering light extends from you in a 30-foot radius. You and each creature in the area that can see must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.                                                                                                                                                                                                                                                                            |
 | 96-97  | The target's skin turns bright blue for 1d10 days. If you chose a point in space, the creature nearest to that point is affected.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 98-100 | If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly petrified. On any other failed save, the target is restrained and begins to turn to stone. While restrained in this way, the target must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the target is freed by the greater restoration spell or similar magic. |
-|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ### Wand of the War Mage, +1, +2, or +3
 

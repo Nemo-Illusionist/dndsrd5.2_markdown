@@ -49,7 +49,6 @@ Table: Travel Pace
 | Fast   | 400 feet | 4 miles | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
 | Normal | 300 feet | 3 miles | 18 miles | -                                                |
 | Slow   | 200 feet | 2 miles | 24 miles | Able to use stealth                              |
-|        |          |         |          |                                                  |
 
 ### Difficult Terrain
 

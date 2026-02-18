@@ -1412,7 +1412,6 @@ Table: Animate Object Stats
 | Medium | 40 | 13 | +5 to hit, 2d6 + 1 damage  | 10  | 12  |
 | Large  | 50 | 10 | +6 to hit, 2d10 + 2 damage | 14  | 10  |
 | Huge   | 80 | 10 | +8 to hit, 2d12 + 4 damage | 18  | 6   |
-|        |    |    |                            |     |     |
 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is
 
@@ -2222,7 +2221,6 @@ Table: Confusion Behavior
 | 2-6  | The creature doesn't move or take actions this turn.                                                                                                                                            |
 | 7-8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn.     |
 | 9-10 | The creature can act and move normally.                                                                                                                                                         |
-|      |                                                                                                                                                                                                 |
 
 At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
 
@@ -2507,7 +2505,6 @@ Table: Control Weather (Precipitation)
 | 3     | Overcast or ground fog                     |
 | 4     | Rain, hail, or snow                        |
 | 5     | Torrential rain, driving hail, or blizzard |
-|       |                                            |
 
 Table: Control Weather (Temperature)
 
@@ -2519,7 +2516,6 @@ Table: Control Weather (Temperature)
 | 4     | Cool            |
 | 5     | Cold            |
 | 6     | Arctic cold     |
-|       |                 |
 
 Table: Control Weather (Wind)
 
@@ -2530,7 +2526,6 @@ Table: Control Weather (Wind)
 | 3     | Strong wind   |
 | 4     | Gale          |
 | 5     | Storm         |
-|       |               |
 
 ### Counterspell
 
@@ -2628,7 +2623,6 @@ Table: Creation Duration
 | Precious metals       | 1 hour     |
 | Gems                  | 10 minutes |
 | Adamantine or mithral | 1 minute   |
-|                       |            |
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 
@@ -5821,7 +5815,6 @@ Table: Reincarnate Race
 | 69-76 | Halfling, stout     |
 | 77-96 | Human               |
 | 97-00 | Tiefling            |
-|       |                     |
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
@@ -6022,7 +6015,6 @@ Table: Scrying Save Modifier
 | Likeness or picture                               | -2            |
 | Possession or garment                             | -4            |
 | Body part, lock of hair, bit of nail, or the like | -10           |
-|                                                   |               |
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
@@ -6691,7 +6683,6 @@ Table: Teleport Familiarity
 | Viewed once       | 01-43  | 44-53        | 54-73      | 74-100    |
 | Description       | 01-43  | 44-53        | 54-73      | 74-100    |
 | False destination | 01-50  | 51-100       | -          | -         |
-|                   |        |              |            |           |
 
 ***Familiarity***. "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.
 

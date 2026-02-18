@@ -26,7 +26,6 @@ Table: Multiclassing Prerequisites
 | Sorcerer  | Charisma 13                 |
 | Warlock   | Charisma 13                 |
 | Wizard    | Intelligence 13             |
-|           |                             |
 
 ## Experience Points
 
@@ -62,7 +61,6 @@ Table: Multiclassing Proficiencies
 | Sorcerer  | -                                                                                                          |
 | Warlock   | Light armor, simple weapons                                                                                |
 | Wizard    | -                                                                                                          |
-|           |                                                                                                            |
 
 # Class Features
 
@@ -122,4 +120,3 @@ Table: Multiclass Spellcaster: Spell Slots per Spell Level
 | 18th  | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
 | 19th  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
-|       |     |     |     |     |     |     |     |     |     |

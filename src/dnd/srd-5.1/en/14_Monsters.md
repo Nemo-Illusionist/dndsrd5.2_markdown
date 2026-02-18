@@ -15,7 +15,6 @@ Table: Size Categories
 | Large      | 10 by 10 ft.           | Hippogriff, ogre    |
 | Huge       | 15 by 15 ft.           | Fire giant, treant  |
 | Gargantuan | 20 by 20 ft. or larger | Kraken, purple worm |
-|            |                        |                     |
 
 > **Modifying Creatures**
 > Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a **variant** or **template**, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating
@@ -90,7 +89,6 @@ Table: Hit Dice by Size
 | Large        | d10     | 5 1/2              |
 | Huge         | d12     | 6 1/2              |
 | Gargantuan   | d20     | 10 1/2             |
-|              |         |                    |
 
 A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8+2 hit points (average 11).
 
@@ -166,7 +164,6 @@ Table: Proficiency Bonus by Challenge Rating
 | 28        | +8                |
 | 29        | +9                |
 | 30        | +9                |
-|           |                   |
 
 ## Skills
 
@@ -264,7 +261,6 @@ Table: Experience Points by Challenge Rating
 | 23        | 50,000  |
 | 24        | 62,000  |
 | 25        | 75,000  |
-|           |         |
 
 ## Special Traits
 

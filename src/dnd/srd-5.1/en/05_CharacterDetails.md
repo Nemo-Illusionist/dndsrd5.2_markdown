@@ -119,7 +119,6 @@ Table: Suggested Acolyte Characteristics
 | 4      | I am inflexible in my thinking.                                                                                            |
 | 5      | I am suspicious of strangers and expect the worst of them.                                                                 |
 | 6      | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.                              |
-|        |                                                                                                                            |
 
 # Inspiration
 
@@ -157,7 +156,6 @@ Table: Standard Languages
 | Goblin   | Goblinoids       | Dwarvish |
 | Halfling | Halflings        | Common   |
 | Orc      | Orcs             | Dwarvish |
-|          |                  |          |
 
 Table: Exotic Languages
 
@@ -171,7 +169,6 @@ Table: Exotic Languages
 | Primordial  | Elementals          | Dwarvish  |
 | Sylvan      | Fey creatures       | Elvish    |
 | Undercommon | Underworld traders  | Elvish    |
-|             |                     |           |
 
 # Beyond 1st Level
 

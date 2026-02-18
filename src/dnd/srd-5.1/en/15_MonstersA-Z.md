@@ -5651,7 +5651,6 @@ Table: 114 - Monsters: Half-Dragon Template (Damage Resistance)
 | Brass, gold, or red | Fire              |
 | Green               | Poison            |
 | Silver or white     | Cold              |
-|                     |                   |
 
 **Languages**. The half-dragon speaks Draconic in addition to any other languages it knows.
 
@@ -5664,7 +5663,6 @@ Table: 115 - Monsters: Half-Dragon Template (Size)
 | Large or smaller | As a wyrmling      | Challenge 2 or higher |
 | Huge             | As a young dragon  | Challenge 7 or higher |
 | Gargantuan       | As an adult dragon | Challenge 8 or higher |
-|                  |                    |                       |
 
 ### Half-Red Dragon Veteran
 
