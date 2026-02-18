@@ -13,7 +13,7 @@ Table: Core Barbarian Traits
 | Weapon Proficiencies          | Simple and Martial weapons                                                          |
 | Starting Equipment            | (a) Greataxe or (b) any martial melee weapon; (a) two Handaxes or (b) any simple weapon; Explorer's Pack and 4 Javelins |
 
-### Class Features
+### Barbarian Class Features
 
 As a barbarian, you gain the following class features.
 
@@ -146,7 +146,7 @@ Beginning at 18th level, if your total for a Strength check is less than your St
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
-### Path of the Berserker
+### Barbarian Subclass: Path of the Berserker
 
 For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
