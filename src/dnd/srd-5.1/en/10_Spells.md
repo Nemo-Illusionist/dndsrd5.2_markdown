@@ -242,7 +242,7 @@ For example, if two clerics cast *bless* on the same target, that character gain
 
 You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
 
-This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+**_Cantrip Upgrade._** This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 ### Chill Touch
 
@@ -260,7 +260,7 @@ You create a ghostly, skeletal hand in the space of a creature within range. Mak
 
 If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
 
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+**_Cantrip Upgrade._** This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Dancing Lights
 
@@ -311,7 +311,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
 
-The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+**_Cantrip Upgrade._** The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ### Fire Bolt
 
@@ -327,7 +327,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 
-This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+**_Cantrip Upgrade._** This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ### Guidance
 
@@ -443,7 +443,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
 
-This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
+**_Cantrip Upgrade._** This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
 
 ### Prestidigitation
 
@@ -484,7 +484,7 @@ A flickering flame appears in your hand. The flame remains there for the duratio
 
 You can also attack with the flame, although doing so ends the spell. When you cast this spell, or as an action on a later turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
 
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+**_Cantrip Upgrade._** This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Ray of Frost
 
@@ -500,7 +500,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+**_Cantrip Upgrade._** The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Resistance
 
@@ -530,7 +530,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+**_Cantrip Upgrade._** The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Shillelagh
 
@@ -560,7 +560,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.
 
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+**_Cantrip Upgrade._** The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Spare the Dying
 
@@ -625,7 +625,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
 
-This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+**_Cantrip Upgrade._** This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
 ## Level 1 Spells
 
@@ -661,7 +661,7 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 
 This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast t level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast t level above 1st.
 
 ### Bane
 
@@ -677,7 +677,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Bless
 
@@ -693,7 +693,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Burning Hands
 
@@ -711,7 +711,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Charm Person
 
@@ -727,7 +727,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 ### Color Spray
 
@@ -745,7 +745,7 @@ A dazzling array of flashing, colored light springs from your hand. Roll 6d10; t
 
 Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
 ### Command
 
@@ -775,7 +775,7 @@ Some typical commands and their effects follow. You might issue a command other 
 
 A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
 
 ### Comprehend Languages
 
@@ -811,7 +811,7 @@ You either create or destroy water.
 
 **_Destroy Water._** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
 
 ### Cure Wounds
 
@@ -827,7 +827,7 @@ You either create or destroy water.
 
 A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
 ### Detect Evil and Good
 
@@ -971,7 +971,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 
 ### Feather Fall
 
@@ -1045,7 +1045,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 You create a 20-foot radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st.
 
 ### Goodberry
 
@@ -1094,7 +1094,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ### Healing Word
 
@@ -1110,7 +1110,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
 
 ### Hellish Rebuke
 
@@ -1126,7 +1126,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
 ### Heroism
 
@@ -1142,7 +1142,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary hit points from this spell.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Hideous Laughter
 
@@ -1174,7 +1174,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
 ### Identify
 
@@ -1226,7 +1226,7 @@ A creature with truesight can read the hidden message.
 
 Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
 ### Jump
 
@@ -1256,7 +1256,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 You touch a creature. The target's speed increases by 10 feet until the spell ends.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ### Mage Armor
 
@@ -1286,7 +1286,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
 ### Protection from Evil and Good
 
@@ -1398,7 +1398,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 Undead and creatures immune to being charmed aren't affected by this spell.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
 ### Speak with Animals
 
@@ -1430,7 +1430,7 @@ A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube 
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Unseen Servant
 
@@ -1466,7 +1466,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
 ### Aid
 
@@ -1482,7 +1482,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
 
 ### Alter Self
 
@@ -1520,7 +1520,7 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 
 When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
 
-**_At Higher Levels._** If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
 ### Arcane Lock
 
@@ -1609,7 +1609,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ### Blur
 
@@ -1639,7 +1639,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
 ### Calm Emotions
 
@@ -1753,7 +1753,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 **_Owl's Wisdom._** The target has advantage on Wisdom checks.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ### Enlarge/Reduce
 
@@ -1847,7 +1847,7 @@ You can use your action to make a melee spell attack with the fiery blade. On a 
 
 The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
 
 ### Flaming Sphere
 
@@ -1867,7 +1867,7 @@ As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere 
 
 When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
 ### Gentle Repose
 
@@ -1921,7 +1921,7 @@ Choose a manufactured metal object, such as a metal weapon or a suit of heavy or
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ### Hold Person
 
@@ -1937,7 +1937,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.
 
 ### Invisibility
 
@@ -1953,7 +1953,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ### Knock
 
@@ -2071,7 +2071,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
 ### Mirror Image
 
@@ -2129,7 +2129,7 @@ A shapechanger makes its saving throw with disadvantage. If it fails, it also in
 
 On each of your turns after you cast this spell, you can use an action to move the beam up to 60 feet in any direction.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 
 ### Pass without Trace
 
@@ -2159,7 +2159,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
 
 ### Protection from Poison
 
@@ -2229,7 +2229,7 @@ You create three rays of fire and hurl them at targets within range. You can hur
 
 Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
 ### See Invisibility
 
@@ -2261,7 +2261,7 @@ A sudden loud ringing noise, painfully intense, erupts from a point of your choi
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ### Silence
 
@@ -2325,7 +2325,7 @@ As a bonus action on your turn, you can move the weapon up to 20 feet and repeat
 
 The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
 
 ### Suggestion
 
@@ -2423,7 +2423,7 @@ On each of your turns, you can use a bonus action to mentally command any creatu
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd. Each of the creatures must come from a different corpse or pile of bones.
 
 ### Beacon of Hope
 
@@ -2460,7 +2460,7 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 
 A *remove curse* spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.
 
-**_At Higher Levels._** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
+**_Using a Higher-Level Spell Slot._** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
 
 ### Blink
 
@@ -2496,7 +2496,7 @@ When you cast the spell, choose a point you can see under the cloud. A bolt of l
 
 If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
 
 ### Clairvoyance
 
@@ -2541,7 +2541,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The GM has the creatures' statistics.
 
-**_At Higher Levels._** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
 
 ### Counterspell
 
@@ -2557,7 +2557,7 @@ The GM has the creatures' statistics.
 
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
 
 ### Create Food and Water
 
@@ -2605,7 +2605,7 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.
 
 ### Fear
 
@@ -2639,7 +2639,7 @@ A bright streak flashes from your pointing finger to a point you choose within r
 
 The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 ### Fly
 
@@ -2655,7 +2655,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
 ### Gaseous Form
 
@@ -2701,7 +2701,7 @@ When you inscribe the glyph, choose *explosive runes* or a *spell glyph*.
 
 **_Spell Glyph._** You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage of an *explosive runes* glyph increases by 1d8 for each slot level above 3rd. If you create a *spell glyph*, you can store any spell of up to the same level as the slot you use for the *glyph of warding*.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the damage of an *explosive runes* glyph increases by 1d8 for each slot level above 3rd. If you create a *spell glyph*, you can store any spell of up to the same level as the slot you use for the *glyph of warding*.
 
 ### Haste
 
@@ -2751,7 +2751,7 @@ A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out fr
 
 The lightning ignites flammable objects in the area that aren't being worn or carried.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 ### Magic Circle
 
@@ -2775,7 +2775,7 @@ Choose one or more of the following types of creatures: celestials, elementals, 
 
 When you cast this spell, you can elect to cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the cylinder and protecting targets outside it.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.
 
 ### Major Image
 
@@ -2795,7 +2795,7 @@ As long as you are within range of the illusion, you can use your action to caus
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
 
 ### Mass Healing Word
 
@@ -2811,7 +2811,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd.
 
 ### Meld into Stone
 
@@ -3031,7 +3031,7 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 
 When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 ### Stinking Cloud
 
@@ -3097,7 +3097,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 ### Water Breathing
 
@@ -3185,7 +3185,7 @@ If the target is native to the plane of existence you're on, you banish the targ
 
 If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
 
 ### Black Tentacles
 
@@ -3223,7 +3223,7 @@ If you target a plant creature or a magical plant, it makes the saving throw wit
 
 If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a saving throw; it simply withers and dies.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
 ### Compulsion
 
@@ -3268,7 +3268,7 @@ Table: Confusion Behavior
 
 At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
 ### Conjure Minor Elementals
 
@@ -3295,7 +3295,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The GM has the creatures' statistics.
 
-**_At Higher Levels._** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
 ### Conjure Woodland Beings
 
@@ -3322,7 +3322,7 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The GM has the creatures' statistics.
 
-**_At Higher Levels._** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
 
 ### Control Water
 
@@ -3428,7 +3428,7 @@ You can use your action to take total and precise control of the target. Until t
 
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
 
-**_At Higher Levels._** When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours.
+**_Using a Higher-Level Spell Slot._** When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours.
 
 ### Fabricate
 
@@ -3582,7 +3582,7 @@ A hail of rock-hard ice pounds to the ground in a 20-foot radius, 40-foot high c
 
 Hailstones turn the storm's area of effect into difficult terrain until the end of your next turn.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
 ### Locate Creature
 
@@ -3616,7 +3616,7 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 
 ### Polymorph
 
@@ -3663,7 +3663,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 - Nothing can teleport into or out of the warded area.
 - Planar travel is blocked within the warded area. Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
 
 ### Resilient Sphere
 
@@ -3749,7 +3749,7 @@ When the wall appears, each creature within its area must make a Dexterity savin
 
 One side of the wall, selected by you when you cast this spell, deals 5d8 fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
 ## Level 5 Spells
 
@@ -3785,7 +3785,7 @@ An animated object is a construct with AC, hit points, attacks, Strength, and De
 
 If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The GM might rule that a specific object inflicts slashing or piercing damage based on its form.
 
-**_At Higher Levels._** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
 ### Antilife Shell
 
@@ -3833,7 +3833,7 @@ Make a check with the hand's Strength contested by the Strength (Athletics) chec
 
 **_Interposing Hand._** The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 
 ### Awaken
 
@@ -3869,7 +3869,7 @@ When a creature enters the spell's area for the first time on a turn or starts i
 
 The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Commune
 
@@ -3929,7 +3929,7 @@ A blast of cold air erupts from your hands. Each creature in a 60-foot cone must
 
 A creature killed by this spell becomes a frozen statue until it thaws.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ### Conjure Elemental
 
@@ -3951,7 +3951,7 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 
 The GM has the elemental's statistics.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 
 ### Contact Other Plane
 
@@ -4027,7 +4027,7 @@ Table: Creation Duration
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
 ### Dispel Evil and Good
 
@@ -4069,7 +4069,7 @@ You can use your action to take total and precise control of the target. Until t
 
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
 
-**_At Higher Levels._** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a 6th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 7th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 8th level or higher, the duration is concentration, up to 8 hours.
 
 ### Dream
 
@@ -4105,7 +4105,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot radius, 40-foot high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
 ### Geas
 
@@ -4125,7 +4125,7 @@ You can issue any command you choose, short of an activity that would result in 
 
 You can end the spell early by using an action to dismiss it. A *remove curse*, *greater restoration*, or *wish* spell also ends it.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th or 8th level, the duration is 1 year. When you cast this spell using a spell slot of 9th level, the spell lasts until it is ended by one of the spells mentioned above.
 
 ### Greater Restoration
 
@@ -4198,7 +4198,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
 ### Insect Plague
 
@@ -4216,7 +4216,7 @@ Swarming, biting locusts fill a 20-foot radius sphere centered on a point you ch
 
 When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
 
 ### Legend Lore
 
@@ -4248,7 +4248,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
 
 ### Mislead
 
@@ -4290,7 +4290,7 @@ A modified memory doesn't necessarily affect how a creature behaves, particularl
 
 A *remove curse* or *greater restoration* spell cast on the target restores the creature's true memory.
 
-**_At Higher Levels._** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
+**_Using a Higher-Level Spell Slot._** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).
 
 ### Passwall
 
@@ -4324,7 +4324,7 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 
 A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot.
 
 ### Raise Dead
 
@@ -4585,7 +4585,7 @@ You create a bolt of lightning that arcs toward a target of your choice that you
 
 A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much damage on a successful one.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
 ### Circle of Death
 
@@ -4601,7 +4601,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 A sphere of negative energy ripples out in a 60-foot radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
 
 ### Conjure Fey
 
@@ -4623,7 +4623,7 @@ If your concentration is broken, the fey creature doesn't disappear. Instead, yo
 
 The GM has the fey creature's statistics.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
 
 ### Contingency
 
@@ -4661,7 +4661,7 @@ As a bonus action on each of your turns, you can mentally command any creature y
 
 The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
-**_At Higher Levels._** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
 ### Disintegrate
 
@@ -4683,7 +4683,7 @@ A disintegrated creature and everything it is wearing and carrying, except magic
 
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot cube portion of it. A magic item is unaffected by this spell.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
 
 ### Eyebite
 
@@ -4779,7 +4779,7 @@ If the globe strikes a body of water or a liquid that is principally water (not 
 
 You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
 
 ### Globe of Invulnerability
 
@@ -4797,7 +4797,7 @@ An immobile, faintly shimmering barrier springs into existence in a 10-foot radi
 
 Any spell of 5th level or lower cast from outside the barrier can't affect creatures or objects within it, even if the spell is cast using a higher level spell slot. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, the barrier blocks spells of one level higher for each slot level above 6th.
 
 ### Guards and Wards
 
@@ -4863,7 +4863,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
 
 ### Heroes' Feast
 
@@ -4963,7 +4963,7 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage a creature affected by this spell, the spell ends for that creature.
 
-**_At Higher Levels._** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 
 ### Move Earth
 
@@ -5095,7 +5095,7 @@ If the wall cuts through a creature's space when it appears, the creature within
 
 The wall is an object that can be damaged and thus breached. It has AC 12 and 30 hit points per 10-foot section, and it is vulnerable to fire damage. Reducing a 10-foot section of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving through the sheet of frigid air for the first time on a turn must make a Constitution saving throw. That creature takes 5d6 cold damage on a failed save, or half as much damage on a successful one.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the sheet of frigid air increases by 1d6, for each slot level above 6th.
 
 ### Wall of Thorns
 
@@ -5115,7 +5115,7 @@ When the wall appears, each creature within its area must make a Dexterity savin
 
 A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
 ### Wind Walk
 
@@ -5185,7 +5185,7 @@ The celestial is friendly to you and your companions for the duration. Roll init
 
 The GM has the celestial's statistics.
 
-**_At Higher Levels._** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 
 ### Delayed Blast Fireball
 
@@ -5207,7 +5207,7 @@ If the glowing bead is touched before the interval has expired, the creature tou
 
 The fire damages objects in the area and ignites flammable objects that aren't being worn or carried.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
 
 ### Divine Word
 
@@ -5250,7 +5250,7 @@ When the spell ends, you immediately return to the plane you originated from in 
 
 This spell has no effect if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes.
 
-**_At Higher Levels._** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
+**_Using a Higher-Level Spell Slot._** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
 ### Finger of Death
 
@@ -5762,7 +5762,7 @@ You can use your action to take total and precise control of the target. Until t
 
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
 
-**_At Higher Levels._** When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
+**_Using a Higher-Level Spell Slot._** When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
 
 ### Earthquake
 
