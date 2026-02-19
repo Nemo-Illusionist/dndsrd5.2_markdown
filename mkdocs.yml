@@ -166,4 +166,9 @@ nav:
           - Магические предметы: dnd/srd-5.1/13_MagicItems.md
           - Монстры: dnd/srd-5.1/14_Monsters.md
           - "Монстры от А до Я": dnd/srd-5.1/15_MonstersA-Z.md
+          - Глоссарий:
+              - Термины: dnd/srd-5.1/16_Glossary/00_Glossary.md
+              - "Заклинания (справочник)": dnd/srd-5.1/16_Glossary/02_Spells.md
+              - "Магические предметы (справочник)": dnd/srd-5.1/16_Glossary/03_MagicItems.md
+              - "Монстры (справочник)": dnd/srd-5.1/16_Glossary/04_Monsters.md
       - "Конвертация в SRD 5.2.1": dnd/converting-srd-5.2/converting-to-srd-5.2.1.md
