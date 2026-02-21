@@ -1,5 +1,7 @@
 # TTRPG SRD Markdown
 
+[Главная страница проекта](https://nemo-illusionist.github.io/ttrpg_srd_markdown/) | [Статичное API](https://nemo-illusionist.github.io/ttrpg_srd_markdown/api/)
+
 Коллекция System Reference Document (SRD) для настольных ролевых игр в формате Markdown.
 
 ## Источники
