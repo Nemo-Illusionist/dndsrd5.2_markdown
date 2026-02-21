@@ -149,6 +149,11 @@ def main():
             "slugs": slugs,
         }
 
+        # Write all.json — full list of all entities for this resource
+        all_path = output_dir / ver / lang / resource / "all.json"
+        write_json(all_path, sorted(entities, key=lambda e: e["slug"]))
+        file_count += 1
+
     # Write meta.json
     meta_path = output_dir / "meta.json"
     write_json(meta_path, meta)
