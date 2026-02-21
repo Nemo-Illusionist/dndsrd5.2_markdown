@@ -50,7 +50,7 @@ jobs:
         run: mkdocs build --strict
 
       - name: Generate JSON API
-        run: python3 scripts/generate_api.py --src-root src/dnd --output-dir site/api/dnd
+        run: python3 scripts/generate_api.py --src-root src/dnd --output-dir site/api
 
       - uses: actions/upload-pages-artifact@v3
         with:
