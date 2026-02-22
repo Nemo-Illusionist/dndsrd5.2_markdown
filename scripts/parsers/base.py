@@ -55,6 +55,10 @@ def split_blocks(text: str, heading_level: int, after: str | None = None) -> lis
             return []
         text = text[idx + len(after):]
 
+    # Build set of higher-level prefixes that should end the current block
+    # e.g. for heading_level=4 (####), stop at ##, ###
+    stop_prefixes = [("#" * lv + " ") for lv in range(1, heading_level)]
+
     blocks = []
     current_heading = None
     current_lines: list[str] = []
@@ -66,7 +70,18 @@ def split_blocks(text: str, heading_level: int, after: str | None = None) -> lis
             current_heading = line[len(prefix):].strip()
             current_lines = []
         elif current_heading is not None:
-            current_lines.append(line)
+            # Stop current block at higher-level heading
+            is_stop = False
+            for sp in stop_prefixes:
+                if line.startswith(sp) and not line.startswith(sp + "#"):
+                    is_stop = True
+                    break
+            if is_stop:
+                blocks.append((current_heading, "\n".join(current_lines)))
+                current_heading = None
+                current_lines = []
+            else:
+                current_lines.append(line)
 
     if current_heading is not None:
         blocks.append((current_heading, "\n".join(current_lines)))

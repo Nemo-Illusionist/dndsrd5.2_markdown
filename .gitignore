@@ -1,6 +1,8 @@
 .vscode/
 .claude/
+__pycache__/
 DND-SRD-5.2.1-RU.md
 site/
 docs/ru/
 docs/en/
+firebase-debug.log

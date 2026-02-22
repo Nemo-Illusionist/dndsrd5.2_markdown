@@ -13,8 +13,14 @@ from pathlib import Path
 # Add scripts dir to path so parsers package is importable
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from config import SOURCES, SKIP_HEADINGS_SPELL, SKIP_HEADINGS_MONSTER
-from parsers import parse_spells, parse_monsters, parse_magic_items
+import jsonschema
+
+from config import (SOURCES, SKIP_HEADINGS_SPELL, SKIP_HEADINGS_MONSTER,
+                    SKIP_HEADINGS_EQUIPMENT, SKIP_HEADINGS_FEAT)
+from parsers import (parse_spells, parse_monsters, parse_magic_items,
+                     parse_weapons, parse_armor, parse_equipment,
+                     parse_conditions, parse_feats)
+from schemas import RESOURCE_SCHEMAS
 
 SYSTEM = "dnd"
 SYSTEM_NAME = "Dungeons & Dragons"
@@ -61,32 +67,28 @@ def write_json(path: Path, data) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def _schema_example(entity: dict) -> dict:
-    """Build a compact schema example from a real entity, replacing long values with '...'."""
-    def _shorten(obj, depth=0):
-        if isinstance(obj, dict):
-            out = {}
-            for k, v in obj.items():
-                out[k] = _shorten(v, depth + 1)
-            return out
-        if isinstance(obj, list):
-            if not obj:
-                return []
-            return [_shorten(obj[0], depth + 1), "..."] if len(obj) > 1 else [_shorten(obj[0], depth + 1)]
-        if isinstance(obj, str) and len(obj) > 60:
-            return obj[:57] + "..."
-        return obj
-    return _shorten(entity)
+def validate_entities(entities: list[dict], schema: dict, resource: str, label: str) -> None:
+    """Validate every entity against a JSON Schema. Exit on first error."""
+    for entity in entities:
+        try:
+            jsonschema.validate(entity, schema)
+        except jsonschema.ValidationError as exc:
+            print(f"\nSchema validation error in {label} — {resource}, "
+                  f"entity '{entity.get('slug', '?')}':\n  {exc.message}",
+                  file=sys.stderr)
+            if exc.absolute_path:
+                print(f"  Path: {'.'.join(str(p) for p in exc.absolute_path)}", file=sys.stderr)
+            sys.exit(1)
 
 
 def write_index_html(path: Path, title: str, links: list[dict],
                      breadcrumbs: list[dict] | None = None,
-                     schema_entity: dict | None = None) -> None:
+                     schema: dict | None = None) -> None:
     """Write an index.html navigation page.
 
     links: list of {"href": "...", "label": "...", "badge": "..." (optional)}
     breadcrumbs: list of {"href": "...", "label": "..."} for navigation trail
-    schema_entity: if provided, show JSON schema example block
+    schema: if provided, show JSON Schema block describing the entity format
     """
     path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -106,14 +108,13 @@ def write_index_html(path: Path, title: str, links: list[dict],
         items.append(f'<li><a href="{link["href"]}">{link["label"]}</a>{badge}</li>')
 
     schema_html = ""
-    if schema_entity:
+    if schema:
         import html as html_mod
-        example = _schema_example(schema_entity)
-        formatted = json.dumps(example, ensure_ascii=False, indent=2)
+        formatted = json.dumps(schema, ensure_ascii=False, indent=2)
         escaped = html_mod.escape(formatted)
         schema_html = f"""
 <details open>
-<summary><strong>Item schema</strong></summary>
+<summary><strong>JSON Schema</strong></summary>
 <pre><code>{escaped}</code></pre>
 </details>"""
 
@@ -200,6 +201,21 @@ def main():
         elif entity_type == "magic_item":
             entities = parse_magic_items(text, heading_level, lang, after)
             resource = "magic-items"
+        elif entity_type == "weapon":
+            entities = parse_weapons(text, lang)
+            resource = "weapons"
+        elif entity_type == "armor":
+            entities = parse_armor(text, lang)
+            resource = "armor"
+        elif entity_type == "equipment":
+            entities = parse_equipment(text, heading_level, lang, after, SKIP_HEADINGS_EQUIPMENT)
+            resource = "equipment"
+        elif entity_type == "condition":
+            entities = parse_conditions(text, heading_level, lang, after)
+            resource = "conditions"
+        elif entity_type == "feat":
+            entities = parse_feats(text, heading_level, lang, after, SKIP_HEADINGS_FEAT)
+            resource = "feats"
         else:
             print(f"  Warning: unknown type '{entity_type}', skipping", file=sys.stderr)
             continue
@@ -220,16 +236,18 @@ def main():
     # Write files and collect hierarchy info
     file_count = 0
 
+    # Validate all parsed entities against JSON Schemas
+    for (ver, lang, resource), entities in all_data.items():
+        schema = RESOURCE_SCHEMAS.get(resource)
+        if schema:
+            validate_entities(entities, schema, resource, f"{ver}/{lang}")
+
     # Collectors for hierarchical meta files
     # ver → lang → resource → slugs
     hierarchy: dict[str, dict[str, dict[str, list[str]]]] = {}
-    # First entity per resource for schema example
-    first_entity: dict[tuple[str, str, str], dict] = {}
 
     for (ver, lang, resource), entities in sorted(all_data.items()):
         hierarchy.setdefault(ver, {}).setdefault(lang, {})[resource] = []
-        if entities:
-            first_entity[(ver, lang, resource)] = entities[0]
 
         slugs = []
         for entity in entities:
@@ -279,7 +297,7 @@ def main():
                 write_index_html(res_dir / "index.html",
                                  f"{resource} — {lang} — {VERSION_NAMES.get(ver, ver)}",
                                  links, bc,
-                                 schema_entity=first_entity.get((ver, lang, resource)))
+                                 schema=RESOURCE_SCHEMAS.get(resource))
                 file_count += 1
 
     # Level 4: /dnd/{ver}/{lang}/ — available resources
